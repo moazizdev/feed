@@ -4,10 +4,32 @@
 		<title>اقتصاد</title>
 		<link>http://192.168.1.50:8081/api/query.php?user=admin&amp;t=4IzCA6HFSoouCSR9nVqNkV&amp;f=html</link>
 		<description>RSS feed of اقتصاد</description>
-		<pubDate>Mon, 03 Nov 2025 22:30:12 +0200</pubDate>
-		<lastBuildDate>Mon, 03 Nov 2025 20:30:12 GMT</lastBuildDate>
+		<pubDate>Mon, 03 Nov 2025 22:45:11 +0200</pubDate>
+		<lastBuildDate>Mon, 03 Nov 2025 20:45:11 GMT</lastBuildDate>
 		<atom:link href="http://192.168.1.50:8081/api/query.php?user=admin&amp;t=4IzCA6HFSoouCSR9nVqNkV&amp;f=rss" rel="self" type="application/rss+xml" />
 				<item>
+			<title>البنك المركزي</title>
+			<link>https://market.isagha.com/prices</link>
+						<description><![CDATA[<div data-sanitized-class="clearfix stats">
+    <div data-sanitized-class="col-xs-4">
+        <div data-sanitized-class="value">47.25 </div>
+        <div data-sanitized-class="state">بيع</div>
+    </div>
+    <div data-sanitized-class="col-xs-4">
+        <div data-sanitized-class="value">47.15</div>
+        <div data-sanitized-class="state">شراء</div>
+    </div>
+        <div data-sanitized-class="col-xs-4 down">
+        <div data-sanitized-class="value">
+            -0.05
+        </div>
+        <div data-sanitized-class="state">هبوط</div>
+    </div>
+</div>]]></description>
+			<pubDate>Mon, 03 Nov 2025 22:32:02 +0200</pubDate>
+			<guid isPermaLink="false">1762201922321973</guid>
+		</item>
+		<item>
 			<title>البنك المركزي</title>
 			<link>https://market.isagha.com/prices</link>
 						<description><![CDATA[<div data-sanitized-class="clearfix stats">
@@ -585,29 +607,6 @@
         </div>]]></description>
 			<pubDate>Fri, 31 Oct 2025 23:02:02 +0200</pubDate>
 			<guid isPermaLink="false">1761944530899274</guid>
-		</item>
-		<item>
-			<title>جنيه ذهب</title>
-			<link>https://market.isagha.com/prices</link>
-						<description><![CDATA[<div data-sanitized-class="clearfix stats">
-            <div data-sanitized-class="col-xs-4">
-                <div data-sanitized-class="value">42800  ج.م</div>
-                <div data-sanitized-class="state">بيع</div>
-            </div>
-            <div data-sanitized-class="col-xs-4">
-                                    <div data-sanitized-class="value">42400  ج.م</div>
-                
-                <div data-sanitized-class="state">شراء</div>
-            </div>
-                            <div data-sanitized-class="col-xs-4 down">
-                <div data-sanitized-class="value">
-                    0
-                </div>
-                <div data-sanitized-class="state">هبوط</div>
-            </div>
-        </div>]]></description>
-			<pubDate>Fri, 31 Oct 2025 23:02:02 +0200</pubDate>
-			<guid isPermaLink="false">1761944530899273</guid>
 		</item>
 
 	</channel>
