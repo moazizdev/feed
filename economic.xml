@@ -4,10 +4,113 @@
 		<title>اقتصاد</title>
 		<link>http://192.168.1.50:8081/api/query.php?user=admin&amp;t=4IzCA6HFSoouCSR9nVqNkV&amp;f=html</link>
 		<description>RSS feed of اقتصاد</description>
-		<pubDate>Mon, 29 Dec 2025 19:00:03 +0200</pubDate>
-		<lastBuildDate>Mon, 29 Dec 2025 17:00:03 GMT</lastBuildDate>
+		<pubDate>Mon, 29 Dec 2025 19:05:03 +0200</pubDate>
+		<lastBuildDate>Mon, 29 Dec 2025 17:05:03 GMT</lastBuildDate>
 		<atom:link href="http://192.168.1.50:8081/api/query.php?user=admin&amp;t=4IzCA6HFSoouCSR9nVqNkV&amp;f=rss" rel="self" type="application/rss+xml" />
 				<item>
+			<title>عيار 24</title>
+			<link>https://market.isagha.com/prices</link>
+						<description><![CDATA[<div data-sanitized-class="clearfix stats">
+            <div data-sanitized-class="col-xs-4">
+                <div data-sanitized-class="value">
+                                            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADoAAAANCAIAAAB3pupqAAAACXBIWXMAAA7EAAAOxAGVKw4bAAADFElEQVRIiaWUPUjrUBSAjyEUiVcQzRCCP0GkhqhtFtFuDqWokzhIEXTq0MlBBEGcxEH8WUSkQ4cOjs4O2kFK0AiiEoq+qkgRlaBBo4aiJfa+IW1f6W/kfUvIOd+999ybnFuHMQYAAHh/f9/e3pYkSdM0h8PBMAzP84FAoKOjw6Zwfn4eDocvLy8Nw6AoqqurKxAIeDweAHh8fJRlOZljZWWlp6cHyvH29ra5uVkU7OzsnJqaAoA6q9zv7++hoSGn04kQIkny6+tL07S7u7tQKDQwMGBHOD4+HhsbW1hYyK9hGMbq6mosFnO73RsbG3NzcwghhJCqqrIsW6NKubq6EgSBYRiGYfJBr9e7trYGAIAxxhjv7OxwHIcrU1OYnp4uFVwu18zMDMZY0zRN0zDGkUgEAGRZrjTP6ekpACwvL5fNklb5sVis7F7z1BSur69LgwRBXFxcAEBLS0v14XlSqVSVLGE9kslk9VlqCplMpmz8+fm5+sAiqpebPV1d19PpdCKRsF4JgmBZtqGhIe/VFARBeHh4KF3AMIxflWuaZu1y0+n009MTz/P/EiQ5Pj4eDocbGxvtCLOzs7u7ux6Pp6mpKe/c3t4ihH5VrsvloigqFApJksRxnCAIPp+vu7vbyhJ5j6IoSZL+5IjH44qiLC4u2hT6+voURRkdHWUYhs5BkiRBEPAb2traFEUJBoMIIVmWl5aWBEGYn5/Ppq2OGxwcLO1rURR5nrcplEUURafTWRipeTOUsrW1BQD39/cY4+zWC79gIR8fHzaFShRen/+DdfNky21vby8rNTc32xQq0dvbW11IJBIHBwc/Pz/VNasHsq3m9Xr39/cL05+fn6+vrxMTEzaFm5ubeDzOcRxN0/X19ZlMxjCMVCo1OTkJAC8vL0dHRwBwdnYGAIeHh6qqsizb398/PDycTCb39vZGRkYA4OTkRNf11tZWmqYdDodpmqqq0jQtiiJA7t81TdPv95MFAIDP59N13aYQiUSKuoqiqPX1dSsbjUZLD8zv91v/NwBIkmSZwWCwSGNZNhqNWtm/w2q0TATAgqMAAAAASUVORK5CYII=" alt="" data-sanitized-class="price-cell">
+                                         ج.م</div>
+                <div data-sanitized-class="state">بيع</div>
+            </div>
+            <div data-sanitized-class="col-xs-4">
+                                    <div data-sanitized-class="value">
+                                                    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEUAAAANCAIAAABw5DR/AAAACXBIWXMAAA7EAAAOxAGVKw4bAAADNklEQVRIiY2UsUvDWhTGzwu1YJQgkiHWEKuIZugQVIpDcaoSxUlCCaJODsXB0cnBoZNkKuIfUIqDOMSiDlFQJIugCBVKGzqUIlIk1lixaIjkDSl5fa1N7zfde/LL/c4H595/bNsGAAD4+Pg4PDxUVVXXdb/fT1EUy7Kbm5sjIyMowPv7ezKZhP9rbGxsfX398fExk8lAm0RRnJycbCk+PT2lUilN03RdtyyLIAiO47a2tkZHRx3AwwgAfM7+5+eH5/mJiYlgMDg+Pv79/a3r+tnZ2fLystNuV6BSqezt7VEURVGUaxONRgGgWq3Kstxs//r6+vLyEolE2vPkcjlFURiGYVkWx3EMwzRNm5mZyWazw8PD3kYAALZt27adTqeDwaDdWV2B+/t7AEgkEh6MK0EQSJI0TRMFzufzACBJEooR5qS6vb1tn4dmdQXq9bo34Ort7S2Tyayurvb09CD+AgC6rqMYNfKUSiXv47oC6HmOj49N09zY2EDkHdE0jWLUuD+GYZimWSgUnC2GYYFAoK+vz+W6ApZlIXaWSqVCodD09DQK/PDwIEkSSZKCICAZOWPHcVxL3efzxWKxWq2GCJTLZRzHaZrmeT4ejyeTyXw+3+ky7O/vd702sixHIhEAmJqayuVybt3b6L88OI6rqppvEsuy29vbiIBt28ViMZFICILAcRxJkhiG7ezstHS5u7uLYdjz87NHkmw2Gw6HASAUCh0dHbUDHkaNPLOzs+3PF8dxLMsiAu06ODgAgHK53FxkGIbnee8wBEEsLS0piuKBdTJqvAcDAwN/TmOtVkMEOknTNHd9fX1dLpfX1tY8eEmS5ubmzs/P5+fnvU/+06iRh2GYP6HBwUFEoJP6+/vddSqVIghiZWWlGSgUCpeXl7+/v862WCx2772zUeN9i0ajiqI0f/78/KxWq7FYDBG4u7szDIOmaZIk/X6/ZVmVSoUkSfch+fr6Ojk5EUWxt7e3+Rye50ul0sXFxeLiIgDU63XTNE9PT1vaDYfDQ0ND3Y2cEbQsSxRFX5MAYGFhwTAMRCAej7d0EAgErq6u3ClPp9MAcHNz034JAUBV1eZtu2RZRjH6F+/X47kPWaQXAAAAAElFTkSuQmCC" alt="" data-sanitized-class="price-cell">
+                                                 ج.م</div>
+                
+                <div data-sanitized-class="state">شراء</div>
+            </div>
+                            <div data-sanitized-class="col-xs-4 down">
+                <div data-sanitized-class="value">
+                    -5.75
+                </div>
+                <div data-sanitized-class="state">هبوط</div>
+            </div>
+        </div>]]></description>
+			<pubDate>Mon, 29 Dec 2025 19:02:03 +0200</pubDate>
+			<guid isPermaLink="false">1767027723384105</guid>
+		</item>
+		<item>
+			<title>عيار 21</title>
+			<link>https://market.isagha.com/prices</link>
+						<description><![CDATA[<div data-sanitized-class="clearfix stats">
+            <div data-sanitized-class="col-xs-4">
+                <div data-sanitized-class="value">
+                                            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACsAAAANCAIAAAC/ygC8AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAB/klEQVQ4ja2UzcsxURiH7+c0JPkoTZo0MUlIk2RlaTFZWFnMSqlZSPZkbTEpGwtZsvMXWMofQFkpKUkTkoWiWWAxnHdx3vS8Hs8Zi/e3OnPf11V352O+MMYAcDqd2u02/JtgMFgoFMh6sVh0u93ZbKbrOsMwPM9LkqQoisVi+USnAAz5OBwO9Xqd4ziO456EJElkMZ/PU6mUoijpdPrZHQwG4/G41+uZ6iYAxhhjPJ1OAUBVVfwu1WrV7/e/FDudDsMwl8vFVKcDiIxzuVzg9+z3e4TQz7phGMfj0VSnAx9N4PV6H4/H25bL5fo/ExiGQfHz+fxutwsEApVKZTKZPOs8z7vdblOdDnyRt7DdbqPRqMfjEUVREIRYLJbJZCKRCIGu12symQyHw8Ph8Ha7CYIgy/J6vQ6FQs1m01Q3AZ43YrVaqaoqy3IikWBZFiFUq9VIq9VqCYKAMdZ1vd/v53I5m80GAMVi8ROdDgD+JZ1OBwA2mw3GOJvNkgme0XW9VCoBgKZppjodeHPDv2e5XALAfr9/qTudzmg0+gToOh0wmcDhcACA3W7/2SKvgxwHXacDf/+Jk8nkfD7zPM+yrNVqNQzjcDiwLJtIJAAgHo+/bMP9ftc0DSFEdoKumwDkVMrl8st0Pp9vNBqRrqZpoigy34IQYhim0Wh8otOBP2N1FyN2ahQdAAAAAElFTkSuQmCC" alt="" data-sanitized-class="price-cell">
+                                         ج.م</div>
+                <div data-sanitized-class="state">بيع</div>
+            </div>
+            <div data-sanitized-class="col-xs-4">
+                                    <div data-sanitized-class="value">
+                                                    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACsAAAANCAIAAAC/ygC8AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAClUlEQVQ4jZWTvWvqUBjG3x5iKUHTJUi08aOdMkgJUoKDSIcMxUFEnAoFhyLStdI5g3QSB3GsS5HOtt3EP6CBdkmpSnAIIuIgtGTIUKLnDucSev2Ivc908n783pfz5OxgjAHg8/OzXq/Dvzo6Orq4uCDnfr9/d3enaZppmhRF8Twvy3KhUPB4PADw/v5+f3+v6/psNrNtm2EYURSvrq4ODw9JuwufIh/T6VRRFI7jOI5zKmRZJoePj49EIlEoFE5PT53s09PTy8tLs9kEgF6v1+l0wuGwIAg0TSOEdF0/OTnRNO3g4GALH2OMMX59fQWASqWC16lcLofD4aVgo9GgKMqyrLUtg8EAAKrV6lY+IutYlgWbNZlMEEKrcdu2Z7OZS6OTdeH/agO/379YLNamGIZxaeR5/rcb2LbtAjo/Px+Px5FI5Pr6WlXVnwP29/dX69/e3hRFYVk2n89v5xMzRqMRTdM8z5+dnZVKpXq9PhgMHKssyxIEIZPJ7O3tAUA0Gi2Xy7lc7ubmZsnUdrudTCYBIB6P93o9J+7CB6doOBxWKpV8Pi+KIsuyCCFnQK1Wi0ajGGPTNFutVjabJatcXl467ZqmSZIEALFY7OHhYfWP28SH1VKiRqMBAKPRCGOcTqfJBo5M0ywWiwBgGAYZzzBMOp3udDqbgJv4lIv9AKDreigUmkwmS3GfzycIAimIRCLVajWVSj0/P7vT1vLXvLGf8nq9AEDT9GqKvA5ix3A4/N/ZDv/vHaiq+vX1xfM8y7K7u7u2bU+nU5ZlRVEEgOPj46VrmM/nhmEghMhNWJb1/f39+Pi4NECSpEAgsIVPXCmVSkvNwWCw2+2SrGEYsViM+iGEEEVRt7e3pIAsuqp2u72V/wf7I0/WtyplFQAAAABJRU5ErkJggg==" alt="" data-sanitized-class="price-cell">
+                                                 ج.م</div>
+                
+                <div data-sanitized-class="state">شراء</div>
+            </div>
+                            <div data-sanitized-class="col-xs-4 down">
+                <div data-sanitized-class="value">
+                    -5
+                </div>
+                <div data-sanitized-class="state">هبوط</div>
+            </div>
+        </div>]]></description>
+			<pubDate>Mon, 29 Dec 2025 19:02:03 +0200</pubDate>
+			<guid isPermaLink="false">1767027723384104</guid>
+		</item>
+		<item>
+			<title>جنيه ذهب</title>
+			<link>https://market.isagha.com/prices</link>
+						<description><![CDATA[<div data-sanitized-class="clearfix stats">
+            <div data-sanitized-class="col-xs-4">
+                <div data-sanitized-class="value">
+                                            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADsAAAANCAIAAACYZIFUAAAACXBIWXMAAA7EAAAOxAGVKw4bAAADoUlEQVRIiY1VQUgqURS9f3jlIFOJhBmIzkJikChXZWIiIREREhES0sKFhOuUiGjdol0g4cJaRMsoKmohrkSodjJQ+RNiFmYlItNoMsXk/MX8P9lM9j2r984975773tz35pcoivAVR0dHNE0DAEEQkUhE5l9eXra3tzOZTLlc7uzsNBqNFEWFQiGLxSIJbm9vE4kETdMcxyGETCaT1+sNBoMdHR1tWgDAw8NDLBbLZrMsyzYaDYIgrFZrMBgcGxuTBL8UFT8/P1utVpIkS6UShmGPj48S//b25vF4BgYGCIJACPE8Xy6X7+/v4/H46OgoAFxfXzscjmAwaDQa5WyXl5cGg2FnZ6cdCwCoVqs2m21+fl5mBEEoFArn5+epVGp8fBwAQPyKcDis1WqLxeLMzIzRaJT5/f19kiTF1ohGo2azWUHGYjGEUL1eb8dCFMXd3V2EkDq5y+UKBALSGGvefT6fTyQSy8vL/f39iu+YTqfhRxSLRQzD1LwgCOVyuR0LAJBaRQ0cx+XQF4/V1VWdTheNRtVrGIb5uWKDwdBoNL4NdXd3t2MBAKVSqVV+OfRZ8cXFxeHh4draWk9Pj3oBy7Lv7++//yGfz7++vjYLAoFAoVCwWCyRSOTq6krmTSaTnPBnCwDgOK5VxbVa7e9I7hW32202m3mel6aKJrPb7YoUCCG/389xnCSo1+sURfl8PhzHAYAkyWg0Ojc3t7Ky0qaFKIpTU1Pf9rHX65V5JNmfnp6m0+m9vT2NRtNql1qtNplM9vb2yszs7Oz6+vrW1hYAxONxnuePj4+r1erJycnBwUEsFuN5PhQKtW/xAz4viSiKgiDYbDaDwZBOpzP/4HQ69Xp9JpOp1WqiKDocDvVbYbfbKYqSxtPT0woBx3FLS0sAwDBMOxaiKPp8vlZnTBDE5xmnUqmbmxsAcLvdip25XK5sNjs8PKzT6Z6entRblzuvWCwqQl1dXRRFAcDd3V0ul/uvBQAQBNHqjOXriwDA4/Goq1lcXKRpmqZpvV4PAGazOZfLqRNJUQDQarUsyyqi0uuB4/jIyMh/LQDAZDK1qpgkyc+KNRpNX1+fQoHjOIZhMu/1epPJZLOgWq1WKhW/3y9Nh4aGFMf88fHBMAyGYRRFtWMBABMTE5ubm2dnZw6HAyEk84IgeDyevxN103x7kQVBWFhYQE0AgMnJSZZlJQHDMIODg80CDMMQQhsbG21aSAiHw+o/kdPprFQqkuAPOjobxFVoXNwAAAAASUVORK5CYII=" alt="" data-sanitized-class="price-cell">
+                                         ج.م</div>
+                <div data-sanitized-class="state">بيع</div>
+            </div>
+            <div data-sanitized-class="col-xs-4">
+                                    <div data-sanitized-class="value">
+                                                    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADsAAAANCAIAAACYZIFUAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACtUlEQVRIiY2VsUvzQBjGX4+zDW3UUCStIm2GIiWLbqVaJUgRBwcRB+nUwaE4qkMG/wZBEHEoDtK5HUSH0qlYXIuDIII4aI2lhtR20HBtHPKRrzamuWe6e97f+95DuHAjhmHAbxWLxbu7OwBgWXZ/f9/yW63W6enpzc1Ns9n0eDyhUCgWi+3s7EQiEUrg9fX15OSkVqtpmtbr9ViWjUajmUwmkUhYp7gyIwOJ39/fo9GoIAiNRgMh9Pb2Zvrf39+SJM3OzrIsizH++vpqNptPT09nZ2fxeJwGaLfboihubW1ZZxFCXl5erq+vy+Xy0tISJQPGb2WzWZ/PV6/X19fXQ6GQ5efzeUEQDGe5Aufn5xhju59MJtPpND2D+j/w4+NjLpfb29ubmpoauCqVSgWGyhUwb5pdDMNYJRrmV2JZljmOOzg4sPc8Pz8PD+QKNBoN1xINgy3r9va2UCgcHR1NTEzYGzRN03X94eHB3CKEpqen/X4/PfD5+emUptPp0DP/E8uyHA6Hd3d3/2zQdb1er8diMcvBGG9ubuZyubGxMRqAEOKURtd1c0HD/Et8eXlZqVQuLi68Xq9Tj8/nK5VKk5OTlrOxsXF4eHh8fEwJOAkhNBzoZzAAdLtdWZZ5nhcEoVqtmgVVVXVdr1ar8/Pzfr+fYRie5xcXF/unMAxTKpWs9XDA4/E4pbFKNAwGgHK5fH9/DwDLy8sDXDKZrNVqc3NzHMcpimIfZN08V4BlWac04+Pj9AwCAEmSFJtSqRTP84qiiKIIAOFw+M9BgUDAXLgCMzMzTmkEQaBnEAB4vd6gTQzDIISCweDo6CgApFKpgRHtdltV1bW1NXPrCqysrBBCrq6uPj4+Wn0ihEiSRM8MvnmWBt48Qsj29jbuEwCsrq5qmkYJGIaRzWbtP9nCwoKqqvTMD7SkcjL4qCAjAAAAAElFTkSuQmCC" alt="" data-sanitized-class="price-cell">
+                                                 ج.م</div>
+                
+                <div data-sanitized-class="state">شراء</div>
+            </div>
+                            <div data-sanitized-class="col-xs-4 down">
+                <div data-sanitized-class="value">
+                    -40
+                </div>
+                <div data-sanitized-class="state">هبوط</div>
+            </div>
+        </div>]]></description>
+			<pubDate>Mon, 29 Dec 2025 19:02:03 +0200</pubDate>
+			<guid isPermaLink="false">1767027723384103</guid>
+		</item>
+		<item>
+			<title>البنك المركزي</title>
+			<link>https://market.isagha.com/prices</link>
+						<description><![CDATA[<div data-sanitized-class="clearfix stats">
+    <div data-sanitized-class="col-xs-4">
+        <div data-sanitized-class="value">47.72 </div>
+        <div data-sanitized-class="state">بيع</div>
+    </div>
+    <div data-sanitized-class="col-xs-4">
+        <div data-sanitized-class="value">47.62</div>
+        <div data-sanitized-class="state">شراء</div>
+    </div>
+        <div data-sanitized-class="col-xs-4 down">
+        <div data-sanitized-class="value">
+            -0.06
+        </div>
+        <div data-sanitized-class="state">هبوط</div>
+    </div>
+</div>]]></description>
+			<pubDate>Mon, 29 Dec 2025 19:02:03 +0200</pubDate>
+			<guid isPermaLink="false">1767027723384102</guid>
+		</item>
+		<item>
 			<title>«آي صاغة»: أسعار الذهب تتراجع محليًا وعالميًا مع صعود الدولار وعمليات جني الأرباح قبيل نهاية العام</title>
 			<link>https://market.isagha.com/articles/2045</link>
 						<media:thumbnail url="https://cdn.isagha.net/public/files/LyD0vKUPkEN6U5pgFmzA91N7Ckac0zSzkkx9YQHR.jpg" />
@@ -485,99 +588,6 @@
         </div>]]></description>
 			<pubDate>Sat, 27 Dec 2025 21:32:03 +0200</pubDate>
 			<guid isPermaLink="false">1766863923690071</guid>
-		</item>
-		<item>
-			<title>عيار 21</title>
-			<link>https://market.isagha.com/prices</link>
-						<description><![CDATA[<div data-sanitized-class="clearfix stats">
-            <div data-sanitized-class="col-xs-4">
-                <div data-sanitized-class="value">
-                                            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC4AAAANCAIAAABZ48v4AAAACXBIWXMAAA7EAAAOxAGVKw4bAAACe0lEQVQ4jZWUsWvqUBTGT0OUaKOIlFJUrIO0Im4OUtuCaJHOIiJBSocO/gGO/Qs6iziIQ8gkTgEdRLEUh26KODyXUkrrICqxtmAvl+YNyQuhMTXvLLn3O9/v5OMm3B1RFAEAAJbLZalU6vV6s9nMbDYfHBwEAoGbm5vDw0PJ8Pb2ViwWB4OBIAjf3980Tfv9/uvr65OTEwDo9/s8z4Omstns8fHxVhwAdqQoX19fsVjs6OiIpmmSJNfr9Ww2e3p6KpfLkUgEAFarVTAYTKfTyjswxq+vr81ms91un5+fdzqdQqGgDjGdTieTSbvdTiQSW3EAAFEURVHkOM7n84n6Va1WSZLU6mdnZwzDbETS6fTe3h5CyCBOSBkfHh60Z6uu4XC4UacoamNrPp/zPM8wjMlkMojLUZ6fn3+PMp1O/6tVq9UQQldXV8ZxUnoIgoAQGo/HckCCcLlcu7u7CvD+/q436+PjQyuyLBsKhcLhsHFcjoIQmkwmgUBAcZAkmUqlKpWKzWYDAIyx3iyE0A9lPB4/Pj7e3d0pihGcUCSr1drr9f78q9FoNBwOb29v9UYoRRDED4XjOIIgGIbZyqpx+VQoitrf3z89PVWbKIpqtVrS2mw2683StliWTSaTbrf7F4+2JSdyOBwbfco3pmlab5bdbldvu93uy8tLLpdTi0ZwOYrX693oczqd0sLj8ejN8vl86i3Lsna7PZVKqUUjuBzl4uLih2O1Wi0Wi8vLS2kbj8cxxo1GYz6fL1WFMY7FYgr1+flZr9czmYzFYlFPM4RLNx3GOJvNkqoCgGQyKQiCcjPm83ntHxqNRheLheLhOA4A7u/vtRfrVvwvHzviUkMPWfUAAAAASUVORK5CYII=" alt="" data-sanitized-class="price-cell">
-                                         ج.م</div>
-                <div data-sanitized-class="state">بيع</div>
-            </div>
-            <div data-sanitized-class="col-xs-4">
-                                    <div data-sanitized-class="value">
-                                                    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC0AAAANCAIAAACy1HD7AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAC80lEQVQ4jZ1Uv0vrUBQ+hksoMUiQICEELUUkxiWbtSgUCdLJQUpRUXBw6CBO4l/QSRcpRRzEyUVwcFFEOogUQcggLkYpRUqFIm29plJULs0bbsmL/REe71ty853vnvvdnHPS5zgOAADAx8fH/v5+LperVCosy0qSpKrq+vr6yMgIFby+vmYymfv7e4xxs9nkeX50dHRtbW1qaooKTk5OLi8vS6WSbduBQEDTtI2NjYmJCRp9f39Pp9PwG6FQaHV1FQD6qI/v7+9oNDo2NsbzPELo6+urUqkUCoWDg4PJyUkAqNfrmqbF43E3BSGkVCpdXFxks9mZmRkAWFpaKpfLsiwLgoAQwhifnp6apjk+Pg4Aj4+PmqZJkiRJkpvEMIzd3V0AAMdxHMc5Pj4OBoNObxwdHSGEOvnp6enl5eVeuxBCm5ubdG2aJgCkUqmuSob6urm5AV88PDx05QOBQK8QRaFQoItGo+Eja/l4eXnx9/H29vYfIQAQRfFffCD6wBj//Pw8PT213DGMLMv9/f2uzrbtXik+Pz87yWq1allWs9lcWVmhDCHEx0erP3RdbzeIUCKRsG2bCmKxWNf+MAyjjT88PHS/wdbWlssXi0WO4xRFicViyWQynU5bluVG//rgOC6Xy1keqKrqdpmPD5ZlvYxt26Zpnp2d7e3tCYLgPSyfz6dSqXg8ruu6KIoMw2xvb//yEQ6HO+dF13VVVel6fn6+lw+e5zt5Cu+8dCKTyQBAsVh03HkRBKFr1dy24Hm+V2UHBgZ86p7P5/3aAuD5+RnceRkeHu4qGhwcpAtFUXolCgaDPsdwHOfvg96wNS+GYVxdXXnD9Xq9VqslEgn6Ojs7u7Ozc35+Hg6HEUKujBASjUYBoFqtXl9fh0KhoaEhejb9/UciEaq8u7vDGCuKIooiy7KEkHK5LIpia0RoqQghi4uLyAMAmJubwxi75UwmkwzDtN0mEonUajXHcW5vb73+KBYWFhqNhru9LSrLcjabpdE/cFyEoZ2VWmEAAAAASUVORK5CYII=" alt="" data-sanitized-class="price-cell">
-                                                 ج.م</div>
-                
-                <div data-sanitized-class="state">شراء</div>
-            </div>
-                            <div data-sanitized-class="col-xs-4 up">
-                <div data-sanitized-class="value">
-                    5
-                </div>
-                <div data-sanitized-class="state">صعود</div>
-            </div>
-        </div>]]></description>
-			<pubDate>Sat, 27 Dec 2025 21:32:03 +0200</pubDate>
-			<guid isPermaLink="false">1766863923690070</guid>
-		</item>
-		<item>
-			<title>جنيه ذهب</title>
-			<link>https://market.isagha.com/prices</link>
-						<description><![CDATA[<div data-sanitized-class="clearfix stats">
-            <div data-sanitized-class="col-xs-4">
-                <div data-sanitized-class="value">
-                                            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADoAAAANCAIAAAB3pupqAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAEDElEQVRIiY1VQUgqXRQ+b5h8MkwlImYxqYTEIFGzy8RCQkIiJCIipMCFhKsWKRGtpUVBC5FoYS3CdUFQi3AVQgktRKj8K0LCrERsGk0sJuctbm+ymXr93+rcc75z7nfvnHPnlyAI8Bk7OzupVAoASJL0+/2i//z8PBKJpFIpjuNwHKcoyuFweDyehoYGAHh8fAyFQpJSHR0d09PTyH56elpbW4vH44VCQaFQ6HQ6mqa9Xq/BYBD5t7e34XA4mUyyLFur1UiSNJlMHo+nr68PEX5J5D48PJhMJqPRmM/nMQy7u7tD/tPTU4vF4vF4dDqdSD4+PtZqtRsbG+gwZrNZp9PVExwOx8rKCgC8vLzY7fbOzk6SJHEcr1arhULh+vp6fX29t7cXkUulktlsHh8fF9N5ns9ms/v7+7FYrL+/HwBA+Ayfz0cQRC6XGxkZ0el0oj8QCOj1egk5HA7jOF6pVARBODk5AYBgMCh8hWg0ajQavwyJ2NzcxHFc7rfZbG63G9lY/dVeXl5GIpG5ubnW1lbJZ83lchiGgQw8zxcKBQCoVCryqIjDw8N/RBFQB8qhVCrF0CcFCwsLKpUqEAjIc7Raba1W+7JcU1PTj3IzmcyPcvP5/I+hD7lHR0fb29uLi4vNzc3yBLfbnc1mDQaD3+9PJBKin6IoxOd5/h9SWJZ9fX397y8uLy+fn58lHI7jvksvl8vvltgiAwMDer2+Wq2ipaR3K5UKTdMul0upVAKA0WgMBAJjY2Pz8/OIcHNzQxAERVFOp9Pn84VCoXQ6LaYzDCNRgOP4xMQEx3Eix+l0ftm7DodD9L/L3d3dBYCtrS2RJJG7urqKZoXjuGg0Ojo6inR7vV6Rc3V1FQwGx8fHGYbRaDQYhomHYRiGIIh4PJ6uA03Ts7Oz/0euQqH4kMvzvNls1mq1h4eH8b+wWq1qtToej5fLZUEQhoeHJaPNcdzMzAwAZDIZ+R6CIITDYQC4ubkRBMFischfBoZhaJoWly6X6zu5JEkiGweAWCx2dnYGAAMDA5JPZrPZkslkT09PLpeThBobG2maBoCLi4v6p16Ci4uL9vZ2lUp1f38vj9b3K0mS3xVB0wwAOADY7XZ5rampqVQqlUql1Go1ABAEwbKshIPeCtQV3wGJ0Ov16XRaHkXFESiK+q6I0Wj8kPv79++WlhYJQ6lUYhgm+ru7uyUX/Pb2lslkMAxDd5xIJFiWpShKo9EoFAqe5+/v7zUaDRoyh8NxcHBQn14qlYrF4sTEhOgZHBxcXl7e29uzWCw4jot+nuftdvv74su2E2Sjlslkurq68DpgGIbj+NLSEiL4fD7Jgdva2mKxGIryPD85OVmfDgBDQ0Msy9Zv6vP55D8jq9VaLBYR4Q9aiklfs4bMCAAAAABJRU5ErkJggg==" alt="" data-sanitized-class="price-cell">
-                                         ج.م</div>
-                <div data-sanitized-class="state">بيع</div>
-            </div>
-            <div data-sanitized-class="col-xs-4">
-                                    <div data-sanitized-class="value">
-                                                    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADsAAAANCAIAAACYZIFUAAAACXBIWXMAAA7EAAAOxAGVKw4bAAADf0lEQVRIiZVVMUg6URz+/R9XHXJZSFxGohc4iEhJg5jYIeEQEhLRJA03REhjHhFNTQ4hTY7WIBG0lBU1hFMI1RDIRRbWcINZiYRcIhGX9x+u/1V3Wv6/6b3f+973+3j3vXd/JEmC79jd3eU4DgAIgohEIkr9+vo6kUhwHCcIAoZhJpPJ7/czDNPW1gYAl5eXyWQyn8+Xy2VRFPV6vdPpnJ+fHxgYaFFBxv39fTwez2azlUqlXq8TBGG1WhmGGRkZkQl/VI6fnp6sVitFUaVSCSH08PAg16+urtxuN8MwRqNRIZ+dnZEkub6+DgDb29vRaNRsNpMkqdPpEEI8z2cyGY7j+vv7W1EAgJeXF7vdPj09rRBEUSwUCkdHR+l0enR0FABA+o5wOKzT6YrF4sTEhNFoVOosy5rNZhU5Ho9jGFar1aRGuLm5AYBYLNa6wsbGBoZhWimv1xsKheQx+nrAt7e3iURiYWGhr69PFZVisYgQAg1EUSyXy9q6AmW1FQU5jVrgOK4sfZNYWlrq7u5mWVa7hyTJer3eUE6v1//g2GQyta5QKpWa6ShLn45PT093dnaWl5e7urq0G0KhUKFQsFgskUjk/Pz8q6GG/IuLi5WVlZ6eHiWUrSgIgtDMcbVa/RgpWaFp2mw2v76+ylNVjmu1ms1mCwaDOI4DAEVRLMtOTU0tLi6qMpdKpbxeLwAMDw/ncrn/UhgfH2+YY7/fr9Q/HO/v7wNAMplUSCrHa2trFEVJkiQIwubm5uTkpNx4dnZW4XAc53K5AMDhcGxtbam6tqLwg+P29vZPx6Io2u12kiRPTk4y/+DxeAwGQyaTqVarkiQFAgG5nwJBEObm5gCA53nZrl6vDwQCx8fH2patKEiSFAwGmzkmCEIeYwCQTqdzuRwA0DStSo/X681ms0NDQ8ViUbXU2dlps9kAIJ/PWyyWWCxG0/TBwUGzIP6qAAAEQTTbrtxODAB8Pt/j46OKMTMzw3Ecx3EGgwEAdDpdpVJRceS7L3/cu7s7mdkMvyrAl4dFC4qiPh13dHT09vaqGDiOI4SU+uDgoOqQ3t/feZ5HCMnnVKvV3t7e9vb2VDoul0t+3X9VAICxsbHV1dXDw0O3241hmMIURdHn831MGmZO0tw8nucdDgf2BQghDMOi0ahMcDqdDc8mlUq1qCAjHA5rfzQej+f5+Vkm/AVeOVtxxx2xwgAAAABJRU5ErkJggg==" alt="" data-sanitized-class="price-cell">
-                                                 ج.م</div>
-                
-                <div data-sanitized-class="state">شراء</div>
-            </div>
-                            <div data-sanitized-class="col-xs-4 up">
-                <div data-sanitized-class="value">
-                    40
-                </div>
-                <div data-sanitized-class="state">صعود</div>
-            </div>
-        </div>]]></description>
-			<pubDate>Sat, 27 Dec 2025 21:32:03 +0200</pubDate>
-			<guid isPermaLink="false">1766863923690069</guid>
-		</item>
-		<item>
-			<title>«آي صاغة»: الذهب يواصل تسجيل قمم تاريخية وعيار 24 يقترب من 7 آلاف جنيه مع نهاية 2025</title>
-			<link>https://market.isagha.com/articles/2042</link>
-						<media:thumbnail url="https://cdn.isagha.net/public/files/wvj92vAdcNzlFPa6DxeP1yAabM5SwVvVkdVHvymP.jpg" />
-			<media:content url="https://cdn.isagha.net/public/files/wvj92vAdcNzlFPa6DxeP1yAabM5SwVvVkdVHvymP.jpg" medium="image"></media:content>
-			<description><![CDATA[<div data-sanitized-class="content-article">
-					<p></p><p>واصلت أسعار الذهب ارتفاعها القوي في الأسواق المحلية والبورصة العالمية خلال تعاملات اليوم السبت، بالتزامن مع العطلة الأسبوعية للأسواق العالمية، مستفيدة من مكاسب أسبوعية قوية حققتها الأوقية بنسبة 4.5%، بدعم من ارتفاع...</p>
-					<a href="https://market.isagha.com/articles/2042" data-sanitized-class="read-more">تابع القراءة</a>
-				</div>]]></description>
-			<pubDate>Sat, 27 Dec 2025 17:32:22 +0200</pubDate>
-			<guid isPermaLink="false">1766849542756397</guid>
-		</item>
-		<item>
-			<title>عيار 24</title>
-			<link>https://market.isagha.com/prices</link>
-						<description><![CDATA[<div data-sanitized-class="clearfix stats">
-            <div data-sanitized-class="col-xs-4">
-                <div data-sanitized-class="value">
-                                            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEUAAAANCAIAAABw5DR/AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAEhElEQVRIiZWVO0j7XhTHzy8UlRhU+gs11lqriGh8FcEnUhyKVHFwkFIEnRyKg4uCIk4iIlodRMTBQUQEFx8UHGoHKUEr+Cip1LaKFPERNWjVUFSq+Q3R4L/pLz//nyW553zPvffcx7m/eJ4HAAB4fHycmZmhKIpl2YSEBIIgCgoKOjs7s7OzBcHh4eHc3JzP5+M4DkXRvLy8zs7OmpoaALi8vHS73aEvRkdHi4qKQMLq6ipN0wCAYVhPT49UAABer3dhYSEYDLIsG41GU1JS9Hp9V1dXTk6OIHh4eJiamoqJys3NbW9vB4BfQj6vr6/19fX5+fkYhikUipeXF5Zlz87OZmdnq6qqAGBnZ6elpWVgYEDsguO4sbExl8tVVlY2MTHR29uLYRiGYQzDuN1uIeo7Nzc3eXl5Op3u9vYWQZDr6+u4+SwvL4+MjGi1WpVKhaIogiChUIiiKJqmMzMzAeD4+JgkSYIgCIIQo4xG4/j4OAAAz/M8zy8uLup0Ov7vdHR0SAWlpaXd3d08z7Msy7Isz/Pz8/MA4Ha7pT1YrVYURa+urpqbmwmCkBkrBr/fDwA2m01o7u3tAcDw8HBcsULIz+VyxV0tkWAwKDUiCOLxeADg9+/f8uEnJydzc3P9/f0ZGRnyyr/BsqzwE4lEZGSI8AmFQvLdfXx8xLXf3t7+ZDb9/f1paWm9vb0/EcdFo9EIP/L5fO5POBx+e3sLBAJCE0EQtVqdnJws6kiSvLi4kMZzHPfPqezs7KysrExOTqampv5w9iL7+/s2mw3H8dbWVsESjUblAoRjp9frY+wKhcJsNj89PQkCmqYxDKuurjZ9A8OwmJsQ9/4YDAatVvvy8iI0f3h/1tbW6urqAKC8vNzn84n28/NzFEU1Go3JZLJarVNTU36/X/QiYgIoilIU5f/i6OiIpunBwUHBW1JSQtN0U1MTQRD4FwqFAkEQkMVut7tcruHh4cTExB/uidfrraqqamlpCYfDS0tL+/v7hYWFojcrK4umaavVimGY2+0eGhoiSbKvr+8/+1NdXS0tX3q9vqCgQGYJ9Xp9fn6+zP5Eo1GSJFUqlcvlor6ora1VKpUURXEcJ+2TpumUlJSmpiaHw/HPPRSYnp4GgPPzc16sb2lpaQzDSJfq6elJfi2/PwJSnE6nz+cDAIPBEOOqq6vzeDxlZWUxdpvNZjAY7Ha7/LhSgsFgVlbW52nRarVxRUqlUr6X4uJiGW99fT0jwWg0qlQqhmFIkgSAQCCwubn5/v4uhJyenv7fTAQwDAOxvhmNRofD8d39/Px8f39vNpuF5snJydHRkU6nw3E8KSnp4+OD47hIJNLW1gYAd3d329vbAHBwcAAAW1tbDMOo1eqKior09PSYgZOSkhAEEe0mkykUCm1sbDQ2NgJAJBJ5e3tbX1+PiaqsrBTert3d3XA4rNFocBxPSEiIRqMMw+A4/lnSxINusVgU3wCAhoaGcDgsXoyYq4+iqPhmO51O6YJZLJa4xz2mvgnzoCjqe1PK2tqaILBarTEutVrtdDoF7x8WFperrzxasgAAAABJRU5ErkJggg==" alt="" data-sanitized-class="price-cell">
-                                         ج.م</div>
-                <div data-sanitized-class="state">بيع</div>
-            </div>
-            <div data-sanitized-class="col-xs-4">
-                                    <div data-sanitized-class="value">
-                                                    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEYAAAANCAIAAACb0498AAAACXBIWXMAAA7EAAAOxAGVKw4bAAADhElEQVRIiZ2UTUgqURiGvztMUmIWMcgQg0qLGkJCaJHLoCGmFhEiIlLhQsJVm4ZWLaVFQQuRaFEbmVW0ctGijCJcJARBENkPMQwiEVY2oZSMnbs4Xu9ctXG47+qc9zzzzvdxfn4hhAAAAN7f37e2ttLpdKFQMJlMNE2zLBsOhx0OBwZubm52dnaurq4URSFJkmEYjuNCoVBHR4dB4O3tLRaLwb8aGBiYn5/XOpeXl8lkEpoUCASGhoba5vzCLX19fY2Pjw8ODlosFpIkPz8/C4XC4+Pj9vb22NgYAFxfX3s8nlAoRNN0PeX8/Nxms+3u7hoBcM/Dw8M0TWsZjuM2Nja0xR0fHwuCoHWen5/z+XwqlZqYmGifgxBCCImi6HQ60c8SBMFutzeY8XicJMlyuWwEQAhdXFwAQDQa1flRS/l8PoqiKpWKkRwCt3h2dta80Vrl83mCIJp9VVULhYIRAADK5bL+X1rq5eUlmUwGg8H6AdbPqRUhSZJ+rs1m+/7+brlktVqNAG1L+Ul7e3uVSmVhYaHuGGqpWCxWKpXbP7q/vy+VSlouGAzmcjmHw7G8vJzJZOo+wzA9PT1GAABQVfU/WkokEi6Xa3R0tO60ycHnz+12N/gkSfr9fkVRMFAul1mWnZmZ6ezsBACn0ykIgtfrXVlZMQgghGRZNpvNDMPwPB+JRGKxWDab1b9F2WwWANbX17Wmfs7flsxmczqdzmrEsuzS0hIGNjc38fuhKIooirOzs7j0cDhsEMB6eHiIRqM+n8/tdlMURRCEtudmra6uEgSRy+UafJ2cWksej6f5xXO73SzL4vH09HQDoCjK4uIiAEiSZARoqXg8DgCyLP8E2O12nud1em7Oqd2l3t7elsdSURQ8yOfzDUvd3d0sywLA3d2dEUBHPwEnJyeyLM/Nzel/3pBTa8lut7eE+vr68MBsNjev4icOH7C2gI4sFgsA3N7eHh0dVavVup9IJKxWq9frbdPKvzkknnAcd3h4qF3++Ph4fX31+/14OjIy0rAP1WpVkiSCIPBWtAUAIJPJFItFhmEoijKZTKqqPj09URSFHyee5yVJOjg4mJqaAoBSqbS/vx8IBLq6uhpK18+p3SVVVQOBAKkRAExOThaLRQxIkuRyubQAQRAkSa6trRkEEEKRSKShuP7+/lQqVb+6AJBOp/FUFEUAOD09bb45+jm/Aes79brxXJJjAAAAAElFTkSuQmCC" alt="" data-sanitized-class="price-cell">
-                                                 ج.م</div>
-                
-                <div data-sanitized-class="state">شراء</div>
-            </div>
-                            <div data-sanitized-class="col-xs-4 up">
-                <div data-sanitized-class="value">
-                    11.5
-                </div>
-                <div data-sanitized-class="state">صعود</div>
-            </div>
-        </div>]]></description>
-			<pubDate>Sat, 27 Dec 2025 15:02:03 +0200</pubDate>
-			<guid isPermaLink="false">1766840523150271</guid>
 		</item>
 
 	</channel>
