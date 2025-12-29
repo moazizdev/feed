@@ -4,10 +4,32 @@
 		<title>اقتصاد</title>
 		<link>http://192.168.1.50:8081/api/query.php?user=admin&amp;t=4IzCA6HFSoouCSR9nVqNkV&amp;f=html</link>
 		<description>RSS feed of اقتصاد</description>
-		<pubDate>Mon, 29 Dec 2025 06:00:02 +0200</pubDate>
-		<lastBuildDate>Mon, 29 Dec 2025 04:00:02 GMT</lastBuildDate>
+		<pubDate>Mon, 29 Dec 2025 06:05:03 +0200</pubDate>
+		<lastBuildDate>Mon, 29 Dec 2025 04:05:03 GMT</lastBuildDate>
 		<atom:link href="http://192.168.1.50:8081/api/query.php?user=admin&amp;t=4IzCA6HFSoouCSR9nVqNkV&amp;f=rss" rel="self" type="application/rss+xml" />
 				<item>
+			<title>البنك المركزي</title>
+			<link>https://market.isagha.com/prices</link>
+						<description><![CDATA[<div data-sanitized-class="clearfix stats">
+    <div data-sanitized-class="col-xs-4">
+        <div data-sanitized-class="value">47.65 </div>
+        <div data-sanitized-class="state">بيع</div>
+    </div>
+    <div data-sanitized-class="col-xs-4">
+        <div data-sanitized-class="value">47.55</div>
+        <div data-sanitized-class="state">شراء</div>
+    </div>
+        <div data-sanitized-class="col-xs-4 down">
+        <div data-sanitized-class="value">
+            -0.06
+        </div>
+        <div data-sanitized-class="state">هبوط</div>
+    </div>
+</div>]]></description>
+			<pubDate>Mon, 29 Dec 2025 06:02:02 +0200</pubDate>
+			<guid isPermaLink="false">1766980922985720</guid>
+		</item>
+		<item>
 			<title>عيار 24</title>
 			<link>https://market.isagha.com/prices</link>
 						<description><![CDATA[<div data-sanitized-class="clearfix stats">
@@ -479,33 +501,6 @@
         </div>]]></description>
 			<pubDate>Sat, 27 Dec 2025 02:02:03 +0200</pubDate>
 			<guid isPermaLink="false">1766793723073252</guid>
-		</item>
-		<item>
-			<title>عيار 24</title>
-			<link>https://market.isagha.com/prices</link>
-						<description><![CDATA[<div data-sanitized-class="clearfix stats">
-            <div data-sanitized-class="col-xs-4">
-                <div data-sanitized-class="value">
-                                            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEYAAAANCAIAAACb0498AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAEuUlEQVRIiY1WQUgbWxS9fxhFh5iGMkjUEKNIOpSgg4pEEHERyyhFREIIwUoWoYgLN4oLcSEiLkRchOBKQUJwIS5iUBepoEigCpZK2qYxShmCBJGocYyDDqPzF8/ODzMx37N6757z3rsnc999+UeSJAAAgJubm4WFhUgkkk6ni4uL9Xo9RVEej6e6uhoJfv/+vbi4GI1GOY7DcdxgMNhsNrfbXVRUhATfv39fXFyMxWLZbJYgiLq6Oo/H09raiqhQKAQqOJ3Od+/eKYI/fvzw+/2JRCKdTouiqNVqaZoeGhqqqalBguvra6/Xq1hVW1v76dMnAMDR/OHhgWEYs9lsMpnq6uru7+/T6fTGxsbHjx+RpV+/flmtVrfb3dHRIe8SCoX29/eXlpYA4OvXr729vePj42azGbHZbJZhmL29vYaGhqurq2AwmJvBxcVFKpVqa2tTW4rFYuFw2Gg0UhRFEASGYYlEorm5ORqNVlVVAcD5+fnk5KRer9fr9fIqm832PJIkSZKkQCBgMpmklzE6Omo0GhVBn8+H4zjP85IkDQwMqHeor68fHh7Ou6HdbidJUhCEAofKiMfjADA3N4emh4eHADA9PZ1XjCFje3t76qrIRSqVwjBMHRdFMZ1OA0AikVCzGIYdHR2p45eXl6FQyOVyyUX7GqCDAIDn+QKy5yxZli28XXl5+dPTU15Kq9UCwEvsxcWFOri6uioIwsDAQOFDFTAYDGjwKkuZTEYQhOO/ODk5ubu7y9W5XK6zs7Pq6uqRkZGDg4PcY968eQMA79+/FwRBfUA2m1UH/X6/xWJpamp6jZNv375NTk6SJGm321FEFMVCC1D90TStiOM47nA4OI5DAp7nKYrq6ekpKSkBAJPJNDo62tfXNzY2hgTRaFSj0VitViYHGo1Gr9fnvRizs7P/e4WCwWBbWxsANDY2xmIxOZ5MJgmCMBgMDMMMDg56vd54PC6z/1kiCCISicRzQFGUfLnn5+fR7ec4LhAI9Pb2Im8ej0fe68+fP1NTU263u/8vdDpdZWWlItGJiQkMw87OzgqYiUajLS0tAGCxWFZWVtSC09PT6elpu91O0zRJkhiGyT/usyWr1aruVzRNUxSFxt3d3QoBx3GfP38GAJZlX8qMpmmz2awIGo1GhmEK+9Fqtd3d3eFwuIAsFz6fDwCSyaQkdzydTpe3LDmOQ4NUKqWgysrKKIqCF3qdjNynAwB2dnaSyWR/f3+BJXNzc+3t7Zubm52dnQVkaqBMni0Zjca8ordv36IBQRBqFnU5VIEvwWKx5E79fr9Wq+3r61PIjo+Pv3z58vj4CACnp6evMaCGRqMB+d+DzWYLh8O59O3t7dXVlcPhQNP6+nrFh3p8fGRZFsMw9K1OTk5+/vxpMplIkiwpKXl6espmszzPu1wuecnd3d3a2prT6SwtLVVkwzAMy7JbW1tdXV08zwuCsL6+rtC0tLRUVFQAwMHBQSaTMRgMJEkWFxeLonh+fk6S5HOTQ7UoiqLT6cRzAAAfPnzIZDJIwLKsxWLJFWAYhuP4zMwMEiwvLyveYoIg5PceIRAIAMDu7m7eWwcAkUhEytd+EYLBIBIPDg4qqMrKyu3tbcT+C25gBtZImaQpAAAAAElFTkSuQmCC" alt="" data-sanitized-class="price-cell">
-                                         ج.م</div>
-                <div data-sanitized-class="state">بيع</div>
-            </div>
-            <div data-sanitized-class="col-xs-4">
-                                    <div data-sanitized-class="value">
-                                                    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEUAAAANCAIAAABw5DR/AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAEE0lEQVRIiY1WQUgyWxQ+b5jkbyiLGMJK1CJqFhJSIS4kWliYRISIiFS4kIgWbZJWLVxIi5AWIq1qI9IiWphUCwuKcJFQBEZm5mIQEQkzm1BKxuZf3J7Ppzb5rc495+N+52POPcw/HMcBAAC8vb1tb28Hg8FMJiMQCEQiEUVRVqtVKpUiwsPDw87OTjgcZhgGx3GxWKzRaCwWS1NTEwC8vr66XC74P/r6+ubn529vb/1+P9TAZDINDg5WJe/u7jweTywWy2QyLMsKhUKFQrG8vNzb24sIPEIAgKPz5+enVqsdGBiQyWT9/f0fHx+ZTObo6Gh6ehr5ub+/V6lUFotlfHy8fIvf77+6utrd3QWAdDptt9tFIpFIJCoTNBoNAGSzWZ/PVyn//PycSqXUanWtn0gkEggEJBIJRVEEQWAYFovFRkdHw+FwT08PvxAAAMdxHMd5vV6ZTMb9DJvNJpFIqpJutxvH8UKhwHHc9fU1ADgcDp5LyjAYDCRJFovFRsjRaBQAnE4nOvILYcjV5eVl7TxUIpVKYRhWm2dZNpPJAEChUOC/oYyXlxe/3282m9GgNgik8qvQd4s0TfNf19nZ+fX1VbckFAp/lanE/v5+sVhcWFhokI8gFotR0JCfXC5XLBYf/8XT01M+n6/kmc3mZDIplUpXV1dDoVClTFtbGwCwLNtgZx6PRy6Xj4yMNEK+ubmx2+0kSRoMBpT5RQiNnUKhqMrjOG40GhmGQYRCoUBR1MzMzJ8/fwBAJpPZbDa9Xr+2toYIiUSCIAixWKzVapeWllwuVzQa/ekxbG5u/vpsfD6fWq0GgOHh4UgkUs7zC/3nhyCIYDAYrQBFUSsrK4iwtbWFFgbDMF6vd3Z2FhmzWq3lu+LxuMPhMBgMCoWCJEkMw8puy1hfX8cwLJlM8jgJh8NKpRIA5HL53t5eLYFH6NuPSqWq3W8KhYKiKBTrdLoqAsMwi4uLAEDTdN223G43ACQSicqkRCLRarX8ZoRCoU6nCwQCPLSfhL7fT3t7e91pZBgGBalUqqrU2tpKURQAxGIxnnmurJ6fnycSibm5OR6+0+kcGxs7Pj6emJjgof0k9O1HIpHUJXV0dKCAIIjaKtp4aPB+QktLSzn2eDxCoVCv11dxHh8fT09PS6USAMTj8QYN1BX6/j/QaDSBQKCy/P7+ns1mjUYjOg4NDVV9olKpRNM0hmHoK4VCoVwuJxaLSZIUCAQsy6bTaZIky5smn88fHByYTKbm5uaqVrRaLU3TJycnU1NThUKhWCweHh5WcZRKZVdX1+9CaARZljWZTHgFAGBycjKXyyECTdNyubySgGEYjuMbGxuIsLS0VNVBd3f32dlZecq9Xi8AXFxc1D4A1EowGOTqbVoEn8/XiNBfnKfvzxctV/kAAAAASUVORK5CYII=" alt="" data-sanitized-class="price-cell">
-                                                 ج.م</div>
-                
-                <div data-sanitized-class="state">شراء</div>
-            </div>
-                            <div data-sanitized-class="col-xs-4 up">
-                <div data-sanitized-class="value">
-                    5.75
-                </div>
-                <div data-sanitized-class="state">صعود</div>
-            </div>
-        </div>]]></description>
-			<pubDate>Fri, 26 Dec 2025 19:32:02 +0200</pubDate>
-			<guid isPermaLink="false">1766770338605944</guid>
 		</item>
 
 	</channel>
