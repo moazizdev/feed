@@ -4,10 +4,362 @@
 		<title>اقتصاد</title>
 		<link>http://192.168.1.50:8081/api/query.php?user=admin&amp;t=4IzCA6HFSoouCSR9nVqNkV&amp;f=html</link>
 		<description>RSS feed of اقتصاد</description>
-		<pubDate>Mon, 05 Jan 2026 19:40:04 +0200</pubDate>
-		<lastBuildDate>Mon, 05 Jan 2026 17:40:04 GMT</lastBuildDate>
+		<pubDate>Mon, 05 Jan 2026 19:45:04 +0200</pubDate>
+		<lastBuildDate>Mon, 05 Jan 2026 17:45:04 GMT</lastBuildDate>
 		<atom:link href="http://192.168.1.50:8081/api/query.php?user=admin&amp;t=4IzCA6HFSoouCSR9nVqNkV&amp;f=rss" rel="self" type="application/rss+xml" />
 				<item>
+			<title>عيار 24</title>
+			<link>https://market.isagha.com/prices</link>
+						<description><![CDATA[<div data-sanitized-class="clearfix stats">
+            <div data-sanitized-class="col-xs-4">
+                <div data-sanitized-class="value">
+                                            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAANCAIAAABzUzpXAAAACXBIWXMAAA7EAAAOxAGVKw4bAAADRklEQVRIia1UP0jrXhS+L8QiIVXRUkLpn+AQQyyli9jRIRR1FJFSEDqIdLfg4iQiguggoWSo4NBZcHHQDiJBUhCHoPSnQgmioWioMWKpJfX+hltraDU83nvfdO75vnvud0/uyS8IIQAAAPDy8pLNZiVJ0nXd5XJRFMWy7MLCQigUQoJSqZTL5RRFMU0Tx3G/38/zfCqV6unpeXh4kGVZ/cTGxsbo6Cja5UDZ8fz8vLOz05EcHh6en59H8S9k9P39fWJigmEYkiRxHK/X67qul8tlURTHx8cBAFdXV7FYLJVKURTVLiTLstfr3d3d3draymQyJEmSJFmpVGRZRrsAAA6UHaVSieM4iqLs9Xme39zcbC0ghBDCfD5P0zT8GZlMJhgMdiQFQcBxvFar6bqu6zqEcG9vD12grXGg7Dg/PwcArK2t/WQAR3ZPT0+7b2mHpmkYhnXnLcvSdT0QCPy0cWhoyLkyQq1Wcxa0zlZV1Vnn9Xo/Pj6+pfr6+n7HijN+16hhGI1G4/oTt7e3b29vdl0ymby/vw+FQktLS8VisZ33+/39/f1/b9SyLGdB69M3Gg1N01iW/SJwfGZmJpfLud1uAEA4HGYYhmGYbDa7vb1N0/Ts7Gy5XE4mk3/vEgAQiUQIghBFUZIkmqY5jovH4yMjI23B17MjCEKSpP8+cXl5qSjKysoKYkVRrNfrBwcHj4+P+Xw+Go0KgrC/v1+tVv+J0UAgoChKOp0mSVKW5dXVVY7jlpeXvxRopmKxWPfUR6NRlmVRPD093SEwTXNxcREAoKpqO+kw2s5T3w1BEAAAd3d3aNnq6MDAwLcXNU0TBZqmdVButxs9lZubm3/S1G/RLt4yGgwGv9UNDg6igCCIbhb9B3p7e//MxPX19fHxcbPZdNCQJImC1jDxPH90dGRXvL6+VqvVubk5tIxEIh1NbTabqqpiGMay7NPT09nZGQDg4uICAHByclKpVHw+39jYmAM1OTmpqurh4eHU1FSxWDQMw+/3ezwel8tlWValUvF4PNFotHUeegGWZSUSCdwGAEA8HjcMAwlUVQ2Hw3YBhmE4jq+vr0MIC4VCdzMSiYQzhUxIkgQhTKfTHRqfz1coFNpP9n/Ma5ExBvDiAQAAAABJRU5ErkJggg==" alt="" data-sanitized-class="price-cell">
+                                         ج.م</div>
+                <div data-sanitized-class="state">بيع</div>
+            </div>
+            <div data-sanitized-class="col-xs-4">
+                                    <div data-sanitized-class="value">
+                                                    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEIAAAANCAIAAACSOC8GAAAACXBIWXMAAA7EAAAOxAGVKw4bAAADLElEQVRIia2UsUvrcBDH74VaMEoRyRBrSKuIZugQVIqDOFWJ4iShBFEnh+Lg6OTg0EkyFfEPCMVBHGJRhygokkVQhAqlDR1KECkSa6wYNETyhkheX9JXfMXv9Lv7fC/5HbncL9u2AQAAXl5ednd3ZVnWNC0YDOI4TlHU6upqJBK5vb3N5XLgE8dxhmG0gUZGRjzJu7s7QRAURdE0zbKsUChE0/Ta2trAwIBjeH5+zmQynqrBwcHl5WUACDjxx8cHwzDDw8PRaHRoaOj9/V3TtKOjo/n5+UgkUqvVRFFsrH98fHx4eJicnASANpC/jUKhIEkSSZIURaEoiiCIoijj4+P5fL6/vx8AqtXq1tYWjuM4jrtViUTi62Tbtm3b2Ww2Go3a3xbLshiGmab5U8ivYrEIADzPO+H19TUApNPppmbEaeby8tL/9f+lp6enXC63uLjY0dHxI6iFNE1zDoZhtLB9tVGpVL7/6P39fdM0V1ZWfgq1EEEQzqF1G1//hq7rpmmWSiUnRBAkHA53dXU1rREEIRaLjY2N/RTy6+bmhud5DMNYlnUylmW1KnBmi6ZpTz4QCCSTyXq93nRkt7e3/zXN/4s8EkXRWQ+jo6OFQsHNq6qKoihBEAzDpFKpTCZTLBZd+qcNFEVlWS42iKKo9fV1z2s2NzcRBLm/v/ffoD3kKp/Px+NxAIjFYnt7e35DuVxOp9Msy9I0jWEYgiAbGxt/tTExMeHfVDRNUxTlSZIkyTBM03u0h9weQqHQ3NycJEktbI3a2dkBAFVVbXdT9fT0NB25er3eGJ6fn6uqurS05He2h1zxPD81NXV8fDw9Pd3C5peiKOBuKpIkm5p6e3sbQ0EQQqHQwsKC39kGKpVKp6enn5+fAFAul//r9q66u7vB3VSJREKSpEb8+vpaq9WSyaSbeXt7Ozg44Dius7PT86z2EMMwlUrl5ORkdnbWMAzTNA8PDz2eeDze19cHAFdXV7quEwSBYVgwGLQsq1qtYhj2tZycObMsi+O4QIMAYGZmRtd1dxaz2SwAXFxc+Me0PeTcQJZlu9mqdCSKomNOpVIeFA6Hz87OHPobFp8BRI8UABcAAAAASUVORK5CYII=" alt="" data-sanitized-class="price-cell">
+                                                 ج.م</div>
+                
+                <div data-sanitized-class="state">شراء</div>
+            </div>
+                            <div data-sanitized-class="col-xs-4 up">
+                <div data-sanitized-class="value">
+                    22.75
+                </div>
+                <div data-sanitized-class="state">صعود</div>
+            </div>
+        </div>]]></description>
+			<pubDate>Mon, 05 Jan 2026 19:41:22 +0200</pubDate>
+			<guid isPermaLink="false">1767634888716528</guid>
+		</item>
+		<item>
+			<title>عيار 21</title>
+			<link>https://market.isagha.com/prices</link>
+						<description><![CDATA[<div data-sanitized-class="clearfix stats">
+            <div data-sanitized-class="col-xs-4">
+                <div data-sanitized-class="value">
+                                            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC0AAAANCAIAAACy1HD7AAAACXBIWXMAAA7EAAAOxAGVKw4bAAADGElEQVQ4jY1UPUjrUBQ+hkspMYpIhlCqBik1BK3ZbEWhSOjgICIiUlAcOmRycBHESZyqkxTpUMTB0VUH6VQCKgiWUPT5g4hUESk12lA0hOQNV+/rs03xm757zne+nHLOaYvjOADw+vq6tbUF/6O3t3dubg7z8/PzTCZzcXFhGAZN04FAIJFIRCIRIn57e9ve3lZVtVQqeTwejuMEQUgkEj09PVjw+PiYSqXy+byu67ZtMwwTCAQWFhawSQvu4/LyUhRFjuM4jiPWsixvbGwAwPHx8eTk5MrKCkkZhpFMJnO53ODgIAB8fn5Go9FgMMgwDELo4+OjVCrd3d2l0+mhoSEAqFQqoihOT08TB8uyisXi4eFhNpsdHR0Fx3Ecxzk7OwOA9fV1pxHm5+d5nv8RDIVCi4uLmO/t7dULarGzs4MQqo+PjIzE43HHcSjcXbVaBXdcX1/XBymKyufzmOdyuSblAKBpWsO41+vFqV/1Ydt2w/jLywsm9/f3zfsgSrcUwg/Lspq4iKJYLBbr44ZhYKLrummaV1dX+ElRlM/na21tJcr393c3c2zy1UcoFKJpOp1Oq6rK87woirFYrK+vD2eXlpb29/cjkUhHRwepv729ZRgGc9M0n56eBEEgWYTQ1NRUJpNpa2tr/jtN0wQyl66uLk3TFEVhGObk5GRtbU0UxeXlZZwdGBjQNG18fJzjOPYbCCGKoogdTdOqqv75RqFQ0DRtdXXV7fMEXyZuG55KpQDg4eHBTSBJUjAYxDwcDtffiyRJgiBgPjEx0fBeZFlmGObfvbih4aUQkD+b2nnVgqwFmWA92tvbgczFDU3qAaC/vx+T7u7uhoLOzk5M/H6/mwnP80D29PT0VNd1v9/PsqzH47Es6/n5mWVZSZIA4ObmplAo8DzPsqzX67Vt2zCMarUaj8dxuSzLR0dHte6VSqVcLs/MzODn2NhYMpk8ODgIh8MIISKzLCsajQJ874eiKD/a9Pl82WwWZ3d3d2tXEgBomt7c3CRjtixrdnYW1QAAYrGYrutEoyjKDxMAGB4eLpfLjuP8BQpPF4QNJURqAAAAAElFTkSuQmCC" alt="" data-sanitized-class="price-cell">
+                                         ج.م</div>
+                <div data-sanitized-class="state">بيع</div>
+            </div>
+            <div data-sanitized-class="col-xs-4">
+                                    <div data-sanitized-class="value">
+                                                    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAANCAIAAABdFhvFAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAC/UlEQVQ4jY1UPUjrUBQ+L1wkhCAOQUKpEEqJGrV2krYoFC0iDiIiDkXFwSGDOIigOElxEodSOjhUcRUcuggdOoj4CwVLEEEtDlIhiNVQQwYJuW+4Na+vbarfdPi+c757bu45+YMxBoCPj49EIgH/w+PxzM3Nkfjm5iaVSt3d3em6zjCM1+tdXFwMBoNEPTw8zGQyxWKxXC7TNC1J0tLSUk9Pj2318vKSTCbz+bymaZZlsSzr9XoXFhaIAyJJqqpubm7yPM/zvF0ZiURIcHl5OTk5ubGxIYoiYXRdHxsbOz097e/vB4B0Oq2qqsvlEkURIaRp2sDAQC6X6+7uBoDPz89AIDA9Pd3V1UXKTdMsFovhcDibzQ4NDQHGGGOcy+UAYGtrCzfC/Py8IAg1pM/nW15ebpiPMUYI2er+/j5CqD5ncHAwGo1ijCnSmmEY4IyHh4d6kqKofD7fpOrp6YkEiqI0TKBpmki/asKyrIb86+trkyqO435MI1KlCdM0m9hJkvT19VXP67peT5ZKpfPzc8uyZmdnCVMul52ciUNlMH0+H8Mwu7u7Z2dngiBIkjQ6OtrZ2UnUlZWVo6OjYDDY1tZm1xcKBZZlqx339vbW19ff3t4AYHV1dWRk5McbkrtVvkRHR4eiKLIssyx7dXUVi8UkSVpbWyNqX1+foijj4+M8z3PfQAhRFFXtODMzk8lk0ul0PB5PpVL39/dOZ9uoODiNdzKZBIDn52enBL/fL4rib7ZjYmKi4XZEIhGWZf9thxMa7oWN6p9KPQqFAglqXq0ara2tYD+HE5rUA0Bvb28TlWEYErjdbqccQRDAHszr62tN09xuN8dxLS0tpmmqqspxnN/vB4DHx8fb21tBEDiOo2nasixd1w3DiEajAFAqlU5OTjweT3t7OzmY/JtDoRAxHx4e3t7ePj4+DgQCCCG7A9M0w+EwwPdMyLJc06PL5cpms0Q9ODiomUGGYXZ2doh6cXFRbU0wNTVlGIb9/LIs1zgAQCgUen9/xxj/BTO6A/YGhYkvAAAAAElFTkSuQmCC" alt="" data-sanitized-class="price-cell">
+                                                 ج.م</div>
+                
+                <div data-sanitized-class="state">شراء</div>
+            </div>
+                            <div data-sanitized-class="col-xs-4 up">
+                <div data-sanitized-class="value">
+                    20
+                </div>
+                <div data-sanitized-class="state">صعود</div>
+            </div>
+        </div>]]></description>
+			<pubDate>Mon, 05 Jan 2026 19:41:22 +0200</pubDate>
+			<guid isPermaLink="false">1767634888716527</guid>
+		</item>
+		<item>
+			<title>جنيه ذهب</title>
+			<link>https://market.isagha.com/prices</link>
+						<description><![CDATA[<div data-sanitized-class="clearfix stats">
+            <div data-sanitized-class="col-xs-4">
+                <div data-sanitized-class="value">
+                                            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADkAAAANCAIAAACckVFpAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAEFElEQVRIiX1VTUgyXRQ+7zCVyWQhYQaiLqQkpIQWmZhISUiEC5EQiXAR4bokIlqGi9YSLqyFzCrCyKiVUYhQrZKhv68gJGwqMTFTMZmcb3Fr3sl57Vmd85znnnPn3DP3/mFZFn5iZ2eHoigAIAhiYWEBAM7Pz6PRKAjgcrl6e3sB4O3tbX19PZFIZLPZ5uZmuVyu1WpnZ2dVKhVSXl9fh0IhiqIKhQKO4wqFwmq1ejyepqYmLtvj42MgEEgmk/l8vlarEQSh0Wg8Hs/w8DAS/Knb68vLi0ajUavVmUwGw7CnpycAODw89Pl8fFkmk6FpOhaLjY2NfXx8WCyWnp4egiBwHK9UKtls9v7+PhgMDg0NAcDl5aXBYPB4PHK5nMtwenoqk8k2NjaQ+/7+3tfX53Q6OQHDMOl0+uDgIBaLjYyMAACwP+H1esViMU3Tk5OTcrmcbQCn09nZ2VmtVlmWJUlSrVY3UrIs6/P5lEplHRkIBHAcL5fLyN3c3MRxXLjWZDK53W5kY/xu3d3dhUKh+fn57u5u4YlzeH19jUajbrcbnWA8Hv9FDAA0TWMYJuQZhslms8hGUyeESCTiQj9SLC0tdXR01B23EFtbW9VqdWZmBrmpVOp3vUwmq9Vq/wxJJBJkZDKZRsu50N+9npycRCKR5eXl9vb232uHw2GdTjc4OIjcfD5frVb/+8bd3V2pVOLr3W53Op1WqVQLCwtnZ2ccr1AouFqFQqFRuWKx+GVxk2E2m5VKZaVSQW6jeb25uQGAtbU1jtHr9XXZcRyfmpoqFApIUC6XtVqt3W4XiUQAoFarfT6fw+FYXFzkkthstn/Oq9Vq5fivvu7t7cXj8dXV1ZaWlt+bSpIkhmFut5tPisXiRCJx842LiwuKolZWVlA0GAxWKpXd3d1MJkOSpF6vDwQCkUgkl8v9Xgvh76yzLMswTF9fn0wmi8fjiW8YjUapVJpIJIrFIv9DlUqlzWbjMwaDQXgP6PV6rVaL7ImJiTpBoVCYm5sDgFQqhRi73d6orwRBIBsHgFgsdnV1BQBms7num0wmUzKZHBgYQO7R0dHDw4Pf7+drOjo6np+fhf3gRpCm6bpQW1ubVqsFgNvbW/ReEATRqK/c/4cDgMViERabnp6mKIqiKKlUypHhcFgikTgcDr5SqVSiIa4Dt1AsFufz+boouhnQBAOAQqFotFe1Wo0MDABaWlq6BBCJRBiGdXV1cc9gqVTa3t6emppqbW3l57JarXXZ39/fc7mczWZDbn9/f53g8/MzlUphGIa6CwCjo6MMw+zv77++vr7xwDCMxWL5WiYcEQThPUCSJAAcHx/XKRmGcblcOA8AMD4+ns/nkSCVSul0Or4AwzAcx/1+Pz+P1+sVPhlGozGXyyHB/x5jJkCOlOcoAAAAAElFTkSuQmCC" alt="" data-sanitized-class="price-cell">
+                                         ج.م</div>
+                <div data-sanitized-class="state">بيع</div>
+            </div>
+            <div data-sanitized-class="col-xs-4">
+                                    <div data-sanitized-class="value">
+                                                    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADkAAAANCAIAAACckVFpAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAClElEQVRIiZVUz0syURS9DVOOJhkilhYyCyGRFkEbFQ3JSBfhIlzIINHStbnwb3DRqqW4GGYlUqIoLtRFIC2VWQVtyx8DhZSCDOp8C+M56jc/Oqt3zz3nvvveu7wNQRBgGU9PTyzLAoBer7+7uwOAVqtVLBZhDdFo9OjoSN6rWHyOj4+Ph4eHdrs9GAxms5ler7fb7be3t263G2k2Vnrt9/t2u50kSY7jMAzrdrsAUK/Xk8mkWMZxXKfTqdVqgUBA3qtYHAB+fn6cTmckEkHKyWTy/v5eqVRqtZrP5/tlhWXE43GdTtfpdK6urvb39wUJRCIRk8nE8/yfvFKCbDaL4/i63uv1UhSFQkx87re3t0wmk0gkLBbL+vMhfH5+FotFiqI2NzfVe2UE86lYB0EQ4tRSr6lUand3d+W515HL5Xiev7m5+ZNXRsBxnJRLnMLR6uXl5fHx8f7+3mAwyPdK0/Tx8fHp6al6r7zg+/tbaq/hcLgI0DScnZ3ZbLbxeDwPpWbu9fUVANLptJhU9MoLQqHQf+f14uJCzP/ea6lUen5+pmlao9HIXyrDMBiGURSFGEWv+uLrwLDFlOIAMJ1OU6mU2WwmSbLZbM4TX19fPM83m82Tk5Pt7W1koGn68vLy4OBgHip6CYJQLL61tSXV61JKEIRqtSpzsna7jV6h0WgAAMMwiFH0qilOUZTUDFit1qUZ8Pv9vV5vpUosFmNZlmVZo9GISJqmd3Z2rq+vEaPodTgcisUPDw+lDkOSJFrjAKDRaPb29lZEBEFgGCbmR6NRPp+PRqNarRaRaryKgvPz83Q6XS6XXS4Xji++pslk4vf7l3pViUKhMBwOY7GYeotKBIPBeDweDodns5mY93g84v/4Hx1cesAexg2IAAAAAElFTkSuQmCC" alt="" data-sanitized-class="price-cell">
+                                                 ج.م</div>
+                
+                <div data-sanitized-class="state">شراء</div>
+            </div>
+                            <div data-sanitized-class="col-xs-4 up">
+                <div data-sanitized-class="value">
+                    160
+                </div>
+                <div data-sanitized-class="state">صعود</div>
+            </div>
+        </div>]]></description>
+			<pubDate>Mon, 05 Jan 2026 19:41:22 +0200</pubDate>
+			<guid isPermaLink="false">1767634888716526</guid>
+		</item>
+		<item>
+			<title>البنك المركزي</title>
+			<link>https://market.isagha.com/prices</link>
+						<description><![CDATA[<div data-sanitized-class="clearfix stats">
+    <div data-sanitized-class="col-xs-4">
+        <div data-sanitized-class="value">47.37 </div>
+        <div data-sanitized-class="state">بيع</div>
+    </div>
+    <div data-sanitized-class="col-xs-4">
+        <div data-sanitized-class="value">47.27</div>
+        <div data-sanitized-class="state">شراء</div>
+    </div>
+        <div data-sanitized-class="col-xs-4 down">
+        <div data-sanitized-class="value">
+            -0.02
+        </div>
+        <div data-sanitized-class="state">هبوط</div>
+    </div>
+</div>]]></description>
+			<pubDate>Mon, 05 Jan 2026 19:41:22 +0200</pubDate>
+			<guid isPermaLink="false">1767634888716525</guid>
+		</item>
+		<item>
+			<title>عام الغضب.. دلالات 100 احتجاج عمالي في 2025</title>
+			<link>https://almanassa.com/stories/29348</link>
+						<media:thumbnail url="https://almanassa.com/sites/default/files/styles/lead_image_square/public/photobank/2026/7d8c3f85-2b61-446a-baae-b7d03bfd7c8e.png.webp?itok=lIUtSjMA" />
+			<media:content url="https://almanassa.com/sites/default/files/styles/lead_image_square/public/photobank/2026/7d8c3f85-2b61-446a-baae-b7d03bfd7c8e.png.webp?itok=lIUtSjMA" medium="image"></media:content>
+			<description><![CDATA[<!-- FULLCONTENT start //--><div data-sanitized-class="columns small-12 table-scroll">
+							<p>قبل عامٍ، بشَّرنا <a href="https://asharq.com/reports/104200/%D8%B5%D9%86%D8%AF%D9%88%D9%82-%D8%A7%D9%84%D9%86%D9%82%D8%AF-%D9%8A%D8%AA%D9%88%D9%82%D8%B9-%D8%B3%D9%8A%D8%B7%D8%B1%D8%A9-%D9%85%D8%B5%D8%B1-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AA%D8%B6%D8%AE%D9%85-%D8%A8%D9%88%D8%AA%D9%8A%D8%B1%D8%A9-%D8%A3%D8%B3%D8%B1%D8%B9-%D9%81%D9%8A-2025/">خبراء</a> الاقتصاد بسنةٍ جديدةٍ يهدأ فيها معدل التضخم بعد طفراته التي عشناها منذ 2022، وتهبط أسعار السلع والخدمات الأساسية بعدما وصلت لمستويات لم نتصورها.</p>
+
+<p>وبالفعل بدأ التضخم مسيرة تراجعه بعد <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="9f41fd18-af21-4e63-a517-3646c67a34a9" href="https://almanassa.com/news/16361" title='مدبولي: "الصفقة الكبرى" في رأس الحكمة وقيمتها 35 مليار دولار'>صفقة</a> رأس الحكمة في 2024 بفضل ما أسهمت فيه الصفقة من استقرارٍ لسعر صرف الدولار، مع ذلك لم تتقلص الفجوة الكبيرة بين الأجور والأسعار التي خلفتها السنوات السابقة وبقيت كما هي تلقي <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="c316937f-1bc4-44af-90bf-90044ca1a289" href="https://almanassa.com/stories/6120" title="ما فعله التضخم بالطبقة الوسطى">بعبئها</a> الثقيل على حياة الملايين من العمال.</p>
+
+<p>تحت ضغط هذه الظروف وفي عام 2025، شحذ العمال همتهم في العديد من المواقع لإنقاذ أجورهم من التضخم والمطالبة بالحصول على الحد الأدنى، المحدد من الحكومة، علّه يساهم ولو بالقليل في توفير حماية من العوز والاحتياج، وفي 16 يناير جاءت الشرارة الأولى من <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="eb6374ba-71ce-4219-a05e-726089d0e8a8" href="https://almanassa.com/news/21751" title="إضراب عمال T&amp;C للملابس للمطالبة بزيادة سنوية 50%">عمال</a> T&amp;C للملابس في العبور الذين تظاهروا تعبيرًا عن غضبهم لعدم تخطي رواتبهم الشهرية آنذاك الـ5200 جنيه.</p>
+
+<p><strong>المنصة</strong> تابعت 100 احتجاج عمالي، امتدت على مدار العام الماضي، من الإسكندرية حتى أسوان، شارك فيها آلاف العمال، وحملت مئات القصص، حقق بعضها مكاسب، فيما مُني البعض الآخر بهزائم زادت من معاناة العمال، لكنها صقلت تجربتهم.</p>
+
+<h2><strong>عمال الصناعة يقودون الاحتجاجات </strong></h2>
+
+<p>قد يكون العدد الفعلي للفعاليات العمالية أكبر، لكن ما رصدته <strong>المنصة </strong>في 2025 وصل إلى 100 احتجاج، تنوعت خلالها الممارسات العمالية بين 28 إضرابًا، كليًا وجزئيًا وتباطؤيًا، و64 وقفة، وتظاهرة، و8 اعتصامات، كما تخللت هذه الممارسات محاولة انتحار وقعت في <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="5108d5c8-de9d-45e1-88bb-1b017072682d" href="https://almanassa.com/news/28697" title='زملاؤه أنقذوه.. محاولة انتحار عامل بسكر كوم أمبو بعد نقله تعسفيًا إلى "الحوامدية"'>شركة</a> سكر كوم أمبو في أسوان.</p>
+
+<p>ويرصد منسق دار الخدمات العمالية كمال عباس، في حديثه مع<strong> المنصة</strong>، زيادةً ملحوظةً في النشاط الاحتجاجي عام 2025 عن الأعوام السابقة له، مؤكدًا أن هذه الاحتجاجات مدفوعةٌ بالأساس بموجات ارتفاع الأسعار.</p>
+
+<p>وسجل التضخم قفزاتٍ تاريخيةً منذ عام 2022، مدفوعًا بتذبذب سعر الصرف، أو ما يُعرف بـ<a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="68e434c1-58f2-4e53-adc6-16f3b4f1a31f" href="https://almanassa.com/stories/14284" title="كيف حوّلتنا أزمة الدولار إلى مضاربين في العملة؟">أزمة</a> الدولار، لكنه بدأ في التراجع منذ 2024، ووصل إلى 10% في نوفمبر/تشرين الثاني الماضي، قرب أدنى مستوى وصل إليه قبل بدء الأزمة منذ نحو أربعة أعوام.</p>
+
+<div data-sanitized-class="embed-media embed-media--rich-flourish"><div><iframe src="https://flo.uri.sh/visualisation/27017033/embed" allowfullscreen="" title="Untitled Visualization" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" sandbox="allow-scripts allow-same-origin"></iframe></div></div><aside data-sanitized-class="caption">تطور معدل التضخم السنوي في الفترة من 2022 إلى 2025، تصميم المنصة</aside><p>ورغم أن القطاع الصناعي التقط أنفاسه مع تراجع أزمة الدولار، حيث أظهر <a href="https://mped.gov.eg/singlenews?id=6391">مؤشرات</a> للتعافي وتحسن وتيرة الإنتاج خلال العام الماضي، فإن هذا التعافي لم ينعكس على الأجور، ليسجل هذه القطاع النسبة الأكبر من الاحتجاجات خلال العام بواقع 51 احتجاجًا.</p>
+
+<div data-sanitized-class="embed-media embed-media--rich-flourish"><div><iframe src="https://flo.uri.sh/visualisation/27018280/embed" allowfullscreen="" title="Untitled Visualization" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" sandbox="allow-scripts allow-same-origin"></iframe></div></div><aside data-sanitized-class="caption">التوزيع القطاعي للاحتجاجات العمالية في 2025، تصميم المنصة</aside><p>غير بعيد عن الصناعة، احتفظ قطاع المرافق العامة بعدد من أبرز مساحات الاحتجاج خلال العام الماضي، وبعد أن كانت الاحتجاجات تقتصر على العمال المؤقتين في القطاع، امتدت خلال النصف الثاني من العام لتشمل العمال المثبتين، الذين <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="478bd8fe-48f3-46fd-9cfc-5abd116acdbb" href="https://almanassa.com/stories/28574" title='هل تسمع الدولة؟ انتفاضة عمال "مياه الشرب" ترفع صوت الغضب'>اشتكوا </a>لـ <strong>المنصة </strong>ضمن متابعاتها للحراك العمالي من<strong> </strong>أن أجورهم عاجزة عن سد حاجات أسرهم بالرغم مما يتمتعون به من مميزات التثبيت. </p>
+
+<p>حازت محافظة القاهرة المركز الأول في عدد الاحتجاجات، بواقع 38 احتجاجًا، وهو معتاد ومتوقع في ظل مركزية النشاط الاقتصادي في العاصمة، لكن اللافت زيادة النشاط الاحتجاجي في الصعيد، حيث شهدت محافظات شمال وجنوب الصعيد 29 احتجاجًا خلال العام الماضي.</p>
+
+<p>تجدر الإشارة إلى أننا رصدنا عدد الاحتجاجات على مستوى الشركات وليس على مستوى عدد المواقع داخل الشركة الواحدة، ولو أحصينا عدد المواقع لقفز العداد إلى أكثر من 150 احتجاجًا، فعلى سبيل المثال شهد اليوم الثاني من احتجاجات عمال شركة مياه الشرب في القاهرة، التي استمرت 12 يومًا خلال نوفمبر الماضي، وقفات احتجاجية <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="7f121a38-c6f3-4ad3-b461-d274234eaacd" href="https://almanassa.com/news/28428" title='"يا وزير الإسكان شوف احنا بنقبض كام".. احتجاجات "مياه الشرب" بالقاهرة تمتد لـ30 موقعًا'>امتدت </a>لـ30 موقعًا.</p>
+
+<h2><strong>"الحد الأدنى" شرارة الاحتجاجات</strong></h2>
+
+<p>بينما كان العمال يصارعون لتطبيق الحد الأدنى السابق (6 آلاف جنيه)، دون أن يتمكنوا من نيل هذا الحق، جاء <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="4916ed6a-4c3f-41d6-aad9-86b441b20475" href="https://almanassa.com/news/22236" title='"القومي للأجور": رفع الحد الأدنى للعاملين بالقطاع الخاص إلى 7000 جنيه اعتبارًا من مارس'>قرار </a>المجلس القومي للأجور في فبراير/شباط الماضي برفع الحد الأدنى بالقطاع الخاص من 6 إلى 7 آلاف لتشتعل موجة عاتية من الاحتاجات مستمرة حتى اليوم.</p>
+
+<p>وتصدر تطبيق الحد الأدنى للأجور مطالب 70% من الاحتجاجات تقريبًا، بينها سيراميكا <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="6db22da9-c4c1-453b-a987-ce045bcba6ad" href="https://almanassa.com/news/21904" title="إضراب عمال سيراميكا إينوفا بالفيوم للمطالبة بالحد الأدنى للأجور وصرف الرواتب المتأخرة">إينوفا</a>، ومياه الشرب في <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="eb71c526-0ded-4961-b061-1869f6010430" href="https://almanassa.com/news/22830" title='للمطالبة بالحد الأدنى للأجور.. احتجاجات لمحصلي "مياه الشرب" في القناطر وشبرا والخصوص وبنها'>القليوبية</a>، و<a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="e921fa36-33c0-4a1b-a9b1-067f8f647be2" href="https://almanassa.com/news/23772" title='"وبريات سمنود" تطبق الحد الأدنى للأجور على مشرفين وموظفين بالإدارة وتستثني بقية العمال'>وبريات سمنود</a>، و<a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="e564e5ab-7a5f-403d-8d49-2a48e36c7e75" href="https://almanassa.com/news/25245" title='"يومية 132 جنيه".. عمال "المصرية لتجارة الجملة" يشكون تدني الأجور ويطالبون بالتعيين'>المصرية لتجارة الجملة</a>، و<a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="37dcc2d7-5593-498e-ad25-faba9451eca2" href="https://almanassa.com/news/26562" title='لمشاركتهم في اعتصام يطالب بالحد الأدنى.. إدارة "فرج الله" تهدد 10 عمال بالفصل'>فرج الله</a> للصناعات الغذائية، والنادي <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="7196f594-9e31-4511-9432-6b90af79f7a8" href="https://almanassa.com/news/28060" title="للمطالبة بالحد الأدنى للأجور.. وقفات احتجاجية متزامنة لعمال النادي الأهلي ">الأهلي</a>، ومؤسستا <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="4e722b87-012b-4817-b1b1-4a2f2e584170" href="https://almanassa.com/news/27461" title="يتقاضون 3500 جنيه.. صحفيو الوفد يواصلون اعتصامهم مطالبةً بتطبيق الحد الأدنى للأجور">الوفد </a>و<a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="8e985e1a-8633-4a60-bd63-e670e6b85fff" href="https://almanassa.com/news/28503" title='صحفيو "البوابة نيوز" يبدأون اعتصامًا مفتوحًا لتطبيق الحد الأدنى للأجور'>البوابة نيوز</a>.</p>
+
+<blockquote>
+<p> بلغ التعسف الإدارى ذروته في شركة لينين جروب إذ ماتت رضيعة على ذراع أمها العاملة بعد رفض منحها إجازة</p>
+</blockquote>
+
+<p>وتظهر قرارات الحد الأدنى المتواصلة الفجوةَ الكبيرةَ بين ما يتقاضاه العمال فعليًا من أجور، وبين هذا الحد، ليس فقط داخل القطاع الخاص بل وداخل المؤسسات الحكومية نفسها، التي تُشغّل عمالةً مؤقتةً تتقاضى أجورًا أقل بكثير من الحد الأدنى الرسمي، كما يؤكد وائل جمال رئيس وحدة العدالة الاقتصادية بالمبادرة المصرية للحقوق الشخصية لـ <strong>المنصة</strong>.</p>
+
+<p>وارتفع <a href="https://www.facebook.com/watch/?v=931037149205968">الحد الأدني </a>للأجور المعلن من الدولة بوتيرة متسارعة لملاحقة التضخم، حيث زاد من 3000 جنيه في 2022 إلى 7000 في العام الماضي، لكن <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="db06ff99-fdb2-414d-8eda-6398ab55f40e" href="https://almanassa.com/stories/5619" title="زيادة الحد الأدنى للأجور: شركات صامتة وتأمينات غائبة">ضعف</a> رقابة الدولة على القطاع الخاص حد من فرص الالتزام الفعلي بهذا الحد.</p>
+
+<p><a href="https://www.facebook.com/EIPR.org/posts/-%D9%8A%D8%AC%D8%AA%D9%85%D8%B9-%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%84%D9%84%D8%A3%D8%AC%D9%88%D8%B1-%D8%BA%D8%AF%D9%8B%D8%A7-%D8%A8%D8%B1%D8%A6%D8%A7%D8%B3%D8%A9-%D9%88%D8%B2%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%AE%D8%B7%D9%8A%D8%B7-%D8%B1%D8%A7%D9%86%D9%8A%D8%A7-%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D8%B7-%D9%84%D8%A8%D8%AD%D8%AB-%D8%B2%D9%8A%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84/1072137561606756/">وترى</a> المبادرة المصرية للحقوق الشخصية في الحد الأدنى للأجور الأخير، 7000 جنيه، خطوة جيدة لكنه يظل غير قادر على حماية أسرة من الوقوع تحت خط الفقر.</p>
+
+<p>يشير وائل جمال إلى أن العمال كانوا في حاجة لبوصلة للأجر الذي يتناسب مع معدلات التضخم، وبالفعل وفرت قرارات الحد الأدنى الرسمية هذه البوصلة، ما ساهم في زيادة الاحتجاجات للوصول إلى هذا الحد بوصفه مطلبًا مشروعًا من السهل التعبئة عليه.</p>
+
+<p>ومُورست ضد العمال عديدٌ من الانتهاكات المتعلقة بالأجور، من بينها التلاعب في حساب الأجر عند تطبيق الحد الأدنى، كما حدث مع عمال <a href="https://manassa.news/news/26249#:~:text=%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1%20%D8%A5%D8%B6%D8%B1%D8%A7%D8%A8%20%22%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%B1%D9%8A%D8%A9%20%D9%84%D9%84%D9%86%D8%B3%D9%8A%D8%AC%22%20%D9%84%D9%84%D9%8A%D9%88%D9%85%20%D8%A7%D9%84%D9%8012..%20%D9%88%D8%A7%D9%84%D8%A3%D9%85%D9%86%20%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%20%D9%8A%D8%B3%D8%AA%D8%AF%D8%B9%D9%8A%205%20%D8%B9%D9%85%D8%A7%D9%84">العامرية</a> للغزل والنسيج، فحسب شهادات العمال أضافت الإدارة بندًا لقسيمة الراتب سمّته المتمم للحد الأدنى، بحيث يتم إدراج أي امتيازات مالية ممنوحة للعامل تحت هذا البند ما يعطل زيادة الراتب الكلي للعمال.</p>
+
+<p>وشملت أيضًا تشغيل العمال لساعات إضافية <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="70bfa1fb-6c5c-4102-9848-01d7b7d14f96" href="https://almanassa.com/news/28100" title='"12 ساعة بلا أجر إضافي".. عمال الأمن بـ"طلعت مصطفى" يطالبون بزيادة الرواتب'>دون أجر</a>، كما حدث مع عمال الأمن بمدينتي، إحدى مشروعات شركة الإسكندرية للإنشاءات التابعة لمجموعة طلعت مصطفى، كما شملت <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="4e7675fb-20b3-44a0-91a6-59a609abeb98" href="https://almanassa.com/news/24896" title="استمرار إغلاق سيراميكا الأمراء للأسبوع الثالث.. و3000 عامل بلا أجور">تأخير </a>صرف الأجور لمدد وصلت لـ3 أشهر كما حدث مع عمال سيراميكا إينوفا والأمراء.</p>
+
+<h2>التسريح والتعسف الإداري</h2>
+
+<p>لم تنحصر أسباب الاحتجاجات في عدم تطبيق الحد الأدنى وضعف الرواتب، لكنها انفجرت تحت ضغط انتهاكات أخرى من بينها تسريح العمال بدعوى الأزمة المالية، كما جرى لعمال شركات تصنيع السيراميك <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="868c84ef-8bfe-4ecd-9080-d5d433438943" href="https://almanassa.com/news/21775" title='وقفة احتجاجية لعمال سيراميكا لابوتيه للمطالبة بزيادة الرواتب ووقف "خطط تسريحهم"'>لابوتيه،</a> <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="b4bbfd3c-4126-4a4c-8e90-a4a2fa78d88b" href="https://almanassa.com/news/24481" title="3000 عامل بسيراميكا الأمراء معرضون للتشريد بعد قطع الغاز عن المصانع">الأمراء</a>، <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="c6a33c6c-5ef4-4a7b-9cbf-03db227cf26b" href="https://almanassa.com/news/22758" title='بينهم 130 من ذوي الإعاقة و57 امرأة.. "سيراميكا إينوفا" تفصل مئات العمال'>إينوفا</a> ومعهد تكنولوجيا الطيران، و<a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="b87772ad-e620-4fb7-a3d5-caccd435eda4" href="https://almanassa.com/news/26181" title='"بـ لبن" تسرح 1500 عامل وتجبرهم على توقيع استقالات'>بـ لبن</a>، والمتحدة للصيادلة، هذا إضافة للإجبار على تقديم استقالات مقابل تسويات مجحفة لحقوقهم المالية كما في حالتي عمال <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="e3862f16-4b79-4081-8882-b23f9d0e6469" href="https://almanassa.com/news/26064" title='ضغوط على عمال "إمبي للملابس" لتقديم استقالاتهم وتحرير عقود جديدة'>إمبي</a> للملابس بالإسماعلية، وعمال <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="5f086222-14bc-4247-ae27-f37ace398a77" href="https://almanassa.com/news/29214" title='مقابل "رُبع شهر عن كل سنة".. عمال "رؤية للمقاولات" يشكون ضغوطًا لإجبارهم على الاستقالة'>رؤية للمقاولات </a>بالعين السخنة.</p>
+
+<p>ساهم التعسف الإداري أيضًا في تحريك غضب العمال، من بينها <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="b00989b3-b520-42b8-b24f-17aa91ef5c39" href="https://almanassa.com/news/25512" title="بينهم ذوو أمراض مزمنة وأورام.. وقف الخدمات العلاجية لـ2000 عامل بسيراميكا إينوفا">وقف </a>الخدمات العلاجية لآلاف العمال في "إينوفا" والشركة العربية للغزل والنسيج بالإسكندرية لعدم دفع الشركات الاشتراكات وتراكم مديونيات كبيرة عليها لصالح الهيئة القومية للتأمين الاجتماعي، ولم يستثن القرار حتى <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="77fe5c6d-b621-4045-9b0e-5dc416645917" href="https://almanassa.com/news/27625" title="بينهم مرضى أورام.. وقف الخدمات العلاجية لعمال الشركة العربية للغزل والنسيج بالإسكندرية">مرضى الأورام</a>.</p>
+
+<p>وتمثل أقسى تجسيد للتعسف الإداري في حادث مأساوي شهدته شركة لينين جروب للنسيج والمفروشات بالإسكندرية، عندما <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="b54933d2-9968-46e7-bd3f-229986c8f905" href="https://almanassa.com/news/27026" title='بعد وفاة رضيعة على ذراع أمها.. عمال "لينين جروب" يضربون عن العمل'>ماتت </a>طفلة رضيعة على ذراع أمها العاملة بعد رفض الإدارة منح الأم إجازةً أو إذنًا للذهاب بابنتها المريضة إلى المستشفى، واحتجاز الأم ثلاث ساعات داخل الشركة، وهو الحادث الذي فجر إضرابًا شارك فيه آلاف العمال والعاملات.</p>
+
+<h2><strong>الدولة في مواجهة العمال</strong></h2>
+
+<p>اعتمدت الدولة بشكل رئيسي على ذراعها الأمنية لمواجهة صعود الغضب العمالي، وتجسد ذلك في العديد من ممارسات الترهيب التي اتّبعت لكبح هذا الحراك خلال 2025، ففي يناير/كانون الثاني <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="9f9b930f-bb11-48ef-8933-8efd61c08963" href="https://almanassa.com/news/21945" title="لمشاركتهم في الإضراب.. القبض على عمال بشركة T&amp;C للملابس من منازلهم">قُبض </a>على عدد من عمال T&amp;C خلال إضرابهم عن العمل، وأمرت نيابة العبور لاحقًا بـ <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="fc4d3b45-293d-4103-95c0-f12cc1735ced" href="https://almanassa.com/news/21982" title="لمشاركتهم في الإضراب.. حبس 8 عمال بشركة T&amp;C للملابس 4 أيام">حبسهم </a>4 أيام بتهمة "إثارة الشغب، وتعطيل العمل والإضرار بمصالح الشركة"، قبل أن <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="1d6f050a-9dc5-424a-acac-03277952d339" href="https://almanassa.com/news/22001" title='المحكمة تخلي سبيل 9 من شركة T&amp;C بكفالة 2000 جنيه.. والعمال ينهون إضرابهم "تحت التهديد"'>تخلي</a> محكمة الخانكة الجزئية سبيلهم بكفالة 2000 جنيه.</p>
+
+<p>وفي مارس/آذار فضت قوات الشرطة اعتصامًا لعمال الشركة الوطنية للزراعات المحمية، التابعة لجهاز مشروعات الخدمة الوطنية للقوات المسلحة، وألقت <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="d23540f6-b8ab-454f-ba33-357a8706f8a2" href="https://almanassa.com/news/22969" title='بينهم نساء وذوو إعاقة.. "جنح الزقازيق" تؤيد حبس العشرات من عمال "الوطنية للزراعات المحمية"'>القبض</a> على 39 عاملًا وعاملة بينهم أطفال ونساء مرضعات وذوو إعاقة، لتأمر نيابة العاشر من رمضان بحبسهم 4 أيام، ثم جدد قاضي المعارضات بمحكمة العاشر من رمضان حبسهم 15 يومًا أخرى، ثم <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="4e4cc090-c7ff-4f7a-a1a8-13e35e097d61" href="https://almanassa.com/news/23011" title='بينهم أطفال ونساء مرضعات وذوو إعاقة.. إخلاء سبيل 39 عاملًا بـ"الوطنية للزراعات المحمية"'>أخلت </a>المحكمة ذاتها سبيلهم بعد 19 يومًا قضوها في الحبس.</p>
+
+<p>وفي سوهاج وقنا <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="d42d5004-c1ab-446e-bb72-d94dcc8462c2" href="https://almanassa.com/news/28849" title='رغم القبض على 25 منهم وإجبار آخرين على العمل.. عمال "مودرن جاس" مستمرون في الإضراب'>قُبض </a>على 25 عاملًا بالشركة الحديثة للغاز الطبيعي مودرن جاس خلال مشاركتهم في إضراب عن العمل مطلع ديسمبر، ولم يخل سبيلهم إلا بعد <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="0e4d05e7-b06b-4ca0-b405-7bad8ca7d1b3" href="https://almanassa.com/news/28879" title='إخلاء سبيل عدد من عمال "مودرن جاس" بعد اتفاق مع الإدراة على إنهاء الإضراب'>اتفاق </a>بين إدارة مودرن جاس والعمال "برعاية الأمن" على إنهاء الإضراب مقابل خروج زملائهم.</p>
+
+<p>وخلال احتجاجات عمال العامرية للنسيج بالإسكندرية، ووبريات سمنود بالغربية، وشركات السكر في دشنا، وإدفو، وكوم أمبو، <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="0335de01-71ff-458d-a605-2214e21d9065" href="https://almanassa.com/news/26249" title='استمرار إضراب "العامرية للنسيج" لليوم الـ12.. والأمن الوطني يستدعي 5 عمال'>استدعى</a> الأمن الوطني عشرات العمال إلى مقراته و<a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="24c577bb-98d8-4f9e-bc71-f93071f224cf" href="https://almanassa.com/news/19501" title='الأمن الوطني يستدعي 5 من عاملات "وبريات سمنود" ويطالبهن بإنهاء الإضراب'>هددهم </a>بالحبس حال استمرارهم في الاحتجاجات.</p>
+
+<p>تهديدات الأمن الوطني للعمال امتدت إلى ما بعد انتهاء الاحتجاحات، حيث <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="d5c14696-3d06-42b7-8211-f9f939ba58e6" href="https://almanassa.com/news/28044" title='لاعتزامهم الدخول في إضراب.. الأمن الوطني بأسوان يستدعي 10 عمال من "سكر إدفو"'>استدعى </a>جهاز الأمن الوطني بمحافظة أسوان 10 عمال من مصنع سكر إدفو، أحد مصانع شركة السكر والصناعات التكاملية، لاعتزام عمال الشركة الدخول في إضراب جديد لعدم تنفيذ الشركة لوعودها.</p>
+
+<h2><strong>انتصارات وهزائم وخبرات</strong></h2>
+
+<p>لم تؤتِ النسبة الأكبر من الاحتجاجات العمالية ثمارها في تحقيق مطالب العمال، وكما يرى كمال عباس، فرغم تصاعد الحراك العمالي في هذه السنة، فإن وضعه كان هشًا أمام الضغوط الأمنية بسبب ضعف التنظيم النقابي في مواقع العمل.</p>
+
+<p>ويُتهم التنظيم النقابي العريق في مصر بالخضوع لتوجيهات الدولة، <a href="https://carnegieendowment.org/sada/2016/09/the-shrinking-independence-of-egypts-labor-unions?lang=ar">وحاول</a> العمال بعد ثورة يناير تأسيس نقابات مستقلة عنه لكنها واجهت ضغوطًا حكومية وأمنية حد من نشاطها، <a href="https://www.facebook.com/100064535599158/posts/%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF-%D8%B1%D9%82%D9%85-14-%D9%84%D8%B3%D9%86%D8%A9-2025-%D9%84%D8%AA%D8%AD%D9%85%D9%8A%D9%84-%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86-%D9%85%D9%84%D9%81-pdf-%D8%A8%D8%B1%D8%AC%D8%A7%D8%A1-%D8%A7%D9%84%D8%AF%D8%AE%D9%88%D9%84-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B1%D8%A7/1111631837664659/">وخلال</a> العام الماضي صدر قانون جديد للعمل <a href="https://eipr.org/press/2025/04/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%AF%D8%B1%D8%A9-%D8%AA%D8%B5%D8%AF%D8%B1-%D9%88%D8%B1%D9%82%D8%A9-%D9%85%D9%88%D9%82%D9%81-%D8%B9%D9%86-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF-%D9%86%D8%AF%D8%B9%D9%88-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%84%D8%B9%D8%AF%D9%85-%D8%A7%D9%84%D8%AA%D8%B5%D8%AF%D9%8A%D9%82-%D8%B9%D9%84%D9%89">اعتبرت</a> المبادرة المصرية للحقوق الشخصية أنه ينطوي على "انحياز سافر لأصحاب العمل".</p>
+
+<p>ويضع عباس "ضعف القوى السياسية وتركيزها على القضايا السياسية على حساب القضايا الاجتماعية من ضمن أسباب ضعف الحراك العمالي، "فقد تركوا وحيدين في مواجهة رأس المال، والأجهزة الأمنية".</p>
+
+<p>مع ذلك شهدت 2025 انتصارات عمالية، ففي شركة مصر العامرية للغزل والنسيج، أجبر العمال، الرئيس التنفيذي للشركة على تقديم <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="3b7265a5-6a53-4772-bc8b-84c4b9601b11" href="https://almanassa.com/news/26283" title='تحت ضغط الإضراب.. رئيس "العامرية للنسيج" يتقدم باستقالته'>استقالته</a> بعد 13 يومًا من إضراب عن العمل حمل عدة مطالب من بينها رحيله، كما أُجبرت الإدارة الجديدة على الجلوس مع العمال للتفاوض و<a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="98bf2d06-c6da-4d82-810a-a59c19d8505b" href="https://almanassa.com/news/26539" title='"العمل" تدعو "العامرية للغزل" لتصحيح مخالفات الأجور.. والعمال يطالبون بإقالة "المستشارين"'>عدلت</a> طريقة احتساب الحد الأدنى، الذي اتهم العمال الإدارة الراحلة بالتلاعب فيه.</p>
+
+<p>وتحت ضغط الإضراب العمالي، استجابت إدارة "لينين جروب" بإبرام <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="7b0ac691-1fef-499a-9539-73b59a5632a5" href="https://almanassa.com/news/27104" title='يشمل تعويضًا لوالدة الرضيعة المتوفاة.. اتفاق بين العمال والإدارة ينهي إضراب "لينين جروب"'>اتفاق </a>مع العمال تضمن صرف تعويض "مُرضٍ" للعاملة والدة الرضيعة التي ماتت على ذراعها داخل الشركة، كما استبعدت المديرة التي امتنعت عن منحها إجازة لرعاية طفلتها المريضة، من منصبها، وتضمن الاتفاق تنفيذ عدد من مطالب العمال تضمنت حقوق مالية كانت تماطل الشركة في تنفيذها.</p>
+
+<p>وفي شهر أكتوبر/تشرين الأول الماضي توصل صحفيو جريدة وموقع الوفد إلى اتفاق مع رئاسة الحزب على <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="2b3f53c4-4e0d-4724-8c26-691e589e1183" href="https://almanassa.com/news/27519" title="بعد 4 أيام من الاعتصام.. صحفيو الوفد ينالون مطالبهم">تنفيذ </a>مطالبهم بتطبيق الحد الأدنى للأجور، بعد أربعة أيام من اعتصامهم بمقر الحزب. </p>
+
+
+<div data-embed-button="almanassa_story_browser" data-entity-embed-display="view_mode:node.read_also" data-entity-type="node" data-entity-uuid="0cb186d2-add6-44ce-8aa2-3de2cd2baac4" data-langcode="ar" data-entity-embed-display-settings="[]" data-sanitized-class="embedded-entity">
+	<article data-history-node-id="17350" role="article" about="/stories/17350" data-sanitized-id="node-17350" data-sanitized-class="view-mode--read-also type-story"><div data-sanitized-class="row">
+		<a href="https://almanassa.com/stories/17350" almanassa-posthog-link="" data-ph-capture-attribute-link-type="story" data-ph-capture-attribute-link-id="17350" data-ph-capture-attribute-link-title='30 ألف جنيه شهريًا لا تكفي.. "المحرمات" على مائدة الطبقة الوسطى ' data-ph-capture-attribute-link-section="اقتصاد وعمران" data-ph-capture-attribute-link-view-mode="read_also" data-sanitized-class="columns small-12 medium-6">
+			<hr data-sanitized-class="embed-divider"><div data-sanitized-class="h3">اقرأ أيضا</div>
+			
+			<div data-sanitized-class="h2">
+				<span>30 ألف جنيه شهريًا لا تكفي.. "المحرمات" على مائدة الطبقة الوسطى </span>
+
+			</div>
+			
+			<hr data-sanitized-class="embed-divider"></a>
+	</div>
+</article></div>
+<p>يتوقع عباس أن يستمر الحراك العمالي في 2026 بدفع من استمرار الفجوة بين الأجور والأسعار والاحتياج القوي للأمان الوظيفي.</p>
+
+<p>لكن هذه الاحتجاجات ستواجه تحديات جمة، وسيدفع محركوها أثمانًا باهضة لن تقل عما دفعه سامح علي، الذي لعب دورًا رئيسيًا في تنظيم أول احتجاج رصدناه في 2025 بشركة T&amp;C للملابس، إذ <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="39a3295e-d983-4614-b956-0e20f092cd55" href="https://almanassa.com/news/22842" title="بعد 14 سنة خدمة في الشركة.. T&amp;C للملابس تنهي عقد أحد العمال">فصلته </a>إدارة الشركة بعد 14 سنة خدمة، وبينما لا تزال دعوى فصله تعسفيًا منظورة أمام القضاء، يواصل البحث عن عمل جديد دون جدوى.</p>
+						<div data-sanitized-id="topic-file-stories">
+			<div data-sanitized-class="views-element-container">		<div almanassa-posthog-link-source="" data-almanassa-posthog-link-source="Story Topic File Stories List" data-almanassa-posthog-link-source-type="topic_files" data-almanassa-posthog-link-source-id="embed_story_topic_file" data-sanitized-class="js-view-dom-id-73388ff481a1ff22f6b55919fcd1b08196798be08d5232bfba388950c453cbac">
+		
+		
+		
+
+		
+		
+		
+		
+
+		
+		
+		
+
+		
+		
+
+		
+		
+	</div>
+</div>
+
+			</div>
+		</div><!-- FULLCONTENT end //-->]]></description>
+			<pubDate>Mon, 05 Jan 2026 19:41:11 +0200</pubDate>
+			<guid isPermaLink="false">1767634888716514</guid>
+		</item>
+		<item>
+			<title>من رأس الحكمة إلى علم الروم.. مخاطر خدمة الديون ببيع الأراضي</title>
+			<link>https://almanassa.com/stories/28867</link>
+						<dc:creator>دعاء السيد</dc:creator>
+			<media:thumbnail url="https://almanassa.com/sites/default/files/styles/card_lead/public/photobank/2025/21827098-d0fc-4a7f-a412-e873e6163b2e.png.webp?itok=KfDVa8De" />
+			<media:content url="https://almanassa.com/sites/default/files/styles/card_lead/public/photobank/2025/21827098-d0fc-4a7f-a412-e873e6163b2e.png.webp?itok=KfDVa8De" medium="image"></media:content>
+			<description><![CDATA[<!-- FULLCONTENT start //--><div data-sanitized-class="columns small-12 table-scroll">
+							<p>رغم كونه غيرَ مختصٍ بقطاعات الإسكان والاستثمار والسياحة، كان الحضور القوي لوزير المالية أحمد كجوك في مشهد توقيع <a href="https://youtu.be/VM8RTuKfLpw?si=tB-Mxkkm0qmzNlQ1">صفقة</a> تخصيص منطقة علم الروم في الساحل الشمالي لشركة الديار القطرية، الشهر الماضي، لافتًا، حتى أن قناة العربية <a href="https://www.youtube.com/watch?v=usJT7682x3Y">وصفته</a> بأنه الشخص "الأكثر سعادة" بإتمام هذه الصفقة.</p>
+
+<p>الفضائية السعودية أرجعت سعادة الوزير إلى أن إتمام هذه الصفقة من الأساس كان مدفوعًا بالرغبة في جمع إيرادات تساعد على خفض الدين العام.</p>
+
+<p>وأصبحت صفقات الأراضي الكبرى سياسةً متكررةً بعد <a href="https://www.youm7.com/story/2024/9/19/%D8%B9%D9%84%D9%89-%D8%BA%D8%B1%D8%A7%D8%B1-%D8%B1%D8%A3%D8%B3-%D8%A7%D9%84%D8%AD%D9%83%D9%85%D8%A9-%D8%AA%D8%AD%D8%AF%D9%8A%D8%AF-5-%D9%85%D9%86%D8%A7%D8%B7%D9%82-%D9%84%D8%AA%D9%86%D9%85%D9%8A%D8%AA%D9%87%D8%A7-%D8%B9%D9%84%D9%89-%D8%B3%D8%A7%D8%AD%D9%84/6713310">إعلان </a>رئيس الوزراء مصطفى مدبولي في سبتمبر/أيلول 2024 عن خمس مناطق يمكن تنميتها على غرار صفقة رأس الحكمة التي وقعتها الحكومة العام الماضي مع الإمارات.</p>
+
+<p>تصريحات كوجك بعد توقيع صفقة علم الروم تتسق مع هذه التوجهات وتؤكد على أن الحكومة تتبنى بشكل واضح طرح هذه المشروعات حلولًا لمواجهة تضخم الدين العام، الذي <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="ba0b6f3a-e6f6-4581-a864-38df456b49ed" href="https://almanassa.com/news/28801" title="الفوائد تتجاوز الإيرادات خلال أول أربعة شهور من العام المالي">باتت</a> الفوائد المدفوعة عليه تتجاوز قيمة إيرادات الموازنة العامة.</p>
+
+<p><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="b2244127-dc9a-4740-ab73-f40983026395" href="https://almanassa.com/news/28297" title='"المالية" تحصل على 50% من صفقة علم الروم.. وكجوك لـ المنصة: توجيه الجزء الأكبر لخفض الدين'>كرر</a> كجوك في عدة تصريحات قوله إن الجزء الأكبر من نصيب وزارته من الصفقة سيوجّهه لخفض الدين العام، وهو ما يراه خبراء نهجًا في مواجهة الديون لا يمكن أن يكون حلًا مستدامًا رغم أهمية الصفقة القطرية بسبب توقيتها في مواجهة تحديات الديون التي تراكمت على مصر خلال السنوات الأخيرة.</p>
+
+<p>كما ينوه الخبراء بأن صغر حجم صفقة علم الروم مقارنة بصفقة <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="9f41fd18-af21-4e63-a517-3646c67a34a9" href="https://almanassa.com/news/16361" title='مدبولي: "الصفقة الكبرى" في رأس الحكمة وقيمتها 35 مليار دولار'>رأس الحكمة</a> قد يكون مؤشرًا على صعوبة تكرار التجربة الإماراتية، وينذر أيضًا بمخاطر الاعتماد على سياسة بيع الأراضي لخفض الديون.  </p>
+
+<h2>تحديات مستقبلية</h2>
+
+<figure role="group" data-sanitized-class="align-left"><div data-embed-button="almanassa_media_browser" data-entity-embed-display="view_mode:media.embed" data-entity-type="media" data-entity-uuid="8c515d09-e026-4433-a6e9-7637b4368b5d" data-langcode="ar" data-entity-embed-display-settings="[]" data-sanitized-class="embedded-entity">
+	    <picture><source media="all and (min-width: 1440px)" type="image/webp"><source media="all and (min-width: 641px)" type="image/webp"><source type="image/webp"><img src="https://almanassa.com/sites/default/files/styles/max_650x650/public/photobank/431964256_122131346984145131_866776433740128218_n.jpg.webp?itok=C4p5SIvz" alt="" typeof="foaf:Image"></picture><aside data-sanitized-class="media--management-links"><ul></ul></aside><aside data-sanitized-class="caption credits">جروب باسم الأهلي صبور على فيسبوك</aside></div>
+<figcaption>مشروع تطوير رأس الحكمة، مارس 2024</figcaption></figure><p>رغم <a href="https://assafirarabi.com/ar/58318/2024/02/22/%D8%B1%D8%A3%D8%B3-%D8%A7%D9%84%D8%AD%D9%83%D9%85%D8%A9-%D9%87%D9%84-%D8%A8%D8%A7%D8%B9-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D9%88%D9%86-%D8%A3%D8%B1%D8%B6%D9%87%D9%85-%D9%84%D8%A3%D8%A8%D9%86%D8%A7/">الانتقادات</a> المتكررة لسياسة بيع الأراضي للأجانب، وقعت مصر منذ 2024 ثلاث صفقات كبرى لتطوير الأراضي على السواحل المصرية، جاءت في مقدمتها رأس الحكمة ثم علم الروم، والثالثة <a href="https://asharqbusiness.com/companies/97245/%D8%A5%D8%B9%D9%85%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D8%B4%D8%B1%D8%A8%D8%AA%D9%84%D9%8A-%D8%AA%D8%B3%D8%AA%D8%AB%D9%85%D8%B1%D8%A7%D9%86-900-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AC%D9%86%D9%8A%D9%87-%D8%A8%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D8%B3%D9%8A%D8%A7%D8%AD%D9%8A-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1/#:~:text=%D9%88%D9%8A%D8%AA%D8%AC%D8%A7%D9%88%D8%B2%20%D8%A5%D8%AC%D9%85%D8%A7%D9%84%D9%8A%20%D9%82%D9%8A%D9%85%D8%A9%20%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1%D8%A7%D8%AA%20%22%D8%A5%D8%B9%D9%85%D8%A7%D8%B1,%D9%88%D8%A2%D9%84%D8%A7%D9%81%20%D8%A7%D9%84%D8%BA%D8%B1%D9%81%20%D8%A7%D9%84%D9%81%D9%86%D8%AF%D9%82%D9%8A%D8%A9%D8%8C%20%D8%A8%D8%AD%D8%B3%D8%A8%20%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86.">أعلنت</a> عنها شركة إعمار الإماراتية ورجل الأعمال السعودي حسن الشربتلي في البحر الأحمر باستثمارات 18.5 مليار دولار.</p>
+
+<p>تفسر المحللة المالية إسراء أحمد توالي هذه الصفقات بأنه أحد الحلول المتاحة لمواجهة ضغوط النقد الأجنبي الحالية "حيث نعاني من عجز تجاري سلعي مزمن وكبير تجاوز الخمسين مليار دولار في السنة المالية 2024-2025"، بينما يحذر محمد فؤاد الخبير الاقتصادي وعضو لجنة الاقتصاد الكلي بمجلس الوزراء من أن هذه الصفقات تخلق تحديات مستقبلية.</p>
+
+<p>و<a href="https://www.facebook.com/EconomyPlusAr/posts/%D9%85%D8%B5%D8%B1-%D8%AA%D8%B3%D8%AC%D9%84-%D8%A3%D8%B9%D9%84%D9%89-%D8%B9%D8%AC%D8%B2-%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A-%D9%81%D9%8A-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%87%D8%A7-%D8%AE%D9%84%D8%A7%D9%84-20252024/846199254636063/">تضخّم</a> العجز التجاري بشكل لافت رغم استقرار سعر الصرف منذ إبرام صفقة رأس الحكمة، لأسباب على رأسها استيراد الغاز المسال لمنع تكرار أزمة انقطاع التيار الكهربائي.</p>
+
+<p>وتوضّح إسراء أحمد لـ <strong>المنصة</strong> أن "مصر لديها جدول مزدحم بالالتزامات الدولارية المتعلق بسداد القروض، يبلغ حوالي 44 مليار دولار خلال 2026 لسداد الأقساط فقط"، مشيرة إلى أن تلك الأعباء تفرض على الحكومة البحث عن صفقات استثمارية بقيمة مرتفعة بشكل استثنائي، وهو ما تحقق في نموذج بيع الأراضي الساحلية للخليج.</p>
+
+<p>ويقر فؤاد بأن صفقات بيع الأصول ومنح حق الانتفاع تسهم في توفير السيولة الدولارية، لكنه يحذر من أنها "تستهلك القطع المميزة من الأصول القابلة للبيع، وهو ما يمثل تحديًا مستقبليًا أمام توليد الموارد عبر هذا المسار"، كما يقول لـ <strong>المنصة</strong>.</p>
+
+<p>بالمقابل يشير الخبير المصرفي أحمد مجدي منصور إلى أن لهذه الصفقات أثرًا إيجابيًّا على الاقتصاد، إذ تساعد على تخفيف ضغوط الديون.</p>
+
+<p>يذهب منصور في حديثه لـ <strong>المنصة</strong> إلى أن جذب استثمارات مباشرة بهذا الحجم يعكس بيئة أعمال أكثر أمانًا وتوقعات متفائلة بشأن العائد على الاستثمار، ما يساهم في خفض تقديرات المخاطر السيادية وتحسين صورة الدولة لدى المؤسسات المالية العالمية، بالتالي تدعم قدرة الدولة على سداد التزاماتها المستقبلية.</p>
+
+<p>وساهم ارتفاع تقدير  مؤسسات التصنيف الائتماني الدولية لمخاطر الاقتصاد المصري خلال الأعوام الأخيرة في زيادة قيمة الفوائد المدفوعة على ديونها الخارجية. و<a href="https://www.worldbank.org/en/programs/debt-statistics/idr/products">حسب</a> بيانات البنك الدولي، تضاعفت قيمة فوائد الدين الخارجي طويل الأجل منذ 2021 لتبلغ في 2024 نحو 6.7 مليار دولار.</p>
+
+<h2>الأخت الصغرى</h2>
+
+<p>استنادًا إلى حسابات إسراء أحمد المبنية على مساحة الأرض في كلا المشروعين، يبلغ سعر المتر المربع في صفقة علم الروم نحو 170 دولارًا، مقابل نحو 140 دولارًا في رأس الحكمة.</p>
+
+<p>يعكس السعر الأعلى لأرض علم الروم أداءً حكوميًا أفضل في الضغط على الجهة المستثمرة خلال مسار تفاوضي وصفه رئيس الوزراء عند <a href="https://almanassa.com/stories/youtube.com/watch?time_continue=107&amp;v=VM8RTuKfLpw&amp;embeds_referring_euri=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3D%25D9%2585%25D8%25AC%25D9%2584%25D8%25B3%2B%25D8%25A7%25D9%2584%25D9%2588%25D8%25B2%25D8%25B1%25D8%25A7%25D8%25A1%2B%25D8%25AA%25D9%2588%25D9%2582%25D9%258A%25D8%25&amp;source_ve_path=MjM4NTE">إعلانه</a> الصفقة بـ"المرير والكبير". وهنا تُذكِّر إسراء بأن مفاوضات رأس الحكمة جرت في وقت كانت مصر فيه تمر بأزمة شديدة في تدبير النقد الأجنبي، ما جعلها مضطرة لأسعار لم تعُد تقبل بها في مفاوضات علم الروم خلال هذه الفترة التي تتمتع فيها باستقرار سعر الصرف.</p>
+
+<blockquote>
+<p>النسبة الأكبر من إجمالي صفقة علم الروم تمثل استثمارات ستنفذها الشركة في مصر</p>
+</blockquote>
+
+<p>لكنَّ عائدات الدولة تتفاوت من الصفقتين بشكل كبير يصل إلى "عدة أضعاف" لصالح الصفقة الإماراتية، كما يؤكد فؤاد لـ <strong>المنصة</strong>.</p>
+
+<p>مع <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="8577e4a2-600e-45be-8921-43219c6c59a5" href="https://almanassa.com/stories/16701" title="أخيرًا بعض الأجوبة عن صفقة رأس الحكمة">توقيع</a> اتفاقية رأس الحكمة، سددت الإمارات 24 مليار دولار مقابل حصولها على امتياز تطوير الأرض. أما في حالة علم الروم، فتلتزم قطر بسداد 3.5 مليار دولار كـ"ثمن نقدي"، كما <a href="https://www.facebook.com/EgyptianCabinet/posts/%D8%B4%D8%B1%D8%A7%D9%83%D8%A9-%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1%D9%8A%D8%A9-%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-%D9%82%D8%B7%D8%B1%D9%8A%D8%A9-%D9%84%D8%AA%D9%86%D9%85%D9%8A%D8%A9-%D9%88%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%B1%D9%88%D9%85-%D8%A8%D9%85%D8%B7%D8%B1%D9%88%D8%AD%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D9%8A%D8%B4%D9%87/1392255899611493/">ورد</a> في بيان مجلس الوزراء عن الاتفاقية. </p>
+
+<p><a href="https://www.alarabiya.net/aswaq/exclusive/2025/07/10/-%D9%85%D8%B5%D8%A7%D8%AF%D8%B1-%D9%84%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%85%D8%AF%D9%86-%D8%A7%D9%84%D8%A7%D9%85%D8%A7%D8%B1%D8%A7%D8%AA%D9%8A%D8%A9-%D8%AA%D8%B7%D9%84%D9%82-%D9%82%D8%B1%D9%8A%D8%A8%D8%A7-%D8%A7%D9%84%D9%85%D8%B1%D8%AD%D9%84%D8%A9-%D8%A7%D9%84%D8%A7%D9%88%D9%84%D9%89-%D9%84%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D8%B1%D8%A7%D8%B3-%D8%A7%D9%84%D8%AD%D9%83%D9%85%D8%A9">وتبلغ</a> مساحة مشروع رأس الحكمة 170 مليون متر مربع، بينما تقتصر مساحة مشروع علم الروم على <a href="https://www.masrawy.com/news/news_egypt/details/2025/11/7/2886670/%D8%AE%D8%A8%D9%8A%D8%B1-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A-%D8%B9%D9%86-%D8%B5%D9%81%D9%82%D8%A9-%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%B1%D9%88%D9%85-3-5-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D8%B3%D8%AA%D8%AF%D8%AE%D9%84-%D8%AE%D8%B2%D9%8A%D9%86%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9-%D8%AF%D9%8A%D8%B3%D9%85%D8%A8%D8%B1-%D8%A7%D9%84%D9%85%D9%82%D8%A8%D9%84">نحو</a> 20 مليون متر مربع.</p>
+
+<p>ولم تُعلن الحكومة بعد عمَّا ستحصل عليه الموازنة العامة من إيرادات علم الروم من هيئة المجتمعات العمرانية، وهي ضمن الهيئات الاقتصادية التي <a href="https://manshurat.org/content/rbt-mwzn-hyy-lmjtmt-lmrny-ljdyd-llsn-lmly-20242023">تتمتع</a> بموازنة مستقلة عن الموازنة العامة، كونها <a href="http://www.newcities.gov.eg/dis_N_17-3-2019.aspx?ID=7105">شريكةً</a> أيضًا في الصفقة، لكنَّ مجلس الوزراء <a href="https://mof.gov.eg/ar/posts/media/69104ae4be7f100008d927ce/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9..-%D9%81%D9%89-%D8%B1%D8%B3%D8%A7%D9%84%D8%A9-%D9%85%D9%81%D8%AA%D9%88%D8%AD%D8%A9-%D9%84%D9%84%D9%85%D8%B3%D8%AA%D8%AB%D9%85%D8%B1%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D8%AD%D9%84%D9%8A%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D9%8A%D9%86-%D8%A8%D8%B9%D8%AF-%D8%AA%D9%88%D9%82%D9%8A%D8%B9-%D8%A7%D9%84%D8%B5%D9%81%D9%82%D8%A9-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D9%82%D8%B7%D8%B1%D9%8A%D8%A9%3A-%D9%85%D8%B5%D8%B1-%D8%AA%D8%B3%D8%AA%D8%AB%D9%85%D8%B1-%D9%81%D9%89-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84-%D8%A8%D8%A5%D8%B1%D8%A7%D8%AF%D8%A9-%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A%D8%A9-%D9%82%D9%88%D9%8A%D8%A9-%D9%88%D9%85%D8%AD%D9%81%D8%B2%D8%A9-%D9%84%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1-%D9%88%D9%84%D8%AC%D8%B9%D9%84-%D9%85%D8%B5%D8%B1-%D9%85%D8%B1%D9%83%D8%B2%D9%8B%D8%A7-%D9%84%D9%84%D8%AA%D8%B5%D9%86%D9%8A%D8%B9-%D9%88%D8%A7%D9%84%D8%AA%D8%B5%D8%AF%D9%8A%D8%B1-">قال</a> إن نصيب الدولة بشكل عام من الصفقة سيصل إلى 3.5 مليار دولار ما يساوي نحو  166 مليار جنيه من سعر الدولار الحالي.</p>
+
+<p>وعنونت وكالة رويترز <a href="https://www.reuters.com/world/middle-east/qatari-diar-enter-297-billion-deal-real-estate-project-egypt-2025-11-05/">تغطيتها</a> لصفقة علم الروم بالرقم الإجمالي لها والمقدر بـ29.7 مليار دولار، لكن النسبة الأكبر من هذا الرقم تمثل استثمارات ستنفذها الشركة في مصر وليست حصيلة نقدية ستذهب للموازنة العامة أو حتى لهيئة المجتمعات أو لأغراض تتعلق بشطب الديون الخارجية، على عكس<a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="9f41fd18-af21-4e63-a517-3646c67a34a9" href="https://almanassa.com/news/16361" title='مدبولي: "الصفقة الكبرى" في رأس الحكمة وقيمتها 35 مليار دولار'> رأس الحكمة</a> التي خصص بموجبها 35 مليار دولار للأغراض السابقة.</p>
+
+<p>ويشرح فؤاد أن ما ساهم في تضخيم صورة الاتفاق القطري هو أن الرقم الإجمالي الذي أُعلن سيشتمل على استثمارات مستقبلية في المشروع لن تدخل بالضرورة إلى خزانة الدولة.</p>
+
+<p>وحسب بيانات وزارة المالية، سددت هيئة المجتمعات العمرانية، بصفتها الجهة المشاركة للإمارات في مشروع رأس الحكمة، إلى الموازنة العامة، <a href="https://www.youm7.com/story/2024/6/29/%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B2%D9%86%D8%A9-%D8%AA%D8%AD%D9%82%D9%82-%D8%A3%D9%83%D8%A8%D8%B1-%D9%81%D8%A7%D8%A6%D8%B6-%D8%A3%D9%88%D9%84%D9%89-%D8%A8%D8%B9%D8%AF-%D8%AA%D8%AD%D8%B5%D9%8A%D9%84-510-%D9%85%D9%84%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AC%D9%86%D9%8A%D9%87/6621862">إيرادات</a> من حصيلة الصفقة الإماراتية بلغت 510 مليارات جنيه، أي حوالي 10.7 مليار دولار.</p>
+
+
+<div data-embed-button="almanassa_story_browser" data-entity-embed-display="view_mode:node.read_also" data-entity-type="node" data-entity-uuid="fbdba823-c543-4e47-91e5-bfe0e5436b70" data-langcode="ar" data-entity-embed-display-settings="[]" data-sanitized-class="embedded-entity">
+	<article data-history-node-id="22967" role="article" about="/stories/22967" data-sanitized-id="node-22967" data-sanitized-class="view-mode--read-also type-story"><div data-sanitized-class="row">
+		<a href="https://almanassa.com/stories/22967" almanassa-posthog-link="" data-ph-capture-attribute-link-type="story" data-ph-capture-attribute-link-id="22967" data-ph-capture-attribute-link-title='التهجير بالإزاحة.. رأس الحكمة للمستثمر ولسكانها "الشمس"' data-ph-capture-attribute-link-section="اقتصاد وعمران" data-ph-capture-attribute-link-view-mode="read_also" data-sanitized-class="columns small-12 medium-6">
+			<hr data-sanitized-class="embed-divider"><div data-sanitized-class="h3">اقرأ أيضا</div>
+			
+			<div data-sanitized-class="h2">
+				<span>التهجير بالإزاحة.. رأس الحكمة للمستثمر ولسكانها "الشمس"</span>
+
+			</div>
+			
+			<hr data-sanitized-class="embed-divider"></a>
+	</div>
+</article></div>
+<p>تعتقد إسراء أحمد أن المشروعات الساحلية قد تكون علاجًا مؤقتًا لأزمة الديون لكنها تفتقر إلى الأثر التنموي الذي يحتاجه الاقتصاد المصري على المدى البعيد، الذي لن يتحقق إلا من خلال أنماط أخرى من المشروعات أبرزها المشروعات الصناعية.</p>
+						<div data-sanitized-id="topic-file-stories">
+			<div data-sanitized-class="views-element-container">		<div almanassa-posthog-link-source="" data-almanassa-posthog-link-source="Story Topic File Stories List" data-almanassa-posthog-link-source-type="topic_files" data-almanassa-posthog-link-source-id="embed_story_topic_file" data-sanitized-class="js-view-dom-id-a5621a95534fae645ea85432e7b47f1f690c47913e157e8b682c40fd0d68d894">
+		
+		
+		
+
+		
+		
+		
+		
+
+		
+		
+		
+
+		
+		
+
+		
+		
+	</div>
+</div>
+
+			</div>
+		</div><!-- FULLCONTENT end //-->]]></description>
+			<pubDate>Mon, 05 Jan 2026 19:41:11 +0200</pubDate>
+			<guid isPermaLink="false">1767634888716513</guid>
+		</item>
+		<item>
+			<title>«آي صاغة»: ارتفاع قوي في أسعار الذهب محليًا وعالميًا بدعم التوترات الجيوسياسية ومخاوف الأسواق</title>
+			<link>https://market.isagha.com/articles/2055</link>
+						<media:thumbnail url="https://cdn.isagha.net/public/files/ILAwFZPR0ZayVk4yQdshJdyANtCJrpqAlc8NtYoU.jpg" />
+			<media:content url="https://cdn.isagha.net/public/files/ILAwFZPR0ZayVk4yQdshJdyANtCJrpqAlc8NtYoU.jpg" medium="image"></media:content>
+			<description><![CDATA[<div data-sanitized-class="content-article">
+					<p></p><p>سجلت أسعار الذهب في الأسواق المحلية والبورصة العالمية ارتفاعًا ملحوظًا خلال تعاملات اليوم الإثنين، مدفوعة بتصاعد التوترات الجيوسياسية العالمية، وعلى رأسها التطورات الأخيرة بين الولايات المتحدة وفنزويلا، وهو ما...</p>
+					<a href="https://market.isagha.com/articles/2055" data-sanitized-class="read-more">تابع القراءة</a>
+				</div>]]></description>
+			<pubDate>Mon, 05 Jan 2026 19:41:09 +0200</pubDate>
+			<guid isPermaLink="false">1767634888716512</guid>
+		</item>
+		<item>
 			<title>البنك المركزي</title>
 			<link>https://market.isagha.com/prices</link>
 						<description><![CDATA[<div data-sanitized-class="clearfix stats">
@@ -665,175 +1017,6 @@
         </div>]]></description>
 			<pubDate>Sat, 03 Jan 2026 22:32:03 +0200</pubDate>
 			<guid isPermaLink="false">1767472343035610</guid>
-		</item>
-		<item>
-			<title>جنيه ذهب</title>
-			<link>https://market.isagha.com/prices</link>
-						<description><![CDATA[<div data-sanitized-class="clearfix stats">
-            <div data-sanitized-class="col-xs-4">
-                <div data-sanitized-class="value">
-                                            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADoAAAANCAIAAAB3pupqAAAACXBIWXMAAA7EAAAOxAGVKw4bAAADdElEQVRIiZWVz0sqURTHz7tMaDJZSEwGMhpIhUgFbUwspFxERIuQiCHCRYS0TAPpD/AvkGhhLcRVSJFRK/uBBNkqGaioNhI21ZDhUwuRyXmL4U3TzLM3fTdzzj0fvvfMvXPn/uJ5Hr5qZ2eHpmkAwHE8EAgAwMXFRTKZBIVmZ2d7enoA4OHhIRKJZLPZYrFYr9dxHLdarT6fb2hoSISvr6+j0ShN06VSCcMwk8nk8Xh8Pl9TU5PI/Nfnl6zd5+dnq9VqsVhYlkUIPT4+AsDh4WEwGJRiLMsyDJNKpcbGxsrlss1m83q9YpXjuHw+f3BwkEqlhoeHAeDy8tLhcPh8PqPRKGKZTIYgiI2NDSFV4wP8V/n9fp1OxzDM5OSk0WjkG8jr9ba3t9dqNZ7nNzc3MQxTMi6Xi6IoIQ4GgyRJyoBIJIJh2Pv7u5Cq8UHSNbu7u4tGo8vLy52dncqtF1UoFJLJJEVRwj4KX45SWq1WLDEMgxBSMhzHvby8CLEany8WoVCora1Ntu9KbW1t1Wq1+fl5IWVZthEplgiCqNfr/2T0er16n892z87Otre3V1dXW1tbv283FovZ7fbBwUEhLZVKjchKpSIEFEXl83mz2RwIBM7Pz0XAZDKJ06nx+Ww3FAqRJLm0tPR9rzc3N5lMRlxaAOA4rhFcq9WEwG63d3d3DwwMrK2tORyOrq6ulZWVo6MjiqJ+5IMJj729vXQ6HYvFNBrN9+3G43GEkHSabyR+r+vr69VqdXd3t1wuJ5PJRCIRiUSq1erCwsKPfIDneY7jbDYbQRDpdPr0r5xOp8FgOD09rVQq0nNKkuT4+Lh0ZGpq6p8n2uPx4DguxBMTExaLRVotlUqLi4sAkMvl1PtgAJBKpa6urgBgZGRE9loulyubzfb39wvp8fHx/f19OByWMjiON1oV8RgxDCMrtbS09Pb2AsDt7a3ZbFbpgwGA2+1+enqSEXNzczRN0zRtMBjEwVgsptfrp6enpaTJZGo0jcViEQKdTlcsFmVV4V+h1WrV+yAA0Gg0HQpptVqEUEdHh3hJvr29JRKJmZmZ5uZmqdfo6CjHcfv7+4VC4bdEHMe53W6B6evrk3Xw8fGRy+UQQsIaq/SR32qilLdaPB4HgJOTEyXs9/uVt4DT6Xx9fRWAXC5nt9sxiRBCGIaFw+Ef+fwBad7RXRl9KsUAAAAASUVORK5CYII=" alt="" data-sanitized-class="price-cell">
-                                         ج.م</div>
-                <div data-sanitized-class="state">بيع</div>
-            </div>
-            <div data-sanitized-class="col-xs-4">
-                                    <div data-sanitized-class="value">
-                                                    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADsAAAANCAIAAACYZIFUAAAACXBIWXMAAA7EAAAOxAGVKw4bAAADoUlEQVRIiY1VQUgqURS9f3jlIFOJhBmIzkJikChXZWIiIREREhES0sKFhOuUiGjdol0g4cJaRMsoKmohrkSodjJQ+RNiFmYlItNoMsXk/MX8P9lM9j2r984975773tz35pcoivAVR0dHNE0DAEEQkUhE5l9eXra3tzOZTLlc7uzsNBqNFEWFQiGLxSIJbm9vE4kETdMcxyGETCaT1+sNBoMdHR1tWgDAw8NDLBbLZrMsyzYaDYIgrFZrMBgcGxuTBL8UFT8/P1utVpIkS6UShmGPj48S//b25vF4BgYGCIJACPE8Xy6X7+/v4/H46OgoAFxfXzscjmAwaDQa5WyXl5cGg2FnZ6cdCwCoVqs2m21+fl5mBEEoFArn5+epVGp8fBwAQPyKcDis1WqLxeLMzIzRaJT5/f19kiTF1ohGo2azWUHGYjGEUL1eb8dCFMXd3V2EkDq5y+UKBALSGGvefT6fTyQSy8vL/f39iu+YTqfhRxSLRQzD1LwgCOVyuR0LAJBaRQ0cx+XQF4/V1VWdTheNRtVrGIb5uWKDwdBoNL4NdXd3t2MBAKVSqVV+OfRZ8cXFxeHh4draWk9Pj3oBy7Lv7++//yGfz7++vjYLAoFAoVCwWCyRSOTq6krmTSaTnPBnCwDgOK5VxbVa7e9I7hW32202m3mel6aKJrPb7YoUCCG/389xnCSo1+sURfl8PhzHAYAkyWg0Ojc3t7Ky0qaFKIpTU1Pf9rHX65V5JNmfnp6m0+m9vT2NRtNql1qtNplM9vb2yszs7Oz6+vrW1hYAxONxnuePj4+r1erJycnBwUEsFuN5PhQKtW/xAz4viSiKgiDYbDaDwZBOpzP/4HQ69Xp9JpOp1WqiKDocDvVbYbfbKYqSxtPT0woBx3FLS0sAwDBMOxaiKPp8vlZnTBDE5xmnUqmbmxsAcLvdip25XK5sNjs8PKzT6Z6entRblzuvWCwqQl1dXRRFAcDd3V0ul/uvBQAQBNHqjOXriwDA4/Goq1lcXKRpmqZpvV4PAGazOZfLqRNJUQDQarUsyyqi0uuB4/jIyMh/LQDAZDK1qpgkyc+KNRpNX1+fQoHjOIZhMu/1epPJZLOgWq1WKhW/3y9Nh4aGFMf88fHBMAyGYRRFtWMBABMTE5ubm2dnZw6HAyEk84IgeDyevxN103x7kQVBWFhYQE0AgMnJSZZlJQHDMIODg80CDMMQQhsbG21aSAiHw+o/kdPprFQqkuAPOjobxFVoXNwAAAAASUVORK5CYII=" alt="" data-sanitized-class="price-cell">
-                                                 ج.م</div>
-                
-                <div data-sanitized-class="state">شراء</div>
-            </div>
-                            <div data-sanitized-class="col-xs-4 down">
-                <div data-sanitized-class="value">
-                    -40
-                </div>
-                <div data-sanitized-class="state">هبوط</div>
-            </div>
-        </div>]]></description>
-			<pubDate>Sat, 03 Jan 2026 22:32:03 +0200</pubDate>
-			<guid isPermaLink="false">1767472343035609</guid>
-		</item>
-		<item>
-			<title>عيار 24</title>
-			<link>https://market.isagha.com/prices</link>
-						<description><![CDATA[<div data-sanitized-class="clearfix stats">
-            <div data-sanitized-class="col-xs-4">
-                <div data-sanitized-class="value">
-                                            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEMAAAANCAIAAAB9+kQ4AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAENklEQVRIiZVVTUgqbRQ+31Bys8FEBzMztYiQCpJ+JEKkhYSFqxCRIFctpEWLimjhokVEhLSQaNUiRFpElP3QwoQihjLoDwNRcyESMtlUZj+YGHMX4/Xzm/Er77N6zznPec95hvOe+YeiKAAAgJeXl+XlZRzHSZLkcDhisVipVI6MjMjl8qurq52dHWDBbDajKOrz+aJ/MD8/39LSwmZubW35/X4AQFF0YmKCTQCAm5sbp9MZDodJksxmszweT6VSjY6O1tfX04Tn52eHw8HIamhoGB4eBoAy2v78/NTr9U1NTQqForGxMZ1OkyS5t7dnMBjkcvnT05Pb7S7MTyQS8Xhco9FcX19PTk6iKIqiKEEQNpuN3eL9/b3FYlEoFIlEAkGQ/1MSCAQ8Ho9MJlMqlVwuF0GQcDjc2dnp9/tra2sBgCCImZkZsVgsFovzWTqdLneiKIqiKJfLpVAoqJJhNBoxDMtkMiRJkiRJUdTq6ioA+Hw+NtlqtXK53Hg8bjAYxGJx6VWCwSAA2O122jw/PweA2dnZomSE1nN8fFz0OxXF4+Pjzs7O0NBQeXm5UCgUCoXfkG9vb1dWVsbHx2tqakovUQiSJOnDx8fHN7Sckmg0WvrV6+vrmUzGYrGUQp6enubz+ZOTk6Xfz4BUKqUP3yvJvZNkMpnJZEKhEG0iCCKRSCorK4vmOJ3O1tbWjo6OH5s4PT3d3NxcXFysqqr6i94BAODi4sJut2MYZjQaaU82m/0ugR4ylUrF8JeVlZlMplQqVXR2FxYWGP6i70Sr1cpksnQ6TZslvhO3263RaACgvb09EAjk/bFYjMvlSqVSvV5vtVodDkcwGMxH/1XC5XJxHA8WQKlUjo2NMcrYbDYEQe7u7n5UQi9up9OZ9/yoxO/3q9VqAGhtbV1bW2MTIpHI7Oys0WhUqVQYhiEIMjU19R8l3d3d7N2lUqmUSiXDKZPJ9Ho9uwZDSTabbW5uFolEx8fH+B/09PQIBAIcx9/e3orK4PF4AwMDHo/nG7WFWFpaAoBYLEZRVO6d8Pl8giDYs5dKpQrNw8PDWCw2Nzf345R7vd5AIAAAWq2WEaL/Qm1tbQy/3W7XarW7u7s/Xs5AOByuq6vL7S6ZTFaUJBAICk2n08nj8QYHB3+8vbe3l2BBp9OJRCKCIJqbm2laKBQ6ODj4+voCgEgk8rcaaKAoCvndpdPpPB5PYfj19fXp6clkMuU97+/vGxsbZrO5oqIi73x4eDg5OQGAy8tLADg6OiIIQiKRdHV1VVdXM0r++vULQZBCv16vj0aj+/v7/f39Hx8fmUxme3ubkaVWq+l/0dnZWTKZlEqlGIZxOJxsNksQBIZhuXWVH2uz2VxWAADo6+tLJpP5oXS5XHSvhZPq9XrZH8lsNhcda/aLp5vAcZwqtj9puN1ummy1WhkhiUTi9Xrp6G/4+PCK1ob8sAAAAABJRU5ErkJggg==" alt="" data-sanitized-class="price-cell">
-                                         ج.م</div>
-                <div data-sanitized-class="state">بيع</div>
-            </div>
-            <div data-sanitized-class="col-xs-4">
-                                    <div data-sanitized-class="value">
-                                                    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAANCAIAAABghHqjAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACvElEQVQ4jY2UPUvzUBTHj+EqpY0vOJRSQptBJIhINmuxUEqQ4tBBSpFOGUT8AMXJ2Q8gQTqoU2fBwU5O0sGxhBZfhpKh7VBiSFMpVa69z3Br7JM2Nv/lcs/5nZs/556bOUIIAABAt9u9vLysVCq6ri8sLIRCIUEQjo6OotGoR+D5+fnq6kpVVcuyEEIcx0mSJMvy/Pw8BVqtlqIo1WrVNM3hcMiy7NramizLOzs78KM5aujz8zOZTK6vr7MsixAaDAa6rjcajWKxuL297QWo1+uxWEyW5VAoZJ/+9PQUDAavr68BoNfrbWxsZLNZO4sxbjab5XL54eEhkUiMooQQQkipVOJ5nrhrJlAoFCKRiCOoKApCqN/vE0Jubm4QQpOFu7u7+Xze3jLU1uPjI/ypmUC73WYYZjKOMdZ1HQBUVZ1a6PP5xlOjIzRN+/t7M4FgMDgcDqemlpaWAKDT6bjVjqcQXUzT/Pr6en19HdlkmHA4HAgEbG4mkM/nLy4uotFoNpvN5XJ0sACA47jl5WUAsCzLzdDHx8fvht6cKIoOCCGUy+Usy/II9Pt9QRAymYzP5wMAnucLhcLBwcHp6SkF0un01BmSJGk8/nvrfr+/Uqm8/KhWq6mqenZ25hEoFouDweDu7q7T6ZRKJVEUFUW5vb01DMOtMbb+Gz7qKxaLTT4iURQFQfAI7O/vOwDLso6PjwFA0zRCSCaTcesQy7LODq2srEz1bl/8TKDdbjtSi4uLgiAAwNvbGwCwLOvWITr1o27RJRKJTEVXV1c9An6/fzJL3x2dKo7j3AzxPO80JEmSA+r1eoZhpNNpj8DW1pYD+P7+1jSNYRjap1QqhTG+v79/f3/vjgljnEwmf8vozWGMDw8P0ZgAYG9vzzRNj4CmaZubm+MAwzAIofPzc3s+Tk5OJn+e8XjcMAyb+Qd3J3/9ehC3ZAAAAABJRU5ErkJggg==" alt="" data-sanitized-class="price-cell">
-                                                 ج.م</div>
-                
-                <div data-sanitized-class="state">شراء</div>
-            </div>
-                            <div data-sanitized-class="col-xs-4 down">
-                <div data-sanitized-class="value">
-                    -5.75
-                </div>
-                <div data-sanitized-class="state">هبوط</div>
-            </div>
-        </div>]]></description>
-			<pubDate>Sat, 03 Jan 2026 16:02:03 +0200</pubDate>
-			<guid isPermaLink="false">1767448923480368</guid>
-		</item>
-		<item>
-			<title>عيار 21</title>
-			<link>https://market.isagha.com/prices</link>
-						<description><![CDATA[<div data-sanitized-class="clearfix stats">
-            <div data-sanitized-class="col-xs-4">
-                <div data-sanitized-class="value">
-                                            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACoAAAANCAIAAABQCGuCAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACn0lEQVQ4jY2UT0j6YBjHn15maKhBjJAYNkJqxBCxi4cOHkTCU8gOIhYeIrr359TBgwR26CAe6yKepIPsKIEeFYJAiEgihskQMZVBFrJ6O7w/hr+tZt/T9n2efb7jfZ5tBmMMAIPBIJvNwv9aWVnZ2dkh1w8PD5eXl41GQ1EUiqIYhgmFQslk0mKx3N3diaIIBsVisbW1NXM4RW46nU4qlXK5XC6XS+sIhULk4v7+PhAIJJPJYDCoVUVRrNVqV1dX/X6/VCpNorvdrizLm5ubJN4MjjHGGN/e3gJAOp3GP+no6MjtduvMXC5HUdRoNDL2C4JA0/R4PJ4KR+RdRqOR8fQ0ybKMEDL6qqr2ej2d+fr6KopiPB63WCxT4X+KX1xc/Pr6+rHkdDp1TrFYHI/Hu7u7mjM9XlVVk/h4PN5ut5eXlw8PD+v1uuYzDDM/P69rzufzPM9vbGxojgl8hmz+y8sLx3ELCws8z7Msu76+Hg6HyeIAwPv7u9/vX11dLZfLHx8fLMsKgvD8/OzxeDKZzCTu8fGR47jz8/Pj42PNNINrW/D09JROpwVB8Pl8NE0jhE5OTkjp4uKCZVmMsaIohUJhe3vbarUCwN7enm6VTk9PEULtdlvn/wYH/ItyuRwAtFotjHEkEiHxmhRF2d/fBwBJkiZ9t9u9tbX1G9MI/2GfJ9VsNgFAlmWd73A4OI7TGogqlUqr1UokEubMSfiUeLvdDgBzc3PGEvkWyBSI8vm80+mMRqN/jLfb7f/+evV6fTgcMgxD0/Ts7Kyqqp1Oh6Zpn88HAF6vV3cAn5+fkiQhhMgZAMDb29v19XUsFrPZbLoYMzgZxsHBge6ZpaWlm5sbUpUkied5akIIIYqizs7OtHEWCgUAqFarxkmbwL8BDOgvlRQiYQAAAAAASUVORK5CYII=" alt="" data-sanitized-class="price-cell">
-                                         ج.م</div>
-                <div data-sanitized-class="state">بيع</div>
-            </div>
-            <div data-sanitized-class="col-xs-4">
-                                    <div data-sanitized-class="value">
-                                                    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAANCAIAAABdFhvFAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACzklEQVQ4jY2UMUjzUBSFr4/YhlKthBCjRA1SNITQFgcRkboUB1Fw6CQKHUScbRFxLoIIDtKxLuKs4ChOUtBChxLQShUJtsQqgiVIdYg+h+f/6B81eqaXc08+TpLbtmCMAeDp6Wl7exv+V39///z8PDmXSqVsNqvrumVZDMNIkhSLxRKJRGtrq+Oug4MDXdcBwO/3J5NJYrrzW0iJUqmkqqooiqIo0lAsFtvc3ASA8/PzkZGRRCLRPD07OxMEYWdnp5l7f38fDAZlWX54eEAI3d3d0Wdw4QPGGGNcKBQAIJ1O4++USqV6e3sdZiaTYRim0Wg0m0tLSz6fzzTNqakpURSp785HpFSj0YCfZZomQuirb9v24+Mjvby6uspms8vLy11dXY6kO/9PJQRBeH9//3bU3t5Oz6urqx0dHalU6mvsTyVs23YJzc7OVqvVvr6+ZDKZz+epL0lSIBAg59PT0/39/bW1Neo0y53/uZiVSkVRFI7jNE2TZVlV1YmJicHBQRJ6eXkZGhoaGBg4Ojp6fX2VZTkej9/c3ASDwY2NDZIZHx83DKNcLnu9XgCYnp4uFAp0Md35QLfj+vo6nU7H4/FIJMLzPEJoZWWFjLa2tmRZxhhblrW3tzczM8OyLAAsLCyQwOHhIQDs7u5SmmMx3fmAf1AmkwGA29tbjPHk5CQpQWVZ1uLiIgAYhmHbtqqqgiCcnJzk/ml0dJTjuFwu9/z8/CufcflUAFAul3t6ekzTdPhtbW2KopDA5eXlxcUFAESjUUdsbGysWCyGw2F3/i8l/H4/APh8vnq97hiR3wvLssPDw7VazTGdm5vTdV3XdY7jfuV/lsjn8/V6XZIknuc9Ho9t27Vajef5SCQCAKFQyPEy3t7eDMNACCmK4vV6Ozs7HXSWZRFC1HfnA/2nc1C6u7uPj4/J1DAMTdOYJiGEGIZZX1//aaUci+nO/wDR1kGuSwCXNgAAAABJRU5ErkJggg==" alt="" data-sanitized-class="price-cell">
-                                                 ج.م</div>
-                
-                <div data-sanitized-class="state">شراء</div>
-            </div>
-                            <div data-sanitized-class="col-xs-4 down">
-                <div data-sanitized-class="value">
-                    -5
-                </div>
-                <div data-sanitized-class="state">هبوط</div>
-            </div>
-        </div>]]></description>
-			<pubDate>Sat, 03 Jan 2026 16:02:03 +0200</pubDate>
-			<guid isPermaLink="false">1767448923480367</guid>
-		</item>
-		<item>
-			<title>جنيه ذهب</title>
-			<link>https://market.isagha.com/prices</link>
-						<description><![CDATA[<div data-sanitized-class="clearfix stats">
-            <div data-sanitized-class="col-xs-4">
-                <div data-sanitized-class="value">
-                                            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADoAAAANCAIAAAB3pupqAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACdUlEQVRIia2VvWvqUBTATy/xoxq0iPhBi2QQCiK00KliRSw4OYlICSIdxbHtkL/A0cmxdAhOpbQQ0SmlpSB1q2QoiJv41YDi03YJqXlDHnlqiNP9TTn3/JJzODfJ3VEUBdZ5enoSBAEASJK8vr4GgI+PD47jQMfFxcXh4SEADAaDSqXSbrdns9lyuSRJMhgMXl5enp6eajIWZ2ej3a+vr2AwSFGUKIoIodFoBADPz883NzermiiKw+GQ5/nz8/PFYhEKhTKZjJaVZbnf7zcaDZ7nz87OAACXA8o6hULBZrMNh8NUKuXz+RQDMpmM2+2WJElRlLu7O4Ig9E40GqVpWr3G5aDVmXW73dvb26urK7/fr996jclkwnEcTdMmkwkA1DdHj9Vq1VK4nLV2GYbZ29vb2Hc99/f3kiTl83k1FEXRyNRSuBxCW3p/f398fCyXy06nc3u7LMuGw+GTkxM1nM/nRub39zde5/90GYYJBALFYnF7r51Op9VqaaMFAFmWjWRJkvA6/6Zbq9Xe3t5YlrVYLNvbrVarCCGaprdrKgghvA4BAL+/vwzDeDweiqKazaaamE6nkiQ1m83j42O73a7dybJsMpnc39/XVsxms1EZLYXLIQCA5/nPz08AiMViG140Gm2320dHR2r48vLS6/VKpdKqQ5KkURmHw4HXIQAgHo+Px+MNI5fLCYIgCILL5dIWWZZ1OBzpdHrVPDg4MCpDURReBwGAxWLx6rBarQghr9er/lwB4Ofn5+HhIZvN7u7urj4rkUjIslyv1yeTyZ8VZFmOx+N4nc1TTUN/qlWrVQB4fX3Vy4VCQf/FRCKR6XSK1/kLsHlc7cmeVI8AAAAASUVORK5CYII=" alt="" data-sanitized-class="price-cell">
-                                         ج.م</div>
-                <div data-sanitized-class="state">بيع</div>
-            </div>
-            <div data-sanitized-class="col-xs-4">
-                                    <div data-sanitized-class="value">
-                                                    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADkAAAANCAIAAACckVFpAAAACXBIWXMAAA7EAAAOxAGVKw4bAAADP0lEQVRIiZ1VPUjzUBR9PmIb21CLlLT+UDMUlSJYcBC1lqChdHAQKaVkEAeHzurQwdnBQRBEHMQhZBJRqOhQIkqxOFocRBFERGsNbYitQg3RfkMkxsRq+M707rn3nNy8d/PSUKvVwHfs7u6en58DADAMm5ubU/nn5+e1tbWTk5NisWixWDweT09Pz8zMTGdn59nZWSqVAgbE4/Hu7u7ftUrlw8PD6upqLpcTRfHj4wPDMJ/PNz09PTg4qLo16Hp9enry+XwEQfA8DyF8fHxU+Le3N5Iku7q6MAxDEKRarRaLxZubm/X19YGBgcPDw/n5ea0Pz/P5fJ7juLGxsd+1AIBKpeL3+6PRqCqXZfn+/v7g4IDjuJGRkU+29h2JRMJms+Xz+fHxcY/Ho/IsyxIEUTONaDTqcrkkSTKj3dzcRBDEyAeDQZqm1RBqN+P6+npjY2N2dra1tVV3mplMxnjE9VAqlVKpFE3TjY2NZrTKyBmBoqg29a3XZDLpdDp1p6ng9vbWfK9bW1uSJE1NTZnU8jxvJoWoq9PT052dneXl5ebmZqNGFEVJkq6urpQQQtjW1ma32398AMMwvb29/f39JrXlcrlery8vL1+BOg2hUMjr9VarVSXUzWsgENC5IAgSi8XK5bJuyC4vLwEAS0tL5rWRSOTHeaUoSst/7uve3l4mk2EYxmq11ntFm82WTqddLpfKTExMLCwsrKysaMtYloUQ0jT9H1ojIPyaUgQA8P7+nkwmcRwnCCKbzSoJQRAkScpms4FAwG63oyiK4/jw8LDWCEXRdDqtc2cYJhwOt7e3a8t+11oslnq9alMIAIDjuIuLCwBAKBTSlQaDwVwu19fX53Q6C4WC0Us3akdHR3d3d4uLi1ryTy2GYfV6dTgc6hoCAEiSLBhAURSO44VCwe/3AwC8Xu+PXi0tLdqQYRiHwzE5Oakl/9R2dHTU65UgiG+9Wq1WtwEoikII3W63ckdSFKVzqVQqgiBEIhGVeX193d7ejsViTU1N2so/taOjo7Is7+/vl0qlZw1kWSZJ8ktW71+iuwdkWY7H44gGAIBwOCyKolrDsiwA4Pj4WGdlRptIJLSfkYKhoSFBENSaf+AZrlUBIrwnAAAAAElFTkSuQmCC" alt="" data-sanitized-class="price-cell">
-                                                 ج.م</div>
-                
-                <div data-sanitized-class="state">شراء</div>
-            </div>
-                            <div data-sanitized-class="col-xs-4 down">
-                <div data-sanitized-class="value">
-                    -40
-                </div>
-                <div data-sanitized-class="state">هبوط</div>
-            </div>
-        </div>]]></description>
-			<pubDate>Sat, 03 Jan 2026 16:02:03 +0200</pubDate>
-			<guid isPermaLink="false">1767448923480366</guid>
-		</item>
-		<item>
-			<title>«آي صاغة»: توترات واشنطن وكاراكاس تدعم أسعار الذهب محليًا رغم خسائر أسبوعية حادة عالميًا</title>
-			<link>https://market.isagha.com/articles/2052</link>
-						<media:thumbnail url="https://cdn.isagha.net/public/files/ktvpf0eebc4dfwILNzv7GtebnmEg8O6APyYKk3cx.jpg" />
-			<media:content url="https://cdn.isagha.net/public/files/ktvpf0eebc4dfwILNzv7GtebnmEg8O6APyYKk3cx.jpg" medium="image"></media:content>
-			<description><![CDATA[<div data-sanitized-class="content-article">
-					<p></p><p>سجلت أسعار الذهب في الأسواق المحلية ارتفاعًا ملحوظًا خلال تعاملات اليوم السبت، بالتزامن مع العطلة الأسبوعية للبورصة العالمية، وذلك رغم تكبد المعدن الأصفر خسائر أسبوعية قوية في السوق العالمية بلغت نحو 4.4%، وسط ترقب...</p>
-					<a href="https://market.isagha.com/articles/2052" data-sanitized-class="read-more">تابع القراءة</a>
-				</div>]]></description>
-			<pubDate>Sat, 03 Jan 2026 15:32:27 +0200</pubDate>
-			<guid isPermaLink="false">1767447147724148</guid>
-		</item>
-		<item>
-			<title>البنك المركزي</title>
-			<link>https://market.isagha.com/prices</link>
-						<description><![CDATA[<div data-sanitized-class="clearfix stats">
-    <div data-sanitized-class="col-xs-4">
-        <div data-sanitized-class="value">47.75 </div>
-        <div data-sanitized-class="state">بيع</div>
-    </div>
-    <div data-sanitized-class="col-xs-4">
-        <div data-sanitized-class="value">47.65</div>
-        <div data-sanitized-class="state">شراء</div>
-    </div>
-        <div data-sanitized-class="col-xs-4 down">
-        <div data-sanitized-class="value">
-            0
-        </div>
-        <div data-sanitized-class="state">هبوط</div>
-    </div>
-</div>]]></description>
-			<pubDate>Sat, 03 Jan 2026 09:32:03 +0200</pubDate>
-			<guid isPermaLink="false">1767425523384232</guid>
-		</item>
-		<item>
-			<title>عيار 24</title>
-			<link>https://market.isagha.com/prices</link>
-						<description><![CDATA[<div data-sanitized-class="clearfix stats">
-            <div data-sanitized-class="col-xs-4">
-                <div data-sanitized-class="value">
-                                            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEYAAAANCAIAAACb0498AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAD9klEQVRIiZWVQUgqXRiGv38ob5lYyGBmNllEiQgNFRIh0kLCwlWISJCrFtKiRUW0aNFCWoS0kGjVapAWEWUWLUwoZCCCojAQNRciIZNMZlZiYsxdjP/882tXvc/qfO95v3N85Zwz/zAMAwAA8Pb2trOzQ5IkTdMCgUAmk6lUqrm5ue7u7pqGu7s7r9cLFVit1oGBAb5ydHQUDAYBQCQSLS0tVbYAwMPDA0EQ0WiUpulisSgWi3Ecn5+f7+npYQ2vr68ul6usq7e3d3Z2FgAa2Prr68toNPb39yuVyr6+vnw+T9P06empyWRiI1U3pNNpj8fD3yCVSiWTSZ1Ox4/0/Pxss9mUSmUqlUIQ5E+RQqGQz+fDMEylUgmFQgRBotHoyMhIMBjs7OwEAIqi1tfXZTKZTCbjugwGQ2nEMAzDMG63W6lUMn+mpqEMs9mMomihUOCLdrtdKBQmk0mTySSTyepfLRwOA4DT6WTLm5sbAHA4HD+aETZYIBD48Q/jqGng8/Ly4vV6Z2ZmGhsbOfHx8XF3d3dxcbGjo6P+pfjQNM0OcrlcFVspUjwer75cTQOf/f39QqFgs9n44urqaltb2/Lycv3rlKFQKNhB9Uilu5TJZAqFQiQSYUsEQeRyeUtLC+eraeBDEIRGoxkeHuaUq6urw8PDra2t1tbWv01ye3vrdDpRFDWbzaxSLBarNbDnD8fxMr2hocFisWSz2ToNZed+c3OTL+r1egzD8vk8W9Z5lzwej06nA4ChoaFQKMTpiURCKBQqFAqj0Wi3210uVzgc5mb/iyQUCkmSDPNQqVQLCwt1GjjW1tYQBHl6euIU9n0nCIJTakYKBoNarRYANBrN3t5epSEWizkcDrPZjOM4iqIIgqysrPwv0ujoaOWDhuO4SqWq08CBYZjRaOTKYrGoVqulUmkgECD/ZWxsTCKRkCT58fHxYx6xWDw1NeXz+arE5rO9vQ0AiUSCYZjSXWpra6MoqvJYZrPZOg0sFxcXiURiY2ODU/x+fygUAgC9Xl/Wq9Pp7u/vBwcHy3Sn06nX609OTiq3q040Gu3q6iq9eBiG/WiSSCR1GlgIghCLxdPT05wyPj5OVWAwGKRSKUVRarUaACKRyPn5+ff3N9sSi8X+NgyLSCQC7sUzGAw+n48//f7+nk6nLRZLnQYA+Pz8PDg4sFqtzc3NnPjr16/29vayvZuamhAE4XSj0RiPx8/OziYnJwEgl8sVCoXj4+OyLq1Wy37Trq+vM5mMQqFAUVQgEBSLRYqiUBQtvWHcibdarQ08AGBiYiKTydRpYBjG7XYDwOXlZc2jX/Y8sD+FJEl+WYnH42ENdru9bEoul/v9fnb2N0YFGHQ9bLyzAAAAAElFTkSuQmCC" alt="" data-sanitized-class="price-cell">
-                                         ج.م</div>
-                <div data-sanitized-class="state">بيع</div>
-            </div>
-            <div data-sanitized-class="col-xs-4">
-                                    <div data-sanitized-class="value">
-                                                    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEUAAAANCAIAAABw5DR/AAAACXBIWXMAAA7EAAAOxAGVKw4bAAADbElEQVRIiZ2UP0jrUBTGj6FWrUFLCTWWGouIhiIYcFBESsEiEZyklCLo5NDJQUUcHIuDgkMRcXAKnUQUOjhoRCkBEQTFQVsVKUFqLFVj/UMNkbwhfXkl1Ta8bwk595fv3o/cc6oURQEAAHh9fV1bW+M4LpvNms1mHMdJkpycnGxtbTUIaNrZ2bm4uAAAFEVnZmbU4svLSyQS0ZFtbW3j4+O64tnZWSwWgxIFg8HOzs7yPlVqnq+vL6/X29HRgaKoyWTK5/PZbPbu7m59fb23t9cIoOnx8bG9vd3lcmUyGQRBHh4e1PrV1ZXb7cZxHMdxDfb5fMvLy7rDHRwczM7OFlcymUw6nWZZdnBwsIKPoiiKokSjUZfLpfyuioCmUChksVjS6fTIyAiO41r99PQUAMLhsBETnfx+P4ZhkiRV9EHUfPF4vPT/FqsioOrm5mZjY2N6erq5uVm39Pn5acShVE9PT7FYbGxsrLq6uqJPIU8qlSpvWhFQNT8/b7VadbdF1X/n2dzclCRpYmLCiI9JfYiiKElSMplUXxEEcTgc9fX1GlcRAIDj4+Pt7e2VlZXGxsbSnWRZ/r88DMN0dXX19PQY8lGvHUVRurrJZAoEArlcziCgKIrH4yEIIp/Pq6+6/uF53mKxOJ1OmqZDoVAkEkkkEhU7J5FIAMDS0pJBn395LBYLx3GJIpEkOTU1ZRBQJyzDMJq1Lo+iKLe3t+Fw2O/3UxSFYRiCIHNzc+XzLCwsIAhyf39v0KeQp6+vr3R8URRFkqQRQJZlt9ttt9vj8Tj3V/39/TabjeO49/f3H8+6uroKADzPl8lDEARN0+UzF/sU+sdqtQqCUHobc7mcEYBl2cvLSwDweDw6YGBg4Pz8vLu7+7cLf3193dLS8uPS4eEhz/OLi4u/fVvqU5hvBEH8CNlsNiOA1+sVSuTz+ex2uyAIbre7zDlQFAWAZDK5v7///f1dvMQwTENDw+joqJE8qk/h//h8vr29veLlt7e35+fnQCBgBKipqWlqatJtUFtbiyCIVj85ORFF0el0YhhmNptlWRYEAcMwddLQNJ1KpXZ3d4eHh1X+4+Nja2srGAzW1dUV25b3KfSPLMvBYNBUJAAYGhoSRdEgUCrdPAiFQrrADoeDZVmtFQGA4ziNj0ajAHB0dKSzLe/zB/ReAC8mZv1YAAAAAElFTkSuQmCC" alt="" data-sanitized-class="price-cell">
-                                                 ج.م</div>
-                
-                <div data-sanitized-class="state">شراء</div>
-            </div>
-                            <div data-sanitized-class="col-xs-4 up">
-                <div data-sanitized-class="value">
-                    5.75
-                </div>
-                <div data-sanitized-class="state">صعود</div>
-            </div>
-        </div>]]></description>
-			<pubDate>Sat, 03 Jan 2026 03:02:03 +0200</pubDate>
-			<guid isPermaLink="false">1767402123507025</guid>
 		</item>
 
 	</channel>
