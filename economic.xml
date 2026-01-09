@@ -4,10 +4,32 @@
 		<title>اقتصاد</title>
 		<link>http://192.168.1.50:8081/api/query.php?user=admin&amp;t=4IzCA6HFSoouCSR9nVqNkV&amp;f=html</link>
 		<description>RSS feed of اقتصاد</description>
-		<pubDate>Fri, 09 Jan 2026 08:00:03 +0200</pubDate>
-		<lastBuildDate>Fri, 09 Jan 2026 06:00:03 GMT</lastBuildDate>
+		<pubDate>Fri, 09 Jan 2026 08:05:03 +0200</pubDate>
+		<lastBuildDate>Fri, 09 Jan 2026 06:05:03 GMT</lastBuildDate>
 		<atom:link href="http://192.168.1.50:8081/api/query.php?user=admin&amp;t=4IzCA6HFSoouCSR9nVqNkV&amp;f=rss" rel="self" type="application/rss+xml" />
 				<item>
+			<title>البنك المركزي</title>
+			<link>https://market.isagha.com/prices</link>
+						<description><![CDATA[<div data-sanitized-class="clearfix stats">
+    <div data-sanitized-class="col-xs-4">
+        <div data-sanitized-class="value">47.33 </div>
+        <div data-sanitized-class="state">بيع</div>
+    </div>
+    <div data-sanitized-class="col-xs-4">
+        <div data-sanitized-class="value">47.23</div>
+        <div data-sanitized-class="state">شراء</div>
+    </div>
+        <div data-sanitized-class="col-xs-4 up">
+        <div data-sanitized-class="value">
+            0.05
+        </div>
+        <div data-sanitized-class="state">صعود</div>
+    </div>
+</div>]]></description>
+			<pubDate>Fri, 09 Jan 2026 08:02:03 +0200</pubDate>
+			<guid isPermaLink="false">1767938523565802</guid>
+		</item>
+		<item>
 			<title>عيار 24</title>
 			<link>https://market.isagha.com/prices</link>
 						<description><![CDATA[<div data-sanitized-class="clearfix stats">
@@ -580,28 +602,6 @@
         </div>]]></description>
 			<pubDate>Tue, 06 Jan 2026 21:32:04 +0200</pubDate>
 			<guid isPermaLink="false">1767727941820099</guid>
-		</item>
-		<item>
-			<title>البنك المركزي</title>
-			<link>https://market.isagha.com/prices</link>
-						<description><![CDATA[<div data-sanitized-class="clearfix stats">
-    <div data-sanitized-class="col-xs-4">
-        <div data-sanitized-class="value">47.3 </div>
-        <div data-sanitized-class="state">بيع</div>
-    </div>
-    <div data-sanitized-class="col-xs-4">
-        <div data-sanitized-class="value">47.2</div>
-        <div data-sanitized-class="state">شراء</div>
-    </div>
-        <div data-sanitized-class="col-xs-4 down">
-        <div data-sanitized-class="value">
-            -0.05
-        </div>
-        <div data-sanitized-class="state">هبوط</div>
-    </div>
-</div>]]></description>
-			<pubDate>Tue, 06 Jan 2026 21:32:04 +0200</pubDate>
-			<guid isPermaLink="false">1767727941820098</guid>
 		</item>
 
 	</channel>
