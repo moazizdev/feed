@@ -4,10 +4,32 @@
 		<title>اقتصاد</title>
 		<link>http://192.168.1.50:8081/api/query.php?user=admin&amp;t=4IzCA6HFSoouCSR9nVqNkV&amp;f=html</link>
 		<description>RSS feed of اقتصاد</description>
-		<pubDate>Sat, 24 Jan 2026 08:00:03 +0200</pubDate>
-		<lastBuildDate>Sat, 24 Jan 2026 06:00:03 GMT</lastBuildDate>
+		<pubDate>Sat, 24 Jan 2026 08:05:03 +0200</pubDate>
+		<lastBuildDate>Sat, 24 Jan 2026 06:05:03 GMT</lastBuildDate>
 		<atom:link href="http://192.168.1.50:8081/api/query.php?user=admin&amp;t=4IzCA6HFSoouCSR9nVqNkV&amp;f=rss" rel="self" type="application/rss+xml" />
 				<item>
+			<title>البنك المركزي</title>
+			<link>https://market.isagha.com/prices</link>
+						<description><![CDATA[<div data-sanitized-class="clearfix stats">
+    <div data-sanitized-class="col-xs-4">
+        <div data-sanitized-class="value">47.2 </div>
+        <div data-sanitized-class="state">بيع</div>
+    </div>
+    <div data-sanitized-class="col-xs-4">
+        <div data-sanitized-class="value">47.1</div>
+        <div data-sanitized-class="state">شراء</div>
+    </div>
+        <div data-sanitized-class="col-xs-4 down">
+        <div data-sanitized-class="value">
+            0
+        </div>
+        <div data-sanitized-class="state">هبوط</div>
+    </div>
+</div>]]></description>
+			<pubDate>Sat, 24 Jan 2026 08:02:03 +0200</pubDate>
+			<guid isPermaLink="false">1769234523419310</guid>
+		</item>
+		<item>
 			<title>عيار 24</title>
 			<link>https://market.isagha.com/prices</link>
 						<description><![CDATA[<div data-sanitized-class="clearfix stats">
@@ -480,33 +502,6 @@
 				</div>]]></description>
 			<pubDate>Thu, 22 Jan 2026 19:32:12 +0200</pubDate>
 			<guid isPermaLink="false">1769103139994803</guid>
-		</item>
-		<item>
-			<title>عيار 24</title>
-			<link>https://market.isagha.com/prices</link>
-						<description><![CDATA[<div data-sanitized-class="clearfix stats">
-            <div data-sanitized-class="col-xs-4">
-                <div data-sanitized-class="value">
-                                            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEUAAAANCAIAAABw5DR/AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAEbElEQVRIiZVVT0gqXxj9fpOVDWIiQ6mJVISVSUmFlEhEtJjERYQLEZMWLSSiRUVEtIhoFRERLV2ESFBETS1CJEJEisBQphCziBAJEy2RSULEeYt5z+dTs35n9d3zne/ee+7f/2ia9nq9p6enUAS9Xt/a2rq/v2+328PhcDKZZLPZMplsenq6o6MjJ/N6vRaLxe/3UxSFomhLS8vk5GR/f39xh8fHxyRJAgCHw5mbmysWAMDt7a3Vag0Gg7FYLJPJcLlchUIxNTXV1NQEAO/v79vb2wUlzc3N4+PjTMwCgLe3N4Ig8hXRaPTl5UWtVre2thIEEYlERCKRVCplsViJREKpVHo8nvb2dgC4uroaHR1dWlqSSqVMLUVROI67XK6urq78Pl9fX00mU2NjYzQaRRDkKz9+v9/hcEgkkra2NhRFEQQJBoO9vb0kSTY0NEQikZWVFYFAIBAIciXDw8N/6+lS0Ol0GIal0+mSWRaLNTMzw8TMFAsEnZ2dOUEOZrMZRdGXlxetVisQCEr2XBKBQAAANjY2aJr2eDwAsLa29pUYKV6heDx+enpqMBgqKytLLiEAPD09MUEwGCzOIgji8/nymYeHB4vFMjs7KxQKv+qzPGKxGACkUqnyshJ+Dg4O0um0yWQqU4ZhGBNks9mSgmg0mt9cXFzk8Xjz8/PlZ1MGYrEYfuCHVUxZrVa5XN7T01OcisfjgUAgm80ajUaGkclk4XC4WElRVC6+uro6Ojra3Nysra39uQEGNzc3GxsbGIbpdDoAyGQy3xSUPKzr6+sFvMViye3J/Px8jidJksPh9PX14XngcDj5N2RgYEAikXx+fjLNH94fgiDUajUAdHd3+/1+hgyFQiiKisViHMfNZvP29nYgEMivKvSzvLyMIEg4HC7gk8mkx+MhCGJra4vH4+X38vT0tLq6OjExYfwDHo8nEomYLPMTWK3WnP5bPyRJKpVKAJDL5Xt7ewXZx8fHtbU1nU6nUCgwDEMQZGFh4Us/EokEx/Eyg9H/vm8loVAopFIpTdOZTEYmk9XV1blcLvcfqFQqPp/vdrspiipphsvlajQah8NRfhoMdnZ2ACAUCpXwc3FxAQA2m+1bPxqNpryfgYEBmqbtdnuZo+7z+YprTSaTVqv9iZN8P+fn57/nlj+A1WrlcrljY2PfXlMURcsL5HI5AAwODkYikYKU0WgkSZIkST6fDwD39/ehUGhoaKiiogIAHh8fGf5/gcPhMMFfPx8fH4eHh3q9vqamJkfG43Gn09nc3FxXV8d4SCQS2WxWpVIxgoeHh7u7u8bGRgzD2Gx2NpulKCqVShkMBgCorq6ur68vGJvNZiMIkuNxHH9+fj47OxsZGQGAVCqVTqdPTk4KqpRKpVAovL6+TiQSYrEYw7CqqqpMJhOJRDAMUygUv3W5jbPZbADgdDrzd/Py8pLFKnzTx8bGUqkUI9jd3UWQfz4xFEWZv/wrFLwHzFTcbnd+sxgEQdA0bTabC3iRSJQ7bDRN/wLkD4trAn64iwAAAABJRU5ErkJggg==" alt="" data-sanitized-class="price-cell">
-                                         ج.م</div>
-                <div data-sanitized-class="state">بيع</div>
-            </div>
-            <div data-sanitized-class="col-xs-4">
-                                    <div data-sanitized-class="value">
-                                                    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADUAAAANCAIAAACGrbHnAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACrUlEQVRIiZ2VP2jqUBTGzwtRWgkieCki0sGh0uoglHYojh3SVRxCqc4OpZN0cujgIE4ijh2KdGnpEBxEqKCDiEJQxyhSJEgJrWmDUAex3jfkPZEk3v75pnC+87v5bnJP8gdj3Ol0isUiGMRxnM/nu7u7K5fLo9FoMplsbGzs7e2dn5/7/X4AIIAMwzSbzeF/pdNpDTHq/f09l8vpil6vNxqNAgANAG9vbzzPr9ovLy/Pz8+hUMjn8/E8L8uy2+3e2dmhaVpV1cPDQ0EQdnd3CWC3200kEgzDMAwjy3IymTQNBwCyLF9dXblcLpfLtSweHx//u8JmikQiCKHZbGbq0jR9cXFBBsfj8Xg8xhjf3NwAQLPZNO3HGAuCAACpVMrUpYwbUhSlWCyenp5aLJZ1m356eiKDTqfT6XSuw1c1nU4Jrkm++/v72WwWi8UIGELod+BP89HGUqFQCAQC+/v7RktRFFEUF4vF2dnZj0CC5vM5yda9b1EUASCTyejq19fXy2eWSCSMB2Ud+OX5kyTJZrN5PB6WZePxeC6XE0Vx6erzJZNJiqJGo5GuPplMBEHgeT6bzTocjtUlyOCX+TDGg8EglUpFIpFgMIgQoijq8vLSPN/29jbLsoS18Jr5XQd+J59O+XweACRJwrr5rVarkiSZni2dBoPB78Dvq9/vg25+C4WC3W4Ph8Nfwjab7XcgAPR6vcfHx8/PT3IbwzCwOr8fHx8PDw8cx21ubi6LiqLUajWv17u1taVlUlV1sVgcHR2RwdfX10ajAQDtdhsAarWa9hM6ODhgWXY4HJZKpZOTEwBotVqqqno8HoSQ1Wqdz+eyLCOEgsEgwMr83t7eagutHoVGo0HT+m9QOByeTqdksFKpGB8Jx3EYY+3G9Xpd64zH47o2t9tdqVQ09y/elztN/XnPuAAAAABJRU5ErkJggg==" alt="" data-sanitized-class="price-cell">
-                                                 ج.م</div>
-                
-                <div data-sanitized-class="state">شراء</div>
-            </div>
-                            <div data-sanitized-class="col-xs-4 up">
-                <div data-sanitized-class="value">
-                    5.75
-                </div>
-                <div data-sanitized-class="state">صعود</div>
-            </div>
-        </div>]]></description>
-			<pubDate>Thu, 22 Jan 2026 17:02:03 +0200</pubDate>
-			<guid isPermaLink="false">1769094123526364</guid>
 		</item>
 
 	</channel>
