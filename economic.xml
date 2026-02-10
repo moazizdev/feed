@@ -4,10 +4,113 @@
 		<title>اقتصاد</title>
 		<link>http://192.168.1.50:8081/api/query.php?user=admin&amp;t=4IzCA6HFSoouCSR9nVqNkV&amp;f=html</link>
 		<description>RSS feed of اقتصاد</description>
-		<pubDate>Tue, 10 Feb 2026 20:45:02 +0200</pubDate>
-		<lastBuildDate>Tue, 10 Feb 2026 18:45:02 GMT</lastBuildDate>
+		<pubDate>Tue, 10 Feb 2026 20:50:02 +0200</pubDate>
+		<lastBuildDate>Tue, 10 Feb 2026 18:50:02 GMT</lastBuildDate>
 		<atom:link href="http://192.168.1.50:8081/api/query.php?user=admin&amp;t=4IzCA6HFSoouCSR9nVqNkV&amp;f=rss" rel="self" type="application/rss+xml" />
 				<item>
+			<title>عيار 24</title>
+			<link>https://market.isagha.com/prices</link>
+						<description><![CDATA[<div data-sanitized-class="clearfix stats">
+            <div data-sanitized-class="col-xs-4 price-col">
+                <div data-sanitized-class="value">
+                                            <img src="data:image/png;base64,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" alt="" data-sanitized-class="price-cell">
+                                         ج.م</div>
+                <div data-sanitized-class="state">بيع</div>
+            </div>
+            <div data-sanitized-class="col-xs-4">
+                                    <div data-sanitized-class="value">
+                                                    <img src="data:image/png;base64,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" alt="" data-sanitized-class="price-cell">
+                                                 ج.م</div>
+                
+                <div data-sanitized-class="state">شراء</div>
+            </div>
+                            <div data-sanitized-class="col-xs-4 down">
+                <div data-sanitized-class="value">
+                    -45.75
+                </div>
+                <div data-sanitized-class="state">هبوط</div>
+            </div>
+        </div>]]></description>
+			<pubDate>Tue, 10 Feb 2026 20:46:25 +0200</pubDate>
+			<guid isPermaLink="false">1770749185750740</guid>
+		</item>
+		<item>
+			<title>عيار 21</title>
+			<link>https://market.isagha.com/prices</link>
+						<description><![CDATA[<div data-sanitized-class="clearfix stats">
+            <div data-sanitized-class="col-xs-4 price-col">
+                <div data-sanitized-class="value">
+                                            <img src="data:image/png;base64,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" alt="" data-sanitized-class="price-cell">
+                                         ج.م</div>
+                <div data-sanitized-class="state">بيع</div>
+            </div>
+            <div data-sanitized-class="col-xs-4">
+                                    <div data-sanitized-class="value">
+                                                    <img src="data:image/png;base64,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" alt="" data-sanitized-class="price-cell">
+                                                 ج.م</div>
+                
+                <div data-sanitized-class="state">شراء</div>
+            </div>
+                            <div data-sanitized-class="col-xs-4 down">
+                <div data-sanitized-class="value">
+                    -40
+                </div>
+                <div data-sanitized-class="state">هبوط</div>
+            </div>
+        </div>]]></description>
+			<pubDate>Tue, 10 Feb 2026 20:46:25 +0200</pubDate>
+			<guid isPermaLink="false">1770749185750739</guid>
+		</item>
+		<item>
+			<title>جنيه ذهب</title>
+			<link>https://market.isagha.com/prices</link>
+						<description><![CDATA[<div data-sanitized-class="clearfix stats">
+            <div data-sanitized-class="col-xs-4 price-col">
+                <div data-sanitized-class="value">
+                                            <img src="data:image/png;base64,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" alt="" data-sanitized-class="price-cell">
+                                         ج.م</div>
+                <div data-sanitized-class="state">بيع</div>
+            </div>
+            <div data-sanitized-class="col-xs-4">
+                                    <div data-sanitized-class="value">
+                                                    <img src="data:image/png;base64,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" alt="" data-sanitized-class="price-cell">
+                                                 ج.م</div>
+                
+                <div data-sanitized-class="state">شراء</div>
+            </div>
+                            <div data-sanitized-class="col-xs-4 down">
+                <div data-sanitized-class="value">
+                    -320
+                </div>
+                <div data-sanitized-class="state">هبوط</div>
+            </div>
+        </div>]]></description>
+			<pubDate>Tue, 10 Feb 2026 20:46:25 +0200</pubDate>
+			<guid isPermaLink="false">1770749185750738</guid>
+		</item>
+		<item>
+			<title>البنك المركزي</title>
+			<link>https://market.isagha.com/prices</link>
+						<description><![CDATA[<div data-sanitized-class="clearfix stats">
+    <div data-sanitized-class="col-xs-4">
+        <div data-sanitized-class="value">46.84 </div>
+        <div data-sanitized-class="state">بيع</div>
+    </div>
+    <div data-sanitized-class="col-xs-4">
+        <div data-sanitized-class="value">46.74</div>
+        <div data-sanitized-class="state">شراء</div>
+    </div>
+        <div data-sanitized-class="col-xs-4 down">
+        <div data-sanitized-class="value">
+            -0.08
+        </div>
+        <div data-sanitized-class="state">هبوط</div>
+    </div>
+</div>]]></description>
+			<pubDate>Tue, 10 Feb 2026 20:46:25 +0200</pubDate>
+			<guid isPermaLink="false">1770749185750737</guid>
+		</item>
+		<item>
 			<title>«آي صاغة»: تراجع محدود في أسعار الذهب محليًا تزامنًا مع هبوط الأوقية عالميًا وسط حالة ترقّب حذر لبيانات الاقتصاد الأمريكي</title>
 			<link>https://market.isagha.com/articles/2111</link>
 						<media:thumbnail url="https://cdn.isagha.net/public/files/p8IsatbkFYheJRv0R4EprVCuYr4R4Xdt5Am5WwJo.jpg" />
@@ -554,79 +657,6 @@
 		</div><!-- FULLCONTENT end //-->]]></description>
 			<pubDate>Sun, 08 Feb 2026 14:17:50 +0200</pubDate>
 			<guid isPermaLink="false">1770553071495215</guid>
-		</item>
-		<item>
-			<title>«آي صاغة»: انخفاض 150 جنيهًا في أسعار الذهب بالسوق المحلية رغم صعود الأوقية عالميًا خلال أسبوع</title>
-			<link>https://market.isagha.com/articles/2108</link>
-						<media:thumbnail url="https://cdn.isagha.net/public/files/fEToBQWrMKv8lLoSYZLIu5FurTTnSFE0HrnCtwr1.jpg" />
-			<media:content url="https://cdn.isagha.net/public/files/fEToBQWrMKv8lLoSYZLIu5FurTTnSFE0HrnCtwr1.jpg" medium="image"></media:content>
-			<description><![CDATA[<div data-sanitized-class="content-article">
-					<p></p><p>شهدت أسعار الذهب في الأسواق المحلية تراجعًا ملحوظًا خلال تعاملات الأسبوع الماضي، حيث انخفضت بنسبة 2.2%، وذلك على الرغم من الارتفاع الذي سجلته أسعار الذهب في البورصة العالمية، إذ صعدت الأوقية بنسبة 1.4%، مدعومة بصدور...</p>
-					<a href="https://market.isagha.com/articles/2108" data-sanitized-class="read-more">تابع القراءة</a>
-				</div>]]></description>
-			<pubDate>Sun, 08 Feb 2026 14:17:46 +0200</pubDate>
-			<guid isPermaLink="false">1770553071495212</guid>
-		</item>
-		<item>
-			<title>البنك المركزي</title>
-			<link>https://market.isagha.com/prices</link>
-						<description><![CDATA[<div data-sanitized-class="clearfix stats">
-    <div data-sanitized-class="col-xs-4">
-        <div data-sanitized-class="value">47.01 </div>
-        <div data-sanitized-class="state">بيع</div>
-    </div>
-    <div data-sanitized-class="col-xs-4">
-        <div data-sanitized-class="value">46.91</div>
-        <div data-sanitized-class="state">شراء</div>
-    </div>
-        <div data-sanitized-class="col-xs-4 down">
-        <div data-sanitized-class="value">
-            0
-        </div>
-        <div data-sanitized-class="state">هبوط</div>
-    </div>
-</div>]]></description>
-			<pubDate>Sun, 08 Feb 2026 12:02:02 +0200</pubDate>
-			<guid isPermaLink="false">1770544922603144</guid>
-		</item>
-		<item>
-			<title>«آي صاغة»: ارتفاع أسعار الذهب محليًا بدعم من مكاسب أسبوعية قوية للأوقية وتوقعات بتيسير السياسة النقدية الأمريكية</title>
-			<link>https://market.isagha.com/articles/2107</link>
-						<media:thumbnail url="https://cdn.isagha.net/public/files/o64FN5Es7Fx7d3PMGNFXBXLwziR3BmRvyKvUORV2.jpg" />
-			<media:content url="https://cdn.isagha.net/public/files/o64FN5Es7Fx7d3PMGNFXBXLwziR3BmRvyKvUORV2.jpg" medium="image"></media:content>
-			<description><![CDATA[<div data-sanitized-class="content-article">
-					<p></p><p>شهدت أسعار الذهب في الأسواق المحلية ارتفاعًا ملحوظًا خلال تعاملات اليوم السبت، بالتزامن مع عطلة البورصات العالمية، وذلك بعد أن حققت أسعار الذهب عالميًا مكاسب أسبوعية قوية، مدعومة ببيانات اقتصادية أمريكية ضعيفة عززت...</p>
-					<a href="https://market.isagha.com/articles/2107" data-sanitized-class="read-more">تابع القراءة</a>
-				</div>]]></description>
-			<pubDate>Sat, 07 Feb 2026 16:32:23 +0200</pubDate>
-			<guid isPermaLink="false">1770474743443012</guid>
-		</item>
-		<item>
-			<title>عيار 24</title>
-			<link>https://market.isagha.com/prices</link>
-						<description><![CDATA[<div data-sanitized-class="clearfix stats">
-            <div data-sanitized-class="col-xs-4">
-                <div data-sanitized-class="value">
-                                            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEQAAAANCAIAAACfJl9BAAAACXBIWXMAAA7EAAAOxAGVKw4bAAADPUlEQVRIiaWUsUvrQBzHfy/UglEySIYYQ60iNkOHoFIcOhaJ0klCCYKdHIqDo5ODQyfpVMQ/IAQHcYhFHKKISBdBESqUtnQoRaRIrFGxaIjcG/IIIYmp773vdPe7z919v7nL/UII3d7elkol8EgUxVgsBgAvLy97e3vlclnTtHA4TFEUy7Jra2vj4+MAcHd3J0lSo9HQNM00TYIgOI5bX1+fmJiw1ukL2Orr5Pn5uVgsukYnJydXV1cBIAQA3W5XURTn8OPj48PDQzKZjMVin5+fPM9PT09Ho9GpqamPjw9N046Pj9PptBWmWq2qqhqJRFiWxXEcw7BGozE3N1epVMbGxn4C2Ap2AgCdTmd7e5uiKIqibCaVSv1pIT8JgkCSpGEYCCFZlqPRqC/2nWq1GgAUCoV/BnydIISur68BIJ/P+8KY90yfnp5KpdLKysrAwAAAXF5eepmfSNO0/wRcTgCg1+sF8D5hDg4ODMPIZrNWt9VqBW/5nRiG+U/A5QT6hQl5S5IkxePx2dlZq6vrumEY9Xrd6mIYRtP00NDQdyve3NwUCgWSJAVB+DfgOycAYJpm0ATf27yzs2NXOI5zTQmFQplM5vX11TVXUZRkMgkAMzMz1WrVe6f7AsFOEELtdhvHcYZheJ7P5XLFYrFWq9mj7jBbW1sYht3f3zvD4DheLpdrDrEsu7GxYTOVSiWRSABAPB7f39/3OusLeOV1YqnZbObzeUEQOI4jSRLDsM3NTf8wkUiE53lnZX5+3vuacRzHsqxtlCCIpaUlVVV9bfUFfOV14qvd3V0AaLfbyBXm/PwcAGRZdhZ5nvcNQ9O01c5ms+l0OmC/voBXvk58ZYU5OztDrqdZkiSCIJaXl53FSCTi+7ONjIxYjWazGfwf9wXq9frp6enX11ewkwANDw+D8zV7f38/PDwURXFwcNDJpVIpVVWdlbe3t263m8lkrG6v1zMM4+joyLVBIpEYHR39CcDzfKvVOjk5WVxcDHACAFdXV7quMwxDkmQ4HDZNs9PpkCT555Wyz0uWZQC4uLhwnaNpmqIohhwCgIWFBV3X7Svn+7UURfkroFwuBztBCOVyOdciNE1bdwwh9BswE5qcCRgzhQAAAABJRU5ErkJggg==" alt="" data-sanitized-class="price-cell">
-                                         ج.م</div>
-                <div data-sanitized-class="state">بيع</div>
-            </div>
-            <div data-sanitized-class="col-xs-4">
-                                    <div data-sanitized-class="value">
-                                                    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEIAAAANCAIAAACSOC8GAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAClUlEQVRIiaWUsWvyQBjG3y+oYCxSJEMIEqUUk6FDwMWho5QUOhUJobROHZwcO3Xo4NRRin+AOJUOItKhFpSSRRC6JsVBghQpVlPFYkMk3xBI0xjTWJ/p7p73SX7vcXf/dF1/fn6u1WqwJJ7nKYoaj8fFYtFm7ezsnJ2dGeOPj49SqSQIwnA4DAQCOI7TNH1+fh6LxQDg17ipTTB8ADAajarVqtV+e3t7fX3d39+nKGowGFxdXeE4juO4WZBOp43B19cXy7KJRCIej+/u7s7n8+FwWK/Xj46OjDbc41ZtggG6kzKZDIZhqqrqut7pdACgUCg4VlYqlXg87mgZco+7yzsGsrwr7+/vtVrt5OTE7/cDwOfn53KNqaenJxf317iL1sJwaOP29lZV1Ww264Wj1+u50/y5jbUwfMtL5XJ5b28vmUwaU03TXPKKoqiqKkmSMUUQhCCIUChkFrjHXbQWhv1uiKIIANfX1+aKLMsoikajUZZlc7lcsVgURdF0GYaxfdDn83EcN5lMvMRXaV0MexuXl5cIgvT7fetit9stFAqZTIZhGAzDEAS5uLgw20BRVBAE0SKapvP5vJf4Kq2LYW+DJEmWZd3/cXNzAwCyLOu6nkqlll8qhmFomvYSX6V1MX5c8WazKcvy6empl7P78vICANvb247uZDLxEnfUHzB+tFEul8Ph8PHxsZf81tYWAJAk6ehGIhEvcUmSGo3GYrHYEOP7pZrNZnd3dzzPB4NBa1273VYUJRqNYhgWCAQ0TRsMBhiGGZc7nU4/PDxY66fT6Wg04jjOS5xl2V6vd39/f3h4uAnG992oVCoA0Gq1bEcwl8vZNoAgiMfHR8PVNI3neZ9FAHBwcKAoipe4ASEIwoYY/wGTGssgV2wUlAAAAABJRU5ErkJggg==" alt="" data-sanitized-class="price-cell">
-                                                 ج.م</div>
-                
-                <div data-sanitized-class="state">شراء</div>
-            </div>
-                            <div data-sanitized-class="col-xs-4 up">
-                <div data-sanitized-class="value">
-                    11.5
-                </div>
-                <div data-sanitized-class="state">صعود</div>
-            </div>
-        </div>]]></description>
-			<pubDate>Sat, 07 Feb 2026 16:32:03 +0200</pubDate>
-			<guid isPermaLink="false">1770474743443009</guid>
 		</item>
 
 	</channel>
