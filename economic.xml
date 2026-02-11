@@ -4,10 +4,91 @@
 		<title>اقتصاد</title>
 		<link>http://192.168.1.50:8081/api/query.php?user=admin&amp;t=4IzCA6HFSoouCSR9nVqNkV&amp;f=html</link>
 		<description>RSS feed of اقتصاد</description>
-		<pubDate>Wed, 11 Feb 2026 03:00:02 +0200</pubDate>
-		<lastBuildDate>Wed, 11 Feb 2026 01:00:02 GMT</lastBuildDate>
+		<pubDate>Wed, 11 Feb 2026 03:05:02 +0200</pubDate>
+		<lastBuildDate>Wed, 11 Feb 2026 01:05:02 GMT</lastBuildDate>
 		<atom:link href="http://192.168.1.50:8081/api/query.php?user=admin&amp;t=4IzCA6HFSoouCSR9nVqNkV&amp;f=rss" rel="self" type="application/rss+xml" />
 				<item>
+			<title>عيار 24</title>
+			<link>https://market.isagha.com/prices</link>
+						<description><![CDATA[<div data-sanitized-class="clearfix stats">
+            <div data-sanitized-class="col-xs-4 price-col">
+                <div data-sanitized-class="value">
+                                            <img src="data:image/png;base64,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" alt="" data-sanitized-class="price-cell">
+                                         ج.م</div>
+                <div data-sanitized-class="state">بيع</div>
+            </div>
+            <div data-sanitized-class="col-xs-4">
+                                    <div data-sanitized-class="value">
+                                                    <img src="data:image/png;base64,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" alt="" data-sanitized-class="price-cell">
+                                                 ج.م</div>
+                
+                <div data-sanitized-class="state">شراء</div>
+            </div>
+                            <div data-sanitized-class="col-xs-4 up">
+                <div data-sanitized-class="value">
+                    28.5
+                </div>
+                <div data-sanitized-class="state">صعود</div>
+            </div>
+        </div>]]></description>
+			<pubDate>Wed, 11 Feb 2026 03:02:02 +0200</pubDate>
+			<guid isPermaLink="false">1770771723001756</guid>
+		</item>
+		<item>
+			<title>عيار 21</title>
+			<link>https://market.isagha.com/prices</link>
+						<description><![CDATA[<div data-sanitized-class="clearfix stats">
+            <div data-sanitized-class="col-xs-4 price-col">
+                <div data-sanitized-class="value">
+                                            <img src="data:image/png;base64,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" alt="" data-sanitized-class="price-cell">
+                                         ج.م</div>
+                <div data-sanitized-class="state">بيع</div>
+            </div>
+            <div data-sanitized-class="col-xs-4">
+                                    <div data-sanitized-class="value">
+                                                    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHUAAAAqCAYAAACN3BSeAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAHCklEQVR42u1cX2hS7x9+Opo7mC0nY9kwEeecSNgfhtQaYcPEi5AxIgaN0UXELkf3QcQg79qFVxEhY3jRnxE2Iiza2kV0UUtkiLEQEbG1XJmzJc58f1c/mZt/zjm6c86+7IFz8R49n+f1fd7z/vl8Pq8HCCEE+/hPgdpvgn1R97EHIG2GkfX1dWSzWeTzeUilUrS2tuLw4cO7WnEhOP+zoq6vr8Pv9yMQCGBxcRHRaBQbGxs7vkfTNDQaDXQ6HYxGI0wmE86cOQOr1YqDBw+KgnN5eRmhUKipDWq323HkyJGqnz979qwpPFarFcePH6/8IWGByclJolQqCQDOl8lkImLhnJqaashupSsYDFb9Lfl8vmk8gUCgKg/jN/XatWvw+XwN9zC1Wg2xcGo0Gl6HxUqjC1fUqjsjUe/duwefzweVSoXe3l60t7dDLpdDoVCApmlIpVJQFIVisYhcLodsNotUKoXV1VUkk0nE43Hk83kAgNlshlg4Ozs7m7vqpCh0dHTwImqtutcV9cePH5iYmAAADAwM4MmTJ6wr8O/fP8RiMYRCIUYNyRenwWBAMBjk3LB3797FzMxMqTwwMIBjx46xEtXj8aC/v581d615u66oDx48aLiHSSQSdHV1oauri9H3+eKUSCQ4efIkJ/ubm5tYWFgouzc6OlrzmWw2W7Fjca0D533q06dPeV+SC8HJFi9fvkQqlSqVFQoFhoaGeJtTOYu6trbW0PDEBUJwcsH09HRZ+cqVKzh06JD4RRWicfeCoGtra/D7/ayG3mrDL++iRiIR3htMCE62ePz4cWllDQBarRYXL17kdUvDWdRYLMZ7gwnByRZTU1Os31LRiLqyssJ7gwnByQbLy8v48OHD3hX158+fvDeaEJyNvKVnz55Fd3f33hE1nU7z3mhCcPIx9PIpqpRNJXK5HL5//17XKE3TNT0eYuNkinfv3iEej5fKMpkMw8PDjJ+naVp4UXO5XFl5dnaWsUNeKpVCp9Oht7cXLpcLQ0NDaGlpqfucEJxM4fV6y8oulwttbW2Mn9fpdDvuJRIJ/P79u7kdslbYy2AwNC1UpNFoiN/vrxtqE4KTCTY2NohCoSizPzs7y8rG6uoqoWm6Yl3lcjkxGo3EZrOR69evk4mJCTIzM0NisRjruvImKgBCURTxer1EbJxMMD09XWa3o6ODFAoF1nY8Hg+nznnjxg3y9u1bRhwHamUTdnd34+vXr2X3LBYLnE4n1Go1ZDIZo9EgkUjA7XaX5pWlpaWqjnYhOJng0qVLePPmTak8Pj6O+/fvc7I1NzeHO3fu7AgIMEF/fz8ePXpUe8VdS3GTyVTWY7RaLcnn86x7ZzAYLLMzNjYmKs56SCQShKIoxhkOTJFMJonP5yO3bt0iDoeDaLXaHTyVLpVKRcLhMLfh12KxlBkbHBzkVPntDdze3i4qznpwu91ltiwWC9kt5HI5EolEyKtXr4jX6yVut5uMj4+T4eHhsrSevr4+buks25fgUmlTkg+RSqXw5csX9PT0iIKzHrZHZNjsTdmipaUFPT09Fet57ty5kjfr/fv3+Pz5M06fPs3O+SCXy3et8tvnTSE5a+HTp09YWloq62QjIyOicIQEAgH2HqXW1lbe3YFCcLLxIDkcDhw9elQUoobDYfaiqlSqXavQ1tCV0JzVsLm5uSObcTeH3mYFP2qKyiadky2qucyE4KyG7SkrSqUSg4ODohG1WietKepu5sVWeyOF4GS6QLp69WpT3Y6Notr6o6aoTHN0uUCv14uGsxK4pqzwiWqprzVFPXXqFCiq+QfjFAoFDAaDaDgrYXvKisFgwPnz50UlqsViYS9qW1sbrFZrw+TbIy92ux0SiUQ0nExWvWJ7SwHA6XRWvF93Zz86OrojfYMttmaxA8DNmzdFx7kVlVJWGt2bfvv2DSMjIzCbzTAajdDr9dBqtejs7IRSqazb4X79+lUWa3Y6nVX9vwfq/T3A379/ceLECUSjUeh0OtjtdkY/olgsIpvNIhwOl23eL1++jBcvXkBsnFtx+/bt0rEPALDZbJibm2tI1NevX8PhcFQeLikKSqWydE5IJpOhWCyiUCggl8shnU4jk8mUTSUfP36s7h1j4o9cXFxs+DghAHLhwgWSTqeJWDn/D61WW2bj4cOHDft0JycnmxJKVKlUZGFhgXs8dSui0ShxuVyMogjbL71eTzweD+v4oxCc8/PzO4LXmUymYVGfP39Oent7Of0WAEShUJCxsTGysrLSWDy12twwPz+PUCiEeDyOVCpVOqZPURRomoZKpYJGo4HZbEZfX1/DB4CE4Nwt/PnzB8FgEJFIBLFYDMlkEqlUCplMBrlcDoVCAVKpFHK5HGq1GgaDAVarFTabre6xDsZz6j72Hvb/nWVf1H3sBfwPeWI9g2DmPN0AAAAASUVORK5CYII=" alt="" data-sanitized-class="price-cell">
+                                                 ج.م</div>
+                
+                <div data-sanitized-class="state">شراء</div>
+            </div>
+                            <div data-sanitized-class="col-xs-4 up">
+                <div data-sanitized-class="value">
+                    25
+                </div>
+                <div data-sanitized-class="state">صعود</div>
+            </div>
+        </div>]]></description>
+			<pubDate>Wed, 11 Feb 2026 03:02:02 +0200</pubDate>
+			<guid isPermaLink="false">1770771723001755</guid>
+		</item>
+		<item>
+			<title>جنيه ذهب</title>
+			<link>https://market.isagha.com/prices</link>
+						<description><![CDATA[<div data-sanitized-class="clearfix stats">
+            <div data-sanitized-class="col-xs-4 price-col">
+                <div data-sanitized-class="value">
+                                            <img src="data:image/png;base64,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" alt="" data-sanitized-class="price-cell">
+                                         ج.م</div>
+                <div data-sanitized-class="state">بيع</div>
+            </div>
+            <div data-sanitized-class="col-xs-4">
+                                    <div data-sanitized-class="value">
+                                                    <img src="data:image/png;base64,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" alt="" data-sanitized-class="price-cell">
+                                                 ج.م</div>
+                
+                <div data-sanitized-class="state">شراء</div>
+            </div>
+                            <div data-sanitized-class="col-xs-4 up">
+                <div data-sanitized-class="value">
+                    200
+                </div>
+                <div data-sanitized-class="state">صعود</div>
+            </div>
+        </div>]]></description>
+			<pubDate>Wed, 11 Feb 2026 03:02:02 +0200</pubDate>
+			<guid isPermaLink="false">1770771723001754</guid>
+		</item>
+		<item>
 			<title>عيار 24</title>
 			<link>https://market.isagha.com/prices</link>
 						<description><![CDATA[<div data-sanitized-class="clearfix stats">
@@ -402,261 +483,6 @@
         </div>]]></description>
 			<pubDate>Sun, 08 Feb 2026 18:32:03 +0200</pubDate>
 			<guid isPermaLink="false">1770568330996557</guid>
-		</item>
-		<item>
-			<title>جنيه ذهب</title>
-			<link>https://market.isagha.com/prices</link>
-						<description><![CDATA[<div data-sanitized-class="clearfix stats">
-            <div data-sanitized-class="col-xs-4">
-                <div data-sanitized-class="value">
-                                            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAANCAIAAABzUzpXAAAACXBIWXMAAA7EAAAOxAGVKw4bAAADI0lEQVRIiZ2VPUjzXBTHzxOCDSFoKaHG0kooBfEK6qihStHiJA4iglLBsYg4aMHM0klBRDo4VHdBVBClQwYpxQ/oUDL4jYNUjcVqqKWDhN53iG+evq1pw/uf7j3nd879595c7h+MMQB8fn5ubm7Cf+X1emdmZgBgd3c3kUhks9lCoUBRFEJofn6+q6sLanRwcCDLMgAwDLO0tGTEn5+fY7FYJpNRVbVcLjMM4/P5Zmdn+/v7LTJ/dKPX19cIIY7jOI4zKoPB4NraGgBMTU0piuJyuex2O0mSqqru7e2l0+nOzs5Kl29vbz6fj+f5XC5HEMTr66se//r6QghNTEwYpKZp2Wz25OREkqSBgQFLDMYYY5xOpwEgGo1iayJJcmFhoSoYDodpmn55eRkdHeU4zojv7OyQJFnbxO/3T09PW2QI3X6pVKo9x/p6fHysnN7f38fj8cXFxba2tipS/xlqRVGUkWrI/H+jLMtWTkVRtNvtkUiklszlcmZNjFRDhtQnmqZZ9JfP529ubsrlcigUMoLn5+f7+/vr6+stLS21JYVCwaxbsVi0yPwY7e7upml6a2srlUrxPI8QGhkZ6ejoqCzY3t4WRfH9/R0AIpHI8PCwkRJFsb29fW5u7teV6uzC9/e3Rebn6D0ejyzL4XCYYZiLi4uVlRWE0PLycmXB5ORkIpE4PDzc2NiIx+O3t7d6/OjoKJlMRqNRm81mtpiZCIKwypjd61gsBgBPT0/1b72maQghp9OZTCZT/0oQBIfDkUqlisUixnhsbOzXGx0MBhmG0ccNGbL+19zd3Xk8nl9TDw8PACBJ0tXVFQAMDg5WAX6/P5PJ9PT0MAxj1r+5uVkfNGQaGK1TT9M0AAQCAUVRqlKhUEiWZVmWHQ4HALjdbrMmPM/rg4bMj9HLy0tVVd1uN8uyTU1NmqYpisKybG9vbz6fPz099Xq9TqdTN6c/cYIgAIDNZmttba1qTVEUQRBGfGhoaHV19fj4uK+vjyT/bo2maYFAwCpjPCpVi7lcLkmSMMZnZ2eVlbrGx8dLpZLZ/131Mun9a++NIAgfHx8WmX8A9/eFIGnJ1qQAAAAASUVORK5CYII=" alt="" data-sanitized-class="price-cell">
-                                         ج.م</div>
-                <div data-sanitized-class="state">بيع</div>
-            </div>
-            <div data-sanitized-class="col-xs-4">
-                                    <div data-sanitized-class="value">
-                                                    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADkAAAANCAIAAACckVFpAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACWElEQVRIia2UT0g6QRTHJ5mDyCId9iCLgkQQTRBdlYRQ6dhBQkgKPO4hPAV1Fm9dIjx40O6CghdFwWOIwoKyEKlEQSisf7YxlT3IsvM7rCz+qq1+P+ad3sz7fIfvg/dmjRACAMAY397egr9jY2Pj7OwMAJDNZsvlcq/Xm06nVqsVIXR+fr6zs2OQ/X4/mUy2Wq3JZKJpGsMwm5ub0WjU4/FQZNZ0r4+Pjwghh8PhcDgMZTAYvL6+BgCcnJxIksRx3Pr6OoRwMpnkcjlBELa3twEAs9kMIXR8fGwIVVXt9XqlUqlarfp8PmoMIYQQIggCACCRSJDfBYQwFovp+d3dHYTwM7O/vx+JRCgyFr0DRVHAP8bz87OeiKL4JWC1Wo0SFeb/vbIsqyfD4dCMMUpUGKgfVFX9pUVZltvttqZpp6en+s10OjWD5/M5RWbpdXd312azpVKp+/t7t9uNEDo8PNza2loVZDKZq6ur8XgMALi4uAgEAvr9N30uFguKzHIGXC6XKIo8zzMMU6/X4/E4Qujy8nJVEA6Hy+VyoVC4ublJp9OdTsfsaSMsFgtNxmzTk8kkAOD19fXHf+Do6OjL/Q0GgwzDUGR+6Knb7ZqVnp6e9IRhGDPGbrdTZH7w+o3eZrPpidPpNGPcbjdFZum10WhUKpWHh4fBYIAxHo1GkiSxLLu3tyfLcj6fbzab/X4fY4wxfnl50TTN6/XqWr/fr6pqsViUZfl9JVRVPTg4oMnoM8Hz/IdWOI6rVquEkFqtBiH8UA2FQoqiGCPF8/znFfF6vW9vbxSZP41nwSwQ+VI9AAAAAElFTkSuQmCC" alt="" data-sanitized-class="price-cell">
-                                                 ج.م</div>
-                
-                <div data-sanitized-class="state">شراء</div>
-            </div>
-                            <div data-sanitized-class="col-xs-4 up">
-                <div data-sanitized-class="value">
-                    40
-                </div>
-                <div data-sanitized-class="state">صعود</div>
-            </div>
-        </div>]]></description>
-			<pubDate>Sun, 08 Feb 2026 18:32:03 +0200</pubDate>
-			<guid isPermaLink="false">1770568330996556</guid>
-		</item>
-		<item>
-			<title>إشارات من الهند عن اقتصاد ما بعد العولمة</title>
-			<link>https://almanassa.com/stories/30117</link>
-						<media:thumbnail url="https://almanassa.com/sites/default/files/styles/lead_image_square/public/photobank/2026/c9153131-5163-4ab3-a2d1-87e184ee4686.png.webp?itok=ID2eTFuJ" />
-			<media:content url="https://almanassa.com/sites/default/files/styles/lead_image_square/public/photobank/2026/c9153131-5163-4ab3-a2d1-87e184ee4686.png.webp?itok=ID2eTFuJ" medium="image"></media:content>
-			<description><![CDATA[<!-- FULLCONTENT start //--><div data-sanitized-class="columns small-12 table-scroll">
-							<p>منذ أكثر من عقدٍ، وبمجردِ وصوله لسدة الحكم، أطلق <a href="https://www.aajeg.com/maaref/figures/%D9%86%D8%A7%D8%B1%D9%8A%D9%86%D8%AF%D8%B1%D8%A7-%D9%85%D9%88%D8%AF%D9%8A%C2%A0%D8%B1%D8%A6%D9%8A%D8%B3-%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D9%87%D9%86%D8%AF">رئيس الوزراء</a> الهندي، اليميني القومي، ناريندرا مودي، <a href="https://www.pmindia.gov.in/en/major_initiatives/make-in-india/">حملة</a>ً قوميةً لإحلال الواردات. ما يبدو غريبًا ليس فقط تراجع هذه السياسات منذ ثمانينيات القرن الماضي، لكن أيضًا ارتباطها بمشروعات اليسار في حقبة ما بعد الاستقلال.
-وعلى الرغم من أن أصواتًا عديدةً التقيتها في الهند لا تتحمس كثيرًا لنتائج هذه المبادرة، فما يحققه هذا البلد من تقدم لا يمكن التقليل منه أو تجاهله، بل إن هذه السياسة باتت تعكس واقعًا لعالم جديد، تعود فيه فكرة الاكتفاء الذاتي إلى الصدارة بعد أن أوهمتنا الدعاية النيوليبرالية بأنها لا لزوم لها. بتعبيرٍ آخرَ سياسةُ مودي واحدة من الملامح الأساسية للحقبة الحالية التي يمكن أن نطلق عليها "ما بعد العولمة".</p>
-
-<h2>أيديولوجيات متصارعة في الهند</h2>
-
-<p>أتيحت لي فرصة زيارة الهند هذا العام والإقامة بها نحو شهر في إطار التعاون الأكاديمي مع إحدى الجامعات بالجنوب في بنجالور، المدينة المعروفة  بـ<a href="https://thescalers.com/how-bangalore-became-asias-silicon-valley/">سيليكون فالي الهند</a> بفضل تركز الصناعات والخدمات عالية التقنية بها، بما يقدم نموذجًا مهمًا لقدرة البلدان النامية على التنافس على هذا النمط من الصناعات الذي تهيمن عليه الاقتصادات الكبرى.</p>
-
-<p>في خضم الإقامة هناك، عَقدتُ لقاءات مع أساتذة جامعيين وصحفيين وناشطين وسياسيين وتكنوقراط في مجالات الاقتصاد والمال. كثيرٌ منهم انتقد ما يجري في بلادهم من زوايا متعددة، بينما كان شغلي الشاغل محاولة فهم أبعاد ما يتحدثون عنه مع حجم التعدد والاختلاف في هذا البلد الذي <a href="https://www.lowyinstitute.org/the-interpreter/population-paradox-india">يعيش</a> فيه نحو 1.4 مليار نسمة <a href="https://www.mha.gov.in/sites/default/files/EighthSchedule_19052017.pdf">ويتحدث</a> أكثر من 20 لغة.</p>
-
-<p>مع تركيزي الإرادي، وفي بعض الأحيان اللا إرادي، على الاقتصاد السياسي، لم أستطع إغفال وجود اتجاهين متعارضين في مجال التجارة والتصنيع.</p>
-
-<p>الاتجاه الأول، وهو الأقرب للسياسات النيوليبرالية الصاعدة منذ الثمانينيات التي تروج لفكرة جذب جزء من مراحل التصنيع التي تقوم بها الشركات العالمية الكبرى إلى البلدان النامية، لكي يصبح البلد جزءًا من حلقات إنتاج منتشرة جغرافيًا، تنتهي إلى صناعة السلع التي يستهلكها الغرب المتقدم، وهكذا يجد العالم النامي لنفسه فرصةً في الثراء بالاعتماد على عوائد التصدير.</p>
-
-<blockquote>
-<p>تنسبُ الحكومة الهندية لنفسها الفضلَ في توطين الصناعة مع ما منحه مودي من إعفاءات ضريبية ودعم للبحث العلمي والابتكار</p>
-</blockquote>
-
-<p>تبدو النيوليبرالية حاضرةً بقوة في الهند إلى اليوم، خصوصًا بعد اتجاه شركة بحجم <a href="https://www.cnbc.com/2025/05/15/india-approves-apple-supplier-foxconns-433-million-chip-joint-venture.html">أبل </a>الأمريكية مؤخرًا للتصنيع هناك، مع زيادة فرصِ هذا التوجه في الفترة الأخيرة بفضل الحرب التجارية وما خلقته من <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="abf6c17e-b56e-47e4-aff3-9eb4a7ef5a6c" href="https://almanassa.com/news/24877" title="ترامب يعلن التوصل لاتفاق مع الصين لإنهاء الحرب التجارية">توتر</a> بين الولايات المتحدة والصين، فأبل هناك من أجل تجنب العقوبات الأمريكية على الصين.</p>
-
-<p>لكنَّ ثمةَ توجهًا آخر لا يقل أهمية يدعو للاعتماد على المستثمرين المحليين في تعميق الصناعة بهدف الاكتفاء الذاتي، الذي يبدو واضحًا في الخطاب الحكومي هناك، إذ <a href="https://www.pib.gov.in/PressReleasePage.aspx?PRID=2202979&amp;reg=3&amp;lang=2">تتحدث</a> الحكومة عن زيادةٍ في إنتاج الهواتف المحمولة 28 ضعفًا منذ بدأت حملة "اصنع في الهند" في 2014، وإحلال واردات بنسبة 60% في قطاع الاتصالات، وصناعات ناهضة في مجال المعدات الطبية وغيرها.</p>
-
-<p>تنسب الحكومة لنفسها الفضلَ في هذا التوطين للصناعة، مع ما منحه مودي من إعفاءات ضريبية ودعم لموازنات البحث العلمي والابتكار، وغيرها من الامتيازات.</p>
-
-<h2>آراء مختلفة في بلدٍ متعدد</h2>
-
-<p>يرى بعض ناقدي سياسات حكومة مودي أن هذا الخطاب لا يعدو كونه دعايةً في أوساط الناخبين ذوي التوجه القومي، ولا ينسجم مع رهانات الاقتصاد الهندي على النموذج النيوليبرالي الذي يهدف إلى احتلال موقع أفضل في سلاسل القيمة العالمية، خاصة في القطاعات التي تتميز فيها مثل الاقتصاد الرقمي.</p>
-
-<p>لكن من واقع مشاهداتي وقراءاتي، لا يقتصر خطاب توطين الصناعة على الدعاية السياسية. دافعي لهذا الرأى بالطبع ليس حماسي لمودي، لكن لأن هناك عوامل مادية تفسر لنا بسهولةٍ لماذا يهتم هذا الرئيس اليميني بإحلال الواردات.</p>
-
-<p>من أهم هذه العوامل الكثافة السكانية الضخمة للهند، ما يعني ببساطة سوقًا محليةً كبيرةً تستطيع استيعاب صناعات وطنية جديدة، ويمكّنها من تحقيق معدلات عالية من التراكم.</p>
-
-<p>هناك أيضًا حسابات أمنية وجيوسياسية لهذا التوطين، على رأسها مخاوف الهند من التبعية التكنولوجية <a href="https://icds.ee/en/indias-strategic-recalibration-managing-us-volatility-and-chinas-opportunism/">للصين</a>، كما أن نموذج النمو الاقتصادي المعتمد على التصدير بدا محفوفًا بالمخاطر التي تجلت بالفعل في استهداف ترامب للصادرات الهندية <a href="https://www.bbc.com/news/articles/c5ykznn158qo">بتعريفات </a>جمركية مرتفعة للضغط على نيودلهي للتخلي عن <a href="https://www.reuters.com/markets/commodities/trumps-india-oil-diplomacy-wont-defy-market-forces-2026-02-02/">استيراد النفط الروسي</a>.</p>
-
-<blockquote>
-<p>تنبئ سياسة مودي لإحلال الواردات بإدراك النخبة الحاكمة في هذا البلد لحجم وعمق التغير الذي طرأ على العالم</p>
-</blockquote>
-
-<p>رغم كل هذه الاعتبارات، فإن المتشككين في قدرة مودي على <a href="https://www.institutmontaigne.org/ressources/pdfs/publications/scenario-india-%20the-challenges-of-make-in-india-note.pdf">تحقيق</a> ما يصبو إليه، سواء فيما يتعلق بتحسين وضع الهند في الاقتصاد العالمي أو في استراتيجيات الاعتماد على الذات والتصنيع المحلي، يشعرون بالقلق من المصاعب المؤسسية التي قد تعوق سياسة التوطين، والمتعلقة بمدى قدرة أجهزة الدولة في المدى الطويل على تمهيد الطريق أمام القطاع الخاص.</p>
-
-<h2>عصر ما بعد العولمة</h2>
-
-<p>على أي حال، لا تعنيني كثيرًا قدرة الهند على تحقيق ما تبتغيه على صعيد وضعها العالمي اقتصاديًا أو جيوسياسيًا، إنما ما يثير الانتباه هو حضور سياسات موروثة من يسار الستينيات في اقتصاد بهذه الضخامة وبهذه الأهمية.</p>
-
-<p>تنبئ سياسة مودي لإحلال الواردات بإدراك النخبة الحاكمة في هذا البلد لحجم وعمق التغير الذي طرأ على العالم في العقد الماضي، خاصة مع تراجع الرهانات على العولمة الاقتصادية على وقع أزمة وباء كورونا ثم تصاعد المواجهات والتوترات العسكرية بين دول كبرى، وصعود الاعتبارات الأمنية والجيوسياسية على حساب اعتبارات الربح أو التنافس في الأسواق العالمية.</p>
-
-
-<div data-embed-button="almanassa_story_browser" data-entity-embed-display="view_mode:node.read_also" data-entity-type="node" data-entity-uuid="a357e643-524d-486f-9b1d-96691352a52d" data-langcode="ar" data-entity-embed-display-settings="[]" data-sanitized-class="embedded-entity">
-	<article data-history-node-id="29054" role="article" about="/stories/29054" data-sanitized-id="node-29054" data-sanitized-class="view-mode--read-also type-story"><div data-sanitized-class="row">
-		<a href="https://almanassa.com/stories/29054" almanassa-posthog-link="" data-ph-capture-attribute-link-type="story" data-ph-capture-attribute-link-id="29054" data-ph-capture-attribute-link-title='ما الذي أعادنا إلى شعار "صنع في مصر"؟' data-ph-capture-attribute-link-section="اقتصاد وعمران" data-ph-capture-attribute-link-view-mode="read_also" data-sanitized-class="columns small-12 medium-6">
-			<hr data-sanitized-class="embed-divider"><div data-sanitized-class="h3">اقرأ أيضا</div>
-			
-			<div data-sanitized-class="h2">
-				<span>ما الذي أعادنا إلى شعار "صنع في مصر"؟</span>
-
-			</div>
-			
-			<hr data-sanitized-class="embed-divider"></a>
-	</div>
-</article></div>
-<p>ربما لا تزال بعض ملامح نيوليبرالية التسعينيات قائمةً في الاقتصاد العالمي؛ في مجالات مثل التجارة والاستثمار العالميين، لكن بات واضحًا أن هذه القنوات والتدفقات أصبحت خاضعة بشكل متزايد لتدخلات الدول، وهذه التدخلات مدفوعة بحسابات غير اقتصادية تعلي من قيمة الأمن والتنافس الجيوسياسي، وفي هذا الخضم يزداد الرهان على الأسواق المحلية والاستثمار المحلي وبناء قدرات صناعية موجهة للداخل.</p>
-
-<p>باختصار، يشهد اقتصاد الهند تعدديةً من نوع غريب، تشبه التعدد الثقافي الهائل لشعبه، حيث تتعايش النيوليبرالية وسياسات مناهضة التبعية سويًا، ما يمثل مدخلًا مهمًا لفهم الاقتصاد العالمي، فنحن نتحدث عن بلد صعد إلى مرتبة <a href="https://www.dw.com/en/india-overtakes-japan-as-4th-largest-economy-report-says/a-75341063">رابع</a><a href="https://aawsat.com/%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/5224571-%D8%A7%D9%84%D9%87%D9%86%D8%AF-%D8%AA%D8%AA%D8%AE%D8%B7%D9%89-%D8%A7%D9%84%D9%8A%D8%A7%D8%A8%D8%A7%D9%86-%D9%84%D8%AA%D8%B5%D8%A8%D8%AD-%D8%B1%D8%A7%D8%A8%D8%B9-%D8%A3%D9%83%D8%A8%25"> </a>أكبر اقتصاد في العالم بعد أن تخطى اليابان في 2025.</p>
-						<div data-sanitized-id="topic-file-stories">
-			<div data-sanitized-class="views-element-container">		<div almanassa-posthog-link-source="" data-almanassa-posthog-link-source="Story Topic File Stories List" data-almanassa-posthog-link-source-type="topic_files" data-almanassa-posthog-link-source-id="embed_story_topic_file" data-sanitized-class="js-view-dom-id-adeaa69f4e079e9271d71443ba5ffd880b7551dbb9232b1ec5461073ea79dac9">
-		
-		
-		
-
-		
-		
-		
-		
-
-		
-		
-		
-
-		
-		
-
-		
-		
-	</div>
-</div>
-
-			</div>
-		</div><!-- FULLCONTENT end //-->]]></description>
-			<pubDate>Sun, 08 Feb 2026 14:17:50 +0200</pubDate>
-			<guid isPermaLink="false">1770553071495216</guid>
-		</item>
-		<item>
-			<title>عام الغضب.. دلالات 100 احتجاج عمالي في 2025</title>
-			<link>https://almanassa.com/stories/29348</link>
-						<dc:creator>أحمد خليفة</dc:creator>
-			<media:thumbnail url="https://almanassa.com/sites/default/files/styles/card_lead/public/photobank/2026/7d8c3f85-2b61-446a-baae-b7d03bfd7c8e.png.webp?itok=GD2YpF0D" />
-			<media:content url="https://almanassa.com/sites/default/files/styles/card_lead/public/photobank/2026/7d8c3f85-2b61-446a-baae-b7d03bfd7c8e.png.webp?itok=GD2YpF0D" medium="image"></media:content>
-			<description><![CDATA[<!-- FULLCONTENT start //--><div data-sanitized-class="columns small-12 table-scroll">
-							<p>قبل عامٍ، بشَّرنا <a href="https://asharq.com/reports/104200/%D8%B5%D9%86%D8%AF%D9%88%D9%82-%D8%A7%D9%84%D9%86%D9%82%D8%AF-%D9%8A%D8%AA%D9%88%D9%82%D8%B9-%D8%B3%D9%8A%D8%B7%D8%B1%D8%A9-%D9%85%D8%B5%D8%B1-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AA%D8%B6%D8%AE%D9%85-%D8%A8%D9%88%D8%AA%D9%8A%D8%B1%D8%A9-%D8%A3%D8%B3%D8%B1%D8%B9-%D9%81%D9%8A-2025/">خبراء</a> الاقتصاد بسنةٍ جديدةٍ يهدأ فيها معدل التضخم بعد طفراته التي عشناها منذ 2022، وتهبط أسعار السلع والخدمات الأساسية بعدما وصلت لمستويات لم نتصورها.</p>
-
-<p>وبالفعل بدأ التضخم مسيرة تراجعه بعد <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="9f41fd18-af21-4e63-a517-3646c67a34a9" href="https://almanassa.com/news/16361" title='مدبولي: "الصفقة الكبرى" في رأس الحكمة وقيمتها 35 مليار دولار'>صفقة</a> رأس الحكمة في 2024 بفضل ما أسهمت فيه الصفقة من استقرارٍ لسعر صرف الدولار، مع ذلك لم تتقلص الفجوة الكبيرة بين الأجور والأسعار التي خلفتها السنوات السابقة وبقيت كما هي تلقي <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="c316937f-1bc4-44af-90bf-90044ca1a289" href="https://almanassa.com/stories/6120" title="ما فعله التضخم بالطبقة الوسطى">بعبئها</a> الثقيل على حياة الملايين من العمال.</p>
-
-<p>تحت ضغط هذه الظروف وفي عام 2025، شحذ العمال همتهم في العديد من المواقع لإنقاذ أجورهم من التضخم والمطالبة بالحصول على الحد الأدنى، المحدد من الحكومة، علّه يساهم ولو بالقليل في توفير حماية من العوز والاحتياج، وفي 16 يناير جاءت الشرارة الأولى من <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="eb6374ba-71ce-4219-a05e-726089d0e8a8" href="https://almanassa.com/news/21751" title="إضراب عمال T&amp;C للملابس للمطالبة بزيادة سنوية 50%">عمال</a> T&amp;C للملابس في العبور الذين تظاهروا تعبيرًا عن غضبهم لعدم تخطي رواتبهم الشهرية آنذاك الـ5200 جنيه.</p>
-
-<p><strong>المنصة</strong> تابعت 100 احتجاج عمالي، امتدت على مدار العام الماضي، من الإسكندرية حتى أسوان، شارك فيها آلاف العمال، وحملت مئات القصص، حقق بعضها مكاسب، فيما مُني البعض الآخر بهزائم زادت من معاناة العمال، لكنها صقلت تجربتهم.</p>
-
-<h2><strong>عمال الصناعة يقودون الاحتجاجات </strong></h2>
-
-<p>قد يكون العدد الفعلي للفعاليات العمالية أكبر، لكن ما رصدته <strong>المنصة </strong>في 2025 وصل إلى 100 احتجاج، تنوعت خلالها الممارسات العمالية بين 28 إضرابًا، كليًا وجزئيًا وتباطؤيًا، و64 وقفة، وتظاهرة، و8 اعتصامات، كما تخللت هذه الممارسات محاولة انتحار وقعت في <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="5108d5c8-de9d-45e1-88bb-1b017072682d" href="https://almanassa.com/news/28697" title='زملاؤه أنقذوه.. محاولة انتحار عامل بسكر كوم أمبو بعد نقله تعسفيًا إلى "الحوامدية"'>شركة</a> سكر كوم أمبو في أسوان.</p>
-
-<p>ويرصد منسق دار الخدمات العمالية كمال عباس، في حديثه مع<strong> المنصة</strong>، زيادةً ملحوظةً في النشاط الاحتجاجي عام 2025 عن الأعوام السابقة له، مؤكدًا أن هذه الاحتجاجات مدفوعةٌ بالأساس بموجات ارتفاع الأسعار.</p>
-
-<p>وسجل التضخم قفزاتٍ تاريخيةً منذ عام 2022، مدفوعًا بتذبذب سعر الصرف، أو ما يُعرف بـ<a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="68e434c1-58f2-4e53-adc6-16f3b4f1a31f" href="https://almanassa.com/stories/14284" title="كيف حوّلتنا أزمة الدولار إلى مضاربين في العملة؟">أزمة</a> الدولار، لكنه بدأ في التراجع منذ 2024، ووصل إلى 10% في نوفمبر/تشرين الثاني الماضي، قرب أدنى مستوى وصل إليه قبل بدء الأزمة منذ نحو أربعة أعوام.</p>
-
-<div data-sanitized-class="embed-media embed-media--rich-flourish"><div><iframe src="https://flo.uri.sh/visualisation/27017033/embed" allowfullscreen="" title="Untitled Visualization" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" sandbox="allow-scripts allow-same-origin"></iframe></div></div><aside data-sanitized-class="caption">تطور معدل التضخم السنوي في الفترة من 2022 إلى 2025، تصميم المنصة</aside><p>ورغم أن القطاع الصناعي التقط أنفاسه مع تراجع أزمة الدولار، حيث أظهر <a href="https://mped.gov.eg/singlenews?id=6391">مؤشرات</a> للتعافي وتحسن وتيرة الإنتاج خلال العام الماضي، فإن هذا التعافي لم ينعكس على الأجور، ليسجل هذه القطاع النسبة الأكبر من الاحتجاجات خلال العام بواقع 51 احتجاجًا.</p>
-
-<div data-sanitized-class="embed-media embed-media--rich-flourish"><div><iframe src="https://flo.uri.sh/visualisation/27018280/embed" allowfullscreen="" title="Untitled Visualization" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" sandbox="allow-scripts allow-same-origin"></iframe></div></div><aside data-sanitized-class="caption">التوزيع القطاعي للاحتجاجات العمالية في 2025، تصميم المنصة</aside><p>غير بعيد عن الصناعة، احتفظ قطاع المرافق العامة بعدد من أبرز مساحات الاحتجاج خلال العام الماضي، وبعد أن كانت الاحتجاجات تقتصر على العمال المؤقتين في القطاع، امتدت خلال النصف الثاني من العام لتشمل العمال المثبتين، الذين <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="478bd8fe-48f3-46fd-9cfc-5abd116acdbb" href="https://almanassa.com/stories/28574" title='هل تسمع الدولة؟ انتفاضة عمال "مياه الشرب" ترفع صوت الغضب'>اشتكوا </a>لـ <strong>المنصة </strong>ضمن متابعاتها للحراك العمالي من<strong> </strong>أن أجورهم عاجزة عن سد حاجات أسرهم بالرغم مما يتمتعون به من مميزات التثبيت. </p>
-
-<p>حازت محافظة القاهرة المركز الأول في عدد الاحتجاجات، بواقع 38 احتجاجًا، وهو معتاد ومتوقع في ظل مركزية النشاط الاقتصادي في العاصمة، لكن اللافت زيادة النشاط الاحتجاجي في الصعيد، حيث شهدت محافظات شمال وجنوب الصعيد 29 احتجاجًا خلال العام الماضي.</p>
-
-<p>تجدر الإشارة إلى أننا رصدنا عدد الاحتجاجات على مستوى الشركات وليس على مستوى عدد المواقع داخل الشركة الواحدة، ولو أحصينا عدد المواقع لقفز العداد إلى أكثر من 150 احتجاجًا، فعلى سبيل المثال شهد اليوم الثاني من احتجاجات عمال شركة مياه الشرب في القاهرة، التي استمرت 12 يومًا خلال نوفمبر الماضي، وقفات احتجاجية <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="7f121a38-c6f3-4ad3-b461-d274234eaacd" href="https://almanassa.com/news/28428" title='"يا وزير الإسكان شوف احنا بنقبض كام".. احتجاجات "مياه الشرب" بالقاهرة تمتد لـ30 موقعًا'>امتدت </a>لـ30 موقعًا.</p>
-
-<h2><strong>"الحد الأدنى" شرارة الاحتجاجات</strong></h2>
-
-<p>بينما كان العمال يصارعون لتطبيق الحد الأدنى السابق (6 آلاف جنيه)، دون أن يتمكنوا من نيل هذا الحق، جاء <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="4916ed6a-4c3f-41d6-aad9-86b441b20475" href="https://almanassa.com/news/22236" title='"القومي للأجور": رفع الحد الأدنى للعاملين بالقطاع الخاص إلى 7000 جنيه اعتبارًا من مارس'>قرار </a>المجلس القومي للأجور في فبراير/شباط الماضي برفع الحد الأدنى بالقطاع الخاص من 6 إلى 7 آلاف لتشتعل موجة عاتية من الاحتاجات مستمرة حتى اليوم.</p>
-
-<p>وتصدر تطبيق الحد الأدنى للأجور مطالب 70% من الاحتجاجات تقريبًا، بينها سيراميكا <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="6db22da9-c4c1-453b-a987-ce045bcba6ad" href="https://almanassa.com/news/21904" title="إضراب عمال سيراميكا إينوفا بالفيوم للمطالبة بالحد الأدنى للأجور وصرف الرواتب المتأخرة">إينوفا</a>، ومياه الشرب في <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="eb71c526-0ded-4961-b061-1869f6010430" href="https://almanassa.com/news/22830" title='للمطالبة بالحد الأدنى للأجور.. احتجاجات لمحصلي "مياه الشرب" في القناطر وشبرا والخصوص وبنها'>القليوبية</a>، و<a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="e921fa36-33c0-4a1b-a9b1-067f8f647be2" href="https://almanassa.com/news/23772" title='"وبريات سمنود" تطبق الحد الأدنى للأجور على مشرفين وموظفين بالإدارة وتستثني بقية العمال'>وبريات سمنود</a>، و<a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="e564e5ab-7a5f-403d-8d49-2a48e36c7e75" href="https://almanassa.com/news/25245" title='"يومية 132 جنيه".. عمال "المصرية لتجارة الجملة" يشكون تدني الأجور ويطالبون بالتعيين'>المصرية لتجارة الجملة</a>، و<a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="37dcc2d7-5593-498e-ad25-faba9451eca2" href="https://almanassa.com/news/26562" title='لمشاركتهم في اعتصام يطالب بالحد الأدنى.. إدارة "فرج الله" تهدد 10 عمال بالفصل'>فرج الله</a> للصناعات الغذائية، والنادي <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="7196f594-9e31-4511-9432-6b90af79f7a8" href="https://almanassa.com/news/28060" title="للمطالبة بالحد الأدنى للأجور.. وقفات احتجاجية متزامنة لعمال النادي الأهلي ">الأهلي</a>، ومؤسستا <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="4e722b87-012b-4817-b1b1-4a2f2e584170" href="https://almanassa.com/news/27461" title="يتقاضون 3500 جنيه.. صحفيو الوفد يواصلون اعتصامهم مطالبةً بتطبيق الحد الأدنى للأجور">الوفد </a>و<a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="8e985e1a-8633-4a60-bd63-e670e6b85fff" href="https://almanassa.com/news/28503" title='صحفيو "البوابة نيوز" يبدأون اعتصامًا مفتوحًا لتطبيق الحد الأدنى للأجور'>البوابة نيوز</a>.</p>
-
-<blockquote>
-<p> بلغ التعسف الإدارى ذروته في شركة لينين جروب إذ ماتت رضيعة على ذراع أمها العاملة بعد رفض منحها إجازة</p>
-</blockquote>
-
-<p>وتظهر قرارات الحد الأدنى المتواصلة الفجوةَ الكبيرةَ بين ما يتقاضاه العمال فعليًا من أجور، وبين هذا الحد، ليس فقط داخل القطاع الخاص بل وداخل المؤسسات الحكومية نفسها، التي تُشغّل عمالةً مؤقتةً تتقاضى أجورًا أقل بكثير من الحد الأدنى الرسمي، كما يؤكد وائل جمال رئيس وحدة العدالة الاقتصادية بالمبادرة المصرية للحقوق الشخصية لـ <strong>المنصة</strong>.</p>
-
-<p>وارتفع <a href="https://www.facebook.com/watch/?v=931037149205968">الحد الأدني </a>للأجور المعلن من الدولة بوتيرة متسارعة لملاحقة التضخم، حيث زاد من 3000 جنيه في 2022 إلى 7000 في العام الماضي، لكن <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="db06ff99-fdb2-414d-8eda-6398ab55f40e" href="https://almanassa.com/stories/5619" title="زيادة الحد الأدنى للأجور: شركات صامتة وتأمينات غائبة">ضعف</a> رقابة الدولة على القطاع الخاص حد من فرص الالتزام الفعلي بهذا الحد.</p>
-
-<p><a href="https://www.facebook.com/EIPR.org/posts/-%D9%8A%D8%AC%D8%AA%D9%85%D8%B9-%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%84%D9%84%D8%A3%D8%AC%D9%88%D8%B1-%D8%BA%D8%AF%D9%8B%D8%A7-%D8%A8%D8%B1%D8%A6%D8%A7%D8%B3%D8%A9-%D9%88%D8%B2%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%AE%D8%B7%D9%8A%D8%B7-%D8%B1%D8%A7%D9%86%D9%8A%D8%A7-%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D8%B7-%D9%84%D8%A8%D8%AD%D8%AB-%D8%B2%D9%8A%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84/1072137561606756/">وترى</a> المبادرة المصرية للحقوق الشخصية في الحد الأدنى للأجور الأخير، 7000 جنيه، خطوة جيدة لكنه يظل غير قادر على حماية أسرة من الوقوع تحت خط الفقر.</p>
-
-<p>يشير وائل جمال إلى أن العمال كانوا في حاجة لبوصلة للأجر الذي يتناسب مع معدلات التضخم، وبالفعل وفرت قرارات الحد الأدنى الرسمية هذه البوصلة، ما ساهم في زيادة الاحتجاجات للوصول إلى هذا الحد بوصفه مطلبًا مشروعًا من السهل التعبئة عليه.</p>
-
-<p>ومُورست ضد العمال عديدٌ من الانتهاكات المتعلقة بالأجور، من بينها التلاعب في حساب الأجر عند تطبيق الحد الأدنى، كما حدث مع عمال <a href="https://manassa.news/news/26249#:~:text=%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1%20%D8%A5%D8%B6%D8%B1%D8%A7%D8%A8%20%22%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%B1%D9%8A%D8%A9%20%D9%84%D9%84%D9%86%D8%B3%D9%8A%D8%AC%22%20%D9%84%D9%84%D9%8A%D9%88%D9%85%20%D8%A7%D9%84%D9%8012..%20%D9%88%D8%A7%D9%84%D8%A3%D9%85%D9%86%20%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%20%D9%8A%D8%B3%D8%AA%D8%AF%D8%B9%D9%8A%205%20%D8%B9%D9%85%D8%A7%D9%84">العامرية</a> للغزل والنسيج، فحسب شهادات العمال أضافت الإدارة بندًا لقسيمة الراتب سمّته المتمم للحد الأدنى، بحيث يتم إدراج أي امتيازات مالية ممنوحة للعامل تحت هذا البند ما يعطل زيادة الراتب الكلي للعمال.</p>
-
-<p>وشملت أيضًا تشغيل العمال لساعات إضافية <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="70bfa1fb-6c5c-4102-9848-01d7b7d14f96" href="https://almanassa.com/news/28100" title='"12 ساعة بلا أجر إضافي".. عمال الأمن بـ"طلعت مصطفى" يطالبون بزيادة الرواتب'>دون أجر</a>، كما حدث مع عمال الأمن بمدينتي، إحدى مشروعات شركة الإسكندرية للإنشاءات التابعة لمجموعة طلعت مصطفى، كما شملت <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="4e7675fb-20b3-44a0-91a6-59a609abeb98" href="https://almanassa.com/news/24896" title="استمرار إغلاق سيراميكا الأمراء للأسبوع الثالث.. و3000 عامل بلا أجور">تأخير </a>صرف الأجور لمدد وصلت لـ3 أشهر كما حدث مع عمال سيراميكا إينوفا والأمراء.</p>
-
-<h2>التسريح والتعسف الإداري</h2>
-
-<p>لم تنحصر أسباب الاحتجاجات في عدم تطبيق الحد الأدنى وضعف الرواتب، لكنها انفجرت تحت ضغط انتهاكات أخرى من بينها تسريح العمال بدعوى الأزمة المالية، كما جرى لعمال شركات تصنيع السيراميك <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="868c84ef-8bfe-4ecd-9080-d5d433438943" href="https://almanassa.com/news/21775" title='وقفة احتجاجية لعمال سيراميكا لابوتيه للمطالبة بزيادة الرواتب ووقف "خطط تسريحهم"'>لابوتيه،</a> <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="b4bbfd3c-4126-4a4c-8e90-a4a2fa78d88b" href="https://almanassa.com/news/24481" title="3000 عامل بسيراميكا الأمراء معرضون للتشريد بعد قطع الغاز عن المصانع">الأمراء</a>، <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="c6a33c6c-5ef4-4a7b-9cbf-03db227cf26b" href="https://almanassa.com/news/22758" title='بينهم 130 من ذوي الإعاقة و57 امرأة.. "سيراميكا إينوفا" تفصل مئات العمال'>إينوفا</a> ومعهد تكنولوجيا الطيران، و<a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="b87772ad-e620-4fb7-a3d5-caccd435eda4" href="https://almanassa.com/news/26181" title='"بـ لبن" تسرح 1500 عامل وتجبرهم على توقيع استقالات'>بـ لبن</a>، والمتحدة للصيادلة، هذا إضافة للإجبار على تقديم استقالات مقابل تسويات مجحفة لحقوقهم المالية كما في حالتي عمال <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="e3862f16-4b79-4081-8882-b23f9d0e6469" href="https://almanassa.com/news/26064" title='ضغوط على عمال "إمبي للملابس" لتقديم استقالاتهم وتحرير عقود جديدة'>إمبي</a> للملابس بالإسماعلية، وعمال <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="5f086222-14bc-4247-ae27-f37ace398a77" href="https://almanassa.com/news/29214" title='مقابل "رُبع شهر عن كل سنة".. عمال "رؤية للمقاولات" يشكون ضغوطًا لإجبارهم على الاستقالة'>رؤية للمقاولات </a>بالعين السخنة.</p>
-
-<p>ساهم التعسف الإداري أيضًا في تحريك غضب العمال، من بينها <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="b00989b3-b520-42b8-b24f-17aa91ef5c39" href="https://almanassa.com/news/25512" title="بينهم ذوو أمراض مزمنة وأورام.. وقف الخدمات العلاجية لـ2000 عامل بسيراميكا إينوفا">وقف </a>الخدمات العلاجية لآلاف العمال في "إينوفا" والشركة العربية للغزل والنسيج بالإسكندرية لعدم دفع الشركات الاشتراكات وتراكم مديونيات كبيرة عليها لصالح الهيئة القومية للتأمين الاجتماعي، ولم يستثن القرار حتى <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="77fe5c6d-b621-4045-9b0e-5dc416645917" href="https://almanassa.com/news/27625" title="بينهم مرضى أورام.. وقف الخدمات العلاجية لعمال الشركة العربية للغزل والنسيج بالإسكندرية">مرضى الأورام</a>.</p>
-
-<p>وتمثل أقسى تجسيد للتعسف الإداري في حادث مأساوي شهدته شركة لينين جروب للنسيج والمفروشات بالإسكندرية، عندما <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="b54933d2-9968-46e7-bd3f-229986c8f905" href="https://almanassa.com/news/27026" title='بعد وفاة رضيعة على ذراع أمها.. عمال "لينين جروب" يضربون عن العمل'>ماتت </a>طفلة رضيعة على ذراع أمها العاملة بعد رفض الإدارة منح الأم إجازةً أو إذنًا للذهاب بابنتها المريضة إلى المستشفى، واحتجاز الأم ثلاث ساعات داخل الشركة، وهو الحادث الذي فجر إضرابًا شارك فيه آلاف العمال والعاملات.</p>
-
-<h2><strong>الدولة في مواجهة العمال</strong></h2>
-
-<p>اعتمدت الدولة بشكل رئيسي على ذراعها الأمنية لمواجهة صعود الغضب العمالي، وتجسد ذلك في العديد من ممارسات الترهيب التي اتّبعت لكبح هذا الحراك خلال 2025، ففي يناير/كانون الثاني <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="9f9b930f-bb11-48ef-8933-8efd61c08963" href="https://almanassa.com/news/21945" title="لمشاركتهم في الإضراب.. القبض على عمال بشركة T&amp;C للملابس من منازلهم">قُبض </a>على عدد من عمال T&amp;C خلال إضرابهم عن العمل، وأمرت نيابة العبور لاحقًا بـ <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="fc4d3b45-293d-4103-95c0-f12cc1735ced" href="https://almanassa.com/news/21982" title="لمشاركتهم في الإضراب.. حبس 8 عمال بشركة T&amp;C للملابس 4 أيام">حبسهم </a>4 أيام بتهمة "إثارة الشغب، وتعطيل العمل والإضرار بمصالح الشركة"، قبل أن <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="1d6f050a-9dc5-424a-acac-03277952d339" href="https://almanassa.com/news/22001" title='المحكمة تخلي سبيل 9 من شركة T&amp;C بكفالة 2000 جنيه.. والعمال ينهون إضرابهم "تحت التهديد"'>تخلي</a> محكمة الخانكة الجزئية سبيلهم بكفالة 2000 جنيه.</p>
-
-<p>وفي مارس/آذار فضت قوات الشرطة اعتصامًا لعمال الشركة الوطنية للزراعات المحمية، التابعة لجهاز مشروعات الخدمة الوطنية للقوات المسلحة، وألقت <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="d23540f6-b8ab-454f-ba33-357a8706f8a2" href="https://almanassa.com/news/22969" title='بينهم نساء وذوو إعاقة.. "جنح الزقازيق" تؤيد حبس العشرات من عمال "الوطنية للزراعات المحمية"'>القبض</a> على 39 عاملًا وعاملة بينهم أطفال ونساء مرضعات وذوو إعاقة، لتأمر نيابة العاشر من رمضان بحبسهم 4 أيام، ثم جدد قاضي المعارضات بمحكمة العاشر من رمضان حبسهم 15 يومًا أخرى، ثم <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="4e4cc090-c7ff-4f7a-a1a8-13e35e097d61" href="https://almanassa.com/news/23011" title='بينهم أطفال ونساء مرضعات وذوو إعاقة.. إخلاء سبيل 39 عاملًا بـ"الوطنية للزراعات المحمية"'>أخلت </a>المحكمة ذاتها سبيلهم بعد 19 يومًا قضوها في الحبس.</p>
-
-<p>وفي سوهاج وقنا <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="d42d5004-c1ab-446e-bb72-d94dcc8462c2" href="https://almanassa.com/news/28849" title='رغم القبض على 25 منهم وإجبار آخرين على العمل.. عمال "مودرن جاس" مستمرون في الإضراب'>قُبض </a>على 25 عاملًا بالشركة الحديثة للغاز الطبيعي مودرن جاس خلال مشاركتهم في إضراب عن العمل مطلع ديسمبر، ولم يخل سبيلهم إلا بعد <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="0e4d05e7-b06b-4ca0-b405-7bad8ca7d1b3" href="https://almanassa.com/news/28879" title='إخلاء سبيل عدد من عمال "مودرن جاس" بعد اتفاق مع الإدراة على إنهاء الإضراب'>اتفاق </a>بين إدارة مودرن جاس والعمال "برعاية الأمن" على إنهاء الإضراب مقابل خروج زملائهم.</p>
-
-<p>وخلال احتجاجات عمال العامرية للنسيج بالإسكندرية، ووبريات سمنود بالغربية، وشركات السكر في دشنا، وإدفو، وكوم أمبو، <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="0335de01-71ff-458d-a605-2214e21d9065" href="https://almanassa.com/news/26249" title='استمرار إضراب "العامرية للنسيج" لليوم الـ12.. والأمن الوطني يستدعي 5 عمال'>استدعى</a> الأمن الوطني عشرات العمال إلى مقراته و<a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="24c577bb-98d8-4f9e-bc71-f93071f224cf" href="https://almanassa.com/news/19501" title='الأمن الوطني يستدعي 5 من عاملات "وبريات سمنود" ويطالبهن بإنهاء الإضراب'>هددهم </a>بالحبس حال استمرارهم في الاحتجاجات.</p>
-
-<p>تهديدات الأمن الوطني للعمال امتدت إلى ما بعد انتهاء الاحتجاحات، حيث <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="d5c14696-3d06-42b7-8211-f9f939ba58e6" href="https://almanassa.com/news/28044" title='لاعتزامهم الدخول في إضراب.. الأمن الوطني بأسوان يستدعي 10 عمال من "سكر إدفو"'>استدعى </a>جهاز الأمن الوطني بمحافظة أسوان 10 عمال من مصنع سكر إدفو، أحد مصانع شركة السكر والصناعات التكاملية، لاعتزام عمال الشركة الدخول في إضراب جديد لعدم تنفيذ الشركة لوعودها.</p>
-
-<h2><strong>انتصارات وهزائم وخبرات</strong></h2>
-
-<p>لم تؤتِ النسبة الأكبر من الاحتجاجات العمالية ثمارها في تحقيق مطالب العمال، وكما يرى كمال عباس، فرغم تصاعد الحراك العمالي في هذه السنة، فإن وضعه كان هشًا أمام الضغوط الأمنية بسبب ضعف التنظيم النقابي في مواقع العمل.</p>
-
-<p>ويُتهم التنظيم النقابي العريق في مصر بالخضوع لتوجيهات الدولة، <a href="https://carnegieendowment.org/sada/2016/09/the-shrinking-independence-of-egypts-labor-unions?lang=ar">وحاول</a> العمال بعد ثورة يناير تأسيس نقابات مستقلة عنه لكنها واجهت ضغوطًا حكومية وأمنية حد من نشاطها، <a href="https://www.facebook.com/100064535599158/posts/%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF-%D8%B1%D9%82%D9%85-14-%D9%84%D8%B3%D9%86%D8%A9-2025-%D9%84%D8%AA%D8%AD%D9%85%D9%8A%D9%84-%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86-%D9%85%D9%84%D9%81-pdf-%D8%A8%D8%B1%D8%AC%D8%A7%D8%A1-%D8%A7%D9%84%D8%AF%D8%AE%D9%88%D9%84-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B1%D8%A7/1111631837664659/">وخلال</a> العام الماضي صدر قانون جديد للعمل <a href="https://eipr.org/press/2025/04/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%AF%D8%B1%D8%A9-%D8%AA%D8%B5%D8%AF%D8%B1-%D9%88%D8%B1%D9%82%D8%A9-%D9%85%D9%88%D9%82%D9%81-%D8%B9%D9%86-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF-%D9%86%D8%AF%D8%B9%D9%88-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%84%D8%B9%D8%AF%D9%85-%D8%A7%D9%84%D8%AA%D8%B5%D8%AF%D9%8A%D9%82-%D8%B9%D9%84%D9%89">اعتبرت</a> المبادرة المصرية للحقوق الشخصية أنه ينطوي على "انحياز سافر لأصحاب العمل".</p>
-
-<p>ويضع عباس "ضعف القوى السياسية وتركيزها على القضايا السياسية على حساب القضايا الاجتماعية من ضمن أسباب ضعف الحراك العمالي، "فقد تركوا وحيدين في مواجهة رأس المال، والأجهزة الأمنية".</p>
-
-<p>مع ذلك شهدت 2025 انتصارات عمالية، ففي شركة مصر العامرية للغزل والنسيج، أجبر العمال، الرئيس التنفيذي للشركة على تقديم <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="3b7265a5-6a53-4772-bc8b-84c4b9601b11" href="https://almanassa.com/news/26283" title='تحت ضغط الإضراب.. رئيس "العامرية للنسيج" يتقدم باستقالته'>استقالته</a> بعد 13 يومًا من إضراب عن العمل حمل عدة مطالب من بينها رحيله، كما أُجبرت الإدارة الجديدة على الجلوس مع العمال للتفاوض و<a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="98bf2d06-c6da-4d82-810a-a59c19d8505b" href="https://almanassa.com/news/26539" title='"العمل" تدعو "العامرية للغزل" لتصحيح مخالفات الأجور.. والعمال يطالبون بإقالة "المستشارين"'>عدلت</a> طريقة احتساب الحد الأدنى، الذي اتهم العمال الإدارة الراحلة بالتلاعب فيه.</p>
-
-<p>وتحت ضغط الإضراب العمالي، استجابت إدارة "لينين جروب" بإبرام <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="7b0ac691-1fef-499a-9539-73b59a5632a5" href="https://almanassa.com/news/27104" title='يشمل تعويضًا لوالدة الرضيعة المتوفاة.. اتفاق بين العمال والإدارة ينهي إضراب "لينين جروب"'>اتفاق </a>مع العمال تضمن صرف تعويض "مُرضٍ" للعاملة والدة الرضيعة التي ماتت على ذراعها داخل الشركة، كما استبعدت المديرة التي امتنعت عن منحها إجازة لرعاية طفلتها المريضة، من منصبها، وتضمن الاتفاق تنفيذ عدد من مطالب العمال تضمنت حقوق مالية كانت تماطل الشركة في تنفيذها.</p>
-
-<p>وفي شهر أكتوبر/تشرين الأول الماضي توصل صحفيو جريدة وموقع الوفد إلى اتفاق مع رئاسة الحزب على <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="2b3f53c4-4e0d-4724-8c26-691e589e1183" href="https://almanassa.com/news/27519" title="بعد 4 أيام من الاعتصام.. صحفيو الوفد ينالون مطالبهم">تنفيذ </a>مطالبهم بتطبيق الحد الأدنى للأجور، بعد أربعة أيام من اعتصامهم بمقر الحزب. </p>
-
-
-<div data-embed-button="almanassa_story_browser" data-entity-embed-display="view_mode:node.read_also" data-entity-type="node" data-entity-uuid="0cb186d2-add6-44ce-8aa2-3de2cd2baac4" data-langcode="ar" data-entity-embed-display-settings="[]" data-sanitized-class="embedded-entity">
-	<article data-history-node-id="17350" role="article" about="/stories/17350" data-sanitized-id="node-17350" data-sanitized-class="view-mode--read-also type-story"><div data-sanitized-class="row">
-		<a href="https://almanassa.com/stories/17350" almanassa-posthog-link="" data-ph-capture-attribute-link-type="story" data-ph-capture-attribute-link-id="17350" data-ph-capture-attribute-link-title='30 ألف جنيه شهريًا لا تكفي.. "المحرمات" على مائدة الطبقة الوسطى ' data-ph-capture-attribute-link-section="اقتصاد وعمران" data-ph-capture-attribute-link-view-mode="read_also" data-sanitized-class="columns small-12 medium-6">
-			<hr data-sanitized-class="embed-divider"><div data-sanitized-class="h3">اقرأ أيضا</div>
-			
-			<div data-sanitized-class="h2">
-				<span>30 ألف جنيه شهريًا لا تكفي.. "المحرمات" على مائدة الطبقة الوسطى </span>
-
-			</div>
-			
-			<hr data-sanitized-class="embed-divider"></a>
-	</div>
-</article></div>
-<p>يتوقع عباس أن يستمر الحراك العمالي في 2026 بدفع من استمرار الفجوة بين الأجور والأسعار والاحتياج القوي للأمان الوظيفي.</p>
-
-<p>لكن هذه الاحتجاجات ستواجه تحديات جمة، وسيدفع محركوها أثمانًا باهضة لن تقل عما دفعه سامح علي، الذي لعب دورًا رئيسيًا في تنظيم أول احتجاج رصدناه في 2025 بشركة T&amp;C للملابس، إذ <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="39a3295e-d983-4614-b956-0e20f092cd55" href="https://almanassa.com/news/22842" title="بعد 14 سنة خدمة في الشركة.. T&amp;C للملابس تنهي عقد أحد العمال">فصلته </a>إدارة الشركة بعد 14 سنة خدمة، وبينما لا تزال دعوى فصله تعسفيًا منظورة أمام القضاء، يواصل البحث عن عمل جديد دون جدوى.</p>
-						<div data-sanitized-id="topic-file-stories">
-			<div data-sanitized-class="views-element-container">		<div almanassa-posthog-link-source="" data-almanassa-posthog-link-source="Story Topic File Stories List" data-almanassa-posthog-link-source-type="topic_files" data-almanassa-posthog-link-source-id="embed_story_topic_file" data-sanitized-class="js-view-dom-id-a1a1fbe52799094334e39b32770a959c2b1541fc6efb67bb924f996fdd83f04d">
-		
-		
-		
-
-		
-		
-		
-		
-
-		
-		
-		
-
-		
-		
-
-		
-		
-	</div>
-</div>
-
-			</div>
-		</div><!-- FULLCONTENT end //-->]]></description>
-			<pubDate>Sun, 08 Feb 2026 14:17:50 +0200</pubDate>
-			<guid isPermaLink="false">1770553071495215</guid>
 		</item>
 
 	</channel>
