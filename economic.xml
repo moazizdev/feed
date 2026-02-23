@@ -4,10 +4,94 @@
 		<title>اقتصاد</title>
 		<link>http://192.168.1.50:8081/api/query.php?user=admin&amp;t=4IzCA6HFSoouCSR9nVqNkV&amp;f=html</link>
 		<description>RSS feed of اقتصاد</description>
-		<pubDate>Mon, 23 Feb 2026 19:00:03 +0200</pubDate>
-		<lastBuildDate>Mon, 23 Feb 2026 17:00:03 GMT</lastBuildDate>
+		<pubDate>Mon, 23 Feb 2026 19:05:02 +0200</pubDate>
+		<lastBuildDate>Mon, 23 Feb 2026 17:05:02 GMT</lastBuildDate>
 		<atom:link href="http://192.168.1.50:8081/api/query.php?user=admin&amp;t=4IzCA6HFSoouCSR9nVqNkV&amp;f=rss" rel="self" type="application/rss+xml" />
 				<item>
+			<title>عيار 24</title>
+			<link>https://market.isagha.com/prices</link>
+						<description><![CDATA[<tr>
+            <td>
+                <span data-sanitized-class="purity-cell">
+                    <span aria-hidden="true" data-sanitized-class="metal-icon gold"></span>
+                    <span>عيار 24</span>
+                </span>
+            </td>
+            <td>
+                                    <img src="data:image/png;base64,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" alt="" data-sanitized-class="price-cell"> ج.م
+                            </td>
+            <td data-sanitized-class="gap-negative">
+                                                                                    <img src="data:image/png;base64,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" alt="" data-sanitized-class="price-cell"> ج.م
+                                                </td>
+            <td>
+                                    <img src="data:image/png;base64,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" alt="" data-sanitized-class="price-cell"> ج.م
+                            </td>
+            <td data-sanitized-class="gap-negative">
+                                                                                    <img src="data:image/png;base64,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" alt="" data-sanitized-class="price-cell"> ج.م
+                                                </td>
+            <td data-sanitized-class="change-up">17 ج.م</td>
+            <td data-sanitized-class="change-up">0.21%</td>
+        </tr>]]></description>
+			<pubDate>Mon, 23 Feb 2026 19:02:03 +0200</pubDate>
+			<guid isPermaLink="false">1771866123069409</guid>
+		</item>
+		<item>
+			<title>عيار 21</title>
+			<link>https://market.isagha.com/prices</link>
+						<description><![CDATA[<tr>
+            <td>
+                <span data-sanitized-class="purity-cell">
+                    <span aria-hidden="true" data-sanitized-class="metal-icon gold"></span>
+                    <span>عيار 21</span>
+                </span>
+            </td>
+            <td>
+                                    <img src="data:image/png;base64,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" alt="" data-sanitized-class="price-cell"> ج.م
+                            </td>
+            <td data-sanitized-class="gap-negative">
+                                                                                    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADsAAAAqCAYAAAANryONAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAE9ElEQVRo3u2aa0xTZxjH/73fKWAp13aAmWUFNaJWEUzMokw33Zah28yyRDOj2TBuMfuwZFuyCywwl5G4xA8mJk5nIIMPEhbQyMTKQJwXoAOVcm+5VmgpvdHSnu7DTGel7Uov6Yns+fS+p8/5n/M7p+/zPs/7Horb7XZjhRgVK8hWFCw9EiImhxUCJjeiN0a4CRgdFticdhAgQKfQwKNzwrpOULBW5wK0Zh2GTRPQWqahMU9Da9Z52nQqDQ8PVIcF1jrVjebxO1DpBzE0Pw7dgsGnL41CRRpXhDVCKRRJcuyRFEAWLw3qOhRfAeo3TRsujyiheQKkt88HFElkxYUM26htx1f3zmHUPBXyw9qRugGVilJkClKXP2Zv63rRoGlDt77/P0HDsZ96a3FYWR4WKADcmOzEK02f4OHcSPTHbCj2p+4ByjrPe/pFyevxmnQbUriJ4NDYQevobAacuPUj5hxmHG2tgHLvGVAp1OXD8uhsSHjJkPCTIeWLPW21UYPK7l/Cgq3qqfG0swSpqN1Z5vcmA9mYRedpq41aXBnrwKuSbcHDHs/dj5NrDyKBJfB5Uv2IK+zorZzs9PRzhJkhgfqyq9rby4NN5iRG9S/cYxiEy038exPUyE33Kv0AuZKKMcvjqGlPWGfIBWtx2qKovUAuWDqFFsX8l0IuWBE7PmraPAaHXLBrhNKoaYvZCeSCzY5LQzo3ydPvNYygUduOBZcjbO0sQRr5Srx3V+/0tIdM4zisLIe89iBK237AFW0HHK7FkHTXrVpNvnTx2Etv4md1I2bsRq9IWjfcgrrhFvAZHOzO2Io3XtiOHan5YNIYQekWiPPI92aFTD7Obv8MDKrv521etKFuuAXv3/gGuXXv4eP2KjSP34GTcAWsvraIc8n3Zv+JnGzPVMGg0rFIOH36zS9aUDPUjJqhZsQz+dgjKcA+aRG2iHNxfeKe19AIlHbGDNbksOKQsgx2YhFbxXmoL67E/Zk+1I+2on70Jiatsz7Pm3OYUT14DdWD17yO8xkcfCQvIWeJd7r3Vw9QElsIAMgXyZAvkuHrjUdw9/Ej1I/eRIPmD7/gT1saVwQmlb784j3a5iRcuNDfFNBnU1IOvt10FF1vXUBD8Skckb0esEBRG7V45/cvA47pmMDe0v2FOYc5aH+FWI7yzcegKrmIhuJT+EC21yd456wa5/oaSAY73RPyuQqxHN9t/hCqkou4vKsCb2e/7PX7eXUjuWAfGEYiolOQvHZJUBoyjWPENEmietaqi5gW4WP35tHcKHlgbU57xLRcPgKSvxXRmMASUd5LI55a8ok5LDvIPDeoacy99M2yaEzywCayhFHV97cqGhPYDF5SRBOUZy3dj35MYPMSsyMX7FzewY5FZeDFOEnwuTHhJvB99yW/F3g2tNucdlR0XfTpW5yhQL5I5nVsV7oCX9w9GxHYuuHrXv2ilPWgU2nBwzoJl9f2RDBP15+/mJOwBDZTkIp90kI0aNoAAF2z/TjZcXpZ043BYYJKP7CkSCgNUPnErOqpVJSiz6iB2qiF1qLDpYGrYWueyD2AwpR15FupWMUWoml3FY7L9yOOwQtLK1uQjjOFn+LzDYcC+lHI8LWMk3Dh/kwfVPpBjJonMWXTY95hhs1px8KThTcqhQIWjQkenY0ElgBpXBGyBGnYKMoJb+f9ebX/Pw16Xu1vhODkJ1NtOqcAAAAASUVORK5CYII=" alt="" data-sanitized-class="price-cell"> ج.م
+                                                </td>
+            <td>
+                                    <img src="data:image/png;base64,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" alt="" data-sanitized-class="price-cell"> ج.م
+                            </td>
+            <td data-sanitized-class="gap-negative">
+                                                                                    <img src="data:image/png;base64,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" alt="" data-sanitized-class="price-cell"> ج.م
+                                                </td>
+            <td data-sanitized-class="change-up">15 ج.م</td>
+            <td data-sanitized-class="change-up">0.22%</td>
+        </tr>]]></description>
+			<pubDate>Mon, 23 Feb 2026 19:02:03 +0200</pubDate>
+			<guid isPermaLink="false">1771866123069408</guid>
+		</item>
+		<item>
+			<title>جنيه ذهب…</title>
+			<link>https://market.isagha.com/prices</link>
+						<description><![CDATA[<tr>
+            <td>
+                <span data-sanitized-class="purity-cell">
+                    <span aria-hidden="true" data-sanitized-class="metal-icon gold"></span>
+                    <span>جنيه ذهب</span>
+                </span>
+            </td>
+            <td>
+                                    <img src="data:image/png;base64,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" alt="" data-sanitized-class="price-cell"> ج.م
+                            </td>
+            <td data-sanitized-class="gap-negative">
+                                                                                    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFkAAAAqCAYAAADYvffAAAAACXBIWXMAAA7EAAAOxAGVKw4bAAADaUlEQVRo3u2be0hTURzHv5ubTt2kTZ1aamWSyDIf9CQSorB/Cguy6B0F9Y9EBCXhH0ExyESCIP/qoTQtMEN7sfwvS1EMH6TT1GxumjgtH/Ox2R79U5eOzWWP67l33t9f93c493x2Prs7cH73TOR2u90QgtUQCwoEyYLkH2GdmRJMegnJfDpNOWwwT1jw0foJ5slBmCYGYZ6wMNcSsR/asx6w8gGN1gG0jvR47RMmW4JNag1nuR4lPzPVoML4CqbvIr/Yx70OogoIYe0pyK4tQMNQu9c+6ZEpKNuh5SzXo+R6Sxuemmqo/8yemWp+O1E+cCXgaDhcTmibiok2tUyJAD8pRmasmPg6zRuuV8nBEhligiMQI49ArFzNXHeOmZDXomNVsq5bjx5rPzHRhr13IfPzh7apCDfbynjD9Sg5W7MP55MOQhmg8HhTpdHJquAphw35LSVE24Xkw5D5+fOS61FyRKCK6lJRaHiMYfsYk8cpluFI/E7ecjm3GRmyjaLQUE605aYeh1gk5i2Xc5LzW0ow6bAxeWroauyK3cJrLqckfxjvg65bT7RdTjvJey6nJGubiuF0u5h8+9J12ByRxHsuZyS/HerAc3Mtk4sgQm7qCZ/gckbylcY7RJ4Vtw0a5Uqf4HJCst5ch/ohA5NLxRLkJB/1GS51yS63C1eb7hFtpxJ2IzpY7TNc6pJLu6vQPd7H5HJpIM6tOeBTXKqSbc6ZX2ogZzX759zO85VLVXKhoRwW2wixnT+TuMfnuNQkf7aN4dasbezFtewXgWhwqUkueFdK1GbjQ6JxKD7DJ7lUJButAyjqfEG0XUo5xnoRiBaXimRtM7mNXR+euCBFIFrcBX/91Dj8Hk96XxNtG8M10Jvr/qCg00/kw7ZR4v70qBQESWSc4AKA6G+OaVUaq3H6TR6TqwJC5n0kILMqB3WWVla/yPrM21ihiOIEd8GXi64xM+sT5RKXiuQZl4PKJGlxqazJy+WRePQfDqHoul6ioreayZNUq4gie2RQKCe4VCTLpYHYGpnyz+NUDzQTudJf4XVcWlzOFIgWQwiSaa3JLrcL12cd8vg5OkZ7iXzaYce15vse+2ZEb0BaWIIgeXY4XE7caH0470GmnfY5+6sDlYtesrBcCJJ9I0TCv5+EJ1mQLIQgmTPxDXj3yk4tU0WaAAAAAElFTkSuQmCC" alt="" data-sanitized-class="price-cell"> ج.م
+                                                </td>
+            <td>
+                                    <img src="data:image/png;base64,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" alt="" data-sanitized-class="price-cell"> ج.م
+                            </td>
+            <td data-sanitized-class="gap-negative">
+                                                                                    <img src="data:image/png;base64,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" alt="" data-sanitized-class="price-cell"> ج.م
+                                                </td>
+            <td data-sanitized-class="change-up">120 ج.م</td>
+            <td data-sanitized-class="change-up">0.22%</td>
+        </tr>]]></description>
+			<pubDate>Mon, 23 Feb 2026 19:02:03 +0200</pubDate>
+			<guid isPermaLink="false">1771866123069407</guid>
+		</item>
+		<item>
 			<title>عيار 24</title>
 			<link>https://market.isagha.com/prices</link>
 						<description><![CDATA[<tr>
@@ -573,271 +657,6 @@
 				</div>]]></description>
 			<pubDate>Sun, 22 Feb 2026 11:01:04 +0200</pubDate>
 			<guid isPermaLink="false">1771750869836698</guid>
-		</item>
-		<item>
-			<title>«آي صاغة»: أسعار الذهب تواصل الصعود محليًا وعالميًا بدعم التوترات الجيوسياسية وترقب قرارات الفيدرالي الأمريكي</title>
-			<link>https://market.isagha.com/articles/2124</link>
-						<media:thumbnail url="https://cdn.isagha.net/public/files/eZE5CdTHyrdwEhI5FOT2igcdnjzSfvqwp5vCTEqg.jpg" />
-			<media:content url="https://cdn.isagha.net/public/files/eZE5CdTHyrdwEhI5FOT2igcdnjzSfvqwp5vCTEqg.jpg" medium="image"></media:content>
-			<description><![CDATA[<div data-sanitized-class="content-article">
-					<p></p><p>شهدت أسعار الذهب اليوم ارتفاعًا ملحوظًا في السوق المحلية والبورصات العالمية خلال تعاملات الخميس، مدعومة بتصاعد التوترات الجيوسياسية وترقب المستثمرين لنتائج اجتماع مجلس الاحتياطي الفيدرالي، والتي أظهرت توجهًا يميل...</p>
-					<a href="https://market.isagha.com/articles/2124" data-sanitized-class="read-more">تابع القراءة</a>
-				</div>]]></description>
-			<pubDate>Thu, 19 Feb 2026 20:02:11 +0200</pubDate>
-			<guid isPermaLink="false">1771524139084907</guid>
-		</item>
-		<item>
-			<title>مجتمع الـQR code.. ثلاث خرافات تدعم اللامساواة المكانية في منطقتنا العربية</title>
-			<link>https://almanassa.com/stories/30086</link>
-						<media:thumbnail url="https://almanassa.com/sites/default/files/styles/lead_image_square/public/photobank/2025/13e4dfea-bd3c-4b26-a876-e171bace39cc.png.webp?itok=athY5mlf" />
-			<media:content url="https://almanassa.com/sites/default/files/styles/lead_image_square/public/photobank/2025/13e4dfea-bd3c-4b26-a876-e171bace39cc.png.webp?itok=athY5mlf" medium="image"></media:content>
-			<description><![CDATA[<!-- FULLCONTENT start //--><div data-sanitized-class="columns small-12 table-scroll">
-							<p>تطورت خرائط المدن العربية منذ بداية التسعينيات، خصوصًا مع صعود ظاهرة الكمباوندات المغلقة كنمط عمراني جديد انتشر في المدن الجديدة حول القاهرة، وفي الضواحي الحديثة لعواصم الخليج، وفي ضواحي عمّان والدار البيضاء وغيرها من المدن العربية، رغم اختلاف ظروف هذه المدن الاقتصادية والاجتماعية، حتى أصبح العيش في هذه المجمعات تعبيرًا عن "الحياة الراقية" ومؤشرًا على الانتماء إلى طبقات اقتصادية واجتماعية عليا.</p>
-
-<p>تبين لنا <a href="https://www.routledge.com/The-Routledge-Handbook-on-Cities-of-the-Global-South/Parnell-Oldfield/p/book/9780415789509">دراسات حول المدينة واللامساواة المكانية</a> أن هذا التحول يعبر عن تغير في النمط السكني، كما أنه جزء من إعادة هيكلة أوسع للفضاء العام والعمران. تسوَّق الكمباوندات للمواطنين بوصفها تقدم ثلاثة وعود أساسية: تفرّد طبقي واجتماعي، أمان أفضل في مواجهة "فوضى" المدينة، ورفاه وجودة حياة عالية.</p>
-
-<p>لكن البحث في التجارب العالمية والعربية يكشف أن تلك الوعود "خرافات" تستند إلى خطاب دعائي تسويقي يقدمه مطورو العقارات. </p>
-
-<h2>خرافة الحصرية والتفرد</h2>
-
-<p>يُقدَّم العيش في الكمباوندات في المنطقة العربية كاختيار "نخبوي" يمثل نجاحًا اقتصاديًا فرديًا، ورغبة في نمط حياة أكثر "تحضرًا" وانفصالًا عن المدينة القديمة ومشكلاتها.</p>
-
-<p>في القاهرة الكبرى، ارتبط هذا النمط بالخروج للصحراء وبناء المدن الجديدة مثل القاهرة الجديدة، والشيخ زايد، ومدينة السادس من أكتوبر، حيث ظهرت سلسلة طويلة من المجمعات المسورة التي تتفاوت في درجة الترف، ولكنها تشترك في منطق الأسوار والتماثل الطبقي.</p>
-
-<p>الرغبة في التمايز تبدأ من تسمية المشروعات بـ"عنوان فخم" وغالبًا بالإنجليزية مميزًا سكانه عن بقية المدينة، مثل "Dream Land" و"Palm Hills" و"Lake View" و"Golf City".</p>
-
-<p>هذه المدن الجديدة حول القاهرة بنيت لتستهدف أساسًا الطبقات الوسطى العليا والطبقة العليا وفق ما يرى ديفيد سيمز في كتابه <a href="https://www.goodreads.com/book/show/22118639-egypt-s-desert-dreams">أحلام مصر الصحراوية: التنمية أم الكارثة</a>، وتساهم في خلق "جزر" سكنية معزولة مكانيًا واجتماعيًا عن أحياء القاهرة التقليدية المختلفة.</p>
-
-<blockquote>
-<p>"التفرد والحصرية" تعبير عن الفجوة بين من يستطيعون شراء هذا النمط من العيش ومن تُقصيهم هذه الأنماط</p>
-</blockquote>
-
-<p>هذا النمط يعزز صورة المدينة المنقسمة لمجتمعات منفصلة وهي الكمباوندات ذات الحدائق والمسابح والمدارس الدولية، والأحياء التقليدية ومناطق السكن غير الرسمي التي يتحمل سكانها النصيب الأكبر من أعباء الازدحام وضعف الخدمات داخل المدينة.</p>
-
-<p>بهذا المعنى، يصبح "التفرد والحصرية" تعبيرًا عن الفجوة الكبيرة بين من يستطيعون تحمل تكلفة هذا النمط من العيش، ومن تُقصيهم هذه الأنماط والسياسات، فالبوابات والأسوار هنا ليست مجرد جدران مادية، بل وسائل لصياغة هويات اجتماعية مختلفة وترسيخ لفضاء عمراني طبقي.</p>
-
-<p>وتتجلى الخرافة في أوضح صورها عندما يتركز الخطاب التسويقي لهذه المجمعات المسورة على فكرة التفرد والحصرية، مُقدما في كل مرة وعودًا أكبر من سابقتها. وهكذا يصبح تحقيق هذا الوعد مستحيلًا، لأن الخطاب ذاته لا ينتهي، بل يستمر في البحث الدائم عن مستوى جديد من "التميز" يتفوّق على سابقه.</p>
-
-<h2>خرافة الأمان</h2>
-
-<p>الوعد الثاني هو الأمن والأمان في مواجهة الفوضى والزحام، ووسائل النقل المتهالكة، وأخبار الجريمة. فيأتي الكمباوند بوصفه مساحة آمنة وملاذًا تحيطه الحراسات الخاصة، وكاميرات المراقبة، والبوابات المغلقة، ونظم الدخول والخروج الحازمة.</p>
-
-<p>في مصر، تنبع دوافع الانتقال إلى هذه المجمعات المسورة من الإحساس بتراجع دور الدولة في ضبط الفضاء العام، ما أدى إلى الانسحاب إلى المجمعات الجديدة المسوَّرة بحثًا عن الحماية داخل الأسوار. ولكن هل وجد الهاربون إلى هذه المجمعات الأمان هناك؟</p>
-
-<p>تشير العديد من <a href="https://www.bbc.com/arabic/trending-66099956">الحوادث الأخيرة في مصر</a> إلى أن الجرائم ليست حكرًا على سكان المدينة التقليدية كما يزعم البعض، ولكنها تنتشر بمختلف أشكالها وأسبابها داخل هذه المجمعات المسورة، حتى وإن كانت بنسبٍ أقل.</p>
-
-<blockquote>
-<p>تسلع الكمباوندات الأمن بدلًا من علاج الجذور الاقتصادية والاجتماعية لانعدام الأمن</p>
-</blockquote>
-
-<p>في مدن الخليج، يقدم الأمان في الكمباوند كسلعة كاملة، إذ تتوفر المراقبة على مدار الساعة، والحراسات عند البوابات، والإجراءات الأمنية التي تجعل الحياة فيه أشبه بـالعيش في مدينة مصغرة معزولة عن محيطها بشكل كامل. ويزداد هذا الخطاب قوة في ظل وجود جاليات مهاجرة كبيرة، حيث تستخدم بعض الإعلانات لغة تُطمئن العائلات الخليجية إلى أن هذه المجتمعات مصممة لتوفير بيئة آمنة لأطفالهم، بعيدًا عن مخاطر المدينة المفتوحة المليئة بالمهاجرين والعاملين.</p>
-
-<p>تشير كذلك <a href="https://popcenter.asu.edu/sites/g/files/litvpz3631/files/problems/burglary_home/PDFs/Blakely&amp;Snyder_1998.pdf">الدراسات الحضرية</a> إلى أن الأمان الذي تدعي الكمباوندات تقديمه أقرب للإحساس الزائف، فغياب العدالة الاجتماعية، وتزايد الفجوات بين المواطنين، وضعف الثقة في مؤسسات الدولة، لا تحفز الإحساس بالأمان، ولا تمنعها الأسوار، العكس، فغياب الإحساس بالأمان قد يدعمه أكثر الفصل الطبقي.</p>
-
-<p>في عمان مثلًا، توضح بعض <a href="https://www.iieta.org/journals/ijsdp/paper/10.18280/ijsdp.190203">الأبحاث</a> أن انتشار المجتمعات المسوَّرة يدلّ على اختلال أوسع في السياسات السكنية، حيث لم تعد الدولة تخطط لفضاء حضري متكامل، بل تركت القطاع الخاص يقود التوسع نحو مجمعات مغلقة تستفيد من البنية التحتية العامة بينما تحتفظ بخدماتها الخاصة داخل الأسوار. وهذا المنطق يحول الأمن إلى امتياز طبقي، بدلًا من كونه حقًا لكافة المواطنين كما أنه يفاقم من التوترات بين سكان الطبقة المحمية داخل الأسوار وبين سكان باقي الأحياء التقليدية ومنها الأحياء المهمشة وغير الرسمية المحرومة من نفس مستوى الخدمات والحماية.</p>
-
-<p>تسلع الكمباوندات الأمن بدلًا من علاج الجذور الاقتصادية والاجتماعية لانعدامه. وهكذا تعاد كتابة خريطة المدينة على أساس القدرة الشرائية وليس على أساس المواطنة.</p>
-
-<p>تحقق وعد الأمن داخل الكمباوند يظل مرتبطًا بالوضع العام، فإذا بقي هذا الحق ناقصًا أو غير متحقق على نطاق المجتمع ككل، فلن تشعر أي فئة بالأمان الحقيقي، حتى لو أحاطت نفسها بالأسوار ووسائل الحماية كافة.</p>
-
-<h2>خرافة الرفاهية وجودة الحياة</h2>
-
-<p>تربط الدعاية للكمباوندات بين العيش داخلها، وبين مستوى أعلى من الرفاه وجودة الحياة. في مصر، تُظهِر <a href="https://www.dw.com/ar/%D8%A5%D8%B9%D9%84%D8%A7%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D9%83%D9%88%D9%85%D8%A8%D8%A7%D9%88%D9%86%D8%AF%D8%B2%D8%AE%D9%85-%D8%B1%D9%85%D8%B6%D8%A7%D9%86%D9%8A-%D9%8A%D8%AE%D9%81%D9%8A-%D8%A7%D9%84%D9%83%D8%AB%D9%8A%D8%B1-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1/a-68722809">الإعلانات</a> بكثافة صورًا لحدائق خضراء شاسعة، ومسطحات مائية، ونواد رياضية، ومراكز تجارية ومدارس دولية معبرة عن نمط حياة مرفه وجيد. وفي الخليج، تُضاف إلى هذه الصورة مظاهر مثل حمامات السباحة، وملاعب التنس والجولف، في سياق خطاب عن "حياة صحية وهادئة" بعيدًا عن زحام وضوضاء المدينة.</p>
-
-<p>توفر الكمباوندات بالفعل بنية تحتية أفضل داخل أسوارها، سواء من حيث النظافة أو التنظيم، وتوافر مساحات خضراء، قياسًا إلى الأحياء المزدحمة في المدن التقليدية. إلا أن قياس جودة الحياة لا يقتصر على حدود السور، فحياة المواطنين اليومية مرتبطة أيضًا بالقدرة على الوصول إلى المدينة، إلى أماكن العمل، والجامعات العامة، والخدمات الصحية الحكومية، ووسائل النقل العام، والفضاءات العامة المفتوحة التي تسمح بتشكل حياة مدينية مشتركة.</p>
-
-<blockquote>
-<p>تحويل الحدائق إلى جزء من مشروع مغلق ببوابة ورسوم وملاك محددين يفقد سكان الأحياء الأخرى فرصة الوصول إلى هذه المساحات</p>
-</blockquote>
-
-<p>ورغم جودة البنية التحتية داخل المجتمعات المسوَّرة إلى حد ما، فإن الرفاه الموعود يبقى غير متساوٍ بين من يعيش بداخلها ومن يعملون فيها دون إقامة، مثل العمالة المنزلية أو الخدمية ممن يعيشون في أحياء أقل جودة، ويتنقلون يوميًا بين عالمين متجاورين لكن مفصولين، يصبح الرفاه امتيازًا لفئة محددة لا جزءًا من تحسين شامل لظروف العيش في المدينة. </p>
-
-<p>وهو ما يجعل هذا الرفاه الكامل مستحيلًا في الوقت نفسه، إذ لا يمكن فصل الكمباوندات تمامًا عن البنية التحتية للمدينة التقليدية، كما لا يمكنها الانعزال عن الفئات التي تقدّم لها الخدمات وتعيش في أحياء المدينة المختلفة. وإذا لم تتحسن جودة الحياة لتلك الفئات، فسيظل الرفاه مجرد فقاعة قابلة للانفجار في أي لحظة تنهار فيها المدينة التقليدية أو يمتنع فيها المواطنون من مقدمي الخدمات لهذه المجمعات عن أداء وظائفهم فيها.</p>
-
-<p> إضافة إلى ذلك، <a href="https://7ayez.com/2023/06/18/%D8%A7%D9%84%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D8%A7%D9%84%D8%AD%D8%B6%D8%B1%D9%8A-%D9%88%D8%AA%D9%81%D9%83%D9%8A%D9%83-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A%D9%91%D8%A9-%D9%83%D9%8A%D9%81-%D8%A8%D8%A7/malkayial/%D9%85%D9%84%D9%81%D8%A7%D8%AA/">يحذّر</a> باحثون من أن خصخصة الفضاء العام داخل هذه الكمباوندات، من حدائق ومناطق لعب وممرات للمشي تعني تقليصًا لمساحات المجال العام المتاحة لجميع السكان مجانًا. تحويل الحدائق إلى جزء من مشروع مغلق ببوابة ورسوم وملاك محددين، يفقد سكان الأحياء الأخرى فرصة الوصول إلى هذه المساحات، وتتراجع فكرة المدينة المشتركة للجميع لصالح فكرة مجموعة من الملكيات الخاصة المتجاورة.</p>
-
-<h2>نحو رؤية بديلة للمدينة والحق في السكن</h2>
-
-<p>تكشف التجربة العربية أن الكمباوندات ليست مجرد اختيار سكني، بل توجه عمراني واقتصادي أوسع، يعيد تنظيم المدينة على أساس القدرة على الشراء، لا على أساس الحق في السكن والفضاء العام. في هذا المسار، يعاد توزيع الاستثمار في البنية التحتية والخدمات باتجاه الكمباوندات، بينما تستمر أحياء الطبقات الدنيا والسكن غير الرسمي في المعاناة من ضعف الخدمات، وانعدام المساحات الخضراء، وسوء أوضاع النقل.</p>
-
-<p>من منظور <a href="https://www.afalebanon.org/ar/publication/5658/%D8%A7%D9%84%D8%AD%D9%82-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D9%88%D8%A7%D9%84%D8%A5%D8%B5%D9%84%D8%A7%D8%AD-%D8%A7%D9%84%D8%B9%D9%85%D8%B1%D8%A7%D9%86%D9%8A-%D9%81%D9%8A-%D9%85/">الحق في المدينة</a>، يمكن قراءة هذه الظاهرة جزءًا من خصخصة الفضاء العام وتحويله إلى سلسلة من الأصول العقارية المربحة، بدلًا من كونه فضاءً سياسيًا واجتماعيًا. وانطلاقًا من نقد منطق الأسوار بوصفها حلًا فرديًا وطبقيًا لمعضلة السكن، يصبح من الضروري الالتفات إلى التراث الطويل من أشكال الحيازة المشتركة والتنظيم الجماعي للأرض والسكن في المنطقة، والتي تقدّم <a href="https://www.afalebanon.org/ar/publication/12424/%D9%88%D8%B1%D9%82%D8%A9-%D8%A8%D8%AD%D8%AB%D9%8A%D8%A9-%D9%86%D8%AD%D9%88-%D9%86%D9%87%D8%AC-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A-%D8%A8%D8%AF%D9%8A%D9%84-%D9%84%D8%AA%D8%A3%D9%85%D9%8A%D9%86/">تصورًا</a> مختلفًا للحق في المدينة والحق في السكن.</p>
-
-
-<div data-embed-button="almanassa_story_browser" data-entity-embed-display="view_mode:node.read_also" data-entity-type="node" data-entity-uuid="92e57cf7-457b-43ae-951b-f1f812cf6174" data-langcode="ar" data-entity-embed-display-settings="[]" data-sanitized-class="embedded-entity">
-	<article data-history-node-id="25246" role="article" about="/stories/25246" data-sanitized-id="node-25246" data-sanitized-class="view-mode--read-also type-story"><div data-sanitized-class="row">
-		<a href="https://almanassa.com/stories/25246" almanassa-posthog-link="" data-ph-capture-attribute-link-type="story" data-ph-capture-attribute-link-id="25246" data-ph-capture-attribute-link-title="حاجة الكمباوند إلى الفوضى خارجه" data-ph-capture-attribute-link-section="رؤى" data-ph-capture-attribute-link-view-mode="read_also" data-sanitized-class="columns small-12 medium-6">
-			<hr data-sanitized-class="embed-divider"><div data-sanitized-class="h3">اقرأ أيضا</div>
-			
-			<div data-sanitized-class="h2">
-				<span>حاجة الكمباوند إلى الفوضى خارجه</span>
-
-			</div>
-			
-			<hr data-sanitized-class="embed-divider"></a>
-	</div>
-</article></div>
-<p>هذه التجارب وما تثيره من تساؤلات حول العدالة في الوصول إلى السكن وحق الأفراد في الأرض، تمكننا من استشراف إمكانات واسعة لإعادة التفكير في مفهوم الحق في السكن خارج إطار الملكية الفردية المطلقة، والدعوة إلى توسيع النقاش حول سياسات السكن لتشمل أنماط التملك والحيازة المستلهمة من تاريخ طويل من التنظيم الجماعي والممارسات المحلية.</p>
-
-<p>هذا إلى جانب توسيع نطاق الخيارات الإسكانية الميسّرة عبر تشجيع إنشاء التعاونيات السكنية ودعم الثقافة التعاونية، بما يعيد الاعتبار لتلك الأطر كوسائل لتعزيز العدالة السكنية، ويفتح الباب أمام نماذج بديلة عن الاستثمار العقاري والملكية الخاصة من أجل بناء مدينة أكثر شمولًا وتشاركية.</p>
-						<div data-sanitized-id="topic-file-stories">
-			<div data-sanitized-class="views-element-container">		<div almanassa-posthog-link-source="" data-almanassa-posthog-link-source="Story Topic File Stories List" data-almanassa-posthog-link-source-type="topic_files" data-almanassa-posthog-link-source-id="embed_story_topic_file" data-sanitized-class="js-view-dom-id-6d0d423a4babf3ef5a74fbea7441a2166ad30207559c5986a6a0ff5ebbc2206b">
-		
-		
-		
-
-		
-		
-		
-		
-
-		
-		
-		
-
-		
-		
-
-		
-		
-	</div>
-</div>
-
-			</div>
-		</div><!-- FULLCONTENT end //-->]]></description>
-			<pubDate>Thu, 19 Feb 2026 10:02:05 +0200</pubDate>
-			<guid isPermaLink="false">1771488141720943</guid>
-		</item>
-		<item>
-			<title>"مستقبل مصر" على قفا الفلاح.. تحالف الدولة والسوق لإعادة تشكيل قسرية للزراعة المصرية</title>
-			<link>https://almanassa.com/stories/29191</link>
-						<dc:creator>صقر النور</dc:creator>
-			<media:thumbnail url="https://almanassa.com/sites/default/files/styles/card_lead/public/photobank/2026/880fd1bf-7107-4a89-8287-2a4a408edb5a.png.webp?itok=Pl8QAEh2" />
-			<media:content url="https://almanassa.com/sites/default/files/styles/card_lead/public/photobank/2026/880fd1bf-7107-4a89-8287-2a4a408edb5a.png.webp?itok=Pl8QAEh2" medium="image"></media:content>
-			<description><![CDATA[<!-- FULLCONTENT start //--><div data-sanitized-class="columns small-12 table-scroll">
-							<p>في مايو/أيار 2022، افتتح الرئيس عبد الفتاح السيسي <a href="https://www.google.com/search?q=%22%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3+%D8%A7%D9%84%D8%B3%D9%8A%D8%B3%D9%8A+%D9%8A%D9%81%D8%AA%D8%AA%D8%AD+%D9%85%D8%B4%D8%B1%D9%88%D8%B9+%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84+%D9%85%D8%B5%D8%B1+%D9%84%D9%84%D8%A5%D9%86%D8%AA%D8%A7%D8%AC+%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D9%8A+-+%D9%85%D8%A7%D9%8A%D9%88+2022%22.&amp;rlz=1C5CHFA_enFR977FR977&amp;oq=%22%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3+%D8%A7%D9%84%D8%B3%D9%8A%D8%B3%D9%8A+%D9%8A%D9%81%D8%AA%D8%AA%D8%AD+%D9%85%D8%B4%D8%B1%D9%88%D8%B9+%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84+%D9%85%D8%B5%D8%B1+%D9%84%D9%84%D8%A5%D9%86%D8%AA%D8%A7%D8%AC+%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D9%8A+-+%D9%85%D8%A7%D9%8A%D9%88+2022%22.&amp;gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRiPAjIHCAIQIRiPAjIHCAMQIRiPAtIBCDEwMjlqMGo0qAIAsAIB&amp;sourceid=chrome&amp;ie=UTF-8#fpstate=ive&amp;vld=cid:c238c5ac,vid:189AIKN6rKg,st:0">مشروع مستقبل مصر</a> الذي <a href="https://sis.gov.eg/ar/%D9%85%D8%B4%D8%B1%D9%88%D8%B9%D8%A7%D8%AA-%D9%88%D9%85%D8%A8%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA/%D9%85%D8%B4%D8%B1%D9%88%D8%B9%D8%A7%D8%AA-%D9%82%D9%88%D9%85%D9%8A%D8%A9/%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84-%D9%85%D8%B5%D8%B1-%D9%84%D9%84%D8%A5%D9%86%D8%AA%D8%A7%D8%AC-%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D9%8A/#:~:text=%D9%85%D8%B4%D8%B1%D9%88%D8%B9%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AC%D9%87%D8%A7%D8%B2,%D8%A7%D9%84%D8%A5%D9%86%D8%AA%D8%A7%D8%AC%20%D9%85%D9%86%20%D9%83%D9%84%20%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D8%B5%D9%8A%D9%84%20%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D9%8A%D8%A9.">بدأته</a> القوات المسلحة عام 2017، واستمع إلى <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="248a7450-6e58-416b-a291-01f8c8e14e7d" href="https://almanassa.com/stories/5805" title="نص كلمة وتعليقات السيسي خلال افتتاح مشروع مستقبل مصر للإنتاج الزراعي 21/5/2022">عرض</a> سلايدشو قدّمه المقدم طيار بهاء الغنام مدير المشروع، مدعومًا بالصور الجوية والإنفوجراف.</p>
-
-<p>وخلال العرض، الذي بدا أقرب إلى العروض التسويقية منه إلى نقاش سياسات زراعية عامة، تدخَّل الرئيس أكثر من مرة لشرح المفاهيم أو إعادة صياغتها للجمهور، بينما اكتفى مدير المشروع بتأكيدِ تعقيبات الرئيس بعبارات مطيعة على شاكلة "تمام يا فندم" و"حاضر يا فندم".</p>
-
-<p>عَكَس ذلك المشهد صورةَ ترتيبٍ سلطويٍّ لإنتاج المعرفة الزراعية؛ سلطة سياسية تتولّى الشرح والتفسير، ومشروع يُدار بمنطق العرض والإقناع لا بمنطق النقاش العام، وشخصية عسكرية شابة تُجسّد نموذج "الضابط الاستثماري" الذي يجمع بين الانضباط الهرمي ولغة السوق، دون أن يخرج عن حدود الطاعة أو يتيح تعدّد الأصوات.</p>
-
-<p>في هذا الإطار، تحوَّلت الزراعة من مجال اجتماعي واقتصادي معقّد إلى مسألة إدارية تُحسم من أعلى، وتُعرض للجمهور في صيغة مبسّطة وجاهزة وغير قابلة للاختلاف.</p>
-
-<p>هذه النظرة للزراعة، واللغة المستخدمة في إنتاج المعرفة المتعلقة بها، تحكم عملية إعادة التشكيل القسرية لأنماط النفاذ إلى الأرض، والعمل الزراعي، والوصول إلى الطاقة والمياه خلال السنوات الأخيرة عبر نموذجين؛ الأول على يد الدولة في الأراضي الصحراوية، والثاني عبر آليات السوق في أراضي الدلتا والوادي القديم.</p>
-
-<p>وفق وسائل الإعلام المملوكة للدولة والتابعة لها، تعيش مصر <a href="https://www.ajnet.me/ebusiness/2024/5/25/2-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D9%81%D8%AF%D8%A7%D9%86-%D8%A8%D8%AD%D8%AC%D9%85-4-%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A7%D8%AA-%D9%82%D8%B7%D8%A7%D8%B1-%D8%B2%D9%8A%D8%A7%D8%AF%D8%A9">طفرةَ توسُّعٍ</a> في المساحات المزروعة، وتُصدِّر أطنانًا من السلع الطازجة. في ذلك شيء من الحقيقة، لكنْ فيه أيضًا أثمان اجتماعية تُدفع مقابل توسع القوات المسلحة في هذا النشاط من جهة، وصعود النيوليبرالية من جهة أخرى.</p>
-
-<p>هذه الأثمان التي تبدأ بلغةِ إنتاج المعرفة لتُعبِّر عن قاعدة واحدة ترى في الأرض وأدوات الإنتاج مجرد سلع، تنتهي بإقصاء الفلاحين وصغار المنتجين من العملية الزراعية برمتها.</p>
-
-<h2>الجيش والمستثمر الكبير</h2>
-
-<p>نظرة عن قرب لطريقة عمل مشروع مستقبل مصر تكشف كيف يمثل هذا الجهاز نقطةَ تحوِّلٍ كبيرةً نحو "لبرلة" الزراعة المصرية، فهو <a href="https://www.google.com/search?q=%D9%85%D8%B4%D8%B1%D9%88%D8%B9+%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84+%D9%85%D8%B5%D8%B1+%D8%A7%D9%84%D8%AC%D8%AF%D8%B9%D8%A7%D9%86&amp;rlz=1C5CHFA_enFR977FR977&amp;oq=%D9%85%D8%B4%D8%B1%D9%88%D8%B9+%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84+%D9%85%D8%B5%D8%B1+%D8%A7%D9%84%D8%AC%D8%AF%D8%B9%D8%A7%D9%86&amp;gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg9MgYIAhBFGD0yBggDEEUYPdIBCTEwMzIyajBqN6gCALACAA&amp;sourceid=chrome&amp;ie=UTF-8#fpstate=ive&amp;vld=cid:93ad7f80,vid:tEFvnsSs8l8,st:0">يستهدف</a> منذ تأسيسه كبرى الشركات الزراعية والمستثمرين الأجانب بالأساس ويُهمِّش صغار المزارعين.</p>
-
-<p>فبعد ثلاثة أشهر من افتتاحه؛ <a href="https://sis.gov.eg/ar/%D9%85%D8%B4%D8%B1%D9%88%D8%B9%D8%A7%D8%AA-%D9%88%D9%85%D8%A8%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA/%D9%85%D8%B4%D8%B1%D9%88%D8%B9%D8%A7%D8%AA-%D9%82%D9%88%D9%85%D9%8A%D8%A9/%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84-%D9%85%D8%B5%D8%B1-%D9%84%D9%84%D8%A5%D9%86%D8%AA%D8%A7%D8%AC-%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D9%8A/">تحوَّل</a> المشروع مستقبل مصر إلى جهاز تابع للقوات المسلحة بقرار جمهوري. ولاحقًا رُقِّي الغنام إلى رتبة عقيد كما نال درجة الدكتوراه في تنمية الموارد الزراعية. و<a href="https://www.presidency.eg/ar/%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9-%D8%A7%D9%84%D9%82%D9%88%D9%85%D9%8A%D8%A9/%D8%A7%D9%81%D8%AA%D8%AA%D8%A7%D8%AD-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84-%D9%85%D8%B5%D8%B1-%D9%84%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%AF%D8%A7%D9%85%D8%A9/">توسَّع</a> المشروع بشكل مذهل بعدما خُصصت لحسابه ملايين الأفدنة.</p>
-
-<blockquote>
-<p>كان إيجار فدان الأوقاف في 2014 نحو 500 جنيه وثار جدل واسع نهاية العام الماضي مع صعوده  إلى 45 ألف جنيه</p>
-</blockquote>
-
-<p>في <a href="https://www.youtube.com/watch?v=PI9p8F5gn9k">إطلالاته التليفزيونية</a> يشير الغنَّام إلى تأسيسِه إدارةً متخصصةً للتسويق والتعاقد على الأراضي بمقر الجهاز بمحور الضبعة تكون البوابة الرئيسية للنفاذ إلى الأرض. هنا لا تُمنح الأراضي باعتبارها موردًا عامًا أو أداةَ تمكين اجتماعي، إنما تُسَوَّق وتُؤجَّر وفق معايير استثمارية محددة سلفًا: حدّ أدنى مرتفع للمساحة التي يمكن تأجيرها، قدرة على تحمّل تكاليف البنية الأساسية، واستعداد للاندماج في منظومة إنتاج موجّهة للأسواق.</p>
-
-<p>من جهة أخرى، يُمثِّل "مستقبل مصر" نقطةَ تحوِّلٍ مهمةً أيضًا في النمط الاستثماري للقوات المسلحة، كون وظيفتَه الأساسية -خلافًا لمشروعات الجيش السابقة عليه وخصوصًا <a href="https://www.nspo.com.eg/">جهاز مشروعات الخدمة الوطنية</a>-  ليست الإنتاج الزراعي وإنما إدارة الأرض باعتبارها أصلًا رأسماليًا. أي أنه يجمع فائض القيمة من الإيجار وتنظيم النفاذ إلى الأرض، لا من الزراعة وعمليات إدراة الإنتاج الزراعي نفسها.</p>
-
-<p>ومع التوسع الكبير للجهاز خلال السنوات الأخيرة وترسيخ هذا النموذج، أصبح نشاط الاستصلاح حكرًا على طرفين لا ثالث لهما، هما المستثمر الكبير  والجيش كـ"صاحب ريع"، بعد تهميش دور جهاز مشروعات الخدمة الوطنية، مع الإبقاء عليه كآلية لتسكين القيادات العسكرية وخدمة وظائف اجتماعية واقتصادية داخلية.</p>
-
-<p>جنَّبت هذه الصيغة القوات المسلحة ما كانت تتعرض له من انتقادات بسبب استثمارها المباشر في مشروعات سابقة، وخلقت في الوقت نفسه تعدديةً داخل هيمنة واحدة: نموذج عسكري-ريعي منفتح على كبار المستثمرين، في مقابل نموذج أقدم للاستغلال المباشر، وكلاهما يستبعد الفلاحين الصغار. </p>
-
-<h2>الصعود السريع لـ"مستقبل مصر"</h2>
-
-<p>بتتبعٍ بسيطٍ لقرارات تخصيص الأراضي لصالح "مستقبل مصر"، نتلمَّسُ رحلة الصعود السريع لهذا الجهاز وهيمنته على الزراعة المصرية، إذ صدرت قرارات جمهورية وأخرى وزارية عن مجلس الوزراء تمنحه حق التصرف والاستخدام في مساحات واسعة من الأراضي.</p>
-
-<p>يُعدّ القرار الجمهوري <a href="https://www.mksegypt.org/ar/decisions/21880">رقم 114 لسنة 2024</a> محطةً مفصليةً في هذا المسار، إذ أعاد تجميع وتخصيص مساحات كبرى في شرق القناة وشمال ووسط سيناء لصالح الجهاز، تلاه في العام نفسه القرار الجمهوري <a href="https://egyptianlaws.com/?p=159961">رقم 285 لسنة 2024</a>، الذي خصّص مساحات في بني سويف/غرب المنيا وأسوان، ثم القرارات الجمهورية أرقام <a href="https://www.almasryalyoum.com/news/details/3262822">338 و339 و341 لسنة 2024</a>، التي شملت تخصيص أراضٍ في البحيرة وقنا لأغراض تنموية وخدمية.</p>
-
-<p>إلى جانب ذلك، صدرت قرارات عن مجلس الوزراء بإعادة تخصيص أراضٍ داخل الوادي والدلتا لصالح الجهاز من بينها قطع بمحافظة الجيزة، وقرارات بنقل أو تغيير غرض استخدام قطع أخرى بوادي النطرون.</p>
-
-<p>تكشف هذه السلسلة المتقاربة من القرارات الجمهورية والوزارية عن نمط لإعادة توزيع أراضي الدولة يُدار من أعلى، خارج المسارات المؤسسية التقليدية للهيئات المدنية المعنية بإدارة الأراضي، كما تُظهر الخرائط الرسمية المنشورة على صفحات الجهاز اتساع نطاق تدخلاته جغرافيًا ليغطي كامل الجمهورية، في مساحة مُقدّرة بنحو 4.5 مليون فدان.</p>
-
-<figure role="group" data-sanitized-class="align-left"><div data-embed-button="almanassa_media_browser" data-entity-embed-display="view_mode:media.embed" data-entity-type="media" data-entity-uuid="8857bfd0-ccd1-42af-8bd5-1c9ee29f8e09" data-langcode="ar" data-entity-embed-display-settings="[]" data-sanitized-class="embedded-entity">
-	    <picture><source media="all and (min-width: 1440px)" type="image/webp"><source media="all and (min-width: 641px)" type="image/webp"><source type="image/webp"><img src="https://almanassa.com/sites/default/files/styles/max_650x650/public/photobank/2025/8857bfd0-ccd1-42af-8bd5-1c9ee29f8e09.jpg.webp?itok=6BDedhMp" alt="" typeof="foaf:Image"></picture><aside data-sanitized-class="media--management-links"><ul></ul></aside><aside data-sanitized-class="caption credits">صفحة Future of Egypt - جهاز مستقبل مصر للتنمية المستدامة، فيسبوك</aside></div>
-<figcaption>خريطة تعريفية صادرة عن جهاز مستقبل مصر للتنمية المستدامة، حول نطاق المشروعات الزراعية للجهاز على مستوى الجمهورية</figcaption></figure><p>تمثل هذه السياسات أحد أكبر تحولات الليبرالية الجديدة في تاريخنا المعاصر. وهو نمط مختلف من اللبرلة، يعتمد على تحالف الدولة والسوق، أو ما يمكن أن نطلق عليه "الليبرالية السلطوية"، وهو ما لا يبتعد عن توصيف أستاذة العلوم الاجتماعية فيرونيكا جاجو النيوليبراليةً <a href="https://www.dukeupress.edu/neoliberalism-from-below">نظامًا قسريًّا</a>، حيث تستغل الدولة سلطتها السيادية في تمكين تراكم رأس المال.</p>
-
-<p>في حالة "مستقبل مصر"، تؤدي المؤسسة العسكرية دور الكاسحة التي تفتح الطريق أمام توسع الزراعة الرأسمالية الكبيرة، وتؤمّن السيطرة على الأرض والمياه والطاقة، بينما يُترك الإنتاج للمستثمرين الكبار ويُستبعد صغار المنتجين باعتبارهم غير قابلين للإدماج في منطق الكفاءة والتصدير.</p>
-
-<p>لا يقتصر الأمر على مستقبل مصر، بل يتجسد نموذج الاستصلاح الكبير في حالات أخرى مثل مشروع "الريف المصري الجديد" الذي أُطلق عام 2021 لاستصلاح مليون ونصف المليون فدان في مناطق صحراوية متعددة في الدلتا الجديدة وغرب المنيا وتوشكى وغيرها. تبلغ مساحة أصغر قطعة مطروحة فيه إلى نحو <a href="https://www.elreefelmasry.com/home/ques">238 فدانًا</a>، أي أنها في مستوى المستثمر المتوسط أو مجموعات من صغار المستثمرين، ما يجعل الإقصاء نتاجًا بنيويًا للتصميم، لا نتيجةً لفشل فردي أو نقص خبرة.</p>
-
-<p>يختلف ذلك جذريًا عن النموذج الناصري الذي اعتمد مسارين للزراعة؛ أولهما الاعتماد على المزارع الكبيرة في النوبارية، الذي يشبه ظاهريًا نموذج مستقبل مصر لكن بفارق جوهري، وهو أن مشروعات النوبارية ظلت مملوكة للدولة وأولوياتها الإنتاجية تهدف لخدمة الاكتفاء الذاتي. أما المسار الثاني فركّز على إعادة توزيع الأراضي المصادَرة على صغار الفلاحين إمّا عبر عقود تمليك بحدّ أقصى خمسة أفدنة، أو من خلال إيجارات زراعية كانت آمنة.</p>
-
-<h2><strong>انهيار آخر الحصون</strong></h2>
-
-<p>لم تحتج سياسة دعم صغار الفلاحين في الأراضي القديمة، التي تعود جذورها للنموذج الناصري، إلى "كاسحة ألغام"؛ كان كافيًا تقليص ما تبقى من دور الدولة، وتحرير الإيجارات، ورفع الدعم عن مستلزمات الإنتاج في امتدادٍ<a href="https://rosaluxna.org/wp-content/uploads/2019/04/%D8%A7%D9%84%D8%A7%D9%94%D8%B1%D8%B6-%D9%88%D8%A7%D9%84%D9%81%D9%84%D8%A7%D8%AD-%D9%88%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%AB%D9%85%D8%B1.pdf"> لمسار</a> بدأ منذ أواخر السبعينيات، وازداد حدّةً في السنوات الأخيرة.</p>
-
-<p>أحد أكثر المؤشرات على تسليع الأراضي القديمة هو انخفاض أحجام المساحات التي يستأجرها الفلاحون من فدان أو نصف فدان، إلى نحو قيراط (1/24 من الفدان). وهو ما يؤدي إلى اقتسام الأرض الواحدة بين عدة مستأجرين. يعكس هذا التفتيت ارتفاع الإيجارات إلى مستويات لم يعد معها الفدان وحدةً قابلةً للاستئجار، بما يفاقم الفقر ويقوّض الاستقرار الزراعي.</p>
-
-<p>يُضاف إلى ذلك سياسات مؤسسات الدولة مثل وزارات الزراعة والري والأوقاف، في التصرف بممتلكاتها الزراعية عبر آليات السوق واعتبار تعظيم العائد الهدف الأوحد عند التعامل مع هذه الأصول.</p>
-
-<p>يظهر ذلك جليًا في أسعار إيجارات أراضي تلك الوزارات؛ على سبيل المثال كان <a href="https://gate.ahram.org.eg/News/4938909.aspx">إيجار</a> فدان الأوقاف في 2014 نحو 500 جنيه، صعد إلى عدة أضعاف خلال سنوات قليلة، وثار جدل واسع نهاية العام الماضي مع <a href="https://www.alquds.com/ar/posts/216500">صعوده</a> في قفزة واحدة من 15 إلى 45 ألف جنيه.</p>
-
-<p>وتكشف <a href="https://www.facebook.com/reel/1218375173519176">رسائل متداولة</a> لفلاحين مستأجرين لأراضي الأوقاف كيف يعمل هذا المنطق الريعي على الأرض. ففي رسالة موجّهة إلى وزارة الأوقاف، يفكك أحد الفلاحين تكلفة زراعة الفدان بندًا بندًا، ليُظهر أن رفع إيجار أراضي الأوقاف جعل الزراعة، خصوصًا المحاصيل الغذائية من الحبوب، نشاطًا خاسرًا. </p>
-
-<p>في المقابل <a href="https://www.youtube.com/watch?v=stTajUkq8tY">يتكلم</a> المتحدث الرسمي باسم وزارة الأوقاف بأريحية عن أن تحديد قيمة الأرض يعتمد على سعر السوق في الأراضي المجاورة، وفق ما يُعرف بطريقة المقارنة السوقية، حيث تُقدَّر القيمة استنادًا إلى معاملات وأراضٍ مماثلة في المنطقة، لا إلى تكلفة الزراعة أو عائد الفلاح الفعلي.</p>
-
-<p>بهذا المنطق، تُعامَل الأرض بوصفها أصلًا ماليًّا استثماريًّا، لا وسيلة عيش وإنتاج، وهو ما يفسّر القفزات الحادة في الإيجارات واتساع الفجوة بين حسابات الدولة وحسابات من يزرعون الأرض فعليًا. </p>
-
-<h2>زراعة بلا فلاحين</h2>
-
-<p>ما يجمع بين الصحراء والوادي هو الإزاحة؛ ففي الأراضي الجديدة يُقصى صغار الفلاحين والخريجون عبر تصميم المشروعات ذاتها، فيما تُواجَه محاولات التوسع الذاتي أو وضع اليد في الظهير الصحراوي بحملات <a href="https://eip.gov.eg/IDSC/News/View.aspx?ID=15441">رصد</a> وتتبع <a href="https://saheeh.news/ar/node/3464">وحصار</a> لم تعد موسمية أو قابلة للتفاوض.</p>
-
-<p>وفي الأراضي القديمة، تَدفعُ الإيجاراتُ المرتفعةُ الفلاحين إلى تقليص حيازاتهم أو مغادرة الزراعة كليًا خاصة في غياب الأمان التعاقدي بعد تحرير نظام الإيجارات القديم في التسعينيات.</p>
-
-<p>بين الإزاحتين، يتآكل الهامش الذي سمح في السابق بوجود ملاك صغار ومحليين في الصحراء، وباستمرار زراعة معيشية متنوعة في الوادي والدلتا.</p>
-
-<p>ليست القضية إذن "نجاح" أو "فشل" مشروع بعينه، إنما في إعادة تعريف معنى التنمية الزراعة ذاتها، بحيث لا تهدف إلى إنتاج الغذاء وتأمين سبل العيش للفلاحين والسكان المحليين، وتصبح مجالًا للسيطرة على الأرض والمياه والطاقة، وإدارة المخاطر لصالح رأس المال الكبير من أجل زراعة تصديرية هادفة للربح بشكل مطلق.</p>
-
-<p>لا تتوقف آثار هذه الإزاحة داخل حدود الحقول وتمتد خارجها. فلا يمكن النظر إلى عودة <a href="https://www.facebook.com/watch/?v=769742435796650">الهجرة إلى ليبيا</a>، وارتفاع<a href="https://zawia3.com/irregular-migration/"> أعداد المصريين</a> العابرين والمغامرين في البحر المتوسط حتى أن مصر <a href="https://zawia3.com/irregular-migration/#:~:text=%D8%AA%D8%B9%D9%83%D8%B3%20%D8%A7%D9%84%D8%A3%D8%B1%D9%82%D8%A7%D9%85%20%D8%A7%D9%84%D8%B5%D8%A7%D8%AF%D8%B1%D8%A9%20%D8%B9%D9%86%20%D9%85%D9%86%D8%B8%D9%85%D8%A7%D8%AA,%D9%85%D9%87%D8%A7%D8%AC%D8%B1%D8%8C%20%D9%85%D8%A7%20%D9%88%D8%B6%D8%B9%20%D9%85%D8%B5%D8%B1%20%D8%B6%D9%85%D9%86">احتلت</a> في عام 2024 المرتبة الثانية عالميًا ضمن أعلى الدول المصدِّرة للهجرة غير النظامية إلى أوروبا، بمعزل عن هذا<a href="https://search.emarefa.net/ar/detail/BIM-887848-%D8%A7%D9%84%D8%B9%D9%86%D9%81-%D8%A7%D9%84%D8%A8%D9%86%D9%8A%D9%88%D9%8A-%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9-%D9%81%D9%8A-%D9%86%D8%B8%D8%B1%D9%8A%D8%A9-%D8%AC%D9%88%D9%87%D8%A7%D9%86-%D8%BA%D8%A7%D9%84%D8%AA%D9%88%D9%86%D8%AC-%D9%84%D8%AA%D9%81%D8%B3%D9%8A%D8%B1-%D8%A7%D9%84%D8%B9%D9%86%D9%81"> العنف البنيوي</a>؛ حيث تُترجم الإزاحة الزراعية إلى إزاحة اجتماعية واقتصادية، وأحيانًا جغرافية، تدفع فئات واسعة إلى البحث عن سبل بقاء خارج الزراعة، وخارج الحدود، في مسارات محفوفة بالمخاطر.</p>
-
-<p>تمتد الإزاحة أيضًا إلى النظم الغذائية الزراعية نفسها، حيث تُستبعد محاصيل غذائية كانت تُنتَج للاستهلاك المحلي والعائلي، ويُستعاض عنها بمحاصيل موجّهة للتصدير، لا بوصفها خيارًا إنتاجيًا حرًا، بل آلية اضطرارية لتمويل القدرة على الاستمرار في ظل شروط سوقية خانقة.</p>
-
-
-<div data-embed-button="almanassa_story_browser" data-entity-embed-display="view_mode:node.read_also" data-entity-type="node" data-entity-uuid="1be7923a-cf9d-4174-a8f2-16a8ef7862bf" data-langcode="ar" data-entity-embed-display-settings="[]" data-sanitized-class="embedded-entity">
-	<article data-history-node-id="5786" role="article" about="/stories/5786" data-sanitized-id="node-5786" data-sanitized-class="view-mode--read-also type-story"><div data-sanitized-class="row">
-		<a href="https://almanassa.com/stories/5786" almanassa-posthog-link="" data-ph-capture-attribute-link-type="story" data-ph-capture-attribute-link-id="5786" data-ph-capture-attribute-link-title="التوازن اللامتكافئ: هل لنا أن نسعد بزيادة صادرات البرتقال؟" data-ph-capture-attribute-link-section="اقتصاد وعمران" data-ph-capture-attribute-link-view-mode="read_also" data-sanitized-class="columns small-12 medium-6">
-			<hr data-sanitized-class="embed-divider"><div data-sanitized-class="h3">اقرأ أيضا</div>
-			
-			<div data-sanitized-class="h2">
-				<span>التوازن اللامتكافئ: هل لنا أن نسعد بزيادة صادرات البرتقال؟</span>
-
-			</div>
-			
-			<hr data-sanitized-class="embed-divider"></a>
-	</div>
-</article></div>
-<p>هذه التحولات التي تُقدم بوصفها تحديثًا وكفاءة، وتُغلَّف بصور اخضرار وخطابات إنجاز، ما هي إلا نزعٌ بطيء لقدرة الريف على إعادة إنتاج حياته، وتحويل الزراعة إلى أداة ضمن مشروع أوسع لإعادة ترتيب المجتمع والاقتصاد. هذا هو جوهر إعادة التشكيل القسري للزراعة المصرية؛ قسرٌ تتعدد أدواته وتتقاطع نتائجه عند إقصاء من يزرعون الأرض فعليًا.</p>
-						<div data-sanitized-id="topic-file-stories">
-			<div data-sanitized-class="views-element-container">		<div almanassa-posthog-link-source="" data-almanassa-posthog-link-source="Story Topic File Stories List" data-almanassa-posthog-link-source-type="topic_files" data-almanassa-posthog-link-source-id="embed_story_topic_file" data-sanitized-class="js-view-dom-id-52c0b4a4adee9c01479e0a708321c7df9d6d7a43ce4d707c795367b4df1a5b0e">
-		
-		
-		
-
-		
-		
-		
-		
-
-		
-		
-		
-
-		
-		
-
-		
-		
-	</div>
-</div>
-
-			</div>
-		</div><!-- FULLCONTENT end //-->]]></description>
-			<pubDate>Thu, 19 Feb 2026 10:02:05 +0200</pubDate>
-			<guid isPermaLink="false">1771488141720942</guid>
 		</item>
 
 	</channel>
