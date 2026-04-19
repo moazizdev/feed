@@ -4,10 +4,322 @@
 		<title>اقتصاد</title>
 		<link>http://192.168.1.50:8081/api/query.php?user=admin&amp;t=4IzCA6HFSoouCSR9nVqNkV&amp;f=html</link>
 		<description>RSS feed of اقتصاد</description>
-		<pubDate>Sun, 19 Apr 2026 21:00:02 +0200</pubDate>
-		<lastBuildDate>Sun, 19 Apr 2026 19:00:02 GMT</lastBuildDate>
+		<pubDate>Sun, 19 Apr 2026 21:05:03 +0200</pubDate>
+		<lastBuildDate>Sun, 19 Apr 2026 19:05:03 GMT</lastBuildDate>
 		<atom:link href="http://192.168.1.50:8081/api/query.php?user=admin&amp;t=4IzCA6HFSoouCSR9nVqNkV&amp;f=rss" rel="self" type="application/rss+xml" />
 				<item>
+			<title>أسعار العملات في مصر</title>
+			<link>https://realegp.com/</link>
+						<description><![CDATA[<table data-sanitized-class="table currencies-table">
+              <thead>
+                <tr data-sanitized-class="thick-border">
+                  <th data-sanitized-class="text-end">العملة</th>
+                  <th>سعر البنك</th>
+                  <th>
+                    <div>سعر السوق</div>
+                    <div data-sanitized-class="range">من - إلى</div>
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/usd">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-us fib"></i>
+                        </div>
+                        <div>دولار أمريكي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">51.68</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">52.36</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">51.99 - 52.62</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/eur">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-eu fib"></i>
+                        </div>
+                        <div>يورو</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">60.86</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">61.67</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">61.24 - 61.98</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/sar">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-sa fib"></i>
+                        </div>
+                        <div>ريال سعودي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">13.67</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">13.85</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">13.75 - 13.92</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/kwd">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-kw fib"></i>
+                        </div>
+                        <div>دينار كويتي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">167.7</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">170.0</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">168.8 - 170.8</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/aed">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-ae fib"></i>
+                        </div>
+                        <div>درهم اماراتي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">13.97</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">14.15</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">14.05 - 14.22</div>
+                  </td>
+                </tr>
+                
+  
+              </tbody>
+            </table>]]></description>
+			<pubDate>Sun, 19 Apr 2026 21:02:23 +0200</pubDate>
+			<guid isPermaLink="false">1776625343477016</guid>
+		</item>
+		<item>
+			<title>أسعار الذهب في مصر</title>
+			<link>https://realegp.com/</link>
+						<description><![CDATA[<table data-sanitized-class="table currencies-table">
+              <thead>
+                <tr data-sanitized-class="thick-border">
+                  <th data-sanitized-class="text-end">الذهب</th>
+                  <th>
+                    <div>متوسط السعر</div>
+                    <div data-sanitized-class="range">من - إلى</div>
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/18k">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <img src="https://realegp.com/static/img/gold.png">
+                        
+                        <div>ذهب عيار 18</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">6003</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">5985 - 6021</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/21k">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <img src="https://realegp.com/static/img/gold.png">
+                        
+                        <div>ذهب عيار 21</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">7005</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">6985 - 7025</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/24k">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <img src="https://realegp.com/static/img/gold.png">
+                        
+                        <div>ذهب عيار 24</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">8006</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">7983 - 8029</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/pound">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <i data-sanitized-class="bi bi-currency-pound"></i>
+                        
+                        <div>جنيه الذهب</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">56040</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">55880 - 56200</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/usdsagha">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <i data-sanitized-class="bi bi-coin"></i>
+                        
+                        <div>دولار الصاغة</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">51.59</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">51.44 - 51.73</div>
+                  </td>
+                </tr>
+                
+  
+              </tbody>
+            </table>]]></description>
+			<pubDate>Sun, 19 Apr 2026 21:02:23 +0200</pubDate>
+			<guid isPermaLink="false">1776625343477015</guid>
+		</item>
+		<item>
+			<title>صعود تاريخي للأسواق في ظل استمرار الأزمة السياسية</title>
+			<link>https://newsletter.amwal.ai/p/890</link>
+						<dc:creator>Amwal AI - أموال إيه آي</dc:creator>
+			<media:content url="https://substackcdn.com/image/fetch/$s_!dUbI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e75dd21-fc71-4d64-aa3a-3a1eb6f8eb8a_1920x1080.jpeg" type="image/jpeg"></media:content>
+			<description><![CDATA[<div data-attrs='{"url":"https://newsletter.amwal.ai/subscribe?","text":"Subscribe","language":"en"}' data-component-name="SubscribeWidgetToDOM" data-sanitized-class="subscription-widget-wrap-editor"><div data-sanitized-class="subscription-widget show-subscribe"><div data-sanitized-class="preamble"><p data-sanitized-class="cta-caption">فاتتك الأخبار؟ اشترك لتصلك نشرتنا على بريدك الإلكتروني</p></div><div data-sanitized-class="fake-input-wrapper"><div data-sanitized-class="fake-input"></div><div data-sanitized-class="fake-button"></div></div></div></div><div data-sanitized-class="captioned-image-container"><figure><a href="https://substackcdn.com/image/fetch/%24s_!dUbI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e75dd21-fc71-4d64-aa3a-3a1eb6f8eb8a_1920x1080.jpeg" data-component-name="Image2ToDOM" data-sanitized-class="image-link image2 is-viewable-img"><div data-sanitized-class="image2-inset"><picture><source type="image/webp"><img src="https://substackcdn.com/image/fetch/%24s_!dUbI!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e75dd21-fc71-4d64-aa3a-3a1eb6f8eb8a_1920x1080.jpeg" width="1456" height="819" data-attrs='{"src":"https://substack-post-media.s3.amazonaws.com/public/images/3e75dd21-fc71-4d64-aa3a-3a1eb6f8eb8a_1920x1080.jpeg","srcNoWatermark":null,"fullscreen":null,"imageSize":null,"height":819,"width":1456,"resizeWidth":null,"bytes":null,"alt":null,"title":null,"type":null,"href":null,"belowTheFold":false,"topImage":true,"internalRedirect":null,"isProcessing":false,"align":null,"offset":false}' alt="" fetchpriority="high" data-sanitized-class="sizing-normal"></picture><div data-sanitized-class="image-link-expand"><div data-sanitized-class="pencraft pc-display-flex pc-gap-8 pc-reset"><button tabindex="0" type="button" data-sanitized-class="pencraft pc-reset pencraft icon-container restack-image"><g><title></title><path d="M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882"></path></g></button><button tabindex="0" type="button" data-sanitized-class="pencraft pc-reset pencraft icon-container view-image"><polyline points="15 3 21 3 21 9"></polyline><polyline points="9 21 3 21 3 15"></polyline><line x1="21" x2="14" y1="3" y2="10"></line><line x1="3" x2="10" y1="21" y2="14"></line></button></div></div></div></a></figure></div><p>أهلًا بكم في نشرة أموال الأسبوعية!</p><p>ارتفع مؤشر S&amp;P 500 هذا الأسبوع بنحو ٨٠٠ نقطة من ٦,٣٠٠ دولار إلى مستوى قياسي جديد قرب ٧,١٠٠ دولار. نشرح في عدد هذا الأسبوع الضغوط الميكانيكية التي دفعت الأسعار للصعود، وتوقعاتنا بشأن مسار الأسواق خلال الأسابيع القادمة.</p><div data-attrs='{"url":"https://newsletter.amwal.ai/p/890?utm_source=substack&amp;utm_medium=email&amp;utm_content=share&amp;action=share","text":"Share"}' data-component-name="CaptionedButtonToDOM" data-sanitized-class="captioned-button-wrap"><div data-sanitized-class="preamble"><p data-sanitized-class="cta-caption">لديك صديق مهتم بالاستثمار؟ شارك نشرتنا معه</p></div><p data-attrs='{"url":"https://newsletter.amwal.ai/p/890?utm_source=substack&amp;utm_medium=email&amp;utm_content=share&amp;action=share","text":"Share"}' data-component-name="ButtonCreateButton" data-sanitized-class="button-wrapper"><a href="https://newsletter.amwal.ai/p/890?utm_source=substack&amp;utm_medium=email&amp;utm_content=share&amp;action=share" data-sanitized-class="button primary"><span>Share</span></a></p></div><h2><strong>لغز الملاحة عبر مضيق هرمز</strong></h2><p>يوم الجمعة، أعلن وزير الخارجية الإيراني أن مضيق هرمز مفتوح أمام الملاحة التجارية، فانخفض خام برنت من نحو ١٠١ إلى ٩١ دولارًا. لكن بعد أقل من ٢٤ ساعة، يوم السبت، تم التراجع عن الإعلان، وأُغلق المضيق مجددًا، وبقيت حركة الناقلات في خانة الآحاد مقابل معدل طبيعي يتراوح بين ٥٠ و٨٠ ناقلة يوميًا.</p><p>على صعيد المفاوضات، أظهرت الجولة الأخيرة التي استمرت ٢١ ساعة متواصلة جهدًا حقيقيًا من الطرفين، وعبَّر الرئيس ترامب عن تفاؤله بجولة جديدة. لكن العقبات الهيكلية التي حدّدناها في العدد الماضي مازالت قائمة بالكامل: العداء الإسرائيلي-الإيراني يعمل وفق منطق مستقل عن التفضيلات الأمريكية، إيران مازالت تتفاوض من موقع قوة يحول دون تقديمها تنازلات جوهرية، ومازالت كذلك اعتبارات السياسة الداخلية الأمريكي تُقيِّد حرية الحركة في المفاوضات. تقديرنا بأن احتمال التوصل لاتفاق دائم لا يتجاوز ٢٠٪ مازال قائمًا.</p><p>تُشير أسعار أسواق الرهانات إلى احتمال ٥٠٪ لعودة حركة الملاحة الطبيعية بنهاية أبريل، ترتفع إلى ٨٠٪ بحلول نهاية مايو ونحو ٩٠٪ بحلول نهاية يونيو. لكن هذه الاحتمالات تفترض أن الوضع الراهن غير قابل للاستمرار لجميع الأطراف، وهو افتراض قد يصح على المدى المتوسط لكنه لا يحمي من التقلبات العنيفة خلال الأسابيع القادمة.</p><p><strong>💡 توقعات خبراء أموال: ننصح المستثمرين بتجاهل الأخبار المتواترة حول فتح وإغلاق مضيق هرمز. بيانات حركة الناقلات، وحركة الشحن عبر المضيق بشكل عام، هي المؤشر الأكثر موثوقية ويجب مراقبتها يوميًا. العودة لمعدل ٣٠ ناقلة يوميًا أو أكثر ستكون الإشارة الأولى لتحول حقيقي في حركة الملاحة.</strong></p><div data-sanitized-class="captioned-image-container"><figure><a href="https://substackcdn.com/image/fetch/%24s_!v__O!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5893ef87-9a12-48d0-8c6f-0c7eab74b2f4_1100x220.jpeg" data-component-name="Image2ToDOM" data-sanitized-class="image-link image2"><div data-sanitized-class="image2-inset"><picture><source type="image/webp"><img src="https://substackcdn.com/image/fetch/%24s_!v__O!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5893ef87-9a12-48d0-8c6f-0c7eab74b2f4_1100x220.jpeg" width="1100" height="220" data-attrs='{"src":"https://substack-post-media.s3.amazonaws.com/public/images/5893ef87-9a12-48d0-8c6f-0c7eab74b2f4_1100x220.jpeg","srcNoWatermark":null,"fullscreen":null,"imageSize":null,"height":220,"width":1100,"resizeWidth":null,"bytes":38976,"alt":null,"title":null,"type":"image/jpeg","href":null,"belowTheFold":true,"topImage":false,"internalRedirect":"https://newsletter.amwal.ai/i/194709093?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5893ef87-9a12-48d0-8c6f-0c7eab74b2f4_1100x220.jpeg","isProcessing":false,"align":null,"offset":false}' alt="" loading="lazy" data-sanitized-class="sizing-normal"></picture><div></div></div></a></figure></div><h2><strong>صعود الأسهم بفعل الضغوط الميكانيكية</strong></h2><p>ارتفع مؤشر S&amp;P 500 هذا الأسبوع بنسبة ٤٫٥٪، وارتفع نظيره التكنولوجي Nasdaq 100 بنسبة ٦٫٢٪. دخل المستثمرون الأسبوع بمراكز بيع مكثفة بعد أسابيع من إضافة التحوطات مع تدهور أزمة المضيق، ثم جاء إعلان وقف إطلاق النار في لحظة الهشاشة الفنية القصوى، فانطلقت موجة تغطية مراكز البيع (Short Covering) التي تحوّلت إلى ضغط ميكانيكي دفع الأسهم للصعود بشكل  متسارع (Gamma Squeeze) حين اضطر بائعو عقود خيارات الشراء (Call Options) إلى شراء الأسهم لتغطية مراكز التحوط. أُجبرت خوارزميات تتبع الاتجاه (Trend-following Algorithmic Funds) على ضخ ما يقدَّر بنحو ٨٠ مليار دولار يوميًا، والأهم أنه لم يكن هناك بائعون على الجانب الآخر لأن مستثمري صناديق المؤشرات في BlackRock وVanguard لم يجدوا بديلًا مقنعًا في السندات.</p><p><strong>لماذا نعتقد أن موجة الصعود المفاجئة اقتربت من نهايتها؟</strong></p><ul><li><p>أولًا: مراكز البيع التي تراكمت على مدار الأسابيع التي تلت بدء الحرب تمت تغطية أغلبها خلال الأسبوع، ما يعني أن ضغط تغطية البيع الميكانيكي (Short Covering) الذي ساهم في دفع الأسعار للصعود قد استُنفذ.</p></li><li><p>ثانيًا: بائعو عقود خيارات الشراء (Call Options) الذين اضطروا لشراء الأسهم لتعديل تحوطاتهم قد أنهوا عملية التعديل، ولن يحتاجوا لتكرارها عند نفس المستويات.</p></li><li><p>ثالثًا: خوارزميات تتبع الاتجاه (Trend-following Algorithmic Funds) التي ضخّت نحو ٨٠ مليار دولار يوميًا أعادت تمركزها ولا تملك المزيد لتُضيفه حول المستويات الحالية.</p></li><li><p>رابعًا: لا تستطيع  الإدارة الأمريكية  الاستمرار في التلاعب بالأسواق بنفس الأسلوب الذي تعودنا عليه في بداية الحرب.</p></li></ul><p>تؤكد التقييمات هذا الاستنتاج. يُسعّر المؤشر حاليًا نموًا في الأرباح بنسبة ١٧٪ عند مكرر ربحية (P/E Ratio) يقترب من ٢٣، وهو مزيج غير واقعي في ظل ارتفاع تكاليف الطاقة والضغوط التضخمية وحرب مضطربة لم تُحسم بعد. حتى بالنظر إلى أرباح الشركات في الربع الأول من ٢٠٢٦، فإن جميع الشركات التي أعلنت نتائجها حتى الآن أدّت أداءً أسوأ من أداء المؤشرات بعد الإعلان، ما يعني أن الأرقام الحقيقية التي تعلن عنها الشركات لا يمكنها دفع الأسعار للمزيد من الصعود.</p><p><strong>💡 توقعات خبراء أموال: نتوقع تراجعًا بنحو ٢٠٠-٤٠٠ نقطة في مؤشر S&amp;P 500 خلال الأسبوعين إلى أربعة أسابيع المقبلة نحو مستوى ٦,٧٠٠ نقطة، حيث استُنفذ الوقود الميكانيكي الذي دفع الأسعار للصعود، والوضع الاقتصادي الحالي لا يدعم استقرار الأسعار عند المستويات الحالية. سيكون التراجع المتوقع فرصة شراء للمستثمرين طويلي الأجل.</strong></p><div><hr></div><h2><strong>الذهب يستمر في الصعود</strong></h2><p>اخترق الذهب هذا الأسبوع حاجز ٤,٨٠٠ دولار. يُؤكد هذا الاختراق أن مستويات ٤,١٠٠ دولار التي لامسها الذهب في ٢٣ مارس كانت بالفعل نقطة الانعطاف الحقيقية كما أشرنا، وأن مسار الصعود الذي توقعناه منذ العام الماضي مازال ساريًا. يقع سعر التوازن لعقود الخيارات المنتهية في ٢٧ أبريل عند ٤,٧١٥ دولارًا، ما قد يُحدث ضغطًا مؤقتًا نحو هذا المستوى خلال أيام التداول المتبقية قبل أن يتحرر السعر في اتجاهه المحتمل نحو الأعلى.</p><p>لفهم العوامل المحركة لسعر الذهب في الوقت الحالي، يجب النظر إلى ما یحدث في سوق السندات. انخفضت علاوة الأجل (Term Premium) على سندات الخزانة لأجل ١٠ سنوات من ذروتها عند ١٤٨ نقطة أساس في ٢٧ مارس إلى ١٠٢ نقطة أساس فقط هذا الأسبوع، أي أنها لم تعد فقط إلى مستواها قبل الحرب (١١٠ نقاط أساس) بل هبطت دونه. ما يعني أن سوق السندات يُسعِّر حاليًا قدرًا من عدم اليقين بشأن مسار الفائدة طويلة الأجل أقل مما كان يُسعِّره قبل اندلاع الحرب على إيران.</p><p>الأهم في القراءة التفصيلية لسوق السندات هو الانقسام بين توقعات التضخم قصيرة وطويلة الأجل. انخفضت توقعات التضخم قصيرة الأجل من ٣٫٣٠٪ إلى ٢٫٨٤٪ في أسبوع واحد، أي أن السوق يُعيد تسعير صدمة الطاقة من كونها صدمة هيكلية إلى اضطرابٍ مؤقت. لكن توقعات التضخم طويلة الأجل (١٠ سنوات) لم تتحرك تقريبًا، حيث تراجعت نقطة أساس واحدة فقط من ٢٫٣٧٪ إلى ٢٫٣٦٪. يمكن ترجمة هذه الأرقام إلى أن السوق يعتقد أن أزمة الطاقة مؤقتة لكنه لم يُعدِّل نظرته بأن التضخم سيبقى مرتفعًا بشكل هيكلي مقارنة بمستويات ما قبل أزمة كورونا.</p><p>يُفسّر هذا الانقسام صعود الذهب هذا الأسبوع رغم صعود الأسهم. انخفاض العوائد الحقيقية قصيرة الأجل (الفائدة مخصومًا منها التضخم) يرفع جاذبية الذهب ميكانيكيًا، بينما ثبات توقعات التضخم طويلة الأجل يعني أن الطلب الهيكلي على التحوط من التضخم مازال قائمًا. هذا المزيج، انخفاض العائد الحقيقي مع استقرار توقعات التضخم، هو بالضبط البيئة التي يزدهر فيها الذهب تاريخيًا.</p><p>ما يجعل الذهب الأصل الأقوى في تقديرنا هو أنه يستفيد من كلا المسارين المحتملين. إذا نجحت المفاوضات واستقر الوضع الجيوسياسي، فإن انخفاض أسعار الطاقة سيدفع العوائد الحقيقية للانخفاض أكثر مع توقُّع تيسير نقدي من الفيدرالي، وهو ما يرفع سعر الذهب. وإذا فشلت المفاوضات وعاد التصعيد، فإن الطلب على الملاذات الآمنة يرتفع مباشرة. في كلتا الحالتين، المسار المحتمل لسعر الذهب هو مسار الصعود.</p><p><strong>💡 توقعات خبراء أموال: بعد نجاح الذهب في تخطي نطاق ٤,٦٠٠-٤,٨٠٠ دولار الذي أشرنا إليه، تصبح المحطة التالية هي الوصول لمستويات ٥,٠٠٠-٥,١٠٠ دولار. لكن حركة السعر على المدى القصير ستتأثر بتطورات حركة الملاحة في مضيق هرمز، والضغط الميكانيكي الذي يفرضه سعر التوازن في سوق الخيارات (٤,٧١٥ دولار).  يقع الهدف المتوسط للدورة الحالية حول ٦,٥٠٠ دولار خلال النصف الثاني من ٢٠٢٦.</strong></p><div><hr></div><h2><strong>بتكوين</strong></h2><p>ارتفع بتكوين بنسبة ٦٪ هذا الأسبوع ليصل إلى ٧٥,١٠٠ دولارًا. بالتزامن مع صعود السعر، ارتفع معامل ارتباط بتكوين مع مؤشر S&amp;P 500 إلى ٠٫٩٢، وهو أعلى مستوى في الدورة الحالية. عند هذا المستوى من الارتباط، لم يعد بتكوين يعمل كفئة أصول مستقلة بل كنسخة مُعدَّلة (Leveraged Proxy) من سوق الأسهم.</p><p>على الصعيد المؤسسي، ارتفعت تدفقات صناديق بتكوين المتداولة (ETFs) إلى ٩٢٥ مليون دولار هذا الأسبوع مقارنة بـ٧٧١ مليون الأسبوع الماضي و٢٢ مليونًا فقط قبل أسبوعين. لكن تزامن هذا التسارع مع الارتفاع في معامل الارتباط يُشير إلى أن رأس المال المؤسسي يُعامل بتكوين كرهان على زخم الأسهم لا كتخصيص مستقل. يقع متوسط تكلفة شراء مستثمري الصناديق عند ٨٢,٢٤٧ دولارًا، ما يعني خسارة غير محققة بنسبة ٨٫٦٪.</p><p><strong>💡 توقعات خبراء أموال: نحافظ على موقفنا الحذر تجاه بتكوين. مستوى المقاومة الأهم يقع عند ٧٨,٠٠٠-٨٠,٤٠٠ دولار (المتوسط الحقيقي وتكلفة المستثمرين قصيري الأجل)، ومستوى الدعم الرئيسي عند ٦١,٠٠٠-٦٢,٠٠٠ دولار. في ظل معامل ارتباط بلغ ٠٫٩٢، سيحدد اتجاه سوق الأسهم مسار بتكوين. إذا تراجع S&amp;P 500 بنحو ٤٠٠ نقطة كما نتوقع، فمن المرجح أن يختبر بتكوين نطاق ٧١,٠٠٠-٧٣,٠٠٠ دولار.</strong></p><div><hr></div><h2><strong>الخلاصة</strong></h2><p>نرى أن صعود الأسهم غلب عليه الدافع الميكانيكي كما أفردنا. استمرار الأزمة حول مضيق هرمز يعني أن الأسواق مُعرَّضة لانعكاس قد يكون بنفس زخم الصعود. نحتفظ بسيولة كافية لاقتناص فرصة التراجع المتوقعة في الأسهم خلال الأسبوعين إلى أربعة أسابيع المقبلة، ونبقى خارج بتكوين.</p><p><strong>ما يجب مراقبته الأسبوع المقبل:</strong></p><ul><li><p>الأربعاء ٢٢ أبريل: جلسة تأكيد تعيين كيڤن وارش رئيسًا للفيدرالي. السيناتور توم تيليس يُهدد بعرقلة التصويت ما لم يتوقف التحقيق مع رئيس الفيدرالي الحالي چيروم باول، ما يحوّل الجلسة إلى معركة حول استقلالية البنك المركزي. يمكنكم الاطلاع على عدد النشرة الخاص في بداية فبراير الماضي حول رؤيتها للتأثير المحتمل لتعيين كيڤن وارش على الأسواق:</p><p data-attrs='{"url":"https://newsletter.amwal.ai/p/b89","text":"اقرأ العدد الخاص من هنا","action":null,"class":null}' data-component-name="ButtonCreateButton" data-sanitized-class="button-wrapper"><a href="https://newsletter.amwal.ai/p/b89" data-sanitized-class="button primary"><span>اقرأ العدد الخاص من هنا</span></a></p></li><li><p>الخميس ٢٣ أبريل: خطاب كريستين لاغارد وفيليب لاين من البنك المركزي الأوروبي.</p></li><li><p>الجمعة ٢٤ أبريل: مؤشرات مديري المشتريات الأولية لأبريل في منطقة اليورو وألمانيا وبريطانيا. أول بيانات نشاط حقيقية تعكس الاضطراب الحالي في حركة الملاحة في الخليج العربي.</p></li></ul><p>ترقّبوا عددنا الأسبوعي يوم الأحد القادم، لمواكبة أبرز المستجدات وتحليل انعكاساتها على مختلف الأصول الاستثمارية.</p><p data-attrs='{"url":"https://www.amwal.ai/","text":"للمزيد من المعلومات عن أموال، زُر موقعنا","action":null,"class":null}' data-component-name="ButtonCreateButton" data-sanitized-class="button-wrapper"><a href="https://www.amwal.ai/" data-sanitized-class="button primary"><span>للمزيد من المعلومات عن أموال، زُر موقعنا</span></a></p>]]></description>
+			<pubDate>Sun, 19 Apr 2026 20:01:51 +0200</pubDate>
+			<guid isPermaLink="false">1776625343477012</guid>
+		</item>
+		<item>
 			<title>أسعار العملات في مصر</title>
 			<link>https://realegp.com/</link>
 						<description><![CDATA[<table data-sanitized-class="table currencies-table">
@@ -951,39 +1263,6 @@
 				</div>]]></description>
 			<pubDate>Mon, 13 Apr 2026 14:02:26 +0200</pubDate>
 			<guid isPermaLink="false">1776081748181738</guid>
-		</item>
-		<item>
-			<title>الأسواق ترتفع على وقع محادثات السلام والمستثمرون يتجاهلون إشارات الخطر</title>
-			<link>https://newsletter.amwal.ai/p/710</link>
-						<dc:creator>Amwal AI - أموال إيه آي</dc:creator>
-			<media:content url="https://substackcdn.com/image/fetch/$s_!hRc_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F226ee375-5760-494d-8fec-c77410743f3a_2048x1508.png" type="image/jpeg"></media:content>
-			<description><![CDATA[<div data-attrs='{"url":"https://newsletter.amwal.ai/subscribe?","text":"Subscribe","language":"en"}' data-component-name="SubscribeWidgetToDOM" data-sanitized-class="subscription-widget-wrap-editor"><div data-sanitized-class="subscription-widget show-subscribe"><div data-sanitized-class="preamble"><p data-sanitized-class="cta-caption">فاتتك الأخبار؟ اشترك لتصلك نشرتنا على بريدك الإلكتروني</p></div><div data-sanitized-class="fake-input-wrapper"><div data-sanitized-class="fake-input"></div><div data-sanitized-class="fake-button"></div></div></div></div><div data-sanitized-class="captioned-image-container"><figure><a href="https://substackcdn.com/image/fetch/%24s_!hRc_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F226ee375-5760-494d-8fec-c77410743f3a_2048x1508.png" data-component-name="Image2ToDOM" data-sanitized-class="image-link image2 is-viewable-img"><div data-sanitized-class="image2-inset"><picture><source type="image/webp"><img src="https://substackcdn.com/image/fetch/%24s_!hRc_!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F226ee375-5760-494d-8fec-c77410743f3a_2048x1508.png" width="2048" height="1508" data-attrs='{"src":"https://substack-post-media.s3.amazonaws.com/public/images/226ee375-5760-494d-8fec-c77410743f3a_2048x1508.png","srcNoWatermark":null,"fullscreen":null,"imageSize":null,"height":1508,"width":2048,"resizeWidth":null,"bytes":4460547,"alt":null,"title":null,"type":"image/png","href":null,"belowTheFold":false,"topImage":true,"internalRedirect":null,"isProcessing":false,"align":null,"offset":false}' alt="" fetchpriority="high" data-sanitized-class="sizing-normal"></picture><div data-sanitized-class="image-link-expand"><div data-sanitized-class="pencraft pc-display-flex pc-gap-8 pc-reset"><button tabindex="0" type="button" data-sanitized-class="pencraft pc-reset pencraft icon-container restack-image"><g><title></title><path d="M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882"></path></g></button><button tabindex="0" type="button" data-sanitized-class="pencraft pc-reset pencraft icon-container view-image"><polyline points="15 3 21 3 21 9"></polyline><polyline points="9 21 3 21 3 15"></polyline><line x1="21" x2="14" y1="3" y2="10"></line><line x1="3" x2="10" y1="21" y2="14"></line></button></div></div></div></a></figure></div><p>أهلًا بكم في نشرة أموال الأسبوعية!</p><p>قفزت الأسواق هذا الأسبوع بنحو ٣٫٥٪ بعد إعلان مفاوضات وقف إطلاق النار بين الولايات المتحدة وإيران بوساطة باكستانية، ليصل مؤشر S&amp;P 500 إلى نحو ٦,٨١٥ نقطة. لكن الجولة الأولى من المحادثات انتهت بالفعل دون نتيجة تُذكر، والضربات الإسرائيلية على لبنان استمرت خلال الهدنة المُعلنة، ومضيق هرمز مازال مُغلقًا. يُشير تحليلنا إلى أن المفاوضات بشكلها الحالي مرشحة للفشل، وأن الأسواق تُسعّر تفاؤلًا لا يستند إلى أساس متين.</p><p>نرصد في نشرة هذا الأسبوع أسباب اعتقادنا بأن مفاوضات السلام ستفشل، ثم ننتقل إلى تحليل سوق النفط الذي يأبى الهبوط رغم أخبار التهدئة، ونستعرض مسار الذهب، وأخيرًا نقيِّم الوضع الحالي لبتكوين.</p><div data-attrs='{"url":"https://newsletter.amwal.ai/p/710?utm_source=substack&amp;utm_medium=email&amp;utm_content=share&amp;action=share","text":"Share"}' data-component-name="CaptionedButtonToDOM" data-sanitized-class="captioned-button-wrap"><div data-sanitized-class="preamble"><p data-sanitized-class="cta-caption">لديك صديق مهتم بالاستثمار؟ شارك نشرتنا معه</p></div><p data-attrs='{"url":"https://newsletter.amwal.ai/p/710?utm_source=substack&amp;utm_medium=email&amp;utm_content=share&amp;action=share","text":"Share"}' data-component-name="ButtonCreateButton" data-sanitized-class="button-wrapper"><a href="https://newsletter.amwal.ai/p/710?utm_source=substack&amp;utm_medium=email&amp;utm_content=share&amp;action=share" data-sanitized-class="button primary"><span>Share</span></a></p></div><h2><strong>هل تنجح مفاوضات السلام بين إيران والولايات المتحدة؟</strong></h2><p>قفزت الأسواق هذا الأسبوع على وقع إعلان مفاوضات وقف إطلاق النار بوساطة باكستانية، لكن الجولة الأولى انتهت بالفعل دون نتيجة. وصل نائب الرئيس ڤانس إلى إسلام آباد يوم السبت ١١ أبريل لقيادة ما وصفته الإدارة الأمريكية بـ”جولة حاسمة” من المفاوضات، بينما كان الوفد الإيراني قد وصل العاصمة الباكستانية يوم الخميس. لكن المحادثات تعثّرت سريعًا ولم تُسفر عن أي اتفاق أو حتى إطار مبدئي ملزم.</p><p>فشل الجولة الأولى لم يكن مفاجئًا لنا. تقديرنا أن الجولات اللاحقة ستفشل هي الأخرى في التوصل إلى اتفاق فعلي، لأن العقبات التي تمنع التوصل لاتفاق شامل أكبر من أن يتم تخطيها خلال المفاوضات بشكلها الحالي.</p><p><strong>أولًا: إيران تُفاوض من موقع قوة.</strong> فقد نجا النظام الإيراني من ستة أسابيع من الضربات الأمريكية-الإسرائيلية المركَّزة، ومازال يحتفظ بقدرات صاروخية وهجومية كبيرة، ويُسيطر فعليًا على مضيق هرمز الذي يمرُّ عبره نحو ٢٠٪ من النفط العالمي و٣٠٪ من الغاز المسال. تُشير التقديرات إلى أن إيران تملك وقودًا نوويًا يكفي لصنع ١٠-١٦ قنبلة، وأن ٣٠٪-٥٠٪ من قدراتها الصاروخية مازالت سليمة في مخابئ محصَّنة تحت الأرض. في المقابل، قبول ترامب لخطة إيران ذات النقاط العشر كأساس للمفاوضات يأتي كتنازلٍ فعلي مدفوع بالأزمة العسكرية والاقتصادية. حين يُفاوض طرف من موقع قوة وآخَر من موقع يأس واضطرار، يملك الطرف الأقوى كل الحوافز لاستنزاف المفاوضات وانتزاع أقصى التنازلات، وهو بالضبط ما يُتوقع أن تفعله إيران. فكلما طال أمد الصراع، زاد نفوذها، حتى مع استمرار الضربات الجوية. لا توجد حالة تاريخية واحدة تنازلت فيها دولة عن قوتها الناشئة طوعيًا دون هزيمة عسكرية ميدانية. ما يعني أن مطالبة إيران بالتخلِّي عن نفوذها على طاولة المفاوضات، في ظل الدعم المالي والعسكري من الصين وروسيا، ودون هزيمة واضحة في الميدان، يتناقض مع كل نمط تاريخي معروف.</p><p><strong>ثانيًا: الفجوة بين دوافع الطرفين للتفاوض فجوة هيكلية.</strong> قبِل ترامب علنًا خطة إيران ذات النقاط العشر كأساس للتفاوض، لكنه في الوقت نفسه يُهدد باستخدام القوة العسكرية بشأن رسوم عبور هرمز ويُصرُّ على أن إيران لن تمتلك سلاحًا نوويًا أبدًا. الولايات المتحدة مازالت تبحث عن صيغة تضمن تحقيق بعضًا من الأهداف الأصلية للحرب (وقف تخصيب اليورانيوم، خفض القدرات الصاروخية الإيرانية، وقف الدعم الإيراني لحلفائها في المنطقة)، بينما تطالب إيران برفع دائم للعقوبات، ووقف الهجمات على حلفائها، وقواعد عبور جديدة لمضيق هرمز تُحددها طهران. ولا تتفاوض أصلًا حول الملف النووي، القضية الأهم على الإطلاق، والتي غابت تمامًا عن خطة إيران ذات النقاط العشر. ما يعني أن المفاوضات تبدأ وأكثر الملفات حساسية لم يُطرح أصلًا على الطاولة.</p><p><strong>ثالثًا: إسرائيل تُخرِّب عملية التفاوض بشكل متعمد.</strong> لا يوجد وقف فعلي لإطلاق النار حتى الآن لأن إسرائيل تواصل قصف لبنان، وإيران اشترطت وقف هذه الضربات لإعادة فتح المضيق. يرى نتنياهو في استمرار الحرب الحالية فرصة غير مسبوقة لاستنزاف إيران وحزب الله، وجر المنطقة بأكملها لحرب واسعة النطاق تقف فيها دول الخليج في الجانب الإسرائيلي، ما يعزز من فرص نتنياهو في الانتخابات المقبلة. ما لم يكن ترامب مستعدًا للضغط بقوة على نتنياهو، وهو احتمال ضعيف، فإن أحد أهم الشروط الإيرانية لبدء التفاوض لن يتحقق أصلًا.</p><p><strong>رابعًا: اعتبارات السياسة الداخلية تُقيِّد حركة المُفاوض الأمريكي.</strong> حتى لو كان چيه دي ڤانس يسعى بصدق للوصول إلى اتفاق، فإن أي سلام تظهر فيه الولايات المتحدة وكأنها هُزمت عسكريًا سيُعرِّضه لهجوم شرس من المحافظين الجدد واليمين المؤيد لإسرائيل داخل الولايات المتحدة، ما يقلص حظوظه في الانتخابات الرئاسية المقبلة في ٢٠٢٨. قد يدفع هذا الضغط السياسي الوفد الأمريكي نحو مواقف أكثر تشددًا مما يُبرره الواقع الميداني.</p><p>الخلاصة أن الطرفين لا يتفاوضان على الشيء نفسه. إيران تتفاوض لتثبيت ما تراه نصرًا، والولايات المتحدة تتفاوض للتغطية على ما يبدو وكأنه هزيمة. أضف إلى ذلك التخريب الإسرائيلي، وتأرجُح ترامب بين المصالحة والتهديد بالإبادة، وغياب الملف النووي تمامًا عن الإطار المتفق عليه، وانعدام أي آلية لإنفاذ هذا الاتفاق في المستقبل، وستميل الكفَّة بوضوح نحو انهيار المفاوضات بشكلها الحالي، والعودة مجددًا للتصعيد العسكري.</p><div data-sanitized-class="captioned-image-container"><figure><a href="https://substackcdn.com/image/fetch/%24s_!WUAy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faef8dc05-3c60-4afd-8240-6b3a812c170d_1100x220.jpeg" data-component-name="Image2ToDOM" data-sanitized-class="image-link image2"><div data-sanitized-class="image2-inset"><picture><source type="image/webp"><img src="https://substackcdn.com/image/fetch/%24s_!WUAy!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faef8dc05-3c60-4afd-8240-6b3a812c170d_1100x220.jpeg" width="1100" height="220" data-attrs='{"src":"https://substack-post-media.s3.amazonaws.com/public/images/aef8dc05-3c60-4afd-8240-6b3a812c170d_1100x220.jpeg","srcNoWatermark":null,"fullscreen":null,"imageSize":null,"height":220,"width":1100,"resizeWidth":null,"bytes":38976,"alt":null,"title":null,"type":"image/jpeg","href":null,"belowTheFold":true,"topImage":false,"internalRedirect":"https://newsletter.amwal.ai/i/193986155?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faef8dc05-3c60-4afd-8240-6b3a812c170d_1100x220.jpeg","isProcessing":false,"align":null,"offset":false}' alt="" loading="lazy" data-sanitized-class="sizing-normal"></picture><div></div></div></a></figure></div><h2><strong>النفط يستقر حول ١٠٠ دولار رغم التهدئة</strong></h2><p>تراجع خام غرب تكساس من نحو ١١١ إلى ١٠٣ دولار على خلفية أخبار الهدنة، وتراجع خام برنت إلى نحو ١٠١ دولار. لكن بقاء الأسعار فوق ١٠٠ دولار رغم التهدئة التي دفعت الأسهم للصعود يُشير إلى أن المتداولين في أسواق الطاقة يدركون التأثير الكارثي الممتد لاستمرار إغلاق مضيق هرمز.</p><p>استقرار أسعار النفط فوق ١٠٠ دولار يمثل بمثابة عبئًا هيكليًا على الاقتصاد العالمي يُعادل انكماشًا بنحو ١٪ من الناتج الإجمالي العالمي، وهو ضغط سيتراكم على مدار الأشهر القادمة إذا لم تنتهي أزمة المضيق.</p><p><strong>💡 توقعات خبراء أموال: سعر النفط هو الإشارة الأهم التي يجب مراقبتها الأسبوع المقبل. أي تأكيد على زيادة حركة الناقلات غير الإيرانية عبر هرمز سيكون الإشارة الأكثر إيجابية لأصول المخاطرة، ومن المرجح أن يدفع النفط تحت ٩٠ دولارًا ويساعد الأسهم على الاستقرار مؤقتًا حول ٦,٨٠٠ نقطة. في المقابل، انهيار المفاوضات قد يدفع النفط نحو ١٢٠ دولارًا أو أكثر.</strong></p><div><hr></div><h2><strong>الذهب يقترب من ٥,٠٠٠ دولار</strong></h2><p>استقر الذهب في نطاق ضيق بين ٤,٦٠٠ و٤,٨٠٠ دولار هذا الأسبوع. يقع سعر التوازن لعقود الخيارات المنتهية في مايو عند ٤,٧٠٠ دولار، ما يعني أن حركة السعر ستتأرجح حول هذا المركز خلال أيام التداول المتبقية قبل أن يتحرر السعر في اتجاهه المحتمل نحو الأعلى، بهدف مبدئي يقع في نطاق ٥,٠٠٠-٥,٢٠٠ دولار.</p><p>لفهم وضع الذهب الحالي، يجب العودة إلى مساره منذ اندلاع الحرب. كان الذهب يتداول فوق ٥,١٠٠ دولار قبيل بدء العمليات العسكرية في ٢٨ فبراير، وكان المنطق يقول إن حربًا كبرى في الشرق الأوسط ستدفعه للصعود. لكن ما حدث كان العكس تمامًا، حيث انهار الذهب بشكل حاد ولامس مستوى ٤,١٠٠ دولار في ٢٣ مارس، تراجع بنحو ٢٠٪ في أقل من شهر. جاء هذا الانهيار مدفوعًا بارتفاع الدولار، وضغوط ميكانيكية من تصفية عقود الخيارات، وموجة تصفية عنيفة لمراكز الرافعة المالية (De-Leveraging)، وهو نمط مألوف في الأيام الأولى من الصدمات الكبرى حين يضطر المستثمرين إلى بيع كل شيء بما في ذلك أصول الملاذ الآمن.</p><p>لكن مستوى ٤,١٠٠ دولار أثبت أنه نقطة انعطاف حقيقية. ارتفع الذهب بنحو ١٥٪ ليستقر الآن في نطاق ضيق بين ٤,٦٠٠ و٤,٨٠٠ دولار. يقع سعر التوازن لعقود الخيارات المنتهية في مايو عند ٤,٧٠٠ دولار، ما يعني أن حركة السعر ستتأرجح حول هذا المركز خلال أيام التداول المتبقية قبل أن يتحرر السعر في اتجاهه المحتمل نحو الأعلى، بهدف مبدئي يقع في نطاق ٥,٠٠٠-٥,٢٠٠ دولار، أي استعادة مستويات ما قبل الحرب كمحطة أولى.</p><p>وهنا يتقاطع تحليلنا للذهب مع تقديرنا لمسار المفاوضات. كما فصّلنا أعلاه، نرى أن انهيار المفاوضات هو السيناريو الأرجح. لكن قبل أن نُقدّر أثر ذلك على الذهب، يجب أن نجيب على سؤال منطقي: إذا كان اندلاع الحرب في فبراير قد أدى إلى انهيار الذهب بنسبة ٢٠٪، فلماذا نتوقع أن يدفعه فشل المفاوضات، أي استئناف التصعيد، نحو الأعلى هذه المرة؟</p><p>يكمن الفارق الجوهري في طبيعة الصدمة. انهيار مارس لم يكن بيعًا للذهب بسبب تراجع الطلب عليه كملاذ آمن، بل كان جزءًا من موجة تسييل قسرية شملت جميع الأصول دون استثناء كما فصَّلنا. يتكرر هذا النمط في كل أزمة كبرى، فقد انهار الذهب في الأيام الأولى من أزمة ٢٠٠٨، وفي بداية جائحة ٢٠٢٠، قبل أن يرتد بقوة في كل مرة بمجرد انتهاء مرحلة التصفية القسرية.</p><p>يختلف الوضع اليوم من ثلاثة أوجه. أولًا، صدمة التسييل القسري حدثت بالفعل واستُنفذت نسبة كبيرة من مراكز الرافعة المالية. ثانيًا، البيئة الكلية تتغير تدريجيًا لصالح الذهب، لأن الارتفاع المتوقع للتضخم الناتج عن ارتفاع أسعار الطاقة سيؤدي إلى هبوط العائد الحقيقي على السندات (العائد على السندات مخصومًا منه معدل التضخم)، وانخفاض العائد على السندات يرفع من جاذبية الذهب كأصل استثماري، ما يجدب المزيد من رؤوس الأمول ويدفع سعر الذهب للصعود. ثالثًا، فشل المفاوضات ليس حدثًا مفاجئًا كاندلاع الحرب، تُسعّر الأسواق بالفعل احتمالًا جزئيًا لعدم التوصل لاتفاق، ما يعني أن الانتقال سيكون تدريجيًا لا مفاجئًا، وهو بالضبط نوع التحول الذي يدعم صعود الذهب.</p><p>في المقابل، إذا تحوَّل فشل المفاوضات إلى تصعيد عسكري مفاجئ يفوق مستوى الأزمة ما قبل التفاوض، في صورة ضربة أمريكية واسعة النطاق على البنية التحتية الإيرانية ترد عليه إيران بضربة مماثلة للبنية التحتية الخليجية، فقد نشهد موجة تسييل قسرية جديدة تُعيد الذهب مؤقتًا إلى الأسفل قبل أن يرتد، تمامًا كما حدث في فبراير. لكن مثل هذا التراجع سيكون فرصة شراء جديدة للمستثمرين طويلي الأجل.</p><p><strong>💡 توقعات خبراء أموال: يستمر الذهب مسار الصعود الذي توقعناه العام الماضي. فشل المفاوضات التدريجي، وهو السيناريو الأرجح، سيدعم اختراق مستوى ٥,٠٠٠ دولار. أما التصعيد العسكري المفاجئ فقد يُسبب تراجعًا مؤقتًا نعتبره فرصة شراء. المحطة القادمة هي ٥,٠٠٠-٥,٢٠٠ دولار كهدف فني قريب المدى، مع إمكانية الوصول إلى نطاق ٦,٥٠٠ دولار وما فوق خلال النصف الثاني من ٢٠٢٦.</strong></p><div><hr></div><h2><strong>بتكوين</strong></h2><p>ارتفع بتكوين بنسبة ٨٫٨٪ هذا الأسبوع ليتخطى مستوى ٧٣,٠٠٠ دولار، قبل أن يتراجع مرة أخرى إلى ما دون ٧١,٥٠٠ دولار بسبب تعثر المفاوضات.</p><p>نرى أن شروط التعافي المستدام لم يتحقق أي منها حتى الآن. أولًا، يجب أن يتوقف متوسط تكلفة الشراء للمستثمرين قصيري الأجل عن الانخفاض. ثانيًا، يجب أن تنخفض خسائر المستثمرين طويلي الأجل المُحققة من أكثر من ٤,٠٠٠ بتكوين يوميًا إلى أقل من ١,٠٠٠ بتكوين. ثالثًا، يجب أن يستعيد السعر مستوى ٨٠,٠٠٠ دولارًا الذي يمثل نقطة التعادل للمستثمرين قصيري الأجل، وهو يبعد حوالي ١١٪ عن السعر الحالي.</p><p>على الصعيد المؤسسي، قفزت تدفقات صناديق بتكوين المتداولة (ETFs) إلى ٧٧١ مليون دولار هذا الأسبوع مقارنة بـ٢٢ مليون دولار فقط الأسبوع الماضي. يقع متوسط تكلفة شراء مستثمري الصناديق حاليًا عند ٨٢,٣٥٣ دولار، ما يعني أنه في المتوسط يتحمل المستثمرون المؤسسيون خسارة غير محققة بنسبة ١٢٪، ما قد يمثل ضغطًا إضافيًا يمنع صعود السعر بشكل مستدام.</p><p><strong>💡 توقعات خبراء أموال: نحافظ على موقفنا الحذر تجاه بتكوين. مستوى المقاومة الأهم عند ٧٨,٠٠٠-٨١,٠٠٠ دولار، ومستوى الدعم الأول عند ٦١,٠٠٠-٦٢,٠٠٠ دولار.</strong></p><div><hr></div><h2><strong>الخلاصة</strong></h2><p>في أموال، نراقب التطورات الحالية باهتمام بالغ لكن دون تسرُّعٍ يدفعنا إلى مطاردة الارتفاع الحالي في أسعار الأسهم. لدينا تصور إيجابي لحركة سعر الذهب كأصلٍ يدعمه كلا المسارين، نجاح المفاوضات أو العودة للتصعيد. ونحتفظ بسيولة كافية لاقتناص الفرص في حال تدهورت الأوضاع بشكل يدفع الأصول للمزيد من الهبوط. ونبقى خارج بتكوين حتى تتحقق شروط التعافي المستدام.</p><p><strong>ما يجب مراقبته الأسبوع المقبل:</strong></p><ul><li><p>الثلاثاء ١٤ أبريل: مؤشر أسعار المنتجين لشهر مارس. وبيانات الصادرات الصينية.</p></li><li><p>الأربعاء ١٥ أبريل: تقرير مبيعات التجزئة الأمريكية، الذي سيشكل قراءة أولية لتأثير صدمة النفط على الاقتصاد الحقيقي.</p></li><li><p>الخميس ١٧ أبريل: الناتج المحلي الإجمالي الصيني للربع الأول، الفحص الاقتصادي الأشمل للصين منذ بداية الأزمة.</p></li><li><p>الجمعة ١٨ أبريل: خطاب كريستوفر والر، عضو مجلس محافظي الاحتياطي الفيدرالي، وهو آخر تواصل إعلامي للفيدرالي قبل فترة الصمت التي تسبق اجتماع ٢٨-٢٩ أبريل.</p></li></ul><p>ترقّبوا عددنا الأسبوعي يوم الأحد القادم، لمواكبة أبرز المستجدات وتحليل انعكاساتها على مختلف الأصول الاستثمارية.</p><p data-attrs='{"url":"https://www.amwal.ai/","text":"للمزيد من المعلومات عن أموال، زُر موقعنا","action":null,"class":null}' data-component-name="ButtonCreateButton" data-sanitized-class="button-wrapper"><a href="https://www.amwal.ai/" data-sanitized-class="button primary"><span>للمزيد من المعلومات عن أموال، زُر موقعنا</span></a></p>]]></description>
-			<pubDate>Sun, 12 Apr 2026 19:36:17 +0200</pubDate>
-			<guid isPermaLink="false">1776016939620407</guid>
-		</item>
-		<item>
-			<title>«آي صاغة»: الفضة تتماسك في السوق المحلية رغم ضغوط الدولار.. تراجع طفيف بنسبة 0.7% والأوقية تواصل التعافي عالميًا</title>
-			<link>https://market.isagha.com/articles/2185</link>
-						<media:thumbnail url="https://cdn.isagha.net/public/files/vtBYhXWGP7f7AJVyzfOtxwiRckgjblSB4jGaeppQ.jpg" />
-			<media:content url="https://cdn.isagha.net/public/files/vtBYhXWGP7f7AJVyzfOtxwiRckgjblSB4jGaeppQ.jpg" medium="image"></media:content>
-			<description><![CDATA[<div data-sanitized-class="content-article">
-					<p></p><p>شهدت <a href="https://safehavenhub.com/pages/%D8%A7%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D9%88%D8%A7%D9%84%D9%81%D8%B6%D8%A9">أسعار الفضة</a> في السوق المحلية المصرية حالة من التماسك النسبي خلال تعاملات الأسبوع الماضي، رغم استمرار التقلبات الحادة في الأسواق العالمية، حيث تحركت الأسعار في نطاق محدود يميل إلى التراجع الطفيف، نتيجة توازن...</p>
-					<a href="https://market.isagha.com/articles/2185" data-sanitized-class="read-more">تابع القراءة</a>
-				</div>]]></description>
-			<pubDate>Sun, 12 Apr 2026 17:02:28 +0200</pubDate>
-			<guid isPermaLink="false">1776006148411702</guid>
-		</item>
-		<item>
-			<title>«آي صاغة»: الذهب يسجل صعودًا حذرًا في السوق المصري.. وعيار 21 يرتفع 45 جنيهًا وسط توازن بين التضخم والهدنة الجيوسياسية</title>
-			<link>https://market.isagha.com/articles/2184</link>
-						<media:thumbnail url="https://cdn.isagha.net/public/files/q1CllugNWqKh2i1LmwqFabBAMExTBOclR4Xcwz69.jpg" />
-			<media:content url="https://cdn.isagha.net/public/files/q1CllugNWqKh2i1LmwqFabBAMExTBOclR4Xcwz69.jpg" medium="image"></media:content>
-			<description><![CDATA[<div data-sanitized-class="content-article">
-					<p></p><p>شهدت أسعار الذهب في السوق المحلية المصرية خلال تعاملات الأسبوع الماضي تحركات محدودة اتسمت بالميل إلى الارتفاع، في ظل حالة من التوازن الدقيق بين الضغوط الاقتصادية العالمية الناتجة عن استمرار معدلات التضخم المرتفعة،...</p>
-					<a href="https://market.isagha.com/articles/2184" data-sanitized-class="read-more">تابع القراءة</a>
-				</div>]]></description>
-			<pubDate>Sun, 12 Apr 2026 15:32:25 +0200</pubDate>
-			<guid isPermaLink="false">1776000745942518</guid>
 		</item>
 
 	</channel>
