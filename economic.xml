@@ -4,10 +4,313 @@
 		<title>اقتصاد</title>
 		<link>http://192.168.1.50:8081/api/query.php?user=admin&amp;t=4IzCA6HFSoouCSR9nVqNkV&amp;f=html</link>
 		<description>RSS feed of اقتصاد</description>
-		<pubDate>Sun, 19 Apr 2026 19:30:03 +0200</pubDate>
-		<lastBuildDate>Sun, 19 Apr 2026 17:30:03 GMT</lastBuildDate>
+		<pubDate>Sun, 19 Apr 2026 19:35:02 +0200</pubDate>
+		<lastBuildDate>Sun, 19 Apr 2026 17:35:02 GMT</lastBuildDate>
 		<atom:link href="http://192.168.1.50:8081/api/query.php?user=admin&amp;t=4IzCA6HFSoouCSR9nVqNkV&amp;f=rss" rel="self" type="application/rss+xml" />
 				<item>
+			<title>أسعار العملات في مصر</title>
+			<link>https://realegp.com/</link>
+						<description><![CDATA[<table data-sanitized-class="table currencies-table">
+              <thead>
+                <tr data-sanitized-class="thick-border">
+                  <th data-sanitized-class="text-end">العملة</th>
+                  <th>سعر البنك</th>
+                  <th>
+                    <div>سعر السوق</div>
+                    <div data-sanitized-class="range">من - إلى</div>
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/usd">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-us fib"></i>
+                        </div>
+                        <div>دولار أمريكي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">51.68</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">52.28</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">51.91 - 52.54</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/eur">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-eu fib"></i>
+                        </div>
+                        <div>يورو</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">60.84</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">61.55</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">61.12 - 61.86</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/sar">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-sa fib"></i>
+                        </div>
+                        <div>ريال سعودي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">13.67</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">13.83</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">13.73 - 13.9</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/kwd">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-kw fib"></i>
+                        </div>
+                        <div>دينار كويتي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">167.7</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">169.74</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">168.5 - 170.5</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/aed">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-ae fib"></i>
+                        </div>
+                        <div>درهم اماراتي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">13.97</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">14.13</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">14.03 - 14.2</div>
+                  </td>
+                </tr>
+                
+  
+              </tbody>
+            </table>]]></description>
+			<pubDate>Sun, 19 Apr 2026 19:32:23 +0200</pubDate>
+			<guid isPermaLink="false">1776619943119884</guid>
+		</item>
+		<item>
+			<title>أسعار الذهب في مصر</title>
+			<link>https://realegp.com/</link>
+						<description><![CDATA[<table data-sanitized-class="table currencies-table">
+              <thead>
+                <tr data-sanitized-class="thick-border">
+                  <th data-sanitized-class="text-end">الذهب</th>
+                  <th>
+                    <div>متوسط السعر</div>
+                    <div data-sanitized-class="range">من - إلى</div>
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/18k">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <img src="https://realegp.com/static/img/gold.png">
+                        
+                        <div>ذهب عيار 18</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">6003</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">5985 - 6021</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/21k">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <img src="https://realegp.com/static/img/gold.png">
+                        
+                        <div>ذهب عيار 21</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">7005</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">6985 - 7025</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/24k">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <img src="https://realegp.com/static/img/gold.png">
+                        
+                        <div>ذهب عيار 24</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">8006</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">7983 - 8029</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/pound">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <i data-sanitized-class="bi bi-currency-pound"></i>
+                        
+                        <div>جنيه الذهب</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">56040</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">55880 - 56200</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/usdsagha">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <i data-sanitized-class="bi bi-coin"></i>
+                        
+                        <div>دولار الصاغة</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">51.39</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">51.24 - 51.54</div>
+                  </td>
+                </tr>
+                
+  
+              </tbody>
+            </table>]]></description>
+			<pubDate>Sun, 19 Apr 2026 19:32:23 +0200</pubDate>
+			<guid isPermaLink="false">1776619943119883</guid>
+		</item>
+		<item>
 			<title>أسعار العملات في مصر</title>
 			<link>https://realegp.com/</link>
 						<description><![CDATA[<table data-sanitized-class="table currencies-table">
@@ -681,213 +984,6 @@
 				</div>]]></description>
 			<pubDate>Sun, 12 Apr 2026 15:32:25 +0200</pubDate>
 			<guid isPermaLink="false">1776000745942518</guid>
-		</item>
-		<item>
-			<title>نيران ترامب تضرب مال الخليج وليس فقط نفطه</title>
-			<link>https://almanassa.com/stories/31199</link>
-						<description><![CDATA[<!-- FULLCONTENT start //--><div data-sanitized-class="columns small-12 table-scroll">
-							<p>اختار الرئيس الأمريكي دونالد ترامب دول الخليج محطةً <a href="https://www.washingtoninstitute.org/ar/policy-analysis/thlyl-jwlt-tramb-alastthmaryt-fy-alkhlyj-lam-2025">لزيارته الخارجية</a> الأولى في بداية فترة رئاسته الثانية، والسبب معروف؛ فدور هذه الدول في الاقتصاد العالمي لم يعد مقتصرًا على تصدير النفط مع تحوّلها إلى مركز هائل لتصدير رؤوس الأموال التي <a href="https://www.bbc.com/news/articles/crk2me7vjxxo">يرغب</a> الرئيس تاجر العقارات في جذب قدر إضافي منها.</p>
-
-<p>لكن مع <a href="https://egyptoil-gas.com/news/gulf-oil-exports-plunge-over-60-as-hormuz-disruptions-force-output-cuts/">فقدان</a> دول الخليج جزءًا كبيرًا من صادراتها البترولية إثر إغلاق إيران مضيق هرمز ردًا على العدوان الأمريكي الإسرائيلي، تزداد حاجة الخليج لتسييل استثماراته المالية في الولايات المتحدة وغيرها من الأسواق المتقدمة، لتصبح تلك الأزمة واحدة من نيران ترامب الصديقة التي تضرب، كـالمعتاد، الاقتصاد الأمريكي.</p>
-
-<h2> </h2>
-
-<p>في بداية الحرب، تناولت أغلب التحليلات والتعليقات آثارها المباشرة على أسواق الطاقة، بالنظر إلى أن الخليج العربي هو مصدر نحو 28% من <a href="https://omanpetroleumandenergyshow.com/newfront/news/gcc-leads-global-oil-reserves-and-exports">صادرات</a> النفط الخام عالميًا.</p>
-
-<p>ومع استمرار الهجوم لنحو 40 يومًا والردود الإيرانية المؤثرة على حركة التجارة العالمية قبل الهدنة؛ تناولت التحليلات تأثر سلاسل الإمداد العالمية، وانعكاس ذلك على سلع مثل الأسمدة أو الألومنيوم وصولًا إلى الرقائق الإلكترونية، و<a href="https://cnnbusinessarabic.com/from-cnn-business/1138321/%D8%AD%D8%B1%D8%A8-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%AE%D9%86%D9%82-%D8%A7%D9%84%D8%A5%D9%85%D8%AF%D8%A7%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9-%D9%86%D9%82%D8%B5-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D9%8A%D8%AA%D8%AD%D9%88%D9%84-%D8%A5%D9%84%D9%89-%D8%A3%D8%B2%D9%85%D8%A9-%D9%81%D9%89-%D9%83%D9%84-%D8%B4%D9%8A%D8%A1">اعتبر</a> CNN أن الأزمة التي بدأت من النفط امتدت إلى كل شيء.</p>
-
-<p>ولم تكن تلك الاضطرابات بعيدة عن أسواق المال، فقد شهدنا <a href="https://www.cnbc.com/2026/03/20/us-treasury-yields-edge-higher-as-iran-war-drives-inflation-pressure.html">ارتفاع</a> العائد على السندات الحكومية الأمريكية، وهو مؤشر على إحساس المستثمرين بمخاطر هذه السوق. و<a href="https://moderndiplomacy.eu/2026/04/04/war-in-iran-tests-the-petrodollar-as-chinas-yuan-gains-ground/">تشكك</a> البعض في استمرار نظام البترودولار، بعد أن صارت إيران قادرة على قطع طريق هذا النفط.</p>
-
-<blockquote>
-<p>تقدر إجمالي الأصول التي تملكها صناديق دول الخليج بـ5.6 تريليون دولار أمريكي</p>
-</blockquote>
-
-<p>لكن بجانب كل هذا الزخم، ورغم الهدنة، ففي حال استؤنفت الحرب واتسع نطاقها قد نشهد نقاشات أوسع حول تأثيرها على الخليج كمستثمر مالي في الغرب والأسواق المتقدمة.</p>
-
-<p>لقد تحولت دول الخليج العربي في العقود الماضية، لا سيما الصغيرة في الحجم صاحبة الثروات النفطية الضخمة، إلى مصدر أساسي لرؤوس الأموال، ولعل أكبر ما يدل على هذا الدور هو الحضور القوي للصناديق السيادية وأشباهها من أذرع استثمارية تديرها حكومات السعودية والإمارات وقطر والكويت بدرجة أساسية.</p>
-
-<p>وتقدر <a href="https://www.theplatinumcapital.com/gcc-sovereign-wealth-funds-emerge-as-global-investment-powerhouses-managing-dollar56-trillion-in-assets">إجمالي الأصول</a> التي تملكها صناديق الدول سالفة الذكر بـ5.6 تريليون دولار أمريكي في 2025-2026، وهي تتنوع بين سندات وأذون حكومية. كما تشمل أسهمًا في بعض كبريات الشركات مثل الاستثمارات السعودية في <a href="https://www.argaam.com/en/article/articledetail/id/1867652">شركة إكس </a>ومطارات مثل <a href="https://www.pif.gov.sa/en/news-and-insights/press-releases/2024/pif-completes-its-acquisition-of-15-stake-in-heathrow-airport/">هيثرو </a>الذي يمتلك صندوق الاستثمار السعودي 15% من رأسماله.</p>
-
-<p>بعد هذا التوسع الكبير للاستثمار المالي الخليجي، قد تقطع الحرب حركة المال من الشرق إلى الغرب، أو ربما تغير اتجاهها لتعود من جديد إلى وطنها الأم في الخليج</p>
-
-<h2>التسييل لتعويض الخسائر</h2>
-
-<p>أول الأسباب التي قد تدفع إلى تغيير اتجاه حركة المال عالميًا هو حاجة حكومات الخليج إلى تعويض الخسائر التي لحقت بها من تعطل قدراتها على تصدير النفط والغاز.</p>
-
-<p>لا تزال الطاقة <a href="https://mecouncil.org/publication/the-gccs-evolving-trade-networks-navigating-fragmentation-and-diversification/">غالبة </a>على صادرات الخليج بنسبة تصل إلى نحو 80% في السعودية، وحتى في الإمارات التي يرى البعض أنها أنتجت تجربة ناجحة في التنويع الاقتصادي، ما زالت صادرات الوقود الأحفوري تمثل ما بين 50 و60% من إجمالي صادراتها السلعية.</p>
-
-<blockquote>
-<p>قد يُعاد توجيه الاستثمارات الخليجية عن الولايات المتحدة كوسيلة للتعبير عن الاستياء من ترامب</p>
-</blockquote>
-
-<p>ومن هنا، فإن تعويض التوقف الجاري في التصدير (علمًا بأن تعافي القدرات التصديرية سيستغرق عدة شهور حتى في حال أنتج وقف إطلاق النار الذي تم التوصل إليه مؤخرًا تسوية قابلة للاستمرار)، وما يتبعه من انخفاض في الإيرادات، سيعتمد إما على التوسع في الاقتراض أو تسييل جزء من الاستثمارات في الخارج.</p>
-
-<p>وإلى جانب ذلك، هناك اعتبارات سياسية أكثر منها اقتصادية، تتعلق بكيفية استخدام حكومات الخليج مركزها كمُصدِّرة لرأس المال، في تحسين موقعها الجيوسياسي إقليميًا وعالميًا، مع انكشافها الذي أكدته الحرب الأخيرة في مواجهة الهجمات الإيرانية، وإشكالات الدور الأمريكي الذي عرّض تلك الدول للعديد من المخاطر دون أن يأخذ مصالحها في الحسبان بأي شكل ملموس.</p>
-
-
-<div data-embed-button="almanassa_story_browser" data-entity-embed-display="view_mode:node.read_also" data-entity-type="node" data-entity-uuid="aa12c4a8-17a3-4193-9eea-a41915d2e52b" data-langcode="ar" data-entity-embed-display-settings="[]" data-sanitized-class="embedded-entity">
-	<article data-history-node-id="31112" role="article" about="/stories/31112" data-sanitized-id="node-31112" data-sanitized-class="view-mode--read-also type-story"><div data-sanitized-class="row">
-		<a href="https://almanassa.com/stories/31112" almanassa-posthog-link="" data-ph-capture-attribute-link-type="story" data-ph-capture-attribute-link-id="31112" data-ph-capture-attribute-link-title="دول الخليج رهينة حرب " data-ph-capture-attribute-link-section="رؤى" data-ph-capture-attribute-link-view-mode="read_also" data-sanitized-class="columns small-12 medium-6">
-			<hr data-sanitized-class="embed-divider"><div data-sanitized-class="h3">اقرأ أيضا</div>
-			
-			<div data-sanitized-class="h2">
-				<span>دول الخليج رهينة حرب </span>
-
-			</div>
-			
-			<hr data-sanitized-class="embed-divider"></a>
-	</div>
-</article></div>
-<p>في هذا السياق قد يُعاد توجيه الاستثمارات الخليجية عن الولايات المتحدة كوسيلة للتعبير عن الاستياء من ترامب، أو قد تميل دول الخليج لزيادة استخدام اليوان الصيني أو غيره من العملات الآسيوية لكي تمنح صادراتها فرصة أكبر في عبور مضيق هرمز.</p>
-
-<p>هذه كلها سيناريوهات غير مؤكدة، لكنها في الغالب تدور في أذهان صانعي القرار الخليجي، وسيكون لها تأثيرها ولا شك على مستقبل لا المال فحسب بل الاقتصاد السياسي العالمي كافة.</p>
-						<div data-sanitized-id="topic-file-stories">
-			<div data-sanitized-class="views-element-container">		<div almanassa-posthog-link-source="" data-almanassa-posthog-link-source="Story Topic File Stories List" data-almanassa-posthog-link-source-type="topic_files" data-almanassa-posthog-link-source-id="embed_story_topic_file" data-sanitized-class="js-view-dom-id-f9b74346a872144337912137b7e70d8111c1e0f3737eaaf86c74cc03d02b893c">
-		
-		
-		
-
-		
-		
-		
-		
-
-		
-		
-		
-
-		
-		
-
-		
-		
-	</div>
-</div>
-
-			</div>
-		</div><!-- FULLCONTENT end //-->]]></description>
-			<pubDate>Sun, 12 Apr 2026 06:32:13 +0200</pubDate>
-			<guid isPermaLink="false">1775968345654988</guid>
-		</item>
-		<item>
-			<title>لماذا يربح طلعت مصطفى في الأزمات ونخسر نحن؟</title>
-			<link>https://almanassa.com/stories/30390</link>
-						<dc:creator>نورهان فهمي</dc:creator>
-			<media:thumbnail url="https://almanassa.com/sites/default/files/styles/card_lead/public/photobank/2026/867ff4d8-49ab-435e-935c-21f008249542.png.webp?itok=iGBvoz-5" />
-			<media:content url="https://almanassa.com/sites/default/files/styles/card_lead/public/photobank/2026/867ff4d8-49ab-435e-935c-21f008249542.png.webp?itok=iGBvoz-5" medium="image"></media:content>
-			<description><![CDATA[<!-- FULLCONTENT start //--><div data-sanitized-class="columns small-12 table-scroll">
-							<p dir="rtl">الشهر الماضي، <a href="https://almalnews.com/2096552/%C2%AB%D9%85%D9%84%D9%8A%D8%B4-%D8%AF%D8%B9%D9%88%D8%A9-%D8%A8%D8%A7%D9%84%D9%84%D9%8A-%D8%A8%D9%8A%D8%AD%D8%B5%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%C2%BB-%D9%87%D8%B4%D8%A7%D9%85/">ظهر</a> رجل الأعمال البارز هشام طلعت مصطفى في مقابلة تليفزيونية مع الإعلامي عمرو أديب على شاشة MBC مصر، واجه فيها المخاوف من انفجار فقاعة أسعار العقارات بحسم مؤكدًا أن "الأسعار لن تنخفض".</p>
-
-<p dir="rtl">بنهاية الشهر اندلعت الحرب الأمريكية الإسرائيلية على إيران، ثم تصاعدت بشكل درامي. وبدا أن الأحداث تلعب لصالح مالك ومدير مجموعة طلعت مصطفى، بينما ترجّح التوقعات أن يؤدي الصراع في المنطقة إلى <a href="https://www.alarabiya.net/aswaq/exclusive/2026/03/08/%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1-%D8%AA%D8%AD%D8%AA-%D8%B6%D8%BA%D8%B7-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D8%A7%D9%84%D8%A7%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D8%B2%D9%8A%D8%A7%D8%AF%D8%A7%D8%AA-%D9%85%D8%B1%D8%AA%D9%82%D8%A8%D8%A9-%D8%A8%D8%B3%D8%A8%D8%A8-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9">موجة</a> تضخمية جديدة في أسعار الوحدات.</p>
-
-<p dir="rtl">ورسخ كبار المطورين العقاريين أمثال طلعت مصطفى سياساتٍ تُمكِّنهم من الإبقاء على سعر العقار مرتفعًا في أوقات الرخاء والشدة، الأمر الذي يفسر الرد الواثق على سؤال الفقاعة المحتملة وتأثيرها على الأسعار، والإشارة إلى عدم حدوث أي انكماش في أسعار العقارات في آخر 50 سنة. بالمقابل يحذر خبراء من أنه بقدر ما تضمن سيطرة هذا النموذج على السوق تحقيق ربحية لمواطنين فإنه يحرم قطاعات واسعة أخرى من الحق في السكن.</p>
-
-<h2 dir="rtl">لم ينج أحدٌ من الركود</h2>
-
-<p dir="rtl"><a href="https://www.almasryalyoum.com/news/details/4190021">تناقلت</a> وسائل الإعلام تصريحات طلعت مصطفى التي بدا منفعلًا وهو يُدلي بها، كأنه يخوض معركةً ضد كل التحليلات التي تنصح بخفض الأسعار <a href="https://www.nawy.com/blog/ar/114006-%D8%A7%D9%84%D9%81%D9%82%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D9%8A%D8%A9-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1-%D9%81%D8%B1%D8%B5%D8%A9-%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1%D9%8A">بسبب</a> ركود عقاري وشيك.</p>
-
-<p dir="rtl">لم تكن هذه المرة الأولى خلال السنوات الأخيرة التي <a href="https://www.abnamisr.com/1335">ينفي</a> فيها عملاق التطوير العقاري، بشكل قاطع، أي احتمالات لتباطؤ هذه السوق، ويدلل على ذلك <a href="https://economyplusme.com/131894/">بالمبيعات</a> القياسية التي تحققها مجموعته في كل عام. لكن القراءة العميقة لبيانات الشركة المالية تكشف أن حديث السوق عن الركود لا ينطوي على مبالغة، فقد تباطأت بالفعل مبيعات طلعت مصطفى في الفترة الأخيرة بالتزامن مع تراجع القلق من تقلبات سعر صرف الجنيه مقابل الدولار.</p>
-
-<div data-sanitized-class="embed-media embed-media--rich-flourish"><div><iframe src="https://flo.uri.sh/visualisation/28119665/embed" allowfullscreen="" title="طلعت مصطفى" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" sandbox="allow-scripts allow-same-origin"></iframe></div></div><aside dir="rtl" data-sanitized-class="caption">تعاقدات مجموعة طلعت مصطفى خلال الفترة من 2022 إلى 2025</aside><p dir="rtl">السبب في التناقض بين تصريحات هشام وأرقام الشركة أن المجموعة تركز في تقاريرها على تصدير قيمة المبيعات التي <a href="https://ent.news/2026/2/1392.pdf">سجّلت</a> 62.5 مليار جنيه في 2025. بهذا المقياس استطاعت الشركة رفع حجم المبيعات حوالي 46% بالمقارنة بـ2024. لكن هذا الرقم يعبِّر عن حجم ما جنته الشركة من إيرادات عن وحدات تعاقدت عليها خلال الفترة الماضية، وتم تسليمها للعميل بعد اكتمال بنائها كليًا أو جزئيًا في 2025 (بجانب نشاط الشركة في مجالات أخرى مثل الفنادق) أي أنه رقم يعبِّر عن نجاح الشركة في الماضي.</p>
-
-<p dir="rtl">أما الرقم الأكثر تعبيرًا عن تعاملات الشركة الأخيرة فهو قيمة التعاقدات، الذي تراجع في 2025 إلى 302.2 مليار جنيه مقابل 504 في العام السابق عليه، كما يظهر من بيانات الشركة.</p>
-
-<p dir="rtl">يجزم حازم حمدي، مدير القطاع العقاري في The Board Consulting، بأن مجموعة طلعت مصطفى لم تتمكن من تكرار نفس أدائها في 2025، موضحًا أنها عانت من تباطؤ السوق مثل باقي الشركات.</p>
-
-<p dir="rtl">يشرح حمدي لـ <strong>المنصة</strong> أن إيرادات 2023 و2024 كانت تعكس حالة استثنائية مدفوعة برغبة المواطنين في حماية قيمة مدخراتهم من معدلات التضخم المرتفعة؛ و"مع استقرار سعر الصرف نسبيًا الفترة الماضية، تراجعت موجة الشراء بدافع الذعر الذي ساد خلال العامين أو الثلاثة السابقة بسبب عدم اليقين الاقتصادي".</p>
-
-<p dir="rtl">يتفق مصطفى سراج، مدير تخطيط الأعمال في  The Board Consulting للاستشارات العقارية، مع أن بيانات السوق العقارية بشكل عام تدلل فعلًا على وجود تباطؤ قوي؛ "الأشهر التسعة الأولى من عام 2025 شهدت زيادة في حجم الوحدات المطروحة لدى أكبر عشرة مطورين بنحو 50 ألف وحدة، وهو ما يمثل نموًا بنسبة 3% فقط مقارنة بالفترة نفسها من العام السابق، في حين لم يسجل متوسط سعر الوحدة أي زيادة تُذكر مقارنة بعام 2024".</p>
-
-<p dir="rtl">يوضح سراج لـ <strong>المنصة</strong> أن التعاقدات الضخمة لطلعت مصطفى، التي وصلت لذروتها في 2024، كانت مدفوعةً بمشروعات استثنائية مثل مشروع <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="a5660002-a968-4e20-8da0-c0c4a1fe0e5b" href="https://almanassa.com/news/18397" title='"ساوث ميد" يحقق مبيعات بـ200 مليار جنيه في 6 أيام.. ومصدر: بفضل التسويق بين مرتفعي الدخل'>ساوث ميد </a>الذي شهد زخمًا قويًا بسبب مجاورته لمشروع رأس الحكمة، إذ يتوقع العملاء صعودًا قويًا في أسعار الوحدات هناك بفضل الاستثمارات الإماراتية الضخمة في رأس الحكمة، وبالفعل أعلنت مجموعة طلعت مصطفى في 2024 عن أن قيمة الوحدات المتعاقد عليها في ساوث ميد في هذا العام <a href="https://www.elbalad.news/6423711">بلغت</a> 280 مليار جنيه.</p>
-
-<p dir="rtl">يشير سراج أيضًا إلى أن مشروع "بنان" الذي تؤسسه المجموعة في الرياض أعطى دفعة قوية للمبيعات، لكنه لا يعبر عن واقع السوق المصرية.</p>
-
-<h2><strong>الأسعار لا تنخفض</strong></h2>
-
-<figure role="group" data-sanitized-class="align-left"><div data-embed-button="almanassa_media_browser" data-entity-embed-display="view_mode:media.embed" data-entity-type="media" data-entity-uuid="fcb035ee-4d64-4765-ba22-4514a927e1e9" data-langcode="ar" data-entity-embed-display-settings="[]" data-sanitized-class="embedded-entity">
-	    <picture><source media="all and (min-width: 1440px)" type="image/webp"><source media="all and (min-width: 641px)" type="image/webp"><source type="image/webp"><img src="https://almanassa.com/sites/default/files/styles/max_650x650/public/photobank/real-estate.png.webp?itok=p3khHK8L" alt="" typeof="foaf:Image"></picture><aside data-sanitized-class="media--management-links"><ul></ul></aside><aside data-sanitized-class="caption credits">تصميم: أحمد بلال</aside></div>
-<figcaption>مصر شهدت موجة صعود قوية لأسعار العقارات مع ارتفاع سعر صرف الدولار، 2025</figcaption></figure><p dir="rtl">في مواجهة المؤشرات الحاسمة على تباطؤ السوق العقارية، يعدد الخبراء أكثر من سبب لقدرة طلعت مصطفى على الدفاع عن مستويات الأسعار المرتفعة. من هذه الأسباب أن النظام السائد في السوق العقارية حاليًا هو البيع على الخريطة، الذي يربط المستهلك بتعاقدات طويلة المدى يتم تسعيرها على أساس سعر الوحدة بعد أكثر من عشر سنوات، ومن ثم ليس متوقعًا أن يستجيب السعر لحالة التباطؤ الحالية.</p>
-
-<p dir="rtl">يوضح الباحث والمحلل لسياسات الإسكان والعمران <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="80ea81e7-999c-46f6-94c4-f3babf887cb2" href="https://almanassa.com/author/1961" title="يحيى شوكت">يحيى شوكت</a> لـ <strong>المنصة</strong> أنَّ "التعاقدات المعلنة تمثل قيمة تعاقدية ممتدة لسنوات، وبذلك، يُؤجل أي تصحيح سعري محتمل، ويصبح الانخفاض المفاجئ أقل احتمالًا مقارنة بأسواق تعتمد على البيع الفوري". </p>
-
-<p>من جهة أخرى تتمتع "طلعت مصطفى" والعديد من الشركات العقارية الكبرى بتدفقات طلب قوية من المصريين في الخارج تساند مبيعاتها في أوقات التباطؤ ومن ثم تشجعها على عدم خفض الأسعار، ويؤكد حازم حمدي أن إقبال المصريين في الخارج على شراء العقارات في مصر زاد بوضوح منذ 2020، خاصة على العقارات مرتفعة السعر؛ "الشريحتان الأعلى من المستهلكين، اللتان تتركز فيهما مشتريات المصريين في الخارج، كانت تمثل متوسط 10% من الطلب على سوق العقار قبل 2020، وارتفعت بعد ذلك لتتراوح بين40 و50%".</p>
-
-<h2 dir="rtl">هل هناك زيادة جديدة؟</h2>
-
-<p dir="rtl">قاومت "طلعت مصطفى" خفض الأسعار خلال فترة الاستقرار القصيرة لسعر الصرف منذ توقيع اتفاق رأس الحكمة وحتى الحرب الإيرانية، والآن مع الضغوط التضخمية للحرب تدور <a href="https://www.alarabiya.net/aswaq/exclusive/2026/03/08/%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1-%D8%AA%D8%AD%D8%AA-%D8%B6%D8%BA%D8%B7-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D8%A7%D9%84%D8%A7%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D8%B2%D9%8A%D8%A7%D8%AF%D8%A7%D8%AA-%D9%85%D8%B1%D8%AA%D9%82%D8%A8%D8%A9-%D8%A8%D8%B3%D8%A8%D8%A8-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9">التوقعات</a> حول زيادة 20% في أسعار العقارات.</p>
-
-<p dir="rtl">إن كان سراج يرى أن آثار الركود السابقة على الحرب قد تحد بعض الشيء من قدرة طلعت مصطفى على الربح، فإنه لا ينفي إمكانية رفع الأسعار؛ "ممكن الأسعار تزيد لكن بحذر شديد، لأن المعروض كبير بالنسبة لحجم الطلب، ولا يوجد الكثير من الأجانب في مصر حاليًا لزيادة الطلب".</p>
-
-<p dir="rtl">من أكثر المشاهد المعبرة عن رهان قطاعات كبيرة من المستثمرين على قدرة "طلعت مصطفى" على الربح، بالرغم من أجواء التوتر الحالية بسبب الحرب، نجاح المجموعة في <a href="https://www.arabfinance.com/ar/news/newdetails/%D8%B7%D9%84%D8%B9%D8%AA-%D9%85%D8%B5%D8%B7%D9%81%D9%89-%D8%AA%D8%B4%D8%A7%D8%B1%D9%83-%D9%81%D9%8A-%D8%AA%D8%A3%D8%B3%D9%8A%D8%B3-%D8%B5%D9%86%D8%AF%D9%88%D9%82-%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1-%D8%B9%D9%82%D8%A7%D8%B1%D9%8A-%D8%A8%D9%82%D9%8A%D9%85%D8%A9-8-%D9%85%D9%84%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AC%D9%86%D9%8A%D9%87">تغطية</a> الاكتتاب في صندوق جديد للاستثمار العقاري طُرحت وثائقه خلال مارس/آذار الحالي، وجمع مساهمات بـ8 مليارات جنيه.</p>
-
-<p dir="rtl">تعكس تجربة هذا الصندوق العقاري، كما يؤكد حازم حمدي، أن القطاع تتوفر به فرص كبيرة، وهو ما دفع سي آي كابيتال للشراكة في إطلاقه، لثقته في أن أصوله العقارية ستحقق عوائد أكبر من فائدة البنوك.</p>
-
-<p dir="rtl">فيما يرى سراج أنه في حال تطورت الحرب وأدت إلى نزوح قطاعات كبيرة من مواطني الخليج إلى مصر سترتفع أسعار العقارات بقوة، لكنه يظل سيناريو مستبعدًا حتى الآن.</p>
-
-<h2 dir="rtl"><strong>ما الذي نخسره؟</strong></h2>
-
-<p dir="rtl">خلال حواره مع أديب، حاول طلعت مصطفى تبرير قدرته على إبقاء الأسعار مرتفعة بوجود طلب قوي على منتجاته من المجتمع المصري، لكن الواقع أن سياسات المطورين تهمش قطاعات كبيرة من هذا المجتمع وتحرمه من الحق في السكن.</p>
-
-<figure role="group" data-sanitized-class="align-right"><div data-embed-button="almanassa_media_browser" data-entity-embed-display="view_mode:media.embed" data-entity-type="media" data-entity-uuid="4791a351-59bd-4305-be49-4a13558d16cb" data-langcode="ar" data-entity-embed-display-settings="[]" data-sanitized-class="embedded-entity">
-	    <picture><source media="all and (min-width: 1440px)" type="image/webp"><source media="all and (min-width: 641px)" type="image/webp"><source type="image/webp"><img src="https://almanassa.com/sites/default/files/styles/max_650x650/public/photobank/136172267_3714026308653746_1301536641128058228_n.jpg.webp?itok=3RcBun_r" alt="" typeof="foaf:Image"></picture><aside data-sanitized-class="media--management-links"><ul></ul></aside><aside data-sanitized-class="caption credits">صفحة طلعت مصطفى جروب على فيسبوك</aside></div>
-<figcaption>رجل الأعمال هشام طلعت مصطفى</figcaption></figure><p dir="rtl">كرر مصطفى خلال الحوار معلومة أن في مصر مليون زيجة في السنة، لكن ما لم يشر إليه هو أن النسبة الأكبر من هذه الزيجات مستبعدة من قائمة عملاء المجموعة بسبب مستوى أسعار الوحدات المعروضة.</p>
-
-<p>يشرح حازم حمدي أن الوحدات التي ينتجها كبار المطورين العقاريين، على رأسهم طلعت مصطفى، تكون بمواصفات وأسعار لا تناسب إلا شريحتين هما A&amp; AB، وهاتان الشريحتان تستحوذان على نحو 20% من دخل المصريين لكنهما في الوقت نفسه لا تمثلان أكثر من 7% من السكان.</p>
-
-<p>في المقابل فإن الشريحتين الكبيرتين B وC اللتين تمثلان 39% من السكان لا تقدران على الشراء من طلعت مصطفى، وتعتمدان بالأساس على مبادرات الدولة مثل الإسكان الاجتماعي لكنها لا تكفي لتغطية الطلب الكبير لديهما.</p>
-
-<p>وتعكس بيانات الوحدات المغلقة حقيقة أن قطاعات كبيرة من السكان مستبعدة بسبب ارتفاع الأسعار، حيث تشير بيانات الجهاز المركزي للتعبئة العامة والإحصاء عن عام 2017 إلى <a href="https://aawsat.com/home/article/1233301/12-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D9%88%D8%AD%D8%AF%D8%A9-%D8%B3%D9%83%D9%86%D9%8A%D8%A9-%D9%85%D8%BA%D9%84%D9%82%D8%A9-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1-%D9%88%C2%AB%D8%A7%D9%84%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D9%8A%C2%BB-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%A7%D9%84%D8%A3%D8%AC%D8%A7%D9%86%D8%A8">وجود </a>نحو 13 مليون وحدة سكنية مغلقة في مصر، وذلك قبل إنشاء العاصمة الإدارية التي أحدثت طفرة في حجم المعروض بالسوق.</p>
-
-<p>في هذا السياق، يبدو أن جزءًا من الطلب الذي يدعم السوق لا يرتبط فقط بالنمو السكاني، لكن بعوامل أخرى، مثل التحوط من التضخم، والبحث عن ملاذ آمن للقيمة، وتدفقات المصريين بالخارج، والمضاربة قصيرة الأجل. </p>
-
-<h2 dir="rtl">إصلاح السوق</h2>
-
-<p dir="rtl">يحذر يحيى شوكت من أن النموذج السائد لدى كبار المطورين لا يسهم فقط في استبعاد قطاعات كبيرة من العملاء من سوق العقار، لكن يرسخ أيضًا فكرة أن العقار للمضاربة وليس للسكن؛ "هذا مؤشر على ضعف السوق، لأن العقارات أصول غير منتجة ولا تمثل استثمارًا لأنها لا تدر دخلًا إلا عند تأجيرها، بخلاف هذا هي أصل قد تزيد قيمته".</p>
-
-<p dir="rtl">ويؤكد أحمد زعزع الباحث في مجال العمران لـ ا<strong>لمنصة</strong> أن سيطرة العقارات الفاخرة على جذب مدخرات الأسر والمصريين في الخارج تعطل فرصًا أخرى للاستثمارات التنموية؛ "قطاعات مثل الطاقة المتجددة، والزراعة المستدامة، و<a href="https://asjp.cerist.dz/en/article/179673">السياحة المسؤولة</a> يمكن أن تلعب هذا الدور، فهي تفتح فرصًا استثمارية جديدة، وفي الوقت نفسه تقدم فوائد بيئية من خلال تقليل استهلاك المياه والطاقة، وخفض انبعاثات الكربون".</p>
-
-
-<div data-embed-button="almanassa_story_browser" data-entity-embed-display="view_mode:node.read_also" data-entity-type="node" data-entity-uuid="dd1e5d91-b72b-4a35-8c85-c9d4121b8949" data-langcode="ar" data-entity-embed-display-settings="[]" data-sanitized-class="embedded-entity">
-	<article data-history-node-id="21629" role="article" about="/stories/21629" data-sanitized-id="node-21629" data-sanitized-class="view-mode--read-also type-story"><div data-sanitized-class="row">
-		<a href="https://almanassa.com/stories/21629" almanassa-posthog-link="" data-ph-capture-attribute-link-type="story" data-ph-capture-attribute-link-id="21629" data-ph-capture-attribute-link-title='طروحات "الإسكان" في 2024.. "الفاخر" على حساب المتوسط والمحدود' data-ph-capture-attribute-link-section="اقتصاد وعمران" data-ph-capture-attribute-link-view-mode="read_also" data-sanitized-class="columns small-12 medium-6">
-			<hr data-sanitized-class="embed-divider"><div data-sanitized-class="h3">اقرأ أيضا</div>
-			
-			<div data-sanitized-class="h2">
-				<span>طروحات "الإسكان" في 2024.. "الفاخر" على حساب المتوسط والمحدود</span>
-
-			</div>
-			
-			<hr data-sanitized-class="embed-divider"></a>
-	</div>
-</article></div>
-<p dir="rtl">بالنظر لهذه التطورات في السوق العقارية، لا يبدو سؤال انخفاض أسعار العقارات في مصر مجرد خلاف حول اتجاهات السوق، بقدر ما هو نقاش حول طبيعة النموذج القائم نفسه. فالسوق التي تُوصف بالتماسك والقيادة والقدرة على امتصاص الصدمات، تقوم في الوقت ذاته على تدفقات مستمرة، وتوقعات مستقبلية، وآليات تسعير مؤجلة، ما يجعلها أكثر تعقيدًا من قراءة سطحية لحركة الأسعار.</p>
-						<div data-sanitized-id="topic-file-stories">
-			<div data-sanitized-class="views-element-container">		<div almanassa-posthog-link-source="" data-almanassa-posthog-link-source="Story Topic File Stories List" data-almanassa-posthog-link-source-type="topic_files" data-almanassa-posthog-link-source-id="embed_story_topic_file" data-sanitized-class="js-view-dom-id-2e711c1fc69bf8cb3fe5c624603e13916c8ba94d66975967128ad4ba074456d6">
-		
-		
-		
-
-		
-		
-		
-		
-
-		
-		
-		
-
-		
-		
-
-		
-		
-	</div>
-</div>
-
-			</div>
-		</div><!-- FULLCONTENT end //-->]]></description>
-			<pubDate>Sun, 12 Apr 2026 06:32:13 +0200</pubDate>
-			<guid isPermaLink="false">1775968345654987</guid>
 		</item>
 
 	</channel>
