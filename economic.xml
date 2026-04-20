@@ -4,10 +4,182 @@
 		<title>اقتصاد</title>
 		<link>http://192.168.1.50:8081/api/query.php?user=admin&amp;t=4IzCA6HFSoouCSR9nVqNkV&amp;f=html</link>
 		<description>RSS feed of اقتصاد</description>
-		<pubDate>Tue, 21 Apr 2026 00:00:03 +0200</pubDate>
-		<lastBuildDate>Mon, 20 Apr 2026 22:00:03 GMT</lastBuildDate>
+		<pubDate>Tue, 21 Apr 2026 00:05:03 +0200</pubDate>
+		<lastBuildDate>Mon, 20 Apr 2026 22:05:03 GMT</lastBuildDate>
 		<atom:link href="http://192.168.1.50:8081/api/query.php?user=admin&amp;t=4IzCA6HFSoouCSR9nVqNkV&amp;f=rss" rel="self" type="application/rss+xml" />
 				<item>
+			<title>أسعار العملات في مصر</title>
+			<link>https://realegp.com/</link>
+						<description><![CDATA[<table data-sanitized-class="table currencies-table">
+              <thead>
+                <tr data-sanitized-class="thick-border">
+                  <th data-sanitized-class="text-end">العملة</th>
+                  <th>سعر البنك</th>
+                  <th>
+                    <div>سعر السوق</div>
+                    <div data-sanitized-class="range">من - إلى</div>
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/usd">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-us fib"></i>
+                        </div>
+                        <div>دولار أمريكي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">51.95</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">52.34</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">51.97 - 52.6</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/eur">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-eu fib"></i>
+                        </div>
+                        <div>يورو</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">61.24</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">61.7</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">61.27 - 62.01</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/sar">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-sa fib"></i>
+                        </div>
+                        <div>ريال سعودي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">13.74</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">13.85</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">13.75 - 13.92</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/kwd">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-kw fib"></i>
+                        </div>
+                        <div>دينار كويتي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">168.6</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">169.94</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">168.7 - 170.7</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/aed">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-ae fib"></i>
+                        </div>
+                        <div>درهم اماراتي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">14.04</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">14.15</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">14.05 - 14.22</div>
+                  </td>
+                </tr>
+                
+  
+              </tbody>
+            </table>]]></description>
+			<pubDate>Tue, 21 Apr 2026 00:02:24 +0200</pubDate>
+			<guid isPermaLink="false">1776722544548952</guid>
+		</item>
+		<item>
 			<title>أسعار العملات في مصر</title>
 			<link>https://realegp.com/</link>
 						<description><![CDATA[<table data-sanitized-class="table currencies-table">
@@ -2745,97 +2917,6 @@
             </table>]]></description>
 			<pubDate>Mon, 20 Apr 2026 10:32:48 +0200</pubDate>
 			<guid isPermaLink="false">1776673968199706</guid>
-		</item>
-		<item>
-			<title>الأسمدة.. صناعة الأرباح تحت القصف</title>
-			<link>https://almanassa.com/stories/31366</link>
-						<media:thumbnail url="https://almanassa.com/sites/default/files/styles/lead_image_square/public/photobank/2026/72035065-0bd2-4740-b2b2-6d7624c9fa79.png.webp?itok=poMmKiAn" />
-			<media:content url="https://almanassa.com/sites/default/files/styles/lead_image_square/public/photobank/2026/72035065-0bd2-4740-b2b2-6d7624c9fa79.png.webp?itok=poMmKiAn" medium="image"></media:content>
-			<description><![CDATA[<!-- FULLCONTENT start //--><div data-sanitized-class="columns small-12 table-scroll">
-							<p>رغم ما جلبته الحرب الإيرانية من موجاتٍ عاليةٍ طالت الطاقةَ نتيجةَ تعطّل حركة التجارة العالمية وسلاسل الإمداد، فإن صناعة الأسمدة واحدةٌ من الصناعات القليلة التي نجتْ من الضغوط ما تُرجم إلى أرباحٍ صافيةٍ لمصنعي هذا المُدخل الأساسي في الزراعة.</p>
-
-<p>وبينما يربح منتجو الأسمدة من صراعِ ترامب مع النظام الإيراني، أو على الأقل "لا أحد يخسر حتى الآن"، كما يقول رئيس غرفة الصناعات الكيماوية لـ <strong>المنصة</strong>، يخسر المزارعُ الذي تتضاعف عليه تكاليف الزراعة والمواطن الذي لا تعني له زيادة أسعار الأسمدة إلا المزيد من التضخم.</p>
-
-<h2>لماذا لم تكبح الطاقة أرباح الأسمدة؟</h2>
-
-<p><a href="https://agriculture.ec.europa.eu/system/files/2019-07/market-brief-fertilisers_june2019_en_0.pdf">يمثل</a> الغاز الطبيعي 60-80% من تكلفة صناعة الأسمدة النيتروجينية، التي تعد أحد أبرز الأصناف التي تنتجها المصانع المصرية، لذا فإن اشتعال أسعار الطاقة خلال الحرب يعني قفزةً كبيرةً في تكاليف الإنتاج بهذه الصناعة، لكن هذا لم ينعكس بالضرورة في صورة خسائر إنما على النقيض من ذلك، استطاع تحقيق أرباحٍ مدفوعًا من زيادة الأسعار عالميًا، بالأخص وأننا تنتج ما يتراوح بين سبعة وثمانية ملايين طن سنويًا من الأسمدة النيتروجينية، نصدِّر ما يقرب من نصفها،  كما تشير <a href="https://english.ahram.org.eg/News/564580.aspx">تقديرات</a>. </p>
-
-<p>وبينما <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="946dd674-cc77-4606-8cac-441a2ef3671b" href="https://almanassa.com/news/31155" title="الحكومة ترفع أسعار الغاز لمصانع الأسمدة مع زيادة أسعار الطاقة عالميًا">رفعت</a> الحكومة أسعار الغاز المورد إلى المصانع لـ8.5 دولار للمليون وحدة حرارية، رفعت مصانع الأسمدة أسعار أسمدة اليوريا بمعدلات تفوق زيادة أسعار الطاقة، كما<a href="https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Pink-Sheet-April-2026.pdf"> يظهر </a>من بيانات البنك الدولي. وسجلت الأسمدة الفوسفاتية هي الأخرى ارتفاعات ملحوظة وصلت إلى 350 دولارًا بعد أن كانت في حدود 180 دولارًا، ووصل سعر سلفات البوتاسيوم أكثر من 700 دولار للطن مقارنة بـ600 - 620 دولارًا سابقًا، كما يؤكد محمد الخشن، رئيس جمعية موزعي الأسمدة لـ <strong>المنصة</strong>.</p>
-
-<p>محليًا أيضًا، خرج منتجو الأسمدة رابحين من أجواء الحرب، إذ زادت <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="e9ebf5ba-b45a-4d9c-acab-750611ac3dde" href="https://almanassa.com/news/31282" title="أسعار الأسمدة تقفز 30% بعد رفع سعر الغاز">أسعار</a> الأسمدة الحرة (التي لا تباع في منافذ وزارة الزراعة) 30% مقابل زيادة  21% في أسعار الغاز الحكومي لهذه المصانع.</p>
-
-<div data-sanitized-class="embed-media embed-media--rich-flourish"><div><iframe src="https://flo.uri.sh/visualisation/28534417/embed" allowfullscreen="" title="الاسمدة" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" sandbox="allow-scripts allow-same-origin"></iframe></div></div><aside data-sanitized-class="caption">رسم من تصميم المنصة يوضح معدل الزيادة في أسعار اليوريا الأوروبية مقابل مؤشر التضخم في أسعار الطاقة الصادر عن البنك الدولي</aside><hr><p>"تبدو ديناميكيات السوق الحالية في صالح المنتجين، حيث ترتفع أسعار المنتجات النهائية بوتيرةٍ تفوق زيادة التكاليف"؛ تقول رئيسة البحوث بشركة نعيم للوساطة في الأوراق المالية سلمى طه حسين لـ <strong>المنصة</strong>.</p>
-
-<p>وتوضح أن انخفاض حجم المعروض خلال الحرب أعطى مبررًا إضافيًا لرفع أسعار الأسمدة فوق مستويات زيادة الطاقة، حيث تأثر العرض بشكل واضح بانقطاع سلاسل الإمداد والقيود التصديرية على بعض الدول المنتجة.</p>
-
-<p>وقبل أيام حذر المدير التنفيذي لمركز التجارة الدولية بالأمم المتحدة من <a href="https://www.reuters.com/world/fertiliser-shortages-due-iran-war-are-key-worry-developing-world-un-agency-says-2026-04-14/">انخفاض</a> حجم المعروض دوليًا من الأسمدة، خاصة وأن نحو ثلث الإنتاج العالمي من أسمدة اليوريا (النيتروجينية) تمر عبر مضيق هرمز .</p>
-
-<p>وتوضح رئيسة قسم البحوث بشركة برايم لتداول الأوراق المالية ولاء أحمد لـ <strong>المنصة</strong> أن<strong> </strong>بعض الدول المنتجة للأسمدة اتجهت إلى تقليص صادراتها أو تعليقها مؤقتًا، لضمان تلبية احتياجاتها المحلية، ما ساهم في تقليص المعروض عالميًا، ودفع الأسعار إلى الارتفاع بوتيرة أسرع من زيادة تكلفة الإنتاج.</p>
-
-<h2>الأرباح في زمن الحرب </h2>
-
-<p>العوامل السابقة ساهمت في دفع الكثيرين للرهان على الأسمدة حصانًا رابحًا، ما انعكس بشكل واضح على أداء أسهم بعض شركات الأسمدة التي حققت نموًا قويًا خلال فترة الحرب مقابل نمو طفيف للمؤشر الرئيسي.</p>
-
-<div data-sanitized-class="embed-media embed-media--rich-flourish"><div><iframe src="https://flo.uri.sh/visualisation/28535414/embed" allowfullscreen="" title="اسهم الاسمدة" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" sandbox="allow-scripts allow-same-origin"></iframe></div></div><aside data-sanitized-class="caption">رسم من إعداد المنصة يوضح معدل نمو أسعار ثلاثة أسهم لشركات أسمدة مقابل معدل نمو مؤشر البورصة الرئيسي خلال فترة الحرب الإيرانية</aside><hr><p>وبينما <a href="https://www.facebook.com/AlQaheraNewsTv/posts/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D8%B9%D9%84%D9%86-%D9%87%D8%AF%D9%86%D8%A9-%D9%84%D9%85%D8%AF%D8%A9-%D8%A3%D8%B3%D8%A8%D9%88%D8%B9%D9%8A%D9%86-%D9%85%D8%B9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%A7%D8%A8%D8%B9_%D8%B3%D9%88%D8%B4%D9%8A%D8%A7%D9%84_%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9_%D8%A7%D9%84%D8%A5%D8%AE%D8%A8%D8%A7%D8%B1%D9%8A%D8%A9/987990900776675/">أعلن</a> دونالد ترامب في الثامن من أبريل/ نيسان عن هدنة أسبوعين للحرب، لم يفقد قطاع الأسمدة زخمه، حيث <a href="https://www.investing.com/commodities/urea-granular-fob-middle-east-futures-historical-data">تعكس</a> أسعار العقود المستقبلية لليوريا استمرار ارتفاع أسعارها بنحو 70% عما كانت عليه قبل الحرب. ويوضح  محمد الخشن، رئيس جمعية موزعي الأسمدة في مصر ورئيس شركة إيفرجرو، أن الزيادة في أسعار الأسمدة عالميًا أكبر من المحلية، ما شجع الكثير من الشركات على التوجه للتصدير للاستفادة من موجة الارتفاع الأخيرة.</p>
-
-<p>يتوقع الخشن أن تستمر وتيرة أرباح الأسمدة في التقدم، إذ لا تزال أسعار الغاز <a href="https://www.ice.com/products/27996665/Dutch-TTF-Gas-Futures/data?marketId=6187520&amp;span=1">مرتفعة</a>ً أكثر من 100% مقارنةً بمستواها قبل الحرب؛ "انعكاس أي تهدئة على الأسعار لن يكون فوريًا نظرًا لاستمرار حالة عدم اليقين".</p>
-
-<p>و<a href="https://www.dailynewsegypt.com/2026/02/01/egypts-chemical-fertilizers-exports-exceed-9-4bn-in-2025-up-7-4/">بلغت</a> قيمة صادرات مصر من الأسمدة العام الماضي نحو 9.4 مليار دولار. وتمهد العديد من العوامل في الوقت الراهن نحو تعظيم ربحية شركات الأسمدة، خاصة المصرية، التي ستجني مكاسب تصديرية بالعملة الصعبة في وقت <a href="https://almanassa.com/node/30701">يرتفع</a> فيه الدولار أمام الجنيه خلال ظروف الحرب، كما تشرح سلمى طه حسين.</p>
-
-<p>ويشير مدحت يوسف، نائب رئيس هيئة البترول الأسبق، إلى تأثر أسعار اليوريا بتعطل الإنتاج في بعض الدول الخليجية وخاصة قطر، فمنذ مطلع مارس/آذار الماضي، <a href="https://www.chemanalyst.com/NewsAndDeals/NewsDetails/qatarenergy-halts-downstream-production-of-urea-methanol-aluminum-41310">أعلنت</a> قطر للطاقة عن توقف عدد من خطوط إنتاجها تشمل خطوط إنتاج اليوريا، إذ <a href="https://www.chemistryworld.com/news/gulf-chemicals-supply-disruption-will-continue-for-months-to-years/4023296.article">يمثل</a> الخليج نحو 40% من إجمالي الصادرات العالمية من هذا المنتج.</p>
-
-<h2>المواطن هو الخاسر </h2>
-
-<p>اعتاد قطاع الأسمدة الاستفادة من الأزمات والحروب، وسبق و<a href="https://almanassa.com/node/14003">حقق</a> أرباحًا قياسيةً من تراجع قيمة الجنيه خلال أزمة الدولار في 2023، لكن في المقابل يواجه المواطن ضغوطًا كبيرةً من ارتفاع سعر المدخل التي يعتمد عليه إنتاج كل ما يتناوله من غذاء.</p>
-
-<p>وانعكست الحرب بشكل مباشر على تكاليف المعيشة في مصر، إذ عاد <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="7c4c54f7-4044-4379-9071-2c0f53567ea2" href="https://almanassa.com/news/31273" title="بسبب الوقود والدولار.. التضخم السنوي يقفز إلى 13.5% في مارس">التضخم</a> لتسجيل نمو قوي في مارس/آذار الماضي ليصل إلى 13.5%، بسبب زيادة أسعار الوقود وضعف الجنيه.</p>
-
-<p>ستساهم الأسمدة في المزيد من الضغوط التضخمية خلال الفترة المقبلة، وتشير ولاء أحمد إلى أن اتجاهات الأسعار خلال الفترة المقبلة ستظل مرتبطةً بشكل أساسي بتطورات المشهد الجيوسياسي، فاستمرار الحرب يعني بقاء الضغوط على سلاسل الإمداد، بالتالي استمرار ارتفاع الأسعار أو تقلبها.</p>
-
-<p>حتى في حال حدوث انفراجة، ستحتاج الأسواق، كما تتوقع سلمى طه حسين، إلى وقت قبل العودة إلى حالة الهدوء والاستقرار، وهو ما يتسق مع <a href="https://www.chemistryworld.com/news/gulf-chemicals-supply-disruption-will-continue-for-months-to-years/4023296.article">تحليلات</a> تحذر من صعوبة عودة إنتاج اليوريا لمعدلاتها الطبيعية في الخليج بسبب الأضرار التي حدثت في البنية الأساسية.</p>
-
-
-<div data-embed-button="almanassa_story_browser" data-entity-embed-display="view_mode:node.read_also" data-entity-type="node" data-entity-uuid="dacb7f72-9de5-4a09-b4d1-d56bb3c3300c" data-langcode="ar" data-entity-embed-display-settings="[]" data-sanitized-class="embedded-entity">
-	<article data-history-node-id="14003" role="article" about="/stories/14003" data-sanitized-id="node-14003" data-sanitized-class="view-mode--read-also type-story"><div data-sanitized-class="row">
-		<a href="https://almanassa.com/stories/14003" almanassa-posthog-link="" data-ph-capture-attribute-link-type="story" data-ph-capture-attribute-link-id="14003" data-ph-capture-attribute-link-title='أرباح "الأسمدة" في أزهى أيامها بفضل أزمة الدولار ' data-ph-capture-attribute-link-section="اقتصاد وعمران" data-ph-capture-attribute-link-view-mode="read_also" data-sanitized-class="columns small-12 medium-6">
-			<hr data-sanitized-class="embed-divider"><div data-sanitized-class="h3">اقرأ أيضا</div>
-			
-			<div data-sanitized-class="h2">
-				<span>أرباح "الأسمدة" في أزهى أيامها بفضل أزمة الدولار </span>
-
-			</div>
-			
-			<hr data-sanitized-class="embed-divider"></a>
-	</div>
-</article></div>
-<p>خلال الأشهر المقبلة، ستكشف نتائج أعمال شركات الأسمدة المصرية مدى استفادة القطاع من الحرب، أيضًا ستعكس معدلات التضخم حجم ما وقع على المواطن من ضرر.</p>
-						<div data-sanitized-id="topic-file-stories">
-			<div data-sanitized-class="views-element-container">		<div almanassa-posthog-link-source="" data-almanassa-posthog-link-source="Story Topic File Stories List" data-almanassa-posthog-link-source-type="topic_files" data-almanassa-posthog-link-source-id="embed_story_topic_file" data-sanitized-class="js-view-dom-id-15b583934018ccd02b1c95f1fdb46029d69516412bbead2bfc7f893b500d2b64">
-		
-		
-		
-
-		
-		
-		
-		
-
-		
-		
-		
-
-		
-		
-
-		
-		
-	</div>
-</div>
-
-			</div>
-		</div><!-- FULLCONTENT end //-->]]></description>
-			<pubDate>Mon, 20 Apr 2026 10:32:16 +0200</pubDate>
-			<guid isPermaLink="false">1776673968199705</guid>
 		</item>
 
 	</channel>
