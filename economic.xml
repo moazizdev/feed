@@ -4,10 +4,313 @@
 		<title>اقتصاد</title>
 		<link>http://192.168.1.50:8081/api/query.php?user=admin&amp;t=4IzCA6HFSoouCSR9nVqNkV&amp;f=html</link>
 		<description>RSS feed of اقتصاد</description>
-		<pubDate>Tue, 05 May 2026 02:00:03 +0300</pubDate>
-		<lastBuildDate>Mon, 04 May 2026 23:00:03 GMT</lastBuildDate>
+		<pubDate>Tue, 05 May 2026 02:05:03 +0300</pubDate>
+		<lastBuildDate>Mon, 04 May 2026 23:05:03 GMT</lastBuildDate>
 		<atom:link href="http://192.168.1.50:8081/api/query.php?user=admin&amp;t=4IzCA6HFSoouCSR9nVqNkV&amp;f=rss" rel="self" type="application/rss+xml" />
 				<item>
+			<title>أسعار العملات في مصر</title>
+			<link>https://realegp.com/</link>
+						<description><![CDATA[<table data-sanitized-class="table currencies-table">
+              <thead>
+                <tr data-sanitized-class="thick-border">
+                  <th data-sanitized-class="text-end">العملة</th>
+                  <th>سعر البنك</th>
+                  <th>
+                    <div>سعر السوق</div>
+                    <div data-sanitized-class="range">من - إلى</div>
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/usd">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-us fib"></i>
+                        </div>
+                        <div>دولار أمريكي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">53.48</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">53.7</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">53.32 - 53.97</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/eur">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-eu fib"></i>
+                        </div>
+                        <div>يورو</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">62.52</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">62.77</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">62.33 - 63.08</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/sar">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-sa fib"></i>
+                        </div>
+                        <div>ريال سعودي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">14.15</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">14.21</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">14.11 - 14.28</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/kwd">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-kw fib"></i>
+                        </div>
+                        <div>دينار كويتي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">173.6</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">174.35</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">173.1 - 175.2</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/aed">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-ae fib"></i>
+                        </div>
+                        <div>درهم اماراتي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">14.45</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">14.51</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">14.41 - 14.58</div>
+                  </td>
+                </tr>
+                
+  
+              </tbody>
+            </table>]]></description>
+			<pubDate>Tue, 05 May 2026 02:02:24 +0300</pubDate>
+			<guid isPermaLink="false">1777935744289049</guid>
+		</item>
+		<item>
+			<title>أسعار الذهب في مصر</title>
+			<link>https://realegp.com/</link>
+						<description><![CDATA[<table data-sanitized-class="table currencies-table">
+              <thead>
+                <tr data-sanitized-class="thick-border">
+                  <th data-sanitized-class="text-end">الذهب</th>
+                  <th>
+                    <div>متوسط السعر</div>
+                    <div data-sanitized-class="range">من - إلى</div>
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/18k">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <img src="https://realegp.com/static/img/gold.png">
+                        
+                        <div>ذهب عيار 18</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">5888</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">5880 - 5897</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/21k">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <img src="https://realegp.com/static/img/gold.png">
+                        
+                        <div>ذهب عيار 21</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">6870</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">6860 - 6880</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/24k">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <img src="https://realegp.com/static/img/gold.png">
+                        
+                        <div>ذهب عيار 24</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">7851</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">7840 - 7863</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/pound">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <i data-sanitized-class="bi bi-currency-pound"></i>
+                        
+                        <div>جنيه الذهب</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">54960</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">54880 - 55040</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/usdsagha">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <i data-sanitized-class="bi bi-coin"></i>
+                        
+                        <div>دولار الصاغة</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">54.1</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">54.02 - 54.18</div>
+                  </td>
+                </tr>
+                
+  
+              </tbody>
+            </table>]]></description>
+			<pubDate>Tue, 05 May 2026 02:02:24 +0300</pubDate>
+			<guid isPermaLink="false">1777935744289048</guid>
+		</item>
+		<item>
 			<title>أسعار العملات في مصر</title>
 			<link>https://realegp.com/</link>
 						<description><![CDATA[<table data-sanitized-class="table currencies-table">
@@ -2561,138 +2864,6 @@
             </table>]]></description>
 			<pubDate>Mon, 04 May 2026 14:02:31 +0300</pubDate>
 			<guid isPermaLink="false">1777892551464896</guid>
-		</item>
-		<item>
-			<title>من التمويل إلى الملكية.. قراءة في دخول البنك الأهلي شريكًا في "ذا سباين"</title>
-			<link>https://almanassa.com/stories/31622</link>
-						<dc:creator>هاجر عطية</dc:creator>
-			<media:thumbnail url="https://almanassa.com/sites/default/files/styles/card_lead/public/photobank/2026/a00d88e3-6e78-4b43-9c6c-dd7111080fc4.png.webp?itok=IQqHbJFW" />
-			<media:content url="https://almanassa.com/sites/default/files/styles/card_lead/public/photobank/2026/a00d88e3-6e78-4b43-9c6c-dd7111080fc4.png.webp?itok=IQqHbJFW" medium="image"></media:content>
-			<description><![CDATA[<!-- FULLCONTENT start //--><div data-sanitized-class="columns small-12 table-scroll">
-							<p>الشهر الماضي، أطلقت مجموعة <a href="https://asharqbusiness.com/economics/129141/%D8%B7%D9%84%D8%B9%D8%AA-%D9%85%D8%B5%D8%B7%D9%81%D9%89-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%85%D8%A8%D9%8A%D8%B9%D8%A7%D8%AA-%D8%A8%D9%86%D8%AD%D9%88-33-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%85%D9%86-%D8%B0%D8%A7-%D8%B3%D8%A8%D8%A7%D9%8A%D9%86/">طلعت مصطفى</a> أحد أهم مشروعاتها العقارية الضخمة، "ذا سباين"؛ بشراكةٍ مع البنك الأهلي؛ الذي ساهم بنسبة 24.5% من المشروع، ولم يكتفِ بأن يكون جهة إقراض، كما جرت العادة في استثمارات القطاع المصرفي العقارية. </p>
-
-<p>حجم مساهمة البنك في المشروع، و<a href="https://www.businessmen-eg.com/1994/%D9%85%D8%B9-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D8%B0%D8%A7-%D8%B3%D8%A8%D8%A7%D9%8A%D9%86-87-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AC%D9%86%D9%8A%D9%87-%D8%AD%D8%AC%D9%85-%D9%85%D8%AD%D9%81%D8%B8%D8%A9-%D8%A7%D9%84%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1%D9%8A%D8%A9">المقدرة</a> بنحو 17 مليار جنيه، لفتت الأنظار، بعد <a href="https://www.facebook.com/watch/?v=961597256083138">تأكيدات</a> مسؤولي البنك المتكررة على التوجه إلى الشراكات المرتبطة بالقطاع المالي، باعتباره الأقرب لنشاطه كبنك تجاري. </p>
-
-<p>وهذه <a href="https://flatandvilla.com/%D8%A7%D9%84%D9%85%D8%B7%D9%88%D8%B1/%D8%B4%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A-%D8%B5%D8%A8%D9%88%D8%B1/">ليست</a> أول شراكة للبنك الأهلي في مشروع عقاري؛ فهناك سابقة شهيرة في التسعينيات مع المطور العقاري حسين صبور؛ نتج عنها "الأهلي صبور" صاحبة المشروعات الكبيرة مثل مستقبل سيتي. ولكن رغم ذلك تظل شراكات البنك في القطاع العقاري متباعدة.</p>
-
-<p>ومع تجددها اليوم مستهدفةً بناء سلسلة من الأبراج الفارهة، أثارت الشراكة الجديدة الجدل حول أولويات القطاع المصرفي، وما إذا كان على البنوك أن توجه تمويلاتها لأنشطة ذات عائد على القطاع الأكبر من المجتمع، بدلًا من أن تخص شريحة صغيرة على قمة هرم الدخل والثروة.</p>
-
-<h2>تجارة رابحة؟</h2>
-
-<p>قال محللون إن توجّه البنك الأهلي إلى الشراكات العقارية يرجع إما إلى توقعات عوائدها المرتفعة مقارنة بعوائد الاستثمارات المالية المتراجعة، أو إلى توجهات لدى الدولة نحو هذا النموذج من الشراكات، وتكراره في مشروعات أخرى.</p>
-
-<p>"دخول البنك الأهلي شريكًا في مشروع عقاري يعكس تحوّلًا واضحًا في طريقة توظيف السيولة لدى البنوك الكبرى"، كما يفسِّر لـ <strong>المنصة</strong> إيهاب رشاد، نائب رئيس مجلس إدارة شركة مباشر كابيتال للاستثمارات المالية.</p>
-
-<p>وحسب القوائم المالية للبنك الأهلي، فإن أصول البنك تتركز في القروض التي يمنحها للشركات والأفراد، والتي تتجاوز أربعة تريليونات جنيه، تليها استثمارات البنك المالية، وأغلبها من الأذون والسندات الحكومية، ما يجعلُ الأنشطةَ الماليةَ مصدرَ إيراداته الرئيسي.</p>
-
-<div data-sanitized-class="embed-media embed-media--rich-flourish"><div><iframe src="https://flo.uri.sh/visualisation/28753206/embed" allowfullscreen="" title="قروض البنك الأهلي" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" sandbox="allow-scripts allow-same-origin"></iframe></div></div><aside data-sanitized-class="caption">رسم من تصميم المنصة عن أكبر أصول البنك الأهلي من حيث القيمة.</aside><p>لكنَّ اللافت بالنسبة لسلمى عاطف، محللة القطاع العقاري في شركة نعيم لتداول الأوراق المالية، كان حجم مساهمة البنك في الصفقة "ليست أول مرة يدخل بنك في مشروع عقاري، لكن اللافت حجم المشاركة".</p>
-
-<p>وتشرح لـ <strong>المنصة</strong> أن الأنماط المعتادة لاستثمارات البنوك في العقارات، قبل هذه الصفقة، كانت أن يمنح قروضًا للمطور العقاري، أو تمويلًا عقاريًا للمشترين، أو أن يستثمر في صندوق عقاري.</p>
-
-<p>لكن في حالة ذا سباين، وفق علي الدجوي، محلل القطاع المالي بشركة أسطول لتداول الأوراق المالية، "يبدو أن البنك لا يكتفي بدور الممول أو المستثمر المالي، بل أقرب إلى شريك استراتيجي، يمتلك تأثيرًا في توجيه القرار الاستثماري ومسار المشروع، وهو تطور لافت في طبيعة العلاقة بين البنوك والقطاع العقاري في مصر".</p>
-
-<p>ولا يلفت وجود البنك الأهلي في الصفقة الأنظار فقط بسبب طبيعته المصرفية، ولكن لأنه أكبر بنك حكومي، ما جدد <a href="https://aawsat.com/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A/5264267-%D8%B0%D8%A7-%D8%B3%D8%A8%D8%A7%D9%8A%D9%86-%D9%8A%D8%B4%D8%B9%D9%84-%D8%A7%D9%84%D8%AC%D8%AF%D9%84-%D8%AD%D9%88%D9%84-%D8%A7%D9%84%D9%85%D8%B4%D8%B1%D9%88%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D9%81%D8%A7%D8%B1%D9%87%D8%A9-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1">الجدل</a> حول<a href="https://www.facebook.com/matsda2sh/posts/-%D9%81%D9%8A-%D8%B9%D8%A7%D9%85-2019-%D8%AD%D8%B5%D9%84-%D8%A7%D9%84%D8%B9%D9%85%D9%84%D8%A7%D8%A1-%D9%85%D9%86-%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9-%D8%A7%D9%84%D9%85%D8%AA%D9%88%D8%B3%D8%B7%D8%A9-%D9%88%D8%A7%D9%84%D8%B5%D8%BA%D9%8A%D8%B1%D8%A9-%D8%B9%D9%84%D9%89-%D8%AA%D9%85%D9%88%D9%8A%D9%84-%D9%85%D9%86-%D8%A7%D9%84%D8%A8%D9%86%D9%83-/1288656950121853/"> دعم الدولة</a> لنموذج طلعت مصطفى الاستثماري.</p>
-
-<p>وتثير مشروعات <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="6dcd8e61-a07d-4bff-bd1c-424bab62d701" href="https://almanassa.com/stories/30390" title="لماذا يربح طلعت مصطفى في الأزمات ونخسر نحن؟">طلعت مصطفى</a> انتقادات واسعة بسبب طبيعتها الفارهة، في بلد <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="78ac2ac2-5709-4bc8-aadb-456c1b20646a" href="https://almanassa.com/news/22779" title="مرصد العمران: أعداد المساكن فاقت عقود الزواج الجديدة.. ولسنا في حاجة لكل هذه الوحدات">يعاني</a> فيه القطاع الأكبر من السكان من عدم ملائمة دخولهم مع أسعار الوحدات المطروحة.</p>
-
-<h2>إلى ماذا ينظر البنك الأهلي؟</h2>
-
-<p>أما عن أسباب اهتمام البنك الأهلي بالاستثمار في المشروع، فيرجح رشاد أن تكون مدفوعة برغبته في البحث عن استثمارات ذات عائد مرتفع، خاصة مع تراجع عوائد الاستثمار المالي في الوقت الراهن.</p>
-
-<p>ويقول رشاد لـ <strong>المنصة</strong> "البنوك، وعلى رأسها  الأهلي، باتت تمتلك خلال الفترة الأخيرة سيولة كبيرة تحتاج إلى توظيف أكثر كفاءة، الاعتماد فقط على أدوات الدين الحكومية مثل أذون وسندات الخزانة لم يعد الخيار الأكثر ربحية، خصوصًا مع ترقب خفض أسعار الفائدة".</p>
-
-<p>واتجه البنك المركزي منذ أبريل/نيسان 2025 إلى <a href="https://www.cbe.org.eg/en/monetary-policy/mpc-meetings-schedule">خفض</a> أسعار فائدة الإقراض بمقدار 8.25% لتصل إلى 19%، بعد عامين من التشديد النقدي، مستفيدًا من <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="5fc8f876-8f2d-4d8d-ad3c-e5c24014144a" href="https://almanassa.com/news/30231" title='تراجع طفيف في التضخم قبل أيام من اجتماع الفائدة بـ"المركزي"'>تراجع</a> التضخم. وبينما <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="40543a8c-8880-49ba-932a-0f4042bf136b" href="https://almanassa.com/news/31486" title="بنكا الأهلي ومصر يرفعان فائدة الشهادات الادخارية إلى 17.25%.. وتوقعات بارتفاع التضخم">يُشكك</a> الخبراء في قدرته على الاستمرار في تيسير أسعار الفائدة مع موجة التضخم الناتجة عن حرب إيران؛ تظل معدلات الفائدة المتوقعة منخفضة، بالمقارنة بالمستويات غير المسبوقة التي بلغتها في 2024.</p>
-
-<p>وتُرجح المُحللة العقارية سلمى عاطف أن تكون شراكة البنك الأهلي مدفوعة أيضًا بتوجه الدولة إلى تعزيز نموذج التحالفات الاستثمارية المباشرة في شراكة مؤسسات القطاع العام مع القطاع الخاص في تنفيذ المشروعات الكبرى، بدلًا من الاكتفاء بالتمويل التقليدي.</p>
-
-<h2>هل تحب البنوكُ العقارات؟ </h2>
-
-<p>قد يكون تنفيذ هذه الشراكة اتجاهًا جديدًا في القطاع المصرفي، لكنَّ رغبة البنوك في تمويل العقارات كانت لها  مؤشرات قوية سابقة على مشروع "ذا سباين". فبحسب بيانات البنك المركزي؛ يستحوذ نشاط التطوير العقاري على 10.3% من التسهيلات الائتمانية المقدمة لأكبر 100 عميل للبنوك، وإذا أضفنا إليه الإنشاءات؛ تصل لأكثر من ثلث ائتمان البنوك.</p>
-
-<div data-sanitized-class="embed-media embed-media--rich-flourish"><div><iframe src="https://flo.uri.sh/visualisation/28751044/embed" allowfullscreen="" title="التوزيع القطاعي" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" sandbox="allow-scripts allow-same-origin"></iframe></div></div><aside data-sanitized-class="caption">رسم من إعداد المنصة عن التوزيع القطاعي لحصص أكبر 100 عميل للبنوك في التسهيلات الائتمانية</aside><p>ويفسّر الدجوي إقبال البنوك على تمويل القطاع العقاري والإنشاءات، برؤيتها أن هذا القطاع قادرٌ على تأمين تدفقات نقدية أكثر انتظامًا من قطاعات أخرى.</p>
-
-<p>"تعتمد مشروعات عقارية مثل ذا سباين على الإيجار، ما يوفر دخلًا دوريًا ثابتًا. ويسمح القطاع العقاري بشكل عام بإعادة تسعير الوحدات مع تغير السوق، كما يتطلب تكاليف تشغيل وصيانة أقل نسبيًا مقارنة ببعض الأنشطة الأخرى"، كما يقول الدجوي.</p>
-
-<p>ويقارن الدجوي العقارات بالصناعة التي "قد تتأثر إيراداتها بعوامل تشغيلية أو بتعطل سلاسل الإمداد. وبصفة عامة فإن مستوى المخاطر التشغيلية لديها أعلى".</p>
-
-<p>وعانى <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="82fa9b99-191a-4a88-a992-3f7fa2fce805" href="https://almanassa.com/stories/26962" title="الفائدة من رفع الفائدة">القطاع الصناعي</a> من التشديد النقدي خلال الفترة الماضية. ورغم إطلاق الدولة مبادرة للتمويل الصناعي بفائدة ميسرة؛ كانت <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="f34091f9-be2a-4a05-baf0-69cb4dcb5dcf" href="https://almanassa.com/stories/22807" title="ألبان الأطفال: دعم يتراجع.. أسعار ترتفع.. والتمويل لا يكفي">التمويلات المقدمة</a> محدودة القيمة، وأُعلن عن أكثر من عملية <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="25ee5654-b5f3-4829-9ded-15137835737a" href="https://almanassa.com/stories/31056" title="الأثر السلبي لارتفاع الفائدة.. قطاع الأعمال تحت حصار الديون وتكلفة التمويل">إعادة هيكلة </a>لديون شركات صناعية كبرى خلال الفترة الأخيرة.</p>
-
-<p>حتى الآن؛ فإن القطاع العقاري حصان رابح في جذب تمويلات البنوك، لكن ألا ينطوي الأمر على مخاطرة؟</p>
-
-<h2>منافسة صعبة ولكن؟</h2>
-
-<p>يُعد "ذا سباين" امتدادًا لمشروع مدينتي، الذي آثار جدلًا واسعًا قبل عقدين بسبب تخصيص الأرض مجانًا لطلعت مصطفى مقابل حصة للدولة في المشروع السكني المقام عليها، ما دعا <a href="https://ecesr.org/%D8%AD%D9%83%D9%85-%D9%86%D9%87%D8%A7%D8%A6%D9%8A-%D8%A8%D8%A8%D8%B7%D9%84%D8%A7%D9%86-%D8%B9%D9%82%D8%AF-%D9%85%D8%AF%D9%8A%D9%86%D8%AA%D9%8A-%D8%A3%D8%AB%D8%A7%D8%B1-%D8%A7%D9%84%D8%AD%D9%83%D9%85/">حقوقيين</a> للطعن على عقد الأرض.</p>
-
-<p>وتُسوِّق "طلعت مصطفى" ذا سباين باعتباره "وسط البلد" بالنسبة للمشروع السكني القديم؛ تضم عددًا ضخمًا من الأبراج الإدارية الشاهقة وأشكالًا متنوعة من الترفيه، تجعل منها <a href="https://www.facebook.com/watch/?v=952042300716842">مساحة إدارية وتجارية</a> ضخمة في شرق القاهرة <a href="https://www.reuters.com/ar/business/L5IS3W6DSZOB3IUCEYKHE3EERY-2026-04-18/">بتكلفة</a> تقرب من 27 مليار دولار.</p>
-
-<p>"رغم جاذبية المشروع، فهو يواجه تحديات لتحقيق نسب إشغال مرتفعة للعدد الكبير الذي يطرحه من الأبراج والتي تصل إلى 165 برجًا" كما يقول الدجوي.</p>
-
-<p>وتشير <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="6dcd8e61-a07d-4bff-bd1c-424bab62d701" href="https://almanassa.com/stories/30390" title="لماذا يربح طلعت مصطفى في الأزمات ونخسر نحن؟">تحليلات</a> إلى تباطؤ المبيعات العقارية خلال الفترة الأخيرة، بما فيها مبيعات شركة طلعت مصطفى، إذ ساهم هدوء التضخم واستقرار سعر الدولار في جعل أصحاب المدخرات أقل حماسًا لحفظ أموالهم في العقارات. </p>
-
-<div data-sanitized-class="embed-media embed-media--video-youtube"><div><iframe src="https://www.youtube.com/embed/j0a5oxG6yKU?rel=0" allowfullscreen="" scrolling="no" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" title="The Spine, the world’s first cognitive city" sandbox="allow-scripts allow-same-origin"></iframe></div></div><aside data-sanitized-class="caption">إعلان مجموعة طلعت مصطفى عن مشروع ذا سباين</aside><p>"حين يضم مشروع ما، مثلًا، 165 برجًا، وكل برج مكوّن من 30 طابقًا، يصبح السؤال الأساسي: كم طابقًا من هذه المساحات يمكن تأجيره بالفعل؟ هل يمكن أن تصل نسبة التشغيل إلى 70% من إجمالي المباني، أم ستقف عند 30% أو 20% فقط؟" كما يتساءل الدجوي.</p>
-
-<p>من جانبه، يُحذر مصطفى شفيع، مدير إدارة البحوث المالية في شركة أكيومن لإدارة الأصول، لـ <strong>المنصة</strong> من المنافسة التي سيواجهها مشروع "ذا سباين"  مع المناطق العمرانية المحيطة "خاصة مع قربها من العاصمة الإدارية الجديدة ومستقبل سيتي، وهو ما يخلق منافسة واضحة على شريحة محددة من العملاء، خصوصًا أصحاب الدخول المرتفعة الباحثين عن وحدات سكنية أو استثمارية في شرق القاهرة".</p>
-
-<p>وقبل نحو عقد أطلقت الدولة مشروع <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="62e0dd55-88ed-4ed3-8e28-826271193cde" href="https://almanassa.com/stories/11134" title="ما جدوى إنشاء العاصمة الجديدة؟">العاصمة الإدارية الجديدة</a>، الذي لاقى انتقادات بسبب التوسع الكبير في إنشاء وحدات عقارية وخدمية تستهدف فقط الشريحة العليا في هرم الدخل والثروة، وتدخل "ذا سباين" في منافسة على هذه الشريحة المحدودة من المستهلكين.</p>
-
-<p>لكنَّ شفيع يلفت إلى أنها "استطاعت أن تحافظ على مبيعات قوية في مشروعاتها مثل مدينتي والرحاب، إلى جانب توسعها الخارجي مؤخرًا في أسواق عربية".</p>
-
-
-<div data-embed-button="almanassa_story_browser" data-entity-embed-display="view_mode:node.read_also" data-entity-type="node" data-entity-uuid="6dcd8e61-a07d-4bff-bd1c-424bab62d701" data-langcode="ar" data-entity-embed-display-settings="[]" data-sanitized-class="embedded-entity">
-	<article data-history-node-id="30390" role="article" about="/stories/30390" data-sanitized-id="node-30390" data-sanitized-class="view-mode--read-also type-story"><div data-sanitized-class="row">
-		<a href="https://almanassa.com/stories/30390" almanassa-posthog-link="" data-ph-capture-attribute-link-type="story" data-ph-capture-attribute-link-id="30390" data-ph-capture-attribute-link-title="لماذا يربح طلعت مصطفى في الأزمات ونخسر نحن؟" data-ph-capture-attribute-link-section="اقتصاد وعمران" data-ph-capture-attribute-link-view-mode="read_also" data-sanitized-class="columns small-12 medium-6">
-			<hr data-sanitized-class="embed-divider"><div data-sanitized-class="h3">اقرأ أيضا</div>
-			
-			<div data-sanitized-class="h2">
-				<span>لماذا يربح طلعت مصطفى في الأزمات ونخسر نحن؟</span>
-
-			</div>
-			
-			<hr data-sanitized-class="embed-divider"></a>
-	</div>
-</article></div>
-<p>يراهن المحللون على نموذج طلعت مصطفى المعتمد على جذب مدخرات المصريين المغتربين والأجانب من الخارج، خاصة مع إثبات قدرته على جمع إيرادات ضخمة خلال السنوات الماضية، وهو توجه واضح في الحملات الإعلانية للمجموعة، التي أصبحت تُقدَّم أيضًا <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="fe5387a7-d4df-4b34-b614-030a7ba5cc2d" href="https://almanassa.com/stories/18436" title="سلفستر ستالون في الساحل.. بشرى لغير المصريين">بالإنجليزية</a>.</p>
-
-<p>لكن رغم ذلك؛ تظل الأسئلة التي طرحوها بشأن تحديات المشروع بلا إجابات حتى الآن.</p>
-						<div data-sanitized-id="topic-file-stories">
-			<div data-sanitized-class="views-element-container">		<div almanassa-posthog-link-source="" data-almanassa-posthog-link-source="Story Topic File Stories List" data-almanassa-posthog-link-source-type="topic_files" data-almanassa-posthog-link-source-id="embed_story_topic_file" data-sanitized-class="js-view-dom-id-0fa2052c2e6eb9170fbea5a5d355624a9a4bce684d6c9ed0b1c7086795b333ee">
-		
-		
-		
-
-		
-		
-		
-		
-
-		
-		
-		
-
-		
-		
-
-		
-		
-	</div>
-</div>
-
-			</div>
-		</div><!-- FULLCONTENT end //-->]]></description>
-			<pubDate>Mon, 04 May 2026 14:02:29 +0300</pubDate>
-			<guid isPermaLink="false">1777892551464895</guid>
-		</item>
-		<item>
-			<title>آي صاغة: تراجع أسعار الذهب في مصر اليوم الإثنين 4 مايو 2026.. الجنيه الذهب يهبط دون 55 ألف جنيه وعيار 21 يفقد 50 جنيهًا</title>
-			<link>https://market.isagha.com/articles/2219</link>
-						<media:thumbnail url="https://cdn.isagha.net/public/files/ndxgAIwyGmUJQTEHlOuRFKYMLV4MH7FO5QpeIA8J.jpg" />
-			<media:content url="https://cdn.isagha.net/public/files/ndxgAIwyGmUJQTEHlOuRFKYMLV4MH7FO5QpeIA8J.jpg" medium="image"></media:content>
-			<description><![CDATA[<div data-sanitized-class="content-article">
-					<p></p><p>شهدت أسعار الذهب في مصر تراجعًا طفيفًا خلال تعاملات اليوم الإثنين 4 مايو 2026، حيث انخفض سعر عيار 21 – الأكثر تداولًا في السوق المحلي – بنحو 50 جنيهًا، ليسجل مستوى 6900 جنيه، مقارنة بنحو 6950 جنيهًا في ختام تعاملات أمس، وذلك...</p>
-					<a href="https://market.isagha.com/articles/2219" data-sanitized-class="read-more">تابع القراءة</a>
-				</div>]]></description>
-			<pubDate>Mon, 04 May 2026 14:02:27 +0300</pubDate>
-			<guid isPermaLink="false">1777892551464894</guid>
 		</item>
 
 	</channel>
