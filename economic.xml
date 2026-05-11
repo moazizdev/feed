@@ -4,10 +4,313 @@
 		<title>اقتصاد</title>
 		<link>http://192.168.1.50:8081/api/query.php?user=admin&amp;t=4IzCA6HFSoouCSR9nVqNkV&amp;f=html</link>
 		<description>RSS feed of اقتصاد</description>
-		<pubDate>Mon, 11 May 2026 11:00:03 +0300</pubDate>
-		<lastBuildDate>Mon, 11 May 2026 08:00:03 GMT</lastBuildDate>
+		<pubDate>Mon, 11 May 2026 11:05:04 +0300</pubDate>
+		<lastBuildDate>Mon, 11 May 2026 08:05:04 GMT</lastBuildDate>
 		<atom:link href="http://192.168.1.50:8081/api/query.php?user=admin&amp;t=4IzCA6HFSoouCSR9nVqNkV&amp;f=rss" rel="self" type="application/rss+xml" />
 				<item>
+			<title>أسعار العملات في مصر</title>
+			<link>https://realegp.com/</link>
+						<description><![CDATA[<table data-sanitized-class="table currencies-table">
+              <thead>
+                <tr data-sanitized-class="thick-border">
+                  <th data-sanitized-class="text-end">العملة</th>
+                  <th>سعر البنك</th>
+                  <th>
+                    <div>سعر السوق</div>
+                    <div data-sanitized-class="range">من - إلى</div>
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/usd">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-us fib"></i>
+                        </div>
+                        <div>دولار أمريكي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">52.75</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">53.32</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">52.95 - 53.59</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/eur">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-eu fib"></i>
+                        </div>
+                        <div>يورو</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">62.09</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">62.76</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">62.32 - 63.07</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/sar">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-sa fib"></i>
+                        </div>
+                        <div>ريال سعودي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">13.96</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">14.11</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">14.01 - 14.18</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/kwd">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-kw fib"></i>
+                        </div>
+                        <div>دينار كويتي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">171.2</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">173.12</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">171.9 - 173.9</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/aed">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-ae fib"></i>
+                        </div>
+                        <div>درهم اماراتي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">14.26</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">14.41</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">14.31 - 14.48</div>
+                  </td>
+                </tr>
+                
+  
+              </tbody>
+            </table>]]></description>
+			<pubDate>Mon, 11 May 2026 11:02:04 +0300</pubDate>
+			<guid isPermaLink="false">1778486531883303</guid>
+		</item>
+		<item>
+			<title>أسعار الذهب في مصر</title>
+			<link>https://realegp.com/</link>
+						<description><![CDATA[<table data-sanitized-class="table currencies-table">
+              <thead>
+                <tr data-sanitized-class="thick-border">
+                  <th data-sanitized-class="text-end">الذهب</th>
+                  <th>
+                    <div>متوسط السعر</div>
+                    <div data-sanitized-class="range">من - إلى</div>
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/18k">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <img src="https://realegp.com/static/img/gold.png">
+                        
+                        <div>ذهب عيار 18</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">5991</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">5983 - 6000</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/21k">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <img src="https://realegp.com/static/img/gold.png">
+                        
+                        <div>ذهب عيار 21</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">6990</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">6980 - 7000</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/24k">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <img src="https://realegp.com/static/img/gold.png">
+                        
+                        <div>ذهب عيار 24</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">7988</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">7977 - 8000</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/pound">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <i data-sanitized-class="bi bi-currency-pound"></i>
+                        
+                        <div>جنيه الذهب</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">55920</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">55840 - 56000</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/usdsagha">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <i data-sanitized-class="bi bi-coin"></i>
+                        
+                        <div>دولار الصاغة</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">53.19</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">53.12 - 53.27</div>
+                  </td>
+                </tr>
+                
+  
+              </tbody>
+            </table>]]></description>
+			<pubDate>Mon, 11 May 2026 11:02:04 +0300</pubDate>
+			<guid isPermaLink="false">1778486531883302</guid>
+		</item>
+		<item>
 			<title>أسعار العملات في مصر</title>
 			<link>https://realegp.com/</link>
 						<description><![CDATA[<table data-sanitized-class="table currencies-table">
@@ -2774,187 +3077,6 @@
             </table>]]></description>
 			<pubDate>Sun, 10 May 2026 20:02:04 +0300</pubDate>
 			<guid isPermaLink="false">1778432539075673</guid>
-		</item>
-		<item>
-			<title>آثار الحرب تمتد إلى الاقتصاد الأمريكي</title>
-			<link>https://newsletter.amwal.ai/p/a51</link>
-						<dc:creator>Amwal AI - أموال إيه آي</dc:creator>
-			<media:content url="https://substackcdn.com/image/fetch/$s_!m_TB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F35beeeae-64bb-4f90-a512-f29886eda19b_1920x1080.jpeg" type="image/jpeg"></media:content>
-			<description><![CDATA[<div data-attrs='{"url":"https://newsletter.amwal.ai/subscribe?","text":"Subscribe","language":"en"}' data-component-name="SubscribeWidgetToDOM" data-sanitized-class="subscription-widget-wrap-editor"><div data-sanitized-class="subscription-widget show-subscribe"><div data-sanitized-class="preamble"><p data-sanitized-class="cta-caption">فاتتك الأخبار؟ اشترك لتصلك نشرتنا على بريدك الإلكتروني</p></div><div data-sanitized-class="fake-input-wrapper"><div data-sanitized-class="fake-input"></div><div data-sanitized-class="fake-button"></div></div></div></div><div data-sanitized-class="captioned-image-container"><figure><a href="https://substackcdn.com/image/fetch/%24s_!m_TB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F35beeeae-64bb-4f90-a512-f29886eda19b_1920x1080.jpeg" data-component-name="Image2ToDOM" data-sanitized-class="image-link image2 is-viewable-img"><div data-sanitized-class="image2-inset"><picture><source type="image/webp"><img src="https://substackcdn.com/image/fetch/%24s_!m_TB!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F35beeeae-64bb-4f90-a512-f29886eda19b_1920x1080.jpeg" width="1456" height="819" data-attrs='{"src":"https://substack-post-media.s3.amazonaws.com/public/images/35beeeae-64bb-4f90-a512-f29886eda19b_1920x1080.jpeg","srcNoWatermark":null,"fullscreen":null,"imageSize":null,"height":819,"width":1456,"resizeWidth":null,"bytes":null,"alt":null,"title":null,"type":null,"href":null,"belowTheFold":false,"topImage":true,"internalRedirect":null,"isProcessing":false,"align":null,"offset":false}' alt="" fetchpriority="high" data-sanitized-class="sizing-normal"></picture><div data-sanitized-class="image-link-expand"><div data-sanitized-class="pencraft pc-display-flex pc-gap-8 pc-reset"><button tabindex="0" type="button" data-sanitized-class="pencraft pc-reset pencraft icon-container restack-image"><g><title></title><path d="M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882"></path></g></button><button tabindex="0" type="button" data-sanitized-class="pencraft pc-reset pencraft icon-container view-image"><polyline points="15 3 21 3 21 9"></polyline><polyline points="9 21 3 21 3 15"></polyline><line x1="21" x2="14" y1="3" y2="10"></line><line x1="3" x2="10" y1="21" y2="14"></line></button></div></div></div></a></figure></div><p>أهلًا بكم في نشرة أموال الأسبوعية!</p><p>شهد هذا الأسبوع تباينًا حادًا في الإشارات الاقتصادية. تقرير الوظائف الأمريكي في أبريل يبدو معتدلًا، لكن انهيار مؤشر جامعة ميشيغان لثقة المستهلك يكشف حجم الضغط الذي تخلقه الحرب على الشريحة الأدنى من المستهلكين. في الوقت ذاته، تواصل أسواق الأسهم تسجيل قمم تاريخية جديدة بقيادة قطاع أشباه الموصلات، فيما يستعد الفيدرالي لتسليم القيادة لكيڤن وارش خلال الأسبوع القادم. على الصعيد الجيوسياسي، تدخل الحرب على إيران أسبوعها الحادي عشر مع استمرار إغلاق مضيق هرمز، ويلتقي ترامب بنظيره الصيني تشي چين بينج في بكين يومي ١٥ و١٦ مايو.</p><p>نناقش في عدد هذا الأسبوع تأثير الحرب على الاقتصاد الأمريكي، ثم نقدم تحليلًا موجزًا لأزمة الطاقة، ثم نختم النشرة بتحليل مفصَّل للذهب وبتكوين.</p><div data-sanitized-class="captioned-image-container"><figure><a href="https://substackcdn.com/image/fetch/%24s_!-B0l!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feacf2835-e287-489c-aba9-3890bba1f40d_1200x630.jpeg" data-component-name="Image2ToDOM" data-sanitized-class="image-link image2 is-viewable-img"><div data-sanitized-class="image2-inset"><picture><source type="image/webp"><img src="https://substackcdn.com/image/fetch/%24s_!-B0l!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feacf2835-e287-489c-aba9-3890bba1f40d_1200x630.jpeg" width="1200" height="630" data-attrs='{"src":"https://substack-post-media.s3.amazonaws.com/public/images/eacf2835-e287-489c-aba9-3890bba1f40d_1200x630.jpeg","srcNoWatermark":null,"fullscreen":null,"imageSize":null,"height":630,"width":1200,"resizeWidth":null,"bytes":175520,"alt":null,"title":null,"type":"image/jpeg","href":null,"belowTheFold":false,"topImage":false,"internalRedirect":"https://newsletter.amwal.ai/i/197120462?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feacf2835-e287-489c-aba9-3890bba1f40d_1200x630.jpeg","isProcessing":false,"align":null,"offset":false}' alt="" data-sanitized-class="sizing-normal"></picture><div data-sanitized-class="image-link-expand"><div data-sanitized-class="pencraft pc-display-flex pc-gap-8 pc-reset"><button tabindex="0" type="button" data-sanitized-class="pencraft pc-reset pencraft icon-container restack-image"><g><title></title><path d="M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882"></path></g></button><button tabindex="0" type="button" data-sanitized-class="pencraft pc-reset pencraft icon-container view-image"><polyline points="15 3 21 3 21 9"></polyline><polyline points="9 21 3 21 3 15"></polyline><line x1="21" x2="14" y1="3" y2="10"></line><line x1="3" x2="10" y1="21" y2="14"></line></button></div></div></div></a></figure></div><h2></h2><p data-attrs='{"url":"https://www.amwal.ai/#portfolios","text":"للاشتراك في محافظ أموال","action":null,"class":null}' data-component-name="ButtonCreateButton" data-sanitized-class="button-wrapper"><a href="https://www.amwal.ai/#portfolios" data-sanitized-class="button primary"><span>للاشتراك في محافظ أموال</span></a></p><h2><strong><br>تأثير الحرب يمتد إلى الاقتصاد الأمريكي دون التأثير على الأسواق</strong></h2><p>أظهر تقرير الوظائف الأمريكي لشهر أبريل إضافة ١١٥ ألف وظيفة، وهو رقم يبدو معتدلًا. لكن تفاصيل التقرير تُشير إلى أن حوالي ٥٤ ألف وظيفة من الإجمالي جاءت من قطاع الرعاية الصحية وحده، ومتوسط الثلاثة أشهر لوظائف القطاع الخاص باستثناء الرعاية الصحية لا يتجاوز ١٧ ألف وظيفة. ما يُشير إلى تباطؤٍ في سوق العمل خارج القطاعات المحصَّنة من الأزمات الاقتصادية، رغم ثبات معدل البطالة. الأهم من تقرير الوظائف هو انهيار مؤشر جامعة ميشيغان لثقة المستهلك في مايو إلى ٤٨٫٢ كأدنى مستوى تاريخي على الإطلاق. تُشير البيانات إلى أن غالبية المستهلكين، باستثناء الأكثر ثراءً، أبلغوا عن تأثير سلبي حاد لارتفاع الأسعار على ميزانياتهم الشخصية.</p><p>على صعيد السياسة النقدية، تستعد لجنة البنوك في مجلس الشيوخ للتصويت على تأكيد تعيين كيڤن وارش رئيسًا للفيدرالي يوم الإثنين أو الثلاثاء المقبلين. أول جلسة للجنة السوق المفتوحة الفيدرالية (FOMC) في عهد وارش ستكون في يونيو، لكن وارش لن يُحرِّك الفائدة في تلك الجلسة بحسب توقعات الأسواق. الإجراء المتوقع هو إسقاط اللغة التيسيرية (Easing Bias) من بيان الفيدرالي.</p><p>أما في البورصة، تواصل أسواق الأسهم الأمريكية تسجيل قمم تاريخية جديدة. أغلق مؤشر S&amp;P 500 قرب ٧,٤٠٠ نقطة بارتفاع نحو ٢٫٣٥٪ على مدار الأسبوع، وارتفع مؤشر Nasdaq بنسبة ٥٫٥٪ ليتخطى قرب ٢٩,٢٣٤ نقطة. تُشير البيانات إلى أن قطاع التكنولوجيا (XLK) هو القطاع الوحيد الذي يتحرك بشكل ملحوظ، فيما تتحرك قطاعات الصناعة (XLI)والمال (XLF) والرعاية الصحية (XLV) في نطاقات ضيقة.</p><p><strong>السؤال الذي يشغل بال المستثمرين الآن هو: هل تعد أرباح الشركات الكبرى حقيقية بالكامل؟</strong></p><p>نسبة ملحوظة من أرباح هذه الشركات هي مكاسب على استثماراتها في شركات الذكاء الاصطناعي الناشئة (Anthropic وOpenAI). تستخدم هذه الشركات الناشئة رؤوس الأموال التي تجمعها لشراء عقود حوسبة سحابية (Cloud Computing) من نفس الشركات الكبرى، فيُسجَّل ذلك كإيرادات تعاقدية. فتتحرك رؤوس الأموال في حلقة دائرية تتضخم بشكل وهمي، حيث  تستثمر الشركة الكبرى في الشركة الناشئة، فترتفع قيمة الشركة الناشئة (و يُسجَّل ذلك كمكسب لدى الشركات الكبرى)، فتُنفِق الشركة الناشئة رؤوس الأموال على عقود مع الشركات الكبرى (تُسجَّل كإيراد تعاقدي). تعمل الحلقة بشكل ممتاز صعودًا، وبشكل كارثي هبوطًا.</p><div data-attrs='{"url":"https://newsletter.amwal.ai/p/a51?utm_source=substack&amp;utm_medium=email&amp;utm_content=share&amp;action=share","text":"Share"}' data-component-name="CaptionedButtonToDOM" data-sanitized-class="captioned-button-wrap"><div data-sanitized-class="preamble"><p data-sanitized-class="cta-caption">لديك صديق مهتم بالاستثمار؟ شارك نشرتنا معه</p></div><p data-attrs='{"url":"https://newsletter.amwal.ai/p/a51?utm_source=substack&amp;utm_medium=email&amp;utm_content=share&amp;action=share","text":"Share"}' data-component-name="ButtonCreateButton" data-sanitized-class="button-wrapper"><a href="https://newsletter.amwal.ai/p/a51?utm_source=substack&amp;utm_medium=email&amp;utm_content=share&amp;action=share" data-sanitized-class="button primary"><span>Share</span></a></p></div><h2><strong>أزمة الطاقة</strong></h2><p>تداول خام برنت في نطاق ١٠٠-١٢٠ دولارًا للبرميل خلال الأسبوع، مقارنة بـ٧٢ دولارًا قبل اندلاع الحرب على إيران. تراجع إنتاج دول الخليج بنسبة ٥٧٪ عن مستويات ما قبل الحرب. وحذَّرت وكالة الطاقة الدولية (IEA) من أن خسائر أبريل تجاوزت خسائر مارس، وأن إطلاق ٤٠٠ مليون برميل من الاحتياطيات الاستراتيجية لعدد من الدول الكبرى لم يكن كافيًا لسد العجز.</p><p>على صعيد المنتجات النفطية، ارتفعت أسعار وقود الطائرات بأكثر من ٨٠٪ منذ بدء الحرب، وأعلنت عدة شركات طيران عن إلغاء ما يقرب من ٩٫٣ مليون تذكرة للفترة من يونيو إلى سبتمبر، ما يعني تأثُّر أكثر من ٣٣٪ من الرحلات بين أوروبا وآسيا. ألغت Lufthansa نحو ٤,٠٠٠ رحلة في مايو وحده. وأعلنت شركة Spirit Airlines الأمريكية إفلاسها وإيقاف عملياتها بشكل دائم بسبب كلفة الوقود، وهي أول شركة طيران أمريكية كبرى تنهار مباشرة جراء الأزمة.</p><p>أزمة الغاز الطبيعي المُسال (LNG) تتطور بالتوازي. أدَّت ضربة مباشرة على مجمع رأس لفان في قطر، وهو أكبر مرفق تصدير للغاز الطبيعي المُسال في العالم، إلى ارتفاع أسعار الغاز الفوري الآسيوي بنسبة ١٤٠٪. أوروبا، التي تتجنب الغاز الروسي، تجد نفسها الآن مُعرَّضة لأزمة في احتياطات الغاز الخاصة بالشتاء القادم. تضاعفت الاحتياجات التمويلية لدول مجلس التعاون الخليجي تقريبًا من ١٫٧ مليار دولار أسبوعيًا إلى ٣٫٥ مليار دولار إثْر الحرب. وخفَّض صندوق النقد الدولي توقعاته للنمو العالمي في ٢٠٢٦ إلى ٣٫١٪، مع تحذير من خطر الركود إذا طالت الأزمة.</p><p><strong>💡 توقعات خبراء أموال: نتوقع أن يستمر خام برنت في التداول في نطاق ١٠٠-١٢٠ دولارًا خلال مايو، مع احتمال تخطى مستوى ١٢٠ دولارًا إذا فشلت القمة الأمريكية-الصينية في تحريك المسار الدبلوماسي. نتوقع أن يحتاج الأسواق ستة أشهر على الأقل لاستعادة طاقتها الإنتاجية بعد وقف الحرب. يفوق تأثير الأزمة على المنتجات النفطية تأثيرها على أسعار الخام، وهو ما يعني أن قطاعات الطيران والشحن والصناعات الزراعية ستعاني لفترة أطول حتى لو استقرَّت أسعار النفط.</strong></p><div data-sanitized-class="captioned-image-container"><figure><a href="https://substackcdn.com/image/fetch/%24s_!rZ8Y!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb59c7805-96f5-4e5d-85fb-9f0c5140983d_1100x220.jpeg" data-component-name="Image2ToDOM" data-sanitized-class="image-link image2"><div data-sanitized-class="image2-inset"><picture><source type="image/webp"><img src="https://substackcdn.com/image/fetch/%24s_!rZ8Y!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb59c7805-96f5-4e5d-85fb-9f0c5140983d_1100x220.jpeg" width="1100" height="220" data-attrs='{"src":"https://substack-post-media.s3.amazonaws.com/public/images/b59c7805-96f5-4e5d-85fb-9f0c5140983d_1100x220.jpeg","srcNoWatermark":null,"fullscreen":null,"imageSize":null,"height":220,"width":1100,"resizeWidth":null,"bytes":38976,"alt":null,"title":null,"type":"image/jpeg","href":null,"belowTheFold":true,"topImage":false,"internalRedirect":"https://newsletter.amwal.ai/i/197120462?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb59c7805-96f5-4e5d-85fb-9f0c5140983d_1100x220.jpeg","isProcessing":false,"align":null,"offset":false}' alt="" loading="lazy" data-sanitized-class="sizing-normal"></picture><div></div></div></a></figure></div><h2><strong>الذهب يتراجع خلال الأسبوع</strong></h2><p>أغلق الذهب هذا الأسبوع عند ٤,٧١٥ دولارًا للأونصة، بعد التداول في نطاق محدود بين ٤,٥٠٠ إلى ٤,٧٦٥ دولار. نتوقع أن تكون يتحرك الذهب صعودًا إلى نطاق ٤,٨٥٠ وإلى ٥,٠٥٠ دولارًا للأونصة خلال الفترة من ١٨ إلى ٢٢ مايو، قبل أن ينخفض مرة أخرى مدفوعًا بديناميكات العرض والطلب في سوق الخيارات. يقع سعر التوازن لعقود يونيو عند ٤,٦٠٠ دولار، ما سيجذب السعر إلى نطاق ٤,٦٠٠ إلى ٤,٨٠٠ دولارًا في الفترة بين ٢٧ مايو و٥ يونيو.</p><p><strong>💡 توقعات خبراء أموال: هدفنا قصير المدى للذهب يقع في نطاق ٤,٨٥٠-٥,٠٥٠ دولار في الفترة بين ١٨-٢٢ مايو، يليه تصحيحًا إلى ٤,٦٠٠-٤,٨٠٠ دولار بين ٢٧ مايو و٥ يونيو. هدفنا متوسط المدى للدورة الحالية ما زال عند ٦,٥٠٠ دولار خلال النصف الثاني من ٢٠٢٦، وهدفنا الاستراتيجي طويل المدى يصل إلى ٨,٠٠٠ دولار في ٢٠٢٧-٢٠٢٨.</strong></p><div><hr></div><h2><strong>بتكوين</strong></h2><p>يتداول بتكوين حاليًا عند ٨١,٣٨٥ دولارًا، بعد أن اخترق خلال أسبوع واحد مستويين رئيسيين، المتوسط الحقيقي للسوق (True Market Mean) عند ٧٨,١٩٨ دولارًا، ومتوسط تكلفة المستثمرين قصيري الأجل (STH Cost Basis) عند ٧٨,٤٩٠ دولارًا. اختراق المتوسط الحقيقي للسوق إشارة كلاسيكية لانتقال السوق إلى مرحلة التعافي. يقع مستوى المقاومة التالي قرب ٨٥,٢٠٠ دولار.</p><p>سجَّلت صناديق بتكوين الأمريكية المتداولة (ETFs) أسبوعها الخامس على التوالي من التدفقات الإيجابية، مع تدفُّق صافٍ بقيمة ٦٠٦ مليون دولار يوم ٨ مايو. متوسط تكلفة شراء صناديق ETFs الإجمالية يقع حاليًا عند ٨٢,١٠٠ دولارًا.</p><p>البيانات على شبكة بتكوين متناقضة بين التعافي والتوزيع. مؤشر الربح/الخسارة الصافية (NUPL) عند ٠٫٣٢٦، أي في نطاق “التفاؤل”، مع ٦٥٫٧٥٪ من العرض في الربح. لكن الخسائر اليومية المُتحقَّقة (Realized Loss) تبلغ ٤٧٩ مليون دولار يوميًا، أي ١٤٠٪ فوق خط الأساس البالغ ٢٠٠ مليون دولار، والتعافي المستدام يتطلب تراجعها إلى ما دون ٢٠٠ مليون. جني الأرباح من المستثمرين طويلي الأجل (LTH) يتوسط ١٨٠ مليون دولار يوميًا، وهو مستوى مماثل لسبتمبر ٢٠٢٤، وأقل بكثير من ذروة الدورة عند مليار دولار يوميًا. المستثمرون القدامى يبيعون لكنهم لا يُغرقون السوق.</p><p>في سوق المشتقات، مازالت معدلات التمويل (Funding Rates) دون الصفر عبر معظم المنصات رغم الارتفاع المستمر للسعر، وتتركز مراكز الشراء حاليًا حول مستوى ٨٥,٠٠٠ دولار، ومراكز البيع حول ٧٦,٠٠٠ دولار. ما يعني أن أي صعود مستدام للسعر فوق ٨٥,٠٠٠ دولار سيجذب المزيد من تدفقات الشراء. وفي المقابل، العودة لمستويات ٧٦,٠٠٠ دولار قد تؤدي إلى المزيد من الهبوط بفعل حركة مراكز التحوط.</p><p><strong>💡 توقعات خبراء أموال: استمرار تدفقات صناديق ETFs والاختراق الناجح للمتوسط الحقيقي للسوق يدعمان رؤيتنا التي أشرنا إليها في العدد الماضي بأن بتكوين دخل مرحلة تعافٍ مبكرة. نواصل زيادة تعرُّضنا تدريجيًا، مع التركيز على شراء التراجعات نحو نطاق ٧٦,٠٠٠-٧٨,٠٠٠ دولار. يبقى بتكوين الأصل الأكثر عرضة للهبوط في حال تفاقم الأزمة الجيوسياسية، ولذلك نحافظ على التعرُّض دون الحد الأقصى المسموح به في محافظنا.</strong></p><div><hr></div><h2><strong>الخلاصة</strong></h2><p><strong>ما يجب مراقبته الأسبوع المقبل:</strong></p><ul><li><p>الإثنين ١١ مايو: بيانات التضخم الصينية (CPI) لشهر أبريل. التصويت المتوقع على تأكيد تعيين كيڤن وارش رئيسًا للفيدرالي.</p></li><li><p>الثلاثاء ١٢ مايو: بيانات التضخم الأمريكية لشهر أبريل.</p></li><li><p>الخميس ١٤ مايو: بيانات مبيعات التجزئة الأمريكية لشهر أبريل.</p></li><li><p>الجمعة ١٥ مايو: اليوم الأول للقمة الأمريكية-الصينية في بكين.</p></li></ul><p>ترقّبوا عددنا الأسبوعي يوم الأحد القادم، لمواكبة أبرز المستجدات وتحليل انعكاساتها على مختلف الأصول الاستثمارية.</p><p data-attrs='{"url":"https://www.amwal.ai/","text":"للمزيد من المعلومات عن أموال، زُر موقعنا","action":null,"class":null}' data-component-name="ButtonCreateButton" data-sanitized-class="button-wrapper"><a href="https://www.amwal.ai/" data-sanitized-class="button primary"><span>للمزيد من المعلومات عن أموال، زُر موقعنا</span></a></p>]]></description>
-			<pubDate>Sun, 10 May 2026 19:47:06 +0300</pubDate>
-			<guid isPermaLink="false">1778432539075671</guid>
-		</item>
-		<item>
-			<title>أسعار العملات في مصر</title>
-			<link>https://realegp.com/</link>
-						<description><![CDATA[<table data-sanitized-class="table currencies-table">
-              <thead>
-                <tr data-sanitized-class="thick-border">
-                  <th data-sanitized-class="text-end">العملة</th>
-                  <th>سعر البنك</th>
-                  <th>
-                    <div>سعر السوق</div>
-                    <div data-sanitized-class="range">من - إلى</div>
-                  </th>
-                </tr>
-              </thead>
-              <tbody>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/usd">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-us fib"></i>
-                        </div>
-                        <div>دولار أمريكي</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">52.5</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">53.22</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">52.85 - 53.49</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/eur">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-eu fib"></i>
-                        </div>
-                        <div>يورو</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">61.91</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">62.76</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">62.32 - 63.07</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/sar">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-sa fib"></i>
-                        </div>
-                        <div>ريال سعودي</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">13.89</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">14.08</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">13.98 - 14.15</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/kwd">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-kw fib"></i>
-                        </div>
-                        <div>دينار كويتي</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">170.4</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">172.79</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">171.5 - 173.6</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/aed">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-ae fib"></i>
-                        </div>
-                        <div>درهم اماراتي</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">14.19</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">14.38</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">14.28 - 14.45</div>
-                  </td>
-                </tr>
-                
-  
-              </tbody>
-            </table>]]></description>
-			<pubDate>Sun, 10 May 2026 18:32:04 +0300</pubDate>
-			<guid isPermaLink="false">1778427135096482</guid>
 		</item>
 
 	</channel>
