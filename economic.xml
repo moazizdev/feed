@@ -4,10 +4,313 @@
 		<title>اقتصاد</title>
 		<link>http://192.168.1.50:8081/api/query.php?user=admin&amp;t=4IzCA6HFSoouCSR9nVqNkV&amp;f=html</link>
 		<description>RSS feed of اقتصاد</description>
-		<pubDate>Fri, 15 May 2026 05:00:02 +0300</pubDate>
-		<lastBuildDate>Fri, 15 May 2026 02:00:02 GMT</lastBuildDate>
+		<pubDate>Fri, 15 May 2026 05:05:02 +0300</pubDate>
+		<lastBuildDate>Fri, 15 May 2026 02:05:02 GMT</lastBuildDate>
 		<atom:link href="http://192.168.1.50:8081/api/query.php?user=admin&amp;t=4IzCA6HFSoouCSR9nVqNkV&amp;f=rss" rel="self" type="application/rss+xml" />
 				<item>
+			<title>أسعار العملات في مصر</title>
+			<link>https://realegp.com/</link>
+						<description><![CDATA[<table data-sanitized-class="table currencies-table">
+              <thead>
+                <tr data-sanitized-class="thick-border">
+                  <th data-sanitized-class="text-end">العملة</th>
+                  <th>سعر البنك</th>
+                  <th>
+                    <div>سعر السوق</div>
+                    <div data-sanitized-class="range">من - إلى</div>
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/usd">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-us fib"></i>
+                        </div>
+                        <div>دولار أمريكي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">52.83</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">53.51</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">53.14 - 53.78</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/eur">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-eu fib"></i>
+                        </div>
+                        <div>يورو</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">61.58</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">62.37</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">61.93 - 62.68</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/sar">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-sa fib"></i>
+                        </div>
+                        <div>ريال سعودي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">13.98</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">14.16</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">14.06 - 14.23</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/kwd">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-kw fib"></i>
+                        </div>
+                        <div>دينار كويتي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">171.5</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">173.73</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">172.5 - 174.6</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/aed">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-ae fib"></i>
+                        </div>
+                        <div>درهم اماراتي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">14.28</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">14.46</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">14.36 - 14.53</div>
+                  </td>
+                </tr>
+                
+  
+              </tbody>
+            </table>]]></description>
+			<pubDate>Fri, 15 May 2026 05:02:03 +0300</pubDate>
+			<guid isPermaLink="false">1778810523953196</guid>
+		</item>
+		<item>
+			<title>أسعار الذهب في مصر</title>
+			<link>https://realegp.com/</link>
+						<description><![CDATA[<table data-sanitized-class="table currencies-table">
+              <thead>
+                <tr data-sanitized-class="thick-border">
+                  <th data-sanitized-class="text-end">الذهب</th>
+                  <th>
+                    <div>متوسط السعر</div>
+                    <div data-sanitized-class="range">من - إلى</div>
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/18k">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <img src="https://realegp.com/static/img/gold.png">
+                        
+                        <div>ذهب عيار 18</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">5940</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">5927 - 5953</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/21k">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <img src="https://realegp.com/static/img/gold.png">
+                        
+                        <div>ذهب عيار 21</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">6930</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">6915 - 6945</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/24k">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <img src="https://realegp.com/static/img/gold.png">
+                        
+                        <div>ذهب عيار 24</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">7920</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">7903 - 7937</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/pound">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <i data-sanitized-class="bi bi-currency-pound"></i>
+                        
+                        <div>جنيه الذهب</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">55440</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">55320 - 55560</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/usdsagha">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <i data-sanitized-class="bi bi-coin"></i>
+                        
+                        <div>دولار الصاغة</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">53.47</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">53.35 - 53.58</div>
+                  </td>
+                </tr>
+                
+  
+              </tbody>
+            </table>]]></description>
+			<pubDate>Fri, 15 May 2026 05:02:03 +0300</pubDate>
+			<guid isPermaLink="false">1778810523953195</guid>
+		</item>
+		<item>
 			<title>أسعار العملات في مصر</title>
 			<link>https://realegp.com/</link>
 						<description><![CDATA[<table data-sanitized-class="table currencies-table">
@@ -2456,119 +2759,6 @@
 				</div>]]></description>
 			<pubDate>Thu, 14 May 2026 15:32:20 +0300</pubDate>
 			<guid isPermaLink="false">1778761954637421</guid>
-		</item>
-		<item>
-			<title>مركز الملاذ الآمن: استقرار أسعار الفضة في مصر عند 136 جنيهًا رغم تحركات الأونصة قرب 87 دولارًا عالميًا</title>
-			<link>https://market.isagha.com/articles/2232</link>
-						<media:thumbnail url="https://cdn.isagha.net/public/files/pDEIoW8C6EqHk8Sqa8be8oPz4JAKWcMayKCuQhVI.jpg" />
-			<media:content url="https://cdn.isagha.net/public/files/pDEIoW8C6EqHk8Sqa8be8oPz4JAKWcMayKCuQhVI.jpg" medium="image"></media:content>
-			<description><![CDATA[<div data-sanitized-class="content-article">
-					<p></p><p>شهدت أسعار الفضة في مصر حالة من الاستقرار النسبي خلال تعاملات اليوم الأربعاء 13 مايو 2026، رغم استمرار التقلبات القوية التي تسيطر على أسواق المعادن عالميًا، خاصة بعد الارتفاعات التاريخية التي سجلتها أسعار النحاس بدعم...</p>
-					<a href="https://market.isagha.com/articles/2232" data-sanitized-class="read-more">تابع القراءة</a>
-				</div>]]></description>
-			<pubDate>Thu, 14 May 2026 15:32:20 +0300</pubDate>
-			<guid isPermaLink="false">1778761954637420</guid>
-		</item>
-		<item>
-			<title>اكتشاف بترولي جديد.. هل يهمنا ذلك في شيء؟</title>
-			<link>https://almanassa.com/stories/31373</link>
-						<media:thumbnail url="https://almanassa.com/sites/default/files/styles/lead_image_square/public/photobank/2026/82b70698-ccb6-4e63-b1e3-ab873709d95f.jpg.webp?itok=xmLKoXo2" />
-			<media:content url="https://almanassa.com/sites/default/files/styles/lead_image_square/public/photobank/2026/82b70698-ccb6-4e63-b1e3-ab873709d95f.jpg.webp?itok=xmLKoXo2" medium="image"></media:content>
-			<description><![CDATA[<!-- FULLCONTENT start //--><div data-sanitized-class="columns small-12 table-scroll">
-							<p>بطريقةٍ احتفاليةٍ، تتوالى <a href="https://www.petroleum.gov.eg/ar-eg/media-center/news/news-pages/Pages/mop_07042026_01.aspx">إعلانات</a> وزارة البترول والثروة المعدنية عن اكتشافات جديدة؛ حقل غاز هنا وكشف زيت هناك، زيادة إنتاج بئر نفط أو <a href="https://www.vetogate.com/5648194">تصريحات</a> مسؤولين عن الاقتراب من الاكتفاء الذاتي.</p>
-
-<p>لكن كلَّ هذا لا يترجم إلى نتائج على أرض الواقع، بل على العكس <a href="https://attaqa.net/2026/04/21/%D8%A5%D9%86%D8%AA%D8%A7%D8%AC-%D9%85%D8%B5%D8%B1-%D9%85%D9%86-%D8%A7%D9%84%D8%BA%D8%A7%D8%B2-%D9%8A%D9%87%D8%A8%D8%B7-%D9%84%D8%A3%D9%82%D9%84-%D9%85%D9%86-3-9-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D9%82/">تكشف</a>ُ المؤشرات أن إنتاج الغاز هذا العام هو الأقل منذ 2023، بينما تشير <a href="https://www.facebook.com/AsharqbEGY/posts/-%D8%A5%D9%86%D8%AA%D8%A7%D8%AC-%D9%85%D8%B5%D8%B1-%D9%85%D9%86-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%B9%D9%86%D8%AF-%D8%A3%D8%AF%D9%86%D9%89-%D9%85%D8%B3%D8%AA%D9%88%D9%89-%D9%85%D9%86%D8%B0-47-%D8%B9%D8%A7%D9%85%D9%8B%D8%A7%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D8%A5%D9%86%D8%AA%D8%A7%D8%AC-%D9%85%D8%B5%D8%B1-%D8%A7%D9%84%D9%86%D9%81%D8%B7%D9%8A-%D8%A5%D9%84%D9%89-507-%D8%A2%D9%84/803499145772337/">بيانات</a> أخرى إلى أن إنتاج البترول في 2025 هو الأدنى منذ 1987.</p>
-
-<p>السر وراء هذا التناقض أن معظم الاكتشافات الأخيرة تُصنّف ضمن الآبار الصغيرة، كما أن احتياطات الغاز التي يُعلن عنها ضئيلة للغاية مقارنة بحقل <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="a292a221-ba1f-4b2c-9a62-264109fad576" href="https://almanassa.com/stories/29778" title='لا تحلموا بـ"ظُهر" جديد فـ"إيني" لا تعد بمعجزات'>ظهر</a> الذي ساعد عام 2019 في تحقيق الاكتفاء الذاتي لبضعة أشهر.</p>
-
-<p>وبسبب <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="28b31142-79e2-4b63-a6a9-c9e06f7ce27c" href="https://almanassa.com/stories/21189" title='هل تُجنِّبنا خطة "بدوي" أزمة صيف مظلم في 2025؟ '>تراجع</a> إنتاج الغاز منذ 2023، اضطرت البلاد الاعتماد على الاستيراد لجبر عجز <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="596e6ebe-9627-4b91-800c-da8895efd526" href="https://almanassa.com/stories/27835" title="التعافي الهش.. هل بدأنا نستعيد استثمارات الطاقة الأجنبية؟">يقدِّر</a> بنحو 1.2 مليار قدم مكعب يوميًا.</p>
-
-<h2>هل العدد في الليمون؟</h2>
-
-<p>يعكس حصر أجرته <strong>المنصة</strong> من البيانات الصادرة عن وزارة البترول، إعلان الوزارة عن 24 كشفًا جديدًا في مجالي البترول والغاز بين 2023 -2026، معظمها اكتشافات زيت (67%)، والنسبة الأقل لصالح الغاز.</p>
-
-<p>تتركز اكتشافات الزيت الخام بنسبة 55% في الصحراء الغربية، و25% في خليج السويس، و20% في سيناء. ويؤكد مصدر مطلع على تلك الاستشكافات بالوزارة، لـ <strong>المنصة</strong> أن هذه الاكتشافات على تعددها، محدودة الأثر، فمعظمها صغيرة الحجم وتتركز في تنمية حقول قائمة وليست حقولًا جديدة.</p>
-
-<p>وبينما <a href="https://almanassa.com/node/27239">تكرر</a> الحكومة حديثها عن تطلعها لتحقيق الاكتفاء الذاتي في المنتجات البترولية، لكنها لم تصل لهذا الهدف بسبب محدودية طاقات التكرير وعدم توافر البترول الخام بالكميات الكافية.</p>
-
-<p>لا يختلف الوضع كثيرًا على صعيد الغاز، فالاكتشافات لا تزال محدودة، وهو ما يُرجعه المصدر، الذي فضل عدم نشر اسمه، إلى تأثير أزمة الدولار على رغبة الشركات الأجنبية في الاستثمار بأعمال الاستخراج، وإن كانت الحكومة تداركت هذه المشكلة مؤخرًا بالاتجاه لسداد مستحقات الأجانب.</p>
-
-<p>وعانت مصر من أزمة نقص السيولة الأجنبية خلال الفترة من 2022-2023، <a href="https://www.alarabiya.net/aswaq/videos/aswaq1830/2022/05/15/20-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D8%A3%D9%85%D9%88%D8%A7%D9%84-%D8%B3%D8%A7%D8%AE%D9%86%D8%A9-%D8%AA%D8%BA%D8%A7%D8%AF%D8%B1-%D9%85%D8%B5%D8%B1-%D9%85%D9%86%D8%B0-%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85">بسبب</a> الخروج السريع للاستثمارات الأجنبية من أدوات الدين المحلية تحت ضغوط مخاطر الحرب الروسية الأوكرانية، وتحسنت أحوال السيولة منذ 2024 بعد خطة إنقاذ ضخمة شاركت فيها <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="9f41fd18-af21-4e63-a517-3646c67a34a9" href="https://almanassa.com/news/16361" title='مدبولي: "الصفقة الكبرى" في رأس الحكمة وقيمتها 35 مليار دولار'>الإمارات</a> و<a href="https://almanassa.com/node/16998">الاتحاد الأوروبي</a> مع <a href="https://almanassa.com/node/16563">صندوق النقد الدولي</a> ومؤسسات تمويلية أخرى. بينما تراكمت مديونيات الشركات الأجنبية العاملة في مجال النفط خلال أزمة الدولار <a href="https://english.ahram.org.eg/NewsContent/3/12/560941/Business/Economy/Egypt-paid--bln-in-arrears-to-foreign-oil-companie.aspx">لتصل</a> إلى 6.1 مليار دولار في 2024، لكن الدولة كثفت جهودها للانتهاء من <a href="https://almanassa.com/node/31353">سدادها</a> بحلول يوليو/تموز المقبل.</p>
-
-<div data-sanitized-class="embed-media embed-media--rich-flourish"><div><iframe src="https://flo.uri.sh/visualisation/28951043/embed" allowfullscreen="" title="Untitled Visualization" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" sandbox="allow-scripts allow-same-origin"></iframe></div></div><aside data-sanitized-class="caption"><em>حصر باكتشافات البترول والغاز بين 2023-2026 من بيانات جمعتها المنصة من قطاع الاستشكافات بوزارة البترول</em></aside><hr><h2>"دينيس" نجم المرحلة </h2>
-
-<p>مع اعتراف المصدرِ بمحدودية الاكتشافات المعلنة مؤخرًا من حيث الحجم، فإنها تحمل دلالات اقتصادية واستثمارية مهمة، تعكس استعادة ثقة الشركات العالمية ودفعها لاستئناف برامج البحث والتنمية، ضاربًا المثل باكتشاف شركة إيني الإيطالية لحقل "دينيس غرب" هذا العام، ما أعاد الآمال في الاكتشافات الكبيرة نسبيًا.</p>
-
-<p>و<a href="https://x.com/AlArabiya_Bn/status/2041472446235120106">أعلنت</a> وزارة البترول في أبريل/نيسان الماضي أن البئر الاستكشافية "دينيس غرب 1"، التي حفرتها إيني بمنطقة امتياز تمساح قبالة سواحل بورسعيد، تتمتع باحتياطات تقدر بنحو تريليوني قدم مكعب من الغاز و130 مليون برميل متكثفات.</p>
-
-<p>ورغم أن هذه الاحتياطات ضِعف اكتشافات الغاز الطبيعي المعلن عنها سابقًا، فإنها تبدو ضئيلةً مُقارنةً بحقل ظُهر، الذي اكتشفته إيني أيضًا قرب بورسعيد، وبلغت <a href="https://portsaid.gov.eg/NationalProject/details/122">احتياطاته</a> 30 تريليون قدم مكعب من الغاز.</p>
-
-<div data-sanitized-class="embed-media embed-media--rich-flourish"><div><iframe src="https://flo.uri.sh/visualisation/28903938/embed" allowfullscreen="" title="Untitled Visualization" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" sandbox="allow-scripts allow-same-origin"></iframe></div></div><aside data-sanitized-class="caption">رسم من إعداد المنصة لاحتياطات ثلاث آبار غاز اكتشفتها مصر مؤخرًا </aside><hr><p>بدوره، ينوه نائب رئيس هيئة البترول الأسبق صلاح حافظ لـ <strong>المنصة </strong>بأهمية كشف<strong> </strong>حقل "دينيس غرب" باعتباره الأبرز، لافتًا إلى أن باقي الإعلانات تدور في معظمها حول حقول قائمة بالفعل.</p>
-
-<p>يوضح حافظ أن أهمية "دينيس غرب" تشمل سهولة ظروف التشغيل، إذ يقع في أعماق مياه أقل، ما يسمح بتنفيذ عمليات التنمية عبر منصات أرضية، عكس حقل "ظهر" في المياه العميقة، الذي تطلّب استثمارات وتكلفة تشغيلية أعلى بكثير.</p>
-
-<blockquote>
-<p>تعد الصحراء الغربية العمود الفقري لإنتاج الزيت الخام في مصر</p>
-</blockquote>
-
-<p>اللافت في اكتشافات البترول الأخيرة، بالأخص خلال أزمة الدولار وركود الشركات الأجنبية، بروز نشاط شركتي خالدة وعجيبة المحليتين. ويؤكد الخبير البترولي محمد عطية لـ<strong> المنصة</strong> أن شركات الإنتاج المصرية الأجنبية لعبت دورًا محوريًا في دعم قطاع البترول المصري خلال السنوات الأخيرة، خاصة في ظل التحديات المرتبطة بتراكم مستحقات الشركاء الأجانب وتأثيرها على خطط الاستثمار والإنتاج.</p>
-
-<p>و<a href="https://www.elmostqpalelyuom.com/27034">تأسست</a> شركتا <a href="https://www.elmostqpalelyuom.com/27034">خالدة</a> و<a href="https://petro-news.com/8088/">عجيبة</a> للبترول خلال ثمانينيات القرن الماضي كشركتين مشتركتين بين الهيئة المصرية العامة للبترول وأباتشي الأمريكية وإيني الإيطالية، وتعدان من أكبر شركات الإنتاج في الصحراء الغربية، وهي المنطقة التي تمثل العمود الفقري لإنتاج الزيت الخام في مصر، "ما جعل أداءهما  عنصرًا حاسمًا في مواجهة الضغوط التمويلية التي واجهها القطاع خلال فترات تأخر سداد المستحقات"، كما قال عطية.</p>
-
-<h2>هل نتفاءل بالمستقبل؟</h2>
-
-<p>تدفع الفجوة بين الإنتاج والاستهلاك نحو بدائلَ أكثر تكلفة، على رأسها <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="2b1f4a6b-a29d-4395-916e-bd9f923ae8af" href="https://almanassa.com/news/24565" title="تصل تكلفة إيجارها لـ9 ملايين دولار شهريًا.. لماذا تحتاج مصر 4 سفن تغويز؟">استيراد</a> الغاز المسال، وهو ما زادت وتيرته خلال الحربين على غزة وإيران بسبب <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="33f9604c-c7ea-40e5-9db5-4b7482e3c5f5" href="https://almanassa.com/stories/26247" title="اتفاق الغاز مع إسرائيل.. مخاطر أكبر من المكاسب ">انقطاعات</a> في توريد الغاز الإسرائيلي في هذه الأحداث.</p>
-
-<p>وتعكس بيانات <a href="https://www.cbe.org.eg/ar/news-publications/news/2026/04/14/11/52/press-release-bop-performance-during-the-first-half-of--fy-2025-2026">النصف الأول</a> من 2025-2026 تفاقم هذه الواردات، لتصل إلى 11.5 مليار دولار (يوليو  - ديسمبر 2025) مقارنة بـ9.6 مليار دولار خلال الفترة نفسها من العام المالي الماضي، من ثم <a href="https://www.vetogate.com/5650102">تمثل</a> فاتورة الاستيراد الكبيرة مبررًا قويًا للحكومة لزيادات أسعار الطاقة، وآخرها <a href="https://www.almasdar.com/167933">زيادة</a> أسعار الوقود في مارس/آذار الماضي.</p>
-
-<p>ورغم محدودية الاكتشافات الأخيرة، فإن عطية يتوقع ظهور تأثيرها تدريجيًّا، سواء في تقليل الفجوة بين الإنتاج والاستهلاك أو في دعم خطط التوسع المستقبلية.</p>
-
-<p>يتفق المصدر بالبترول في أن الفترة المقبلة ستشهد ظهور أثر الاكتشافات الأخيرة، ويلفت إلى أن الحقل يستغرق عادةً من ثلاث إلى أربع سنوات للوصول إلى ذروة الإنتاج قبل أن يبدأ في التراجع التدريجي، مشيرًا إلى أن إنتاج "دينيس" سيصل لذروته عند 400 مليون قدم مكعب يوميًا ما يجعله أحد الإسهامات المهمة في عملية الإنتاج بمصر.</p>
-
-
-<div data-embed-button="almanassa_story_browser" data-entity-embed-display="view_mode:node.read_also" data-entity-type="node" data-entity-uuid="a292a221-ba1f-4b2c-9a62-264109fad576" data-langcode="ar" data-entity-embed-display-settings="[]" data-sanitized-class="embedded-entity">
-	<article data-history-node-id="29778" role="article" about="/stories/29778" data-sanitized-id="node-29778" data-sanitized-class="view-mode--read-also type-story"><div data-sanitized-class="row">
-		<a href="https://almanassa.com/stories/29778" almanassa-posthog-link="" data-ph-capture-attribute-link-type="story" data-ph-capture-attribute-link-id="29778" data-ph-capture-attribute-link-title='لا تحلموا بـ"ظُهر" جديد فـ"إيني" لا تعد بمعجزات' data-ph-capture-attribute-link-section="اقتصاد وعمران" data-ph-capture-attribute-link-view-mode="read_also" data-sanitized-class="columns small-12 medium-6">
-			<hr data-sanitized-class="embed-divider"><div data-sanitized-class="h3">اقرأ أيضا</div>
-			
-			<div data-sanitized-class="h2">
-				<span>لا تحلموا بـ"ظُهر" جديد فـ"إيني" لا تعد بمعجزات</span>
-
-			</div>
-			
-			<hr data-sanitized-class="embed-divider"></a>
-	</div>
-</article></div>
-<p>يؤيد المصدر الإعلان المتسارع عن الاكتشافات بما يمثل رسائل طمأنة للأسواق العالمية وشركات الطاقة بأن مصر ماضية في تحسين مناخ الاستثمار وتسوية التزاماتها المالية، ويعزز من فرص البلاد في جذب المزيد من الاستثمارات الأجنبية لهذا القطاع، ومن ثم زيادة الاستخراجات.</p>
-
-<p>ورغم هذا التفاؤل البادي من حديثه، فإننا لا نملك بعد إجابةً: هل ستعكس الكشوفات الجديدة نتائجَ ظاهرة للعيان، سواءً بالزيادة في إنتاجنا أو حسمًا من فاتورة استيرادنا؟</p>
-						<div data-sanitized-id="topic-file-stories">
-			<div data-sanitized-class="views-element-container">		<div almanassa-posthog-link-source="" data-almanassa-posthog-link-source="Story Topic File Stories List" data-almanassa-posthog-link-source-type="topic_files" data-almanassa-posthog-link-source-id="embed_story_topic_file" data-sanitized-class="js-view-dom-id-230e884934410a1f95e6b4569d7cb09e729e7db425fca9171739b7bbd07e8628">
-		
-		
-		
-
-		
-		
-		
-		
-
-		
-		
-		
-
-		
-		
-
-		
-		
-	</div>
-</div>
-
-			</div>
-		</div><!-- FULLCONTENT end //-->]]></description>
-			<pubDate>Thu, 14 May 2026 15:32:16 +0300</pubDate>
-			<guid isPermaLink="false">1778761954637419</guid>
 		</item>
 
 	</channel>
