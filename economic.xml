@@ -4,10 +4,313 @@
 		<title>اقتصاد</title>
 		<link>http://192.168.1.50:8081/api/query.php?user=admin&amp;t=4IzCA6HFSoouCSR9nVqNkV&amp;f=html</link>
 		<description>RSS feed of اقتصاد</description>
-		<pubDate>Mon, 25 May 2026 06:00:03 +0300</pubDate>
-		<lastBuildDate>Mon, 25 May 2026 03:00:03 GMT</lastBuildDate>
+		<pubDate>Mon, 25 May 2026 06:05:03 +0300</pubDate>
+		<lastBuildDate>Mon, 25 May 2026 03:05:03 GMT</lastBuildDate>
 		<atom:link href="http://192.168.1.50:8081/api/query.php?user=admin&amp;t=4IzCA6HFSoouCSR9nVqNkV&amp;f=rss" rel="self" type="application/rss+xml" />
 				<item>
+			<title>أسعار العملات في مصر</title>
+			<link>https://realegp.com/</link>
+						<description><![CDATA[<table data-sanitized-class="table currencies-table">
+              <thead>
+                <tr data-sanitized-class="thick-border">
+                  <th data-sanitized-class="text-end">العملة</th>
+                  <th>سعر البنك</th>
+                  <th>
+                    <div>سعر السوق</div>
+                    <div data-sanitized-class="range">من - إلى</div>
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/usd">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-us fib"></i>
+                        </div>
+                        <div>دولار أمريكي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">52.17</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">52.93</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">52.56 - 53.19</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/eur">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-eu fib"></i>
+                        </div>
+                        <div>يورو</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">60.73</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">61.61</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">61.18 - 61.92</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/sar">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-sa fib"></i>
+                        </div>
+                        <div>ريال سعودي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">13.8</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">14.0</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">13.9 - 14.07</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/kwd">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-kw fib"></i>
+                        </div>
+                        <div>دينار كويتي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">169.3</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">171.85</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">170.6 - 172.7</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/aed">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-ae fib"></i>
+                        </div>
+                        <div>درهم اماراتي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">14.1</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">14.31</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">14.21 - 14.38</div>
+                  </td>
+                </tr>
+                
+  
+              </tbody>
+            </table>]]></description>
+			<pubDate>Mon, 25 May 2026 06:02:22 +0300</pubDate>
+			<guid isPermaLink="false">1779678142277252</guid>
+		</item>
+		<item>
+			<title>أسعار الذهب في مصر</title>
+			<link>https://realegp.com/</link>
+						<description><![CDATA[<table data-sanitized-class="table currencies-table">
+              <thead>
+                <tr data-sanitized-class="thick-border">
+                  <th data-sanitized-class="text-end">الذهب</th>
+                  <th>
+                    <div>متوسط السعر</div>
+                    <div data-sanitized-class="range">من - إلى</div>
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/18k">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <img src="https://realegp.com/static/img/gold.png">
+                        
+                        <div>ذهب عيار 18</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">5833</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">5820 - 5846</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/21k">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <img src="https://realegp.com/static/img/gold.png">
+                        
+                        <div>ذهب عيار 21</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">6805</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">6790 - 6820</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/24k">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <img src="https://realegp.com/static/img/gold.png">
+                        
+                        <div>ذهب عيار 24</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">7777</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">7760 - 7794</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/pound">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <i data-sanitized-class="bi bi-currency-pound"></i>
+                        
+                        <div>جنيه الذهب</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">54440</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">54320 - 54560</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/usdsagha">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <i data-sanitized-class="bi bi-coin"></i>
+                        
+                        <div>دولار الصاغة</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">52.99</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">52.87 - 53.1</div>
+                  </td>
+                </tr>
+                
+  
+              </tbody>
+            </table>]]></description>
+			<pubDate>Mon, 25 May 2026 06:02:22 +0300</pubDate>
+			<guid isPermaLink="false">1779678142277251</guid>
+		</item>
+		<item>
 			<title>أسعار العملات في مصر</title>
 			<link>https://realegp.com/</link>
 						<description><![CDATA[<table data-sanitized-class="table currencies-table">
@@ -2774,269 +3077,6 @@
             </table>]]></description>
 			<pubDate>Sun, 24 May 2026 15:02:24 +0300</pubDate>
 			<guid isPermaLink="false">1779624151949953</guid>
-		</item>
-		<item>
-			<title>الانتصارات الوهمية لترامب في الصين</title>
-			<link>https://almanassa.com/stories/32027</link>
-						<media:thumbnail url="https://almanassa.com/sites/default/files/styles/lead_image_square/public/photobank/2026/20f549ba-925f-4b80-a41a-7813eb04cdb6.png.webp?itok=j6I6jGtW" />
-			<media:content url="https://almanassa.com/sites/default/files/styles/lead_image_square/public/photobank/2026/20f549ba-925f-4b80-a41a-7813eb04cdb6.png.webp?itok=j6I6jGtW" medium="image"></media:content>
-			<description><![CDATA[<!-- FULLCONTENT start //--><div data-sanitized-class="columns small-12 table-scroll">
-							<p>"كل ما يمكنني قوله إنها كانت نجاحًا عظيمًا"؛ هكذا <a href="https://www.youtube.com/shorts/gROY9_gPA4Q">علَّق</a> الرئيس الأمريكي دونالد ترامب على زيارته إلى الصين.</p>
-
-<p>يحاول ترامب إقناع مؤيديه بأنه خرج منتصرًا من الزيارة <a href="https://www.bbc.com/arabic/articles/cevp2dngpgro">الأولى</a> لرئيس أمريكي منذ عام 2017، عبر الترويج لعدد من الاتفاقات التي أبرمها مع بكين، مثل التزامها بشراء <a href="https://arabic.rt.com/business/1790065-%D8%A7%D9%84%D8%B5%D9%8A%D9%86-%D8%AA%D8%B4%D8%AA%D8%B1%D9%8A-%D9%85%D9%86%D8%AA%D8%AC%D8%A7%D8%AA-%D8%B2%D8%B1%D8%A7%D8%B9%D9%8A%D8%A9-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9-%D8%A8%D9%82%D9%8A%D9%85%D8%A9-17-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D8%B3%D9%86%D9%88%D9%8A%D8%A7-%D8%AD%D8%AA%D9%89-%D8%B9%D8%A7%D9%85-2028/amp/">منتجات</a> زراعية من بلاده بـ17 مليار دولار <a href="https://www.alarabiya.net/aswaq/companies/2026/05/14/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%84%D9%80%D9%81%D9%88%D9%83%D8%B3-%D9%86%D9%8A%D9%88%D8%B2-%D8%A7%D9%84%D8%B5%D9%8A%D9%86-%D8%B3%D8%AA%D8%B7%D9%84%D8%A8-200-%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9-%D8%A8%D9%88%D9%8A%D9%86%D8%BA">وشراء</a> 200 طائرة بوينج أيضًا.</p>
-
-<p>لكن المراقب لصراع الولايات المتحدة والصين، يدرك أن ترامب بات محاصرًا بخطابه المغرق في التفاؤل وادعاء الانتصار، ومثلما تقبض إيران على يده عبر غلق مضيق هرمز، تمسك الصين باليد الأخرى وتمنعها من إعاقة مشروعها المتطور للمنافسة في سوق الرقائق الإلكترونية.</p>
-
-<h2>جذور الصراع الأمريكي الصيني</h2>
-
-<figure role="group" data-sanitized-class="align-left"><div data-embed-button="almanassa_media_browser" data-entity-embed-display="view_mode:media.embed" data-entity-type="media" data-entity-uuid="a62492d6-45d0-433d-b80d-d0f2f85e80d2" data-langcode="ar" data-entity-embed-display-settings="[]" data-sanitized-class="embedded-entity">
-	    <picture><source media="all and (min-width: 1440px)" type="image/webp"><source media="all and (min-width: 641px)" type="image/webp"><source type="image/webp"><img src="https://almanassa.com/sites/default/files/styles/max_650x650/public/photobank/2026/a62492d6-45d0-433d-b80d-d0f2f85e80d2.jpeg.webp?itok=Mpg2Dk8o" alt="" typeof="foaf:Image"></picture><aside data-sanitized-class="media--management-links"><ul></ul></aside><aside data-sanitized-class="caption credits">حساب المتحدث باسم وزارة الخارجية الصينية على إكس</aside></div>
-<figcaption>الرئيس الصيني شي جين بينج أثناء استقباله نظيره الأمريكي دونالد ترامب في بكين</figcaption></figure><p>خلافاً لما يظنه الكثيرون، فإن الحرب التجارية بين الولايات المتحدة والصين لم تبدأ في ولاية ترامب الثانية، إنما تعود إلى ولايته الأولى، عندما استهدف<a href="https://www.congress.gov/crs-product/R48642"> الحد من صادرات</a> الشركات الأمريكية من الرقائق عالية التقنية إلى الصين بدءًا من 2018. كانت تلك أول خطوة نحو تقييد قدرة الشركات الصينية على استخدام تلك التكنولوجيا في قطاعات مرتبطة بصناعات الحساسية خاصة في مجالي الذكاء الاصطناعي وتعلم الآلات Machine learning.</p>
-
-<p>كان الهدف المعلن آنذاك منع نفاذ الحكومة الصينية إلى تكنولوجيا قد تستخدم أمنيًّا وعسكريًّا ضد مصالح الولايات المتحدة، لكن ثمة هدف آخر أعم وأشمل هو منع الصين من إنتاج الرقائق الإلكترونية في المستقبل، التي لا تزال حكرًا على بلدان صديقة وتابعة للولايات المتحدة.</p>
-
-<p>سار بايدن على الطريق نفسه من خلال تبني ما يُعرف <a href="https://www.alarabiya.net/aswaq/economy/2025/01/15/%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%A8%D8%A7%D9%8A%D8%AF%D9%86-%D9%84%D9%84%D8%B1%D9%82%D8%A7%D8%A6%D9%82-%D9%8A%D8%B9%D8%B2%D8%B2-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%A7%D8%AC-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A-%D8%A8%D8%AA%D9%83%D9%84%D9%81%D8%A9-%D8%A8%D8%A7%D9%87%D8%B8%D8%A9">بقانون الرقائق</a> الذي حظي في <a href="https://www.npr.org/2022/07/26/1113470753/chip-production-semiconductor-senate">2022</a> بأغلبية أصوات من أعضاء الحزبين الديمقراطي والجمهوري، الذي استهدف توطين صناعة الرقائق في الولايات المتحدة.</p>
-
-<p>في فترته الثانية لم يكتف ترامب باستئناف ما بدأه - وأكمله الديمقراطيون- بل وسع استهداف الصين إلى شن <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="7e9c0c50-813b-40b5-92d4-a0df8b3c7c4b" href="https://almanassa.com/news/22120" title="تداعيات حرب ترامب التجارية.. أوروبا تتوعد وكندا تلجأ لمنظمة التجارة العالمية">حرب تجارية</a> عارمة بهدف تخفيض العجز التجاري الأمريكي، وكان هذا بالتزامن مع <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="6ce4a1da-321e-49ce-8c37-819249147e4a" href="https://almanassa.com/stories/23259" title='حرب ترامب "المجنونة" على التجارة.. فتش عن  النظرية'>رفع التعريفات الجمركية </a>على مختلف شركاء الولايات المتحدة التجاريين وليس الصين فحسب كما نعرف جميعًا.</p>
-
-<h2>هل انتصر ترامب؟ </h2>
-
-<p>كل الضجيج الذي أحدثه ترامب لم يثمر تقريبًا شيئًا ملموسًا، بالتالي لا تختلف تصريحاته الأخيرة عن الصين كثيرًا عن الانتصارات الوهمية التي يرى أنه حققها في إيران.</p>
-
-<p>على صعيد الحرب التجارية اضطر ترامب للتراجع عدة مرات في مواجهة إجراءات صينية عكسية استهدفت بدورها حلقات حساسة في قطاعات التكنولوجية تتعلق<a href="https://www.dw.com/ar/%D8%A7%D9%84%D8%B5%D9%8A%D9%86-%D8%AA%D8%B9%D9%84%D9%91%D9%82-%D8%AD%D8%B8%D8%B1-%D8%AA%D8%B5%D8%AF%D9%8A%D8%B1-%D9%85%D8%B9%D8%A7%D8%AF%D9%86-%D9%86%D8%A7%D8%AF%D8%B1%D8%A9-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%25A"> </a>ب<a href="https://arabic.cnn.com/world/article/2026/05/14/us-china-rare-earth-production-infographic">المعادن النادرة،</a> التي <a href="https://www.dw.com/ar/%D9%87%D9%84-%D9%8A%D8%B3%D8%AA%D8%B7%D9%8A%D8%B9-%D8%A7%D9%84%D8%BA%D8%B1%D8%A8-%D9%83%D8%B3%D8%B1-%D8%A7%D8%AD%D8%AA%D9%83%D8%A7%D8%B1-%D8%A7%D9%84%D8%B5%D9%8A%D9%86-%D8%A5%D9%86%D8%AA%D8%A7%D8%AC-%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%AF%D9%86-%D8%A7%D9%84%D9%86%D8%A7%D8%AF%D8%B1%D8%A9/a-74528270">تحتكر </a>الصين إنتاج أغلبها. وأقصى ما خرج به هو إعلانه خلال الزيارة الأخيرة عن أن الصين <a href="https://arabic.rt.com/business/1790106-%D8%A8%D9%8A%D8%A7%D9%86-%D9%85%D9%86-%D8%A7%D9%84%D8%A8%D9%8A%D8%AA-%D8%B9%D9%86-%D8%A7%D9%84%D8%B5%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%AF%D9%86-%D8%A7%D9%84%D8%A3%D8%B1%D8%B6%D9%8A%D8%A9-%D8%A7%D9%84%D9%86%D8%A7%D8%AF%D8%B1%D8%A9/amp/">ستنظر</a> في مخاوف الولايات المتحدة بشأن نقص المعادن الأرضية النادرة.</p>
-
-<blockquote>
-<p> سمح حظر التصدير بتعميق هذه الصناعة في الصين نفسها تحت حماية ودعم واسعين من قبل الحكومة</p>
-</blockquote>
-
-<p>لم تمنع الحرب التجارية الصين من أن تجد شركاء تجاريين آخرين تحقق معهم فائضًا تجاريًّا كبيرًا، إذ ولدت في 2025 أكبر <a href="https://almalnews.com/2093847/%D8%A7%D9%84%D8%B5%D9%8A%D9%86-%D8%AA%D8%AD%D9%82%D9%82-%D8%A3%D9%83%D8%A8%D8%B1-%D9%81%D8%A7%D8%A6%D8%B6-%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A-%D9%81%D9%8A-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%87%D8%A7/">فائض تجاري</a> مع العالم في تاريخها - وتاريخ العالم- بمقدار 1.2 تريليون دولار على الرغم من تراجع تجارتها نسبيًّا مع الولايات المتحدة.</p>
-
-<p>وأتى حظر تصدير الرقائق بنتائج عكسية، فقد سمح للمفارقة <a href="https://www.csis.org/analysis/chinas-localization-drive-semiconductors-gains-impetus-allied-chip-export-controls">بتعميق</a> هذه الصناعة في الصين نفسها تحت حماية ودعم واسعين من قبل الحكومة ما قفز بنصيب الصين من إجمالي <a href="https://www.semiconductors.org/chinas-share-of-global-chip-sales-now-surpasses-taiwan-closing-in-on-europe-and-japan/?utm_source=chatgpt.com">إنتاج الرقائق </a>من أقل من 10% في 2020 إلى 21% في 2024.</p>
-
-<h2>مستقبل الصراع الأمريكي الصيني </h2>
-
-<p>بالرغم من هذه النجاحات والاختراقات التي تحققت في فترة زمنية قصيرة، فإن طريق الصين في هذا المضمار ليس معَّبدًا بالضرورة، إذ إن الإنجازات الصينية تتركز في <a href="https://www.nytimes.com/2026/02/14/business/china-chips-nvidia-huawei.html">الرقائق</a> غير عالية التقنية، ما يؤثر سلبًا على فرصهم في السبق في الذكاء الاصطناعي وتعليم الآلات.</p>
-
-<p>بتعبير آخر، لا تزال صناعة الرقائق المتقدمة محكومة بشركات عملاقة أمريكية على رأسها NVIDIA وIntel، ويجري تصنيعها بشكل يكاد يكون تامًا في <a href="https://www.trade.gov/country-commercial-guides/taiwan-semiconductors-including-chip-design-ai">تايوان </a>ما يدخل الجانب الاقتصادي في الجيوسياسي بشكل دراماتيكي للغاية.</p>
-
-<p>هنا تفترق الآراء، البعض يقول إن الصين قد شيدت بالفعل قاعدة لإنتاج تكنولوجيا الرقائق وتصنيعها في العقد الماضي، بعدما كانت شركاتها مستبعدة تمامًا تقريبًا من كافة الحلقات المؤثرة في سلاسل الإنتاج العالمية، وأنه إن تمكنت الصين من الحفاظ على وتيرة نمو ذلك القطاع وتلك الشركات (مع الحماية والدعم الحكوميين الهائلين) ربما<a href="https://www.dw.com/en/china-chips-semiconductor-industry-us-technology-artificial-intelligence/a-76056790"> تلحق بالركب</a> على نحو أسرع مما نتصور.</p>
-
-<p>بينما يرى آخرون أن الصين لا تتطلع أصلًا لمنافسة الولايات المتحدة والدول الصديقة لها في هذا المجال، فهي في رأيهم تريد فقط إنتاج رقائق تصلح للتفوق في صناعات مهتمة بها كتطبيقات الذكاء الاصطناعي في مجال <a href="https://www.nytimes.com/2025/09/25/business/china-factory-robots.html">الروبوتات</a>، التي <a href="https://www.wsj.com/opinion/china-is-winning-the-race-for-intelligent-robots-7b2416fe">تفوقت</a> فيها بالفعل على الولايات المتحدة واليابان وأوروبا.</p>
-
-
-<div data-embed-button="almanassa_story_browser" data-entity-embed-display="view_mode:node.read_also" data-entity-type="node" data-entity-uuid="bfea2fd3-f00d-4296-b8e7-1be5a62e0fc8" data-langcode="ar" data-entity-embed-display-settings="[]" data-sanitized-class="embedded-entity">
-	<article data-history-node-id="23775" role="article" about="/stories/23775" data-sanitized-id="node-23775" data-sanitized-class="view-mode--read-also type-story"><div data-sanitized-class="row">
-		<a href="https://almanassa.com/stories/23775" almanassa-posthog-link="" data-ph-capture-attribute-link-type="story" data-ph-capture-attribute-link-id="23775" data-ph-capture-attribute-link-title="هل تتحمل الصين حربًا تجارية طويلة مع الولايات المتحدة؟" data-ph-capture-attribute-link-section="اقتصاد وعمران" data-ph-capture-attribute-link-view-mode="read_also" data-sanitized-class="columns small-12 medium-6">
-			<hr data-sanitized-class="embed-divider"><div data-sanitized-class="h3">اقرأ أيضا</div>
-			
-			<div data-sanitized-class="h2">
-				<span>هل تتحمل الصين حربًا تجارية طويلة مع الولايات المتحدة؟</span>
-
-			</div>
-			
-			<hr data-sanitized-class="embed-divider"></a>
-	</div>
-</article></div>
-<p>ربما يكون أي استخلاص في اللحظة الراهنة متسرعًا في ظل عدم اليقين الذي نعيشه يوميًّا خاصة في منطقتنا غير السعيدة من العالم، لكن لا يبدو أن احتواء صعود الصين اقتصاديًّا من جانب الولايات المتحدة أمر ممكن إذ ينطبق على سياسات ترامب وغيره القول الإنجليزي الكلاسيكي: متأخر وغير كافٍ Too little too late.</p>
-						<div data-sanitized-id="topic-file-stories">
-			<div data-sanitized-class="views-element-container">		<div almanassa-posthog-link-source="" data-almanassa-posthog-link-source="Story Topic File Stories List" data-almanassa-posthog-link-source-type="topic_files" data-almanassa-posthog-link-source-id="embed_story_topic_file" data-sanitized-class="js-view-dom-id-356415ead2ae311b34c665d9a53d3b03fc5756454cee4d4dab6a89daf3cfc6f6">
-		
-		
-		
-
-		
-		
-		
-		
-
-		
-		
-		
-
-		
-		
-
-		
-		
-	</div>
-</div>
-
-			</div>
-		</div><!-- FULLCONTENT end //-->]]></description>
-			<pubDate>Sun, 24 May 2026 15:02:04 +0300</pubDate>
-			<guid isPermaLink="false">1779624151949950</guid>
-		</item>
-		<item>
-			<title>أسعار العملات في مصر</title>
-			<link>https://realegp.com/</link>
-						<description><![CDATA[<table data-sanitized-class="table currencies-table">
-              <thead>
-                <tr data-sanitized-class="thick-border">
-                  <th data-sanitized-class="text-end">العملة</th>
-                  <th>سعر البنك</th>
-                  <th>
-                    <div>سعر السوق</div>
-                    <div data-sanitized-class="range">من - إلى</div>
-                  </th>
-                </tr>
-              </thead>
-              <tbody>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/usd">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-us fib"></i>
-                        </div>
-                        <div>دولار أمريكي</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">52.27</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">52.73</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">52.36 - 52.99</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/eur">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-eu fib"></i>
-                        </div>
-                        <div>يورو</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">60.68</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">61.22</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">60.79 - 61.53</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/sar">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-sa fib"></i>
-                        </div>
-                        <div>ريال سعودي</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">13.83</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">13.95</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">13.85 - 14.02</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/kwd">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-kw fib"></i>
-                        </div>
-                        <div>دينار كويتي</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">169.7</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">171.2</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">170.0 - 172.0</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/aed">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-ae fib"></i>
-                        </div>
-                        <div>درهم اماراتي</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">14.13</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">14.25</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">14.15 - 14.32</div>
-                  </td>
-                </tr>
-                
-  
-              </tbody>
-            </table>]]></description>
-			<pubDate>Sun, 24 May 2026 14:02:03 +0300</pubDate>
-			<guid isPermaLink="false">1779620533284290</guid>
 		</item>
 
 	</channel>
