@@ -4,10 +4,446 @@
 		<title>اقتصاد</title>
 		<link>http://192.168.1.50:8081/api/query.php?user=admin&amp;t=4IzCA6HFSoouCSR9nVqNkV&amp;f=html</link>
 		<description>RSS feed of اقتصاد</description>
-		<pubDate>Mon, 08 Jun 2026 16:00:03 +0300</pubDate>
-		<lastBuildDate>Mon, 08 Jun 2026 13:00:03 GMT</lastBuildDate>
+		<pubDate>Mon, 08 Jun 2026 16:05:02 +0300</pubDate>
+		<lastBuildDate>Mon, 08 Jun 2026 13:05:02 GMT</lastBuildDate>
 		<atom:link href="http://192.168.1.50:8081/api/query.php?user=admin&amp;t=4IzCA6HFSoouCSR9nVqNkV&amp;f=rss" rel="self" type="application/rss+xml" />
 				<item>
+			<title>أسعار العملات في مصر</title>
+			<link>https://realegp.com/</link>
+						<description><![CDATA[<table data-sanitized-class="table currencies-table">
+              <thead>
+                <tr data-sanitized-class="thick-border">
+                  <th data-sanitized-class="text-end">العملة</th>
+                  <th>سعر البنك</th>
+                  <th>
+                    <div>سعر السوق</div>
+                    <div data-sanitized-class="range">من - إلى</div>
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/usd">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-us fib"></i>
+                        </div>
+                        <div>دولار أمريكي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">52.07</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">53.16</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">52.79 - 53.43</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/eur">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-eu fib"></i>
+                        </div>
+                        <div>يورو</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">60.08</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">61.34</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">60.91 - 61.65</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/sar">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-sa fib"></i>
+                        </div>
+                        <div>ريال سعودي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">13.78</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">14.06</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">13.96 - 14.13</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/kwd">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-kw fib"></i>
+                        </div>
+                        <div>دينار كويتي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">169.0</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">172.6</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">171.3 - 173.4</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/aed">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-ae fib"></i>
+                        </div>
+                        <div>درهم اماراتي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">14.07</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">14.37</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">14.27 - 14.44</div>
+                  </td>
+                </tr>
+                
+  
+              </tbody>
+            </table>]]></description>
+			<pubDate>Mon, 08 Jun 2026 16:02:24 +0300</pubDate>
+			<guid isPermaLink="false">1780923748086294</guid>
+		</item>
+		<item>
+			<title>أسعار الذهب في مصر</title>
+			<link>https://realegp.com/</link>
+						<description><![CDATA[<table data-sanitized-class="table currencies-table">
+              <thead>
+                <tr data-sanitized-class="thick-border">
+                  <th data-sanitized-class="text-end">الذهب</th>
+                  <th>
+                    <div>متوسط السعر</div>
+                    <div data-sanitized-class="range">من - إلى</div>
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/18k">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <img src="https://realegp.com/static/img/gold.png">
+                        
+                        <div>ذهب عيار 18</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">5498</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">5485 - 5511</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/21k">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <img src="https://realegp.com/static/img/gold.png">
+                        
+                        <div>ذهب عيار 21</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">6415</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">6400 - 6430</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/24k">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <img src="https://realegp.com/static/img/gold.png">
+                        
+                        <div>ذهب عيار 24</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">7332</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">7315 - 7349</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/pound">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <i data-sanitized-class="bi bi-currency-pound"></i>
+                        
+                        <div>جنيه الذهب</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">51320</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">51200 - 51440</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/usdsagha">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <i data-sanitized-class="bi bi-coin"></i>
+                        
+                        <div>دولار الصاغة</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">52.57</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">52.45 - 52.69</div>
+                  </td>
+                </tr>
+                
+  
+              </tbody>
+            </table>]]></description>
+			<pubDate>Mon, 08 Jun 2026 16:02:24 +0300</pubDate>
+			<guid isPermaLink="false">1780923748086293</guid>
+		</item>
+		<item>
+			<title>الشمس تشرق من الصين.. إغلاق هرمز يفتح الأبواب للطاقة المتجددة</title>
+			<link>https://almanassa.com/stories/31988</link>
+						<media:thumbnail url="https://almanassa.com/sites/default/files/styles/lead_image_square/public/photobank/2026/b434cc0e-9c00-4735-aa96-5674213979d3_1.jpg.webp?itok=wTQeLPsL" />
+			<media:content url="https://almanassa.com/sites/default/files/styles/lead_image_square/public/photobank/2026/b434cc0e-9c00-4735-aa96-5674213979d3_1.jpg.webp?itok=wTQeLPsL" medium="image"></media:content>
+			<description><![CDATA[<!-- FULLCONTENT start //--><div data-sanitized-class="columns small-12 table-scroll">
+							<p>مستوى قياسي في <a href="https://www.cnbc.com/2026/06/07/iran-war-100-days-trump-stocks-sp500-bonds-oil.html">صادرات</a> النفط الخام الأمريكية سبَّب <a href="https://www.ft.com/content/d0be73c8-b8d8-4ffd-874e-e97a6ecffef7?syn-25a6b1a6=1">انخفاضًا</a> في مخزونها لأقل مستوى له منذ 2004، بعد ما سُحب منه لتعويض نقص البترول العالمي بعد مرور 100 يوم على الحرب على إيران بما استتبعته من غلق مضيق هرمز وإعاقة نفط الخليج.</p>
+
+<p>قد تدفعنا هذه البيانات للوهلة الأولى إلى استنتاج أن الولايات المتحدة هي المستفيد الأكبر من الحرب في مجال تصدير الطاقة، لكن الواقع يخبرنا أن خصمها اللدود، الصين، حقق هو الآخر مكاسب كبيرة من غلق مضيق هرمز.</p>
+
+<p>صحيح أن زيادة الإحساس بمخاطر انقطاع تدفق الطاقة أدى على المدى القصير لتعزيز الطلب على النفط الأمريكي، لكنه أيضًا دفع العديد من الحكومات للتوسع في استيراد أدوات إنتاج الطاقة الشمسية لتأمين الطاقة على المدى الطويل، وبالطبع الصين أكبر <a href="https://www.reuters.com/business/energy/chinas-solar-exports-jump-60-year-april-2026-05-18/">مصدري</a> هذه المستلزمات.</p>
+
+<h2>من استفاد من أزمة الحرب الإيرانية؟</h2>
+
+<p>مطلع هذا الشهر، أخبرتنا <a href="https://www.reuters.com/business/energy/us-crude-exports-hit-record-high-may-iran-war-tightens-global-oil-supplies-2026-06-01/">بيانات</a> رويترز أن صادرات النفط الخام من الولايات المتحدة بلغت في مايو/أيار الماضي مستوى غير مسبوق عند 5.58 مليون برميل يوميًا، وهو رقم لافت، إذ كانت الصادرات في الفترة السابقة على الحرب تدور تحت مستوى 4.5 مليون برميل يوميًّا.</p>
+
+<p>لكن المكسب لم يكن أمريكيًا صرفًا، فرويترز أخبرتنا أيضًا قبل أسابيع أن آخر <a href="https://www.reuters.com/business/energy/chinas-solar-exports-jump-60-year-april-2026-05-18/">البيانات</a> الصينية تشير إلى نمو كبير في صادرات الخلايا الشمسية، التي زادت بنحو 60% في أبريل/نيسان الماضي مقارنة بالشهر نفسه من العام السابق.</p>
+
+<blockquote>
+<p>سجلت دولٌ ناميةٌ بينها مصر أعلى مستوى في واردات مستلزمات الطاقة الشمسية</p>
+</blockquote>
+
+<p>تشير <a href="https://www.reuters.com/sustainability/climate-energy/africa-southeast-asia-drive-china-solar-panel-exports-record-march-2026-04-22/">تقارير سابقة</a> إلى أن الصين مرت <a href="https://ember-energy.org/latest-updates/chinese-solar-exports-double-in-a-month-to-hit-record-high-amid-energy-crisis/">بموجة انتعاش</a> ملحوظة في تصدير مستلزمات إنتاج الطاقة الشمسية منذ اندلاع الحرب على إيران، بسبب ارتفاع أسعار النفط عالميًا، ما ولد مخاوف كبيرة بشأن مخاطر تدبير إمدادات الطاقة.</p>
+
+<p>وتُظهر <a href="https://ember-energy.org/latest-updates/chinese-solar-exports-double-in-a-month-to-hit-record-high-amid-energy-crisis/">بيانات</a> مركز أبحاث إمبر أن دولًا ناميةً من بينها مصر، سجلت أعلى مستوى على الإطلاق في واردات مستلزمات الطاقة الشمسية خلال شهر مارس/آذار الماضي في ذروة الحرب.</p>
+
+<p>وفي هذا السياق، <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="d4b6634f-5f1a-4c62-ab97-d91521bdb273" href="https://almanassa.com/news/32011" title='"الكهرباء" تتوسع في الطاقة الشمسية المنزلية لتوفير 7.7 مليار قدم مكعب من الغاز'>أعلنت</a> وزارة الكهرباء المصرية في مايو/أيار الفائت عن تسهيل إجراءات تعاقد المواطنين على <a href="https://www.youm7.com/story/2026/5/18/%D9%83%D9%84-%D9%85%D8%A7-%D8%AA%D8%B1%D9%8A%D8%AF-%D9%85%D8%B9%D8%B1%D9%81%D8%AA%D9%87-%D8%B9%D9%86-%D8%AA%D8%B1%D9%83%D9%8A%D8%A8-%D8%A7%D9%84%D8%A7%D9%84%D9%88%D8%A7%D8%AD-%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9-%D8%A3%D8%B9%D9%84%D9%89-%D8%A7%D8%B3%D8%B7%D8%AD/7419772">تركيب</a> محطات الطاقة الشمسية والألواح على أسطح المنازل، ما يشير إلى أن القلق من انقطاع الوقود الأحفوري تُرجم في صورة إقبال أكبر على الطاقة المتجددة، وهو ما يؤكد عليه الرئيس التنفيذي لشركة <a href="https://www.onerasystems.com/">OneraSystems</a> وائل النشار.</p>
+
+<p>ويلفت النشار في حديثه إلى <strong>المنصة</strong> إلى أن التوسع في الطاقة الشمسية تحت وطأة مخاوف الحرب يبدو نمطًا متكررًا؛ "كلما واجه بلدنا أزمة، يتجه الناس إلى الطاقة الشمسية، وهذا أمر طبيعي. لكن بمجرد مرورها، يعود كل شيء إلى الوضع القائم".</p>
+
+<h2>رهان الكربون خطأ استراتيجي؟</h2>
+
+<figure role="group" data-sanitized-class="align-left"><div data-embed-button="almanassa_media_browser" data-entity-embed-display="view_mode:media.embed" data-entity-type="media" data-entity-uuid="f931eddd-c5e3-4b63-b6c4-0fd976cb6f0f" data-langcode="ar" data-entity-embed-display-settings="[]" data-sanitized-class="embedded-entity">
+	    <picture><source media="all and (min-width: 1440px)" type="image/webp"><source media="all and (min-width: 641px)" type="image/webp"><source type="image/webp"><img src="https://almanassa.com/sites/default/files/styles/max_650x650/public/photobank/trump_5.jpg.webp?itok=uk6Mlkoe" alt="" typeof="foaf:Image"></picture><aside data-sanitized-class="media--management-links"><ul></ul></aside><aside data-sanitized-class="caption credits">حساب دونالد ترامب على فيسبوك</aside></div>
+<figcaption>الرئيس الأمريكي دونالد ترامب، 26 يناير 2025</figcaption></figure><p>الدفاع عن الوقود الأحفوري وتوسيع نطاقه أولوية سياسية واقتصادية ثابتة بالنسبة للرئيس الأمريكي دونالد ترامب. فخلال حملتيه الانتخابيتين في 2016 و2024؛ قدّم سياسات المناخ لا باعتبارها ضرورة بيئية، بل عبء استراتيجي، وذهب في إحدى المرات إلى <a href="https://www.bbc.com/news/world-us-canada-51213003">وصف</a> تغير المناخ بأنه "خدعة" تقف وراءها ما وصفها بـ"جماعة علمية مسيّسة" تعمل في خدمة المصالح الوطنية الصينية.</p>
+
+<p>ومع عودته إلى البيت الأبيض في ولايته الثانية، تسارع هذا المسار <a href="https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/">لينتهي</a> إلى إجراءات تنفيذية بالتراجع عن مجموعة من المبادرات المناخية، وتخفيف القيود المفروضة على التوسع في الوقود الأحفوري، وتعليق جوانب من الدعم الفيدرالي لمشروعات الطاقة النظيفة التي أُقرت بموجب تشريعات سابقة. </p>
+
+<p>غير أن هذه الاستراتيجية لم تعد محصورةً في السياسة الداخلية، بل اكتسبت بعدًا جيوسياسيًا متزايدًا، ففي أوائل عام 2026، أطلقت الولايات المتحدة عملية <a href="https://www.nytimes.com/2026/01/03/us/politics/trump-capture-maduro-venezuela.html">العزم المطلق</a> للقبض على الرئيس الفنزويلي نيكولاس مادورو، ليُعاد تشكيل العلاقة الجيوسياسية بين البلدين بصورة دراماتيكية.</p>
+
+<p>قُدمت العملية رسميًا في إطار أمني، لكنها سرعان ما انعكست على أسواق الطاقة العالمية، وأعادت فنزويلا، بما تمتلك من <a href="https://asharq.com/reports/166487/%D9%86%D9%81%D8%B7-%D9%81%D9%86%D8%B2%D9%88%D9%8A%D9%84%D8%A7-%D8%A3%D9%83%D8%A8%D8%B1-%D8%A7%D8%AD%D8%AA%D9%8A%D8%A7%D8%B7%D8%A7%D8%AA-%D8%A8%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D9%88%D8%A8%D9%86%D9%8A%D8%A9-%D8%AA%D8%AD%D8%AA%D9%8A%D8%A9-%D9%85%D8%AA%D9%87%D8%A7%D9%84%D9%83%D8%A9/">أكبر</a> احتياطات النفط في العالم، التموضع سريعًا داخل هذا الإطار الطاقوي الموالي للولايات المتحدة، مع تركيز متجدد على زيادة الإنتاج وإعادة توجيه سلاسل الإمداد.</p>
+
+<p>وسواء كان ذلك يرقى إلى سيطرة مباشرة أم لا، فالرسالة الأوسع كانت واضحة؛ أمن الطاقة والنفوذ الجيوسياسي باتا أكثر تشابكًا، إذ لا تسعى واشنطن فقط إلى إنتاج الطاقة التقليدية، بل إلى تشكيل الشروط التي يجري تداولها عالميًا وفقها.</p>
+
+<blockquote>
+<p>كلما أصبح النفط أعلى تكلفة وأكثر زعزعة للاستقرار المالي ازدادت جاذبية مصادر الطاقة البديلة</p>
+</blockquote>
+
+<p>على عكس حالة فنزويلا، جاءت حرب ترامب على إيران بآثار عكسية قللت جاذبية الرهان على الطاقة التقليدية، بالأخص مع إغلاق مضيق هرمز الحيوي الذي يمر عبره نحو 20% من نفط العالم، و<a href="https://oilprice.com/oil-price-charts/#Brent-Crude">ارتفعت</a> أسعار البرميل إلى ما يتجاوز الـ100 دولار، بعدما كانت تدور حول 70 دولارًا قبل الحرب.</p>
+
+<p>بالنسبة إلى دول كثيرة، خصوصًا في الجنوب العالمي، هذه التطورات لا تعني ارتفاع تكاليف الطاقة فحسب، إنما تمثل ضغطًا حادًا على ميزان المدفوعات.</p>
+
+<p>في مثل هذه الظروف تحديدًا، يبدأ منطق الاعتماد على الوقود الأحفوري في التصدع، وكلما أصبح النفط أعلى تكلفة وأكثر زعزعة للاستقرار المالي، ازدادت جاذبية مصادر الطاقة البديلة، وعلى رأسها الطاقة الشمسية.</p>
+
+<h2>توسع صيني يقابله ضعف في العملات</h2>
+
+<p>تنعكس الطفرة في صادرات الخلايا الشمسية الصينية على شكل تحولاتٌ بنيويةٌ أعمقُ تنعكس في <a href="https://www.cnbcafrica.com/2026/africa-southeast-asia-drive-china-solar-panel-exports-to-record-in-march">دول</a> مثل الفلبين والكونغو الديمقراطية، حيث يُدفع الطلب من الشركات الصغيرة والسكان الريفيين المحرومين من خدمات الطاقة الذين يبحثون عن بدائل لإمدادات الوقود الأحفوري غير المستقرة والمكلفة.</p>
+
+<p>في باكستان، أيضًا، وخلال سنوات قليلة فقط، باتت الألواح الشمسية الصينية <a href="https://energytracker.asia/solar-power-shields-pakistan-from-the-hormuz-energy-crisis/">توفر 20%</a> من الكهرباء خارج الشبكات الأساسية، ما ساعد البلاد على تفادي أسوأ تداعيات حرب إيران.</p>
+
+<figure role="group" data-sanitized-class="align-right"><div data-embed-button="almanassa_media_browser" data-entity-embed-display="view_mode:media.embed" data-entity-type="media" data-entity-uuid="a644afd2-5cf8-4eee-9c33-a48273841cb2" data-langcode="ar" data-entity-embed-display-settings="[]" data-sanitized-class="embedded-entity">
+	    <picture><source media="all and (min-width: 1440px)" type="image/webp"><source media="all and (min-width: 641px)" type="image/webp"><source type="image/webp"><img src="https://almanassa.com/sites/default/files/styles/max_650x650/public/photobank/2026/a644afd2-5cf8-4eee-9c33-a48273841cb2.jpg.webp?itok=s97h0QZ6" alt="" typeof="foaf:Image"></picture><aside data-sanitized-class="media--management-links"><ul></ul></aside><aside data-sanitized-class="caption credits">صفحة شركة كايرو سولر لحلول الطاقة الشمسية على فيسبوك</aside></div>
+<figcaption>تركيب ألواح طاقة شمسية أعلى أسطح المنازل، 20 أكتوبر 2026</figcaption></figure><p>في مقابل الاحتياج القوي لمستلزمات الطاقة المتجددة، لا يحد من الطلب على المنتجات الصينية غير ضعف عملات البلدان المستوردة، حسب مارك بليث، أستاذ الاقتصاد السياسي الدولي ومدير مركز رودس للاقتصاد والتمويل.</p>
+
+<p>"الفكرة بسيطة للغاية. ما هو القيد الأكبر أمام أي دولة نامية؟ العملة الضعيفة"؛ يقول بليث لـ <strong>المنصة</strong>، ويشرح أن الواردات الأساسية لبلدان الجنوب العالمي، من الوقود والآلات إلى الغذاء ومدخلات الصناعة، غالبًا ما تُشترى بعملات أجنبية مثل الدولار واليورو، ما يخلق اعتمادًا متكررًا على التمويل الخارجي وتدفقات الدولار.</p>
+
+<p>تتفاقم المشكلة أكثر مع خروج الأموال الساخنة من الاقتصادات النامية في لحظات الاضطراب، مثل ما حدث في مصر عام 2022، عندما تسببت صدمة خارجية تمثلت في الحرب الروسية الأوكرانية في <a href="https://timep.org/2022/12/13/egypts-infinite-economic-crisis/">خروج رؤوس أموال</a> بقيمة 25 مليار دولار.</p>
+
+<p>لكن مقابل كل هذه العقبات، تمثل واردات مسلتزمات الطاقة الشمسية أهميةً استراتيجيةً تميزها عن باقي المستوردات. فعلى خلاف الوقود الأحفوري، الذي يتطلب واردات مستمرة مدفوعة بالدولار، تمثل الألواح الشمسية استثمارًا رأسماليًا لمرة واحدة قادرًا على إنتاج الكهرباء محليًا لعقود بتكاليف تشغيل محدودة، في ظل ما شهدته تكلفة تكنولوجيا الطاقة الشمسية من تراجع بنسبة <a href="https://www.weforum.org/stories/2021/11/renewable-energy-cost-fallen/">80%</a> في تحول قادته إلى حد كبير قدرة الصين الهائلة على توسيع التصنيع الأخضر صناعيًّا.</p>
+
+<p>بهذا المعنى، تمنح الألواح الشمسية الصينية الرخيصة الاقتصادات النامية ما هو أهم بكثير من الطاقة النظيفة وحدها؛ مسارًا محتملًا لتقليص واحد من أكبر مصادر اعتمادها المتكرر على الدولار، وهو واردات النفط.</p>
+
+<p>اللافت أنه عندما منحت الحرب الفرصة، كانت الصين مستعدةً للاستفادة منها، بحيث <a href="https://www.ids.ac.uk/news/new-study-reveals-chinas-global-role-in-renewable-energy-transition/">تهيمن</a> على صناعات الطاقة الشمسية من كافة أطرافها، وكل مراحلها؛ هي <a href="https://news.futunn.com/en/post/70407261/musk-s-move-sparks-market-surge-what-exactly-is-behind?level=1&amp;data_ticket=1780830844835734">تستحوذ</a> على 96% من صناعة البولي سيليكون عالميًا، و96.2% من صناعة الرقائق الشمسية، و91.3% من صناعة الخلايا الشمسية، و80.1% من صناعة الألواح الجاهزة.</p>
+
+<p>تعود هذه السيطرة إلى <a href="https://www.woodmac.com/press-releases/china-dominance-on-global-solar-supply-chain/">استثمار</a> الصين ما يتجاوز 130 مليار دولار في هذا القطاع خلال عام 2023 وحده، مع الاستفادة من الاستراتيجية الصناعية القائمة على تكامل رأسي واضح يعتمد السيطرة على المواد والمكونات أولًا، ثم الهيمنة على المنتج النهائي.</p>
+
+<h2>لماذا نتباطأ في مصر؟</h2>
+
+<figure role="group" data-sanitized-class="align-left"><div data-embed-button="almanassa_media_browser" data-entity-embed-display="view_mode:media.embed" data-entity-type="media" data-entity-uuid="d4951cd1-9425-4f27-b66b-018b395f7525" data-langcode="ar" data-entity-embed-display-settings="[]" data-sanitized-class="embedded-entity">
+	    <picture><source media="all and (min-width: 1440px)" type="image/webp"><source media="all and (min-width: 641px)" type="image/webp"><source type="image/webp"><img src="https://almanassa.com/sites/default/files/styles/max_650x650/public/photobank/2026/d4951cd1-9425-4f27-b66b-018b395f7525.jpg.webp?itok=9Fq_VKpB" alt="" typeof="foaf:Image"></picture><aside data-sanitized-class="media--management-links"><ul></ul></aside><aside data-sanitized-class="caption credits">حساب المواطن حسن رشوان على فيسبوك</aside></div>
+<figcaption>جانب من إغلاق المحال التجارية ليلًا بمنطقة وسط البلد في القاهرة، 29 مارس 2026</figcaption></figure><p>تُعد مصر من بين أكثر الاقتصادات النامية التي تضررت بشدة من صدمة النفط الأخيرة. ففي مارس، <a href="https://www.facebook.com/EgyptTodayMag/posts/prime-minister-mostafa-madbouly-said-egypts-energy-import-bill-surged-from-12-bi/1403216001820718/">قال</a> رئيس الوزراء مصطفى مدبولي إن فاتورة واردات الطاقة الشهرية للبلاد ارتفعت بحدة، لتصل في ذروة الضغط إلى ما بين 2 و2.5 مليار دولار.</p>
+
+<p>وفي مواجهة ذلك، <a href="https://www.bbc.com/news/articles/c0rxz7ggv8go">اتخذت</a> الحكومة إجراءات طارئة للحد من استهلاك الكهرباء، شملت تقليص ساعات العمل التجارية، عبر إلزام المحال بالإغلاق مبكرًا في المساء، إلى جانب توسيع العمل عن بُعد لعدد كبير من العاملين.</p>
+
+<p>هذه الهشاشة تحديدًا هي ما أعادت الاهتمام بالطاقة الشمسية كحلٍّ بنيويٍّ. يلاحظ وائل النشار، استنادًا إلى خبرته الممتدة لعقود في القطاع، أن العائق الأساسي أمام التوسع في الطاقة المتجددة مالي ومؤسسي، وأنه من دون التزام سياسي مستدام وآليات تمويل ميسرة، تفشل موجات الاهتمام المدفوعة بالأزمات في التحول إلى تغيير بنيوي طويل المدى ذي معنى.</p>
+
+<p>وفي أبريل، <a href="https://english.ahram.org.eg/News/565139.aspx">قال</a> مدبولي إن مصر قادرة على تحقيق هدفها لعام 2028 برفع حصة الطاقة المتجددة في إنتاج الكهرباء إلى 45%. لكن رغم المنطق الاقتصادي المتزايد وراء التوسع في الطاقة الشمسية، لا يزال كثيرون داخل القطاع المالي المصري يشككون في قدرة البلاد على تحقيق طموحاتها في مجال الطاقة المتجددة بالوتيرة التي يتصورها المسؤولون.</p>
+
+<p>ويؤكد خبير بارز في الاستدامة بأحد البنوك الخاصة الكبرى في مصر، تحدث لـ<strong> المنصة </strong>شرط عدم نشر اسمه، أن الفجوة بين أهداف الدولة وواقع السوق لا تزال كبيرة؛ "نحن متأخرون كثيرًا عن الجدول الزمني. هناك أهداف طموحة على الورق، لكن التنفيذ أبطأ بكثير مما توقعه صانعو السياسات".</p>
+
+
+<div data-embed-button="almanassa_story_browser" data-entity-embed-display="view_mode:node.read_also" data-entity-type="node" data-entity-uuid="af9a7bc0-c783-413f-bf1d-74d21fe82103" data-langcode="ar" data-entity-embed-display-settings="[]" data-sanitized-class="embedded-entity">
+	<article data-history-node-id="30969" role="article" about="/stories/30969" data-sanitized-id="node-30969" data-sanitized-class="view-mode--read-also type-story"><div data-sanitized-class="row">
+		<a href="https://almanassa.com/stories/30969" almanassa-posthog-link="" data-ph-capture-attribute-link-type="story" data-ph-capture-attribute-link-id="30969" data-ph-capture-attribute-link-title="اللعب بأسعار النفط ليس في صالح ترامب " data-ph-capture-attribute-link-section="اقتصاد وعمران" data-ph-capture-attribute-link-view-mode="read_also" data-sanitized-class="columns small-12 medium-6">
+			<hr data-sanitized-class="embed-divider"><div data-sanitized-class="h3">اقرأ أيضا</div>
+			
+			<div data-sanitized-class="h2">
+				<span>اللعب بأسعار النفط ليس في صالح ترامب </span>
+
+			</div>
+			
+			<hr data-sanitized-class="embed-divider"></a>
+	</div>
+</article></div>
+<p>بشكل عام، قد تسرّع الأزمة الراهنة من تحول نظر بلدان الجنوب العالمي بتجاه الطاقة المتجددة، لتنقل من كونها مجرد قضية مناخية إلى مسألة تتعلق بالصلابة الاقتصادية، واستقرار العملة، والأمن الاستراتيجي الوطني، وهو ما يجعلنا في حاجة ماسة لتجاوز أكبر العقبات المتمثلة، بحسب الخبير، في عدم استقرار الإطار التنظيمي، إذ تغيرت القواعد المنظمة للقطاع مرارًا خلال السنوات الأخيرة، ما خلق حالة من عدم اليقين لدى المستثمرين والأسر التي تدرس استثمارات طويلة الأجل في الطاقة الشمسية.</p>
+						<div data-sanitized-id="topic-file-stories">
+			<div data-sanitized-class="views-element-container">		<div almanassa-posthog-link-source="" data-almanassa-posthog-link-source="Story Topic File Stories List" data-almanassa-posthog-link-source-type="topic_files" data-almanassa-posthog-link-source-id="embed_story_topic_file" data-sanitized-class="js-view-dom-id-9a4db1b47c3f3140c547e69e3651bfc9dd4e574aef5017e3f6209da0766792a1">
+		
+		
+		
+
+		
+		
+		
+		
+
+		
+		
+		
+
+		
+		
+
+		
+		
+	</div>
+</div>
+
+			</div>
+		</div><!-- FULLCONTENT end //-->]]></description>
+			<pubDate>Mon, 08 Jun 2026 16:02:18 +0300</pubDate>
+			<guid isPermaLink="false">1780923748086292</guid>
+		</item>
+		<item>
 			<title>آي صاغة: تراجع جديد في أسعار الذهب بمصر.. عيار 21 يفقد 35 جنيهًا والأوقية العالمية تهبط 52 دولارًا وسط ارتفاع احتمالات رفع الفائدة الأمريكية</title>
 			<link>https://market.isagha.com/articles/2274</link>
 						<media:thumbnail url="https://cdn.isagha.net/public/files/qm7puEmdGikEbcPJM3cI5PTMKId7Pl3c69JcYIFK.jpg" />
@@ -2444,481 +2880,6 @@
             </table>]]></description>
 			<pubDate>Mon, 08 Jun 2026 04:02:14 +0300</pubDate>
 			<guid isPermaLink="false">1780880534169485</guid>
-		</item>
-		<item>
-			<title>أسعار العملات في مصر</title>
-			<link>https://realegp.com/</link>
-						<description><![CDATA[<table data-sanitized-class="table currencies-table">
-              <thead>
-                <tr data-sanitized-class="thick-border">
-                  <th data-sanitized-class="text-end">العملة</th>
-                  <th>سعر البنك</th>
-                  <th>
-                    <div>سعر السوق</div>
-                    <div data-sanitized-class="range">من - إلى</div>
-                  </th>
-                </tr>
-              </thead>
-              <tbody>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/usd">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-us fib"></i>
-                        </div>
-                        <div>دولار أمريكي</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">51.67</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">53.09</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">52.72 - 53.36</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/eur">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-eu fib"></i>
-                        </div>
-                        <div>يورو</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">59.49</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">61.13</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">60.7 - 61.44</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/sar">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-sa fib"></i>
-                        </div>
-                        <div>ريال سعودي</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">13.67</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">14.04</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">13.94 - 14.11</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/kwd">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-kw fib"></i>
-                        </div>
-                        <div>دينار كويتي</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">167.7</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">172.37</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">171.1 - 173.2</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/aed">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-ae fib"></i>
-                        </div>
-                        <div>درهم اماراتي</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">13.96</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">14.35</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">14.25 - 14.42</div>
-                  </td>
-                </tr>
-                
-  
-              </tbody>
-            </table>]]></description>
-			<pubDate>Mon, 08 Jun 2026 02:32:12 +0300</pubDate>
-			<guid isPermaLink="false">1780875132223045</guid>
-		</item>
-		<item>
-			<title>أسعار الذهب في مصر</title>
-			<link>https://realegp.com/</link>
-						<description><![CDATA[<table data-sanitized-class="table currencies-table">
-              <thead>
-                <tr data-sanitized-class="thick-border">
-                  <th data-sanitized-class="text-end">الذهب</th>
-                  <th>
-                    <div>متوسط السعر</div>
-                    <div data-sanitized-class="range">من - إلى</div>
-                  </th>
-                </tr>
-              </thead>
-              <tbody>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/gold/18k">
-                      <div data-sanitized-class="justify-content-start">
-                        
-                        <img src="https://realegp.com/static/img/gold.png">
-                        
-                        <div>ذهب عيار 18</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">5511</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">5503 - 5520</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/gold/21k">
-                      <div data-sanitized-class="justify-content-start">
-                        
-                        <img src="https://realegp.com/static/img/gold.png">
-                        
-                        <div>ذهب عيار 21</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">6430</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">6420 - 6440</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/gold/24k">
-                      <div data-sanitized-class="justify-content-start">
-                        
-                        <img src="https://realegp.com/static/img/gold.png">
-                        
-                        <div>ذهب عيار 24</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">7348</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">7337 - 7360</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/gold/pound">
-                      <div data-sanitized-class="justify-content-start">
-                        
-                        <i data-sanitized-class="bi bi-currency-pound"></i>
-                        
-                        <div>جنيه الذهب</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">51440</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">51360 - 51520</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/gold/usdsagha">
-                      <div data-sanitized-class="justify-content-start">
-                        
-                        <i data-sanitized-class="bi bi-coin"></i>
-                        
-                        <div>دولار الصاغة</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">52.8</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">52.72 - 52.88</div>
-                  </td>
-                </tr>
-                
-  
-              </tbody>
-            </table>]]></description>
-			<pubDate>Mon, 08 Jun 2026 02:32:12 +0300</pubDate>
-			<guid isPermaLink="false">1780875132223044</guid>
-		</item>
-		<item>
-			<title>أسعار العملات في مصر</title>
-			<link>https://realegp.com/</link>
-						<description><![CDATA[<table data-sanitized-class="table currencies-table">
-              <thead>
-                <tr data-sanitized-class="thick-border">
-                  <th data-sanitized-class="text-end">العملة</th>
-                  <th>سعر البنك</th>
-                  <th>
-                    <div>سعر السوق</div>
-                    <div data-sanitized-class="range">من - إلى</div>
-                  </th>
-                </tr>
-              </thead>
-              <tbody>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/usd">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-us fib"></i>
-                        </div>
-                        <div>دولار أمريكي</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">51.67</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">53.0</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">52.63 - 53.26</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/eur">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-eu fib"></i>
-                        </div>
-                        <div>يورو</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">59.48</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">61.02</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">60.59 - 61.33</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/sar">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-sa fib"></i>
-                        </div>
-                        <div>ريال سعودي</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">13.67</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">14.02</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">13.92 - 14.09</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/kwd">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-kw fib"></i>
-                        </div>
-                        <div>دينار كويتي</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">167.7</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">172.08</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">170.8 - 172.9</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/aed">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-ae fib"></i>
-                        </div>
-                        <div>درهم اماراتي</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">13.96</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">14.32</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">14.22 - 14.39</div>
-                  </td>
-                </tr>
-                
-  
-              </tbody>
-            </table>]]></description>
-			<pubDate>Mon, 08 Jun 2026 01:02:14 +0300</pubDate>
-			<guid isPermaLink="false">1780869734712085</guid>
 		</item>
 
 	</channel>
