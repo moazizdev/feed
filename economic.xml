@@ -4,10 +4,313 @@
 		<title>اقتصاد</title>
 		<link>http://192.168.1.50:8081/api/query.php?user=admin&amp;t=4IzCA6HFSoouCSR9nVqNkV&amp;f=html</link>
 		<description>RSS feed of اقتصاد</description>
-		<pubDate>Mon, 08 Jun 2026 05:30:02 +0300</pubDate>
-		<lastBuildDate>Mon, 08 Jun 2026 02:30:02 GMT</lastBuildDate>
+		<pubDate>Mon, 08 Jun 2026 05:35:03 +0300</pubDate>
+		<lastBuildDate>Mon, 08 Jun 2026 02:35:03 GMT</lastBuildDate>
 		<atom:link href="http://192.168.1.50:8081/api/query.php?user=admin&amp;t=4IzCA6HFSoouCSR9nVqNkV&amp;f=rss" rel="self" type="application/rss+xml" />
 				<item>
+			<title>أسعار العملات في مصر</title>
+			<link>https://realegp.com/</link>
+						<description><![CDATA[<table data-sanitized-class="table currencies-table">
+              <thead>
+                <tr data-sanitized-class="thick-border">
+                  <th data-sanitized-class="text-end">العملة</th>
+                  <th>سعر البنك</th>
+                  <th>
+                    <div>سعر السوق</div>
+                    <div data-sanitized-class="range">من - إلى</div>
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/usd">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-us fib"></i>
+                        </div>
+                        <div>دولار أمريكي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">51.67</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">53.2</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">52.83 - 53.47</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/eur">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-eu fib"></i>
+                        </div>
+                        <div>يورو</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">59.51</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">61.27</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">60.84 - 61.58</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/sar">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-sa fib"></i>
+                        </div>
+                        <div>ريال سعودي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">13.67</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">14.07</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">13.97 - 14.14</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/kwd">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-kw fib"></i>
+                        </div>
+                        <div>دينار كويتي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">167.7</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">172.73</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">171.5 - 173.5</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/aed">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-ae fib"></i>
+                        </div>
+                        <div>درهم اماراتي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">13.96</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">14.38</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">14.28 - 14.45</div>
+                  </td>
+                </tr>
+                
+  
+              </tbody>
+            </table>]]></description>
+			<pubDate>Mon, 08 Jun 2026 05:32:28 +0300</pubDate>
+			<guid isPermaLink="false">1780885948013078</guid>
+		</item>
+		<item>
+			<title>أسعار الذهب في مصر</title>
+			<link>https://realegp.com/</link>
+						<description><![CDATA[<table data-sanitized-class="table currencies-table">
+              <thead>
+                <tr data-sanitized-class="thick-border">
+                  <th data-sanitized-class="text-end">الذهب</th>
+                  <th>
+                    <div>متوسط السعر</div>
+                    <div data-sanitized-class="range">من - إلى</div>
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/18k">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <img src="https://realegp.com/static/img/gold.png">
+                        
+                        <div>ذهب عيار 18</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">5511</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">5503 - 5520</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/21k">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <img src="https://realegp.com/static/img/gold.png">
+                        
+                        <div>ذهب عيار 21</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">6430</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">6420 - 6440</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/24k">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <img src="https://realegp.com/static/img/gold.png">
+                        
+                        <div>ذهب عيار 24</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">7348</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">7337 - 7360</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/pound">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <i data-sanitized-class="bi bi-currency-pound"></i>
+                        
+                        <div>جنيه الذهب</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">51440</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">51360 - 51520</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/usdsagha">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <i data-sanitized-class="bi bi-coin"></i>
+                        
+                        <div>دولار الصاغة</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">52.98</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">52.9 - 53.06</div>
+                  </td>
+                </tr>
+                
+  
+              </tbody>
+            </table>]]></description>
+			<pubDate>Mon, 08 Jun 2026 05:32:28 +0300</pubDate>
+			<guid isPermaLink="false">1780885948013077</guid>
+		</item>
+		<item>
 			<title>أسعار العملات في مصر</title>
 			<link>https://realegp.com/</link>
 						<description><![CDATA[<table data-sanitized-class="table currencies-table">
@@ -2432,222 +2735,6 @@
 		</div><!-- FULLCONTENT end //-->]]></description>
 			<pubDate>Sun, 07 Jun 2026 11:32:13 +0300</pubDate>
 			<guid isPermaLink="false">1780821137419103</guid>
-		</item>
-		<item>
-			<title>فائدة المركزي في زمن الحرب.. ما الذي يحسم القرار؟</title>
-			<link>https://almanassa.com/stories/31891</link>
-						<dc:creator>هاجر عطية</dc:creator>
-			<media:thumbnail url="https://almanassa.com/sites/default/files/styles/card_lead/public/photobank/artboard-1_19.png.webp?itok=9BT_CGkr" />
-			<media:content url="https://almanassa.com/sites/default/files/styles/card_lead/public/photobank/artboard-1_19.png.webp?itok=9BT_CGkr" medium="image"></media:content>
-			<description><![CDATA[<!-- FULLCONTENT start //--><div data-sanitized-class="columns small-12 table-scroll">
-							<p>توقعات أسعار الفائدة ليست حديثًا نخبويًا يخص الاقتصاديين وحدهم، إنما تمس مصالح الملايين، بدءًا من أصحاب <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="56e9faf5-bf59-4649-ba8f-22e5ac329782" href="https://almanassa.com/stories/29615" title="تطبيقات التمويل الاستهلاكي.. الديون التي في جيبك">القروض</a> الاستهلاكية إلى <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="abdcbd25-60cb-487d-bfd5-b29ba09ded88" href="https://almanassa.com/topic-files/16623" title="النساء في مواجهة الدولار">المتضررين </a>من التضخم.</p>
-
-<p>يتفق أغلب المحللين على أن البنك المركزي يتجه لتثبيت أسعار الفائدة خلال اجتماعه المقبل يوم الخميس 21 مايو/أيار، لكنهم يختلفون على توقعات الفائدة في ما تبقى من العام في ظل لا يقين تفرضه الحرب الأمريكية على إيران.</p>
-
-<p>ربما شهدت لجنة السياسات النقدية بالمركزي نقاشًا محتدمًا خلال الأيام الماضية، إذ أربكت الحرب خطة التيسير النقدي، وليس هناك أدل على ذلك من <a href="https://edahabapp.com/article/2169#:~:text=%D9%88%D9%81%D9%8A%20%D8%A3%D8%AD%D8%AF%D8%AB%20%D8%AA%D9%82%D8%A7%D8%B1%D9%8A%D8%B1%20%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9%20%D8%A7%D9%84%D9%86%D9%82%D8%AF%D9%8A%D8%A9,%D9%81%D9%8A%20%D8%AA%D9%82%D8%B1%D9%8A%D8%B1%D9%87%20%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D9%82%20%D8%A8%D9%86%D9%87%D8%A7%D9%8A%D8%A9%202025.">تعديل</a> المركزي لتوقعاته للتضخم في أعقاب الحرب، فإلى أين تسير الفائدة خلال 2026؟ </p>
-
-<h2><strong>إجماع على التثبيت</strong></h2>
-
-<p>في الظروفِ الطبيعيةِ، كان مفترضًا أن يستأنف البنك المركزي هذا الشهر مسارَ خفض الفائدة، المعروف بالتيسير النقدي، لكنْ من المتوقع أن يكرر <a href="https://www.cbe.org.eg/en/monetary-policy/mpc-meetings-schedule">قراره</a> الذي اتخذه بالتثبيت في ثاني شهور الحرب على إيران، أبريل/نيسان الماضي، خلال اجتماعه المقبل يوم 21 مايو/أيار.</p>
-
-<p>وتحتم الظروف الحالية وتداعيات الحرب ومخاطر ارتفاع التضخم تجميد دورة الخفض، كما تؤكد محللة الاقتصاد الكلي بشركة ثاندر لتداول الأوراق المالية إسراء أحمد لـ <strong>المنصة</strong>.</p>
-
-<p><a href="https://almanassa.com/node/30296">بدأ</a> البنك المركزي مسار التيسير النقدي في أبريل 2025 لخفض الفائدة من مستوياتها بالغة الارتفاع التي وصلت لها في العامين السابقين، والتي <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="82fa9b99-191a-4a88-a992-3f7fa2fce805" href="https://almanassa.com/stories/26962" title="الفائدة من رفع الفائدة">رفعت</a> بقوة تكاليف التمويل على قطاعات واسعة بدءًا من المستهلكين إلى القطاع الصناعي.</p>
-
-<div data-sanitized-class="embed-media embed-media--rich-flourish"><div><iframe src="https://flo.uri.sh/visualisation/29006295/embed" allowfullscreen="" title="التيسير النقدي" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" sandbox="allow-scripts allow-same-origin"></iframe></div></div><aside data-sanitized-class="caption">رسم من إعداد المنصة لتغيرات أسعار الفائدة على الإقراض لدى البنك المركزي</aside><p>برأي رئيسة قسم البحوث بشركة زيلا كابتال، آية زهير، تقدم قراءةُ التضخم لشهر أبريل دعمًا إضافيًا لنهج الترقب والانتظار الذي يتبناه البنك المركزي المصري، والذي أشار إليه في آخر اجتماع للجنة السياسة النقدية.</p>
-
-<p>واتجه التضخم للانخفاض في أبريل، بالرغم من الضغوط التي فرضها استمرار الحرب الأمريكية على إيران للشهر الثاني، <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="fbd2803c-db0a-4fa3-a8df-10d48a7f1121" href="https://almanassa.com/news/31770" title="التضخم يخالف التوقعات ويتراجع في أبريل">مخالفًا</a> بذلك توقعات المحللين بارتفاعه. ويستخدم "المركزي" أسعار الفائدة في تعاملاته مع البنوك أداةً للتحكم في التضخم ضمن ما <a href="https://www.cbe.org.eg/ar/monetary-policy/monetary-policy-framework/monetary-policy-tools-and-instruments-at-the-central-bank-of-egypt">يعرف</a> بأدوات السياسة النقدية.</p>
-
-<p>ويؤكد الخبير الاقتصادي مصطفى شفيع لـ<strong> المنصة</strong> أن البنك المركزي لا يواجه ضغوطًا تدفعه لخفض الفائدة بشكل متسرع خلال مايو بعد ما ظهر من انخفاض التضخم في أبريل، فهو لا يزال يمتلك وقتًا للحكم على مسار التضخم في ظل الظروف المتقلبة الراهنة.</p>
-
-<p>يشير شفيع إلى أن البنك المركزي يراهن على عامل الوقت، فلا تزال أمام لجنة السياسة النقدية عدة اجتماعات خلال العام، ما يمنحها مساحةً لمراقبة تطورات الأسعار قبل اتخاذ أي قرارات جديدة بشأن الفائدة.</p>
-
-<h2>سيناريوهات رفع الفائدة</h2>
-
-<p>لا تتعارض توقعات تثبيت الفائدة خلال مايو مع احتمالات عكس اتجاه التيسير ورفعها في ما تبقى من العام، فلا تستبعد إسراء أحمد رفع الفائدة  إذا تعقدت الأوضاع أكثر، سواء فيما يتعلق بالتضخم أو سوق الصرف أو استمرار التوترات الجيوسياسية لفترة أطول.</p>
-
-<p>ولم <a href="https://www.ghadnews.net/2026/05/16/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D8%AF%D8%B1%D8%B3-%D8%AE%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D8%B3%D8%AA%D8%A6%D9%86%D8%A7%D9%81-%D8%AD%D8%B1%D8%A8-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%A8%D8%B9/">يتوصل</a> الجانبان الأمريكي والإيراني إلى اتفاق لوقف الحرب الممتدة منذ نهاية فبراير/شباط الماضي، ما يزيد من أجواء اللايقين حول مستقبل أسعار السلع العالمية، خصوصًا <a href="https://time.com/article/2026/05/14/iran-war-energy-crisis-clean-transition/">المواد البترولية</a> و<a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="49f2ca6d-0007-4933-8a5a-fb550f323df5" href="https://almanassa.com/stories/31366" title="الأسمدة.. صناعة الأرباح تحت القصف">الأسمدة</a> التي تعبر نسبةً كبيرةً منها عبر مضيق هرمز، الذي تفرض إيران سيطرتها عليه منذ بداية الحرب.</p>
-
-<p>ورغم أن المركزي يملك مساحةً للإبقاء على أسعار الفائدة الحالية بفضل عدم استجابة التضخم بقوة لضغوط الحرب، فإنه قد يضطر لرفع الفائدة خلال العام حال زيادة الضغوط التضخمية، كما تؤكد آية زهير.</p>
-
-<blockquote>
-<p>رفع البنك المركزي تقديرات متوسط التضخم خلال 2026 إلى 16 - 17% بدلًا من 11%</p>
-</blockquote>
-
-<p>"أسعار الفائدة الحقيقية حاليًا عند مستويات مريحة نسبيًا، تُقدر بحوالي 4.5% وفقًا لتضخم أبريل. لكن أي زيادات جديدة في أسعار الوقود قد تؤدي إلى تآكل الفائدة الحقيقية لتقترب من مستوى 1-2%، وهو ما قد يدفع البنك المركزي لإعادة النظر في موقفه النقدي"، تقول آية لـ <strong>المنصة.</strong></p>
-
-<p>واضطرت الحكومة <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="7c4c54f7-4044-4379-9071-2c0f53567ea2" href="https://almanassa.com/news/31273" title="بسبب الوقود والدولار.. التضخم السنوي يقفز إلى 13.5% في مارس">لتطبيق</a> زيادة مفاجئة في أسعار الوقود في مارس/آذار الماضي مع صعود السعر العالمي لخام برنت إلى مستويات فوق 100 دولار للبرميل، و<a href="https://almanassa.com/node/31418">يرجح</a> خبراء احتمال تطبيق زيادات جديدة خلال الفترة المقبلة مع توقعات صعوبة عودة سعر برنت لمستويات ما قبل الحرب.</p>
-
-<p>ولا يبدو البنك المركزي بعيدًا عن التوقعات القلقة بشأن مستقبل ضغوط الأسعار، إذ عدل من رؤيته لمتوسط التضخم في 2026 قبل أيام، من خلال<a href="https://www.cbe.org.eg/-/media/project/cbe/listing/publication/monetary-policy-report/2026/%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9-%D8%A7%D9%84%D9%86%D9%82%D8%AF%D9%8A%D8%A9---%D8%A7%D9%84%D8%B1%D8%A8%D8%B9-%D8%A7%D9%84%D8%A3%D9%88%D9%84-%D9%85%D9%86-%D8%B9%D8%A7%D9%85-2026.pdf"> تقرير السياسة النقدية للربع الأول</a> من 2026، ورفع التقديرات لمتوسط 16 - 17% بدلًا من 11% التي كان يتوقعها قبل الحرب.</p>
-
-<h2>السياسة النقدية غير الرسمية </h2>
-
-<p>ربما يكون هناك طريق بديل يجنب المركزي رفع الفائدة في أجواء الحرب، وهو توجيه البنوك الحكومية بشكل غير معلن لرفع العائد على شهادات الاستثمار، ومن ثم تمتص تلك الشهادات السيولةَ في السوق، وتحد من الآثار التضخمية للحرب.</p>
-
-<p>تعرف هذه الطريقة بمسمى "السياسة النقدية غير الرسمية أو التشديد النقدي غير رسمي"، كما يوضح محلل الاقتصاد الكلي في شركة مباشر إبراهيم عادل لـ <strong>المنصة</strong>.</p>
-
-<blockquote>
-<p>يريد البنك المركزي ضربَ عصفورين بحجرٍ واحدٍ بتوجيه البنوك الحكومية لرفع عائد الشهادات</p>
-</blockquote>
-
-<p>ويرجح أن تلك السياسة دخلت حيز التطبيق بالفعل عندما <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="40543a8c-8880-49ba-932a-0f4042bf136b" href="https://almanassa.com/news/31486" title="بنكا الأهلي ومصر يرفعان فائدة الشهادات الادخارية إلى 17.25%.. وتوقعات بارتفاع التضخم">قرر</a> بنكا الأهلي ومصر، الشهر الماضي، رفع أسعار العائد على الشهادات الادخارية لثلاث سنوات (البلاتينية والقمة) لتصبح 17.25% بدلًا من 16%.</p>
-
-<p>"المركزي بيضرب عصفورين بحجر"؛ يلفت عادل إلى أن هذه السياسة ستجنب البنك رفع أسعار العائد لديه، ما يقود بالتبعية لرفع العائد على الديون الحكومية وزيادة عبء الدين العام.</p>
-
-<h2>احتمالات محدودة للخفض</h2>
-
-<p>في مقابل التوقعات السابقة، يضع رئيس البحوث بشركة بايونيرز لتداول الأوراق المالية عبد الحميد إمام احتمالًا باستئناف التيسير النقدي خلال العام الحالي، وإن كانت نسبتُه لا تتعدى 30%، ويظل مرهونًا بتحسن الأوضاع الخارجية وتراجع أسعار الطاقة عالميًا.</p>
-
-<p>بينما ينبه إبراهيم عادل إلى أن خفض الفائدة في ظل الضغوط المتوقعة في 2026 لن يكون قرارًا سهلًا، وذلك لأنه يؤثر مباشرةً على شهية المستثمرين الأجانب تجاه أدوات الدين المحلية.</p>
-
-<p>وتعتمد مصر بشكل كبير على تدفقات النقد الأجنبي القادمة في صورة استثمارات بأدوات الدين المحلي، المعروفة بالأموال الساخنة، التي وصلت <a href="https://www.cbe.org.eg/-/media/project/cbe/listing/monthly-statistical-bulletin/bulletin/feb/monthly-statistical-bulletin-347.pdf">قيمتها</a> إلى 2.5 تريليون جنيه حتى يناير/كانون الثاني الماضي. ويساهم خروجها المفاجئ من السوق المصرية في اضطرابات عنيفة لسعر الصرف، آخرها خلال الحرب الإيرانية إذ <a href="https://www.masrawy.com/news/news-banking/details/2026/4/29/2980038/%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%8A%D9%82%D9%81%D8%B2-%D9%88%D9%8A%D9%84%D8%A7%D9%85%D8%B3-54-%D8%AC%D9%86%D9%8A%D9%87%D8%A7-%D9%84%D8%A3%D9%88%D9%84-%D9%85%D8%B1%D8%A9-%D9%85%D9%86%D8%B0-%D8%B4%D9%87%D8%B1-%D9%81%D9%85%D8%A7-%D8%A7%D9%84%D8%A3%D8%B3%D8%A8%D8%A7%D8%A8-%D9%85%D8%AD%D8%AF%D8%AB-">صعدت</a> بسعر صرف الدولار إلى مستوى 54 جنيهًا.</p>
-
-
-<div data-embed-button="almanassa_story_browser" data-entity-embed-display="view_mode:node.read_also" data-entity-type="node" data-entity-uuid="82fa9b99-191a-4a88-a992-3f7fa2fce805" data-langcode="ar" data-entity-embed-display-settings="[]" data-sanitized-class="embedded-entity">
-	<article data-history-node-id="26962" role="article" about="/stories/26962" data-sanitized-id="node-26962" data-sanitized-class="view-mode--read-also type-story"><div data-sanitized-class="row">
-		<a href="https://almanassa.com/stories/26962" almanassa-posthog-link="" data-ph-capture-attribute-link-type="story" data-ph-capture-attribute-link-id="26962" data-ph-capture-attribute-link-title="الفائدة من رفع الفائدة" data-ph-capture-attribute-link-section="اقتصاد وعمران" data-ph-capture-attribute-link-view-mode="read_also" data-sanitized-class="columns small-12 medium-6">
-			<hr data-sanitized-class="embed-divider"><div data-sanitized-class="h3">اقرأ أيضا</div>
-			
-			<div data-sanitized-class="h2">
-				<span>الفائدة من رفع الفائدة</span>
-
-			</div>
-			
-			<hr data-sanitized-class="embed-divider"></a>
-	</div>
-</article></div>
-<p>يحذر عادل من أنه مع استمرار توقعات بقاء التضخم عند مستويات مرتفعة، قد يؤدي استئناف دورة التيسير النقدي إلى إضعاف العوائد الحقيقية وتقليص شهية المستثمرين الأجانب تجاه أدوات الدين الحكومية المصرية، في ظل ارتفاع أسعار الفائدة العالمية.</p>
-
-<p>قد يكون تثبيت الفائدة سيد الموقف، ليس فقط هذا الشهر لكن لبقية العام، وسط اقتصاد يكافح بيئة دولية تتسم بعدم اليقين، مرهونةً بما سيقرره ترامب والنظام الإيراني لهذه الحرب.</p>
-						<div data-sanitized-id="topic-file-stories">
-			<div data-sanitized-class="views-element-container">		<div almanassa-posthog-link-source="" data-almanassa-posthog-link-source="Story Topic File Stories List" data-almanassa-posthog-link-source-type="topic_files" data-almanassa-posthog-link-source-id="embed_story_topic_file" data-sanitized-class="js-view-dom-id-a957c26ac455f2ed4619a4ea0be512e3a78dce0c22d5704d750e3139a73b3791">
-		
-		
-		
-
-		
-		
-		
-		
-
-		
-		
-		
-
-		
-		
-
-		
-		
-	</div>
-</div>
-
-			</div>
-		</div><!-- FULLCONTENT end //-->]]></description>
-			<pubDate>Sun, 07 Jun 2026 11:32:13 +0300</pubDate>
-			<guid isPermaLink="false">1780821137419102</guid>
-		</item>
-		<item>
-			<title>اكتشاف بترولي جديد.. هل يهمنا ذلك في شيء؟</title>
-			<link>https://almanassa.com/stories/31373</link>
-						<dc:creator>ليلى العبد</dc:creator>
-			<media:thumbnail url="https://almanassa.com/sites/default/files/styles/card_lead/public/photobank/2026/82b70698-ccb6-4e63-b1e3-ab873709d95f.jpg.webp?itok=MyxN6m5I" />
-			<media:content url="https://almanassa.com/sites/default/files/styles/card_lead/public/photobank/2026/82b70698-ccb6-4e63-b1e3-ab873709d95f.jpg.webp?itok=MyxN6m5I" medium="image"></media:content>
-			<description><![CDATA[<!-- FULLCONTENT start //--><div data-sanitized-class="columns small-12 table-scroll">
-							<p>بطريقةٍ احتفاليةٍ، تتوالى <a href="https://www.petroleum.gov.eg/ar-eg/media-center/news/news-pages/Pages/mop_07042026_01.aspx">إعلانات</a> وزارة البترول والثروة المعدنية عن اكتشافات جديدة؛ حقل غاز هنا وكشف زيت هناك، زيادة إنتاج بئر نفط أو <a href="https://www.vetogate.com/5648194">تصريحات</a> مسؤولين عن الاقتراب من الاكتفاء الذاتي.</p>
-
-<p>لكن كلَّ هذا لا يترجم إلى نتائج على أرض الواقع، بل على العكس <a href="https://attaqa.net/2026/04/21/%D8%A5%D9%86%D8%AA%D8%A7%D8%AC-%D9%85%D8%B5%D8%B1-%D9%85%D9%86-%D8%A7%D9%84%D8%BA%D8%A7%D8%B2-%D9%8A%D9%87%D8%A8%D8%B7-%D9%84%D8%A3%D9%82%D9%84-%D9%85%D9%86-3-9-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D9%82/">تكشف</a>ُ المؤشرات أن إنتاج الغاز هذا العام هو الأقل منذ 2023، بينما تشير <a href="https://www.facebook.com/AsharqbEGY/posts/-%D8%A5%D9%86%D8%AA%D8%A7%D8%AC-%D9%85%D8%B5%D8%B1-%D9%85%D9%86-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%B9%D9%86%D8%AF-%D8%A3%D8%AF%D9%86%D9%89-%D9%85%D8%B3%D8%AA%D9%88%D9%89-%D9%85%D9%86%D8%B0-47-%D8%B9%D8%A7%D9%85%D9%8B%D8%A7%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D8%A5%D9%86%D8%AA%D8%A7%D8%AC-%D9%85%D8%B5%D8%B1-%D8%A7%D9%84%D9%86%D9%81%D8%B7%D9%8A-%D8%A5%D9%84%D9%89-507-%D8%A2%D9%84/803499145772337/">بيانات</a> أخرى إلى أن إنتاج البترول في 2025 هو الأدنى منذ 1987.</p>
-
-<p>السر وراء هذا التناقض أن معظم الاكتشافات الأخيرة تُصنّف ضمن الآبار الصغيرة، كما أن احتياطات الغاز التي يُعلن عنها ضئيلة للغاية مقارنة بحقل <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="a292a221-ba1f-4b2c-9a62-264109fad576" href="https://almanassa.com/stories/29778" title='لا تحلموا بـ"ظُهر" جديد فـ"إيني" لا تعد بمعجزات'>ظهر</a> الذي ساعد عام 2019 في تحقيق الاكتفاء الذاتي لبضعة أشهر.</p>
-
-<p>وبسبب <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="28b31142-79e2-4b63-a6a9-c9e06f7ce27c" href="https://almanassa.com/stories/21189" title='هل تُجنِّبنا خطة "بدوي" أزمة صيف مظلم في 2025؟ '>تراجع</a> إنتاج الغاز منذ 2023، اضطرت البلاد الاعتماد على الاستيراد لجبر عجز <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="596e6ebe-9627-4b91-800c-da8895efd526" href="https://almanassa.com/stories/27835" title="التعافي الهش.. هل بدأنا نستعيد استثمارات الطاقة الأجنبية؟">يقدِّر</a> بنحو 1.2 مليار قدم مكعب يوميًا.</p>
-
-<h2>هل العدد في الليمون؟</h2>
-
-<p>يعكس حصر أجرته <strong>المنصة</strong> من البيانات الصادرة عن وزارة البترول، إعلان الوزارة عن 24 كشفًا جديدًا في مجالي البترول والغاز بين 2023 -2026، معظمها اكتشافات زيت (67%)، والنسبة الأقل لصالح الغاز.</p>
-
-<p>تتركز اكتشافات الزيت الخام بنسبة 55% في الصحراء الغربية، و25% في خليج السويس، و20% في سيناء. ويؤكد مصدر مطلع على تلك الاستشكافات بالوزارة، لـ <strong>المنصة</strong> أن هذه الاكتشافات على تعددها، محدودة الأثر، فمعظمها صغيرة الحجم وتتركز في تنمية حقول قائمة وليست حقولًا جديدة.</p>
-
-<p>وبينما <a href="https://almanassa.com/node/27239">تكرر</a> الحكومة حديثها عن تطلعها لتحقيق الاكتفاء الذاتي في المنتجات البترولية، لكنها لم تصل لهذا الهدف بسبب محدودية طاقات التكرير وعدم توافر البترول الخام بالكميات الكافية.</p>
-
-<p>لا يختلف الوضع كثيرًا على صعيد الغاز، فالاكتشافات لا تزال محدودة، وهو ما يُرجعه المصدر، الذي فضل عدم نشر اسمه، إلى تأثير أزمة الدولار على رغبة الشركات الأجنبية في الاستثمار بأعمال الاستخراج، وإن كانت الحكومة تداركت هذه المشكلة مؤخرًا بالاتجاه لسداد مستحقات الأجانب.</p>
-
-<p>وعانت مصر من أزمة نقص السيولة الأجنبية خلال الفترة من 2022-2023، <a href="https://www.alarabiya.net/aswaq/videos/aswaq1830/2022/05/15/20-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D8%A3%D9%85%D9%88%D8%A7%D9%84-%D8%B3%D8%A7%D8%AE%D9%86%D8%A9-%D8%AA%D8%BA%D8%A7%D8%AF%D8%B1-%D9%85%D8%B5%D8%B1-%D9%85%D9%86%D8%B0-%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85">بسبب</a> الخروج السريع للاستثمارات الأجنبية من أدوات الدين المحلية تحت ضغوط مخاطر الحرب الروسية الأوكرانية، وتحسنت أحوال السيولة منذ 2024 بعد خطة إنقاذ ضخمة شاركت فيها <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="9f41fd18-af21-4e63-a517-3646c67a34a9" href="https://almanassa.com/news/16361" title='مدبولي: "الصفقة الكبرى" في رأس الحكمة وقيمتها 35 مليار دولار'>الإمارات</a> و<a href="https://almanassa.com/node/16998">الاتحاد الأوروبي</a> مع <a href="https://almanassa.com/node/16563">صندوق النقد الدولي</a> ومؤسسات تمويلية أخرى. بينما تراكمت مديونيات الشركات الأجنبية العاملة في مجال النفط خلال أزمة الدولار <a href="https://english.ahram.org.eg/NewsContent/3/12/560941/Business/Economy/Egypt-paid--bln-in-arrears-to-foreign-oil-companie.aspx">لتصل</a> إلى 6.1 مليار دولار في 2024، لكن الدولة كثفت جهودها للانتهاء من <a href="https://almanassa.com/node/31353">سدادها</a> بحلول يوليو/تموز المقبل.</p>
-
-<div data-sanitized-class="embed-media embed-media--rich-flourish"><div><iframe src="https://flo.uri.sh/visualisation/28951043/embed" allowfullscreen="" title="Untitled Visualization" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" sandbox="allow-scripts allow-same-origin"></iframe></div></div><aside data-sanitized-class="caption"><em>حصر باكتشافات البترول والغاز بين 2023-2026 من بيانات جمعتها المنصة من قطاع الاستشكافات بوزارة البترول</em></aside><hr><h2>"دينيس" نجم المرحلة </h2>
-
-<p>مع اعتراف المصدرِ بمحدودية الاكتشافات المعلنة مؤخرًا من حيث الحجم، فإنها تحمل دلالات اقتصادية واستثمارية مهمة، تعكس استعادة ثقة الشركات العالمية ودفعها لاستئناف برامج البحث والتنمية، ضاربًا المثل باكتشاف شركة إيني الإيطالية لحقل "دينيس غرب" هذا العام، ما أعاد الآمال في الاكتشافات الكبيرة نسبيًا.</p>
-
-<p>و<a href="https://x.com/AlArabiya_Bn/status/2041472446235120106">أعلنت</a> وزارة البترول في أبريل/نيسان الماضي أن البئر الاستكشافية "دينيس غرب 1"، التي حفرتها إيني بمنطقة امتياز تمساح قبالة سواحل بورسعيد، تتمتع باحتياطات تقدر بنحو تريليوني قدم مكعب من الغاز و130 مليون برميل متكثفات.</p>
-
-<p>ورغم أن هذه الاحتياطات ضِعف اكتشافات الغاز الطبيعي المعلن عنها سابقًا، فإنها تبدو ضئيلةً مُقارنةً بحقل ظُهر، الذي اكتشفته إيني أيضًا قرب بورسعيد، وبلغت <a href="https://portsaid.gov.eg/NationalProject/details/122">احتياطاته</a> 30 تريليون قدم مكعب من الغاز.</p>
-
-<div data-sanitized-class="embed-media embed-media--rich-flourish"><div><iframe src="https://flo.uri.sh/visualisation/28903938/embed" allowfullscreen="" title="Untitled Visualization" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" sandbox="allow-scripts allow-same-origin"></iframe></div></div><aside data-sanitized-class="caption">رسم من إعداد المنصة لاحتياطات ثلاث آبار غاز اكتشفتها مصر مؤخرًا </aside><hr><p>بدوره، ينوه نائب رئيس هيئة البترول الأسبق صلاح حافظ لـ <strong>المنصة </strong>بأهمية كشف<strong> </strong>حقل "دينيس غرب" باعتباره الأبرز، لافتًا إلى أن باقي الإعلانات تدور في معظمها حول حقول قائمة بالفعل.</p>
-
-<p>يوضح حافظ أن أهمية "دينيس غرب" تشمل سهولة ظروف التشغيل، إذ يقع في أعماق مياه أقل، ما يسمح بتنفيذ عمليات التنمية عبر منصات أرضية، عكس حقل "ظهر" في المياه العميقة، الذي تطلّب استثمارات وتكلفة تشغيلية أعلى بكثير.</p>
-
-<blockquote>
-<p>تعد الصحراء الغربية العمود الفقري لإنتاج الزيت الخام في مصر</p>
-</blockquote>
-
-<p>اللافت في اكتشافات البترول الأخيرة، بالأخص خلال أزمة الدولار وركود الشركات الأجنبية، بروز نشاط شركتي خالدة وعجيبة المحليتين. ويؤكد الخبير البترولي محمد عطية لـ<strong> المنصة</strong> أن شركات الإنتاج المصرية الأجنبية لعبت دورًا محوريًا في دعم قطاع البترول المصري خلال السنوات الأخيرة، خاصة في ظل التحديات المرتبطة بتراكم مستحقات الشركاء الأجانب وتأثيرها على خطط الاستثمار والإنتاج.</p>
-
-<p>و<a href="https://www.elmostqpalelyuom.com/27034">تأسست</a> شركتا <a href="https://www.elmostqpalelyuom.com/27034">خالدة</a> و<a href="https://petro-news.com/8088/">عجيبة</a> للبترول خلال ثمانينيات القرن الماضي كشركتين مشتركتين بين الهيئة المصرية العامة للبترول وأباتشي الأمريكية وإيني الإيطالية، وتعدان من أكبر شركات الإنتاج في الصحراء الغربية، وهي المنطقة التي تمثل العمود الفقري لإنتاج الزيت الخام في مصر، "ما جعل أداءهما  عنصرًا حاسمًا في مواجهة الضغوط التمويلية التي واجهها القطاع خلال فترات تأخر سداد المستحقات"، كما قال عطية.</p>
-
-<h2>هل نتفاءل بالمستقبل؟</h2>
-
-<p>تدفع الفجوة بين الإنتاج والاستهلاك نحو بدائلَ أكثر تكلفة، على رأسها <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="2b1f4a6b-a29d-4395-916e-bd9f923ae8af" href="https://almanassa.com/news/24565" title="تصل تكلفة إيجارها لـ9 ملايين دولار شهريًا.. لماذا تحتاج مصر 4 سفن تغويز؟">استيراد</a> الغاز المسال، وهو ما زادت وتيرته خلال الحربين على غزة وإيران بسبب <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="33f9604c-c7ea-40e5-9db5-4b7482e3c5f5" href="https://almanassa.com/stories/26247" title="اتفاق الغاز مع إسرائيل.. مخاطر أكبر من المكاسب ">انقطاعات</a> في توريد الغاز الإسرائيلي في هذه الأحداث.</p>
-
-<p>وتعكس بيانات <a href="https://www.cbe.org.eg/ar/news-publications/news/2026/04/14/11/52/press-release-bop-performance-during-the-first-half-of--fy-2025-2026">النصف الأول</a> من 2025-2026 تفاقم هذه الواردات، لتصل إلى 11.5 مليار دولار (يوليو  - ديسمبر 2025) مقارنة بـ9.6 مليار دولار خلال الفترة نفسها من العام المالي الماضي، من ثم <a href="https://www.vetogate.com/5650102">تمثل</a> فاتورة الاستيراد الكبيرة مبررًا قويًا للحكومة لزيادات أسعار الطاقة، وآخرها <a href="https://www.almasdar.com/167933">زيادة</a> أسعار الوقود في مارس/آذار الماضي.</p>
-
-<p>ورغم محدودية الاكتشافات الأخيرة، فإن عطية يتوقع ظهور تأثيرها تدريجيًّا، سواء في تقليل الفجوة بين الإنتاج والاستهلاك أو في دعم خطط التوسع المستقبلية.</p>
-
-<p>يتفق المصدر بالبترول في أن الفترة المقبلة ستشهد ظهور أثر الاكتشافات الأخيرة، ويلفت إلى أن الحقل يستغرق عادةً من ثلاث إلى أربع سنوات للوصول إلى ذروة الإنتاج قبل أن يبدأ في التراجع التدريجي، مشيرًا إلى أن إنتاج "دينيس" سيصل لذروته عند 400 مليون قدم مكعب يوميًا ما يجعله أحد الإسهامات المهمة في عملية الإنتاج بمصر.</p>
-
-
-<div data-embed-button="almanassa_story_browser" data-entity-embed-display="view_mode:node.read_also" data-entity-type="node" data-entity-uuid="a292a221-ba1f-4b2c-9a62-264109fad576" data-langcode="ar" data-entity-embed-display-settings="[]" data-sanitized-class="embedded-entity">
-	<article data-history-node-id="29778" role="article" about="/stories/29778" data-sanitized-id="node-29778" data-sanitized-class="view-mode--read-also type-story"><div data-sanitized-class="row">
-		<a href="https://almanassa.com/stories/29778" almanassa-posthog-link="" data-ph-capture-attribute-link-type="story" data-ph-capture-attribute-link-id="29778" data-ph-capture-attribute-link-title='لا تحلموا بـ"ظُهر" جديد فـ"إيني" لا تعد بمعجزات' data-ph-capture-attribute-link-section="اقتصاد وعمران" data-ph-capture-attribute-link-view-mode="read_also" data-sanitized-class="columns small-12 medium-6">
-			<hr data-sanitized-class="embed-divider"><div data-sanitized-class="h3">اقرأ أيضا</div>
-			
-			<div data-sanitized-class="h2">
-				<span>لا تحلموا بـ"ظُهر" جديد فـ"إيني" لا تعد بمعجزات</span>
-
-			</div>
-			
-			<hr data-sanitized-class="embed-divider"></a>
-	</div>
-</article></div>
-<p>يؤيد المصدر الإعلان المتسارع عن الاكتشافات بما يمثل رسائل طمأنة للأسواق العالمية وشركات الطاقة بأن مصر ماضية في تحسين مناخ الاستثمار وتسوية التزاماتها المالية، ويعزز من فرص البلاد في جذب المزيد من الاستثمارات الأجنبية لهذا القطاع، ومن ثم زيادة الاستخراجات.</p>
-
-<p>ورغم هذا التفاؤل البادي من حديثه، فإننا لا نملك بعد إجابةً: هل ستعكس الكشوفات الجديدة نتائجَ ظاهرة للعيان، سواءً بالزيادة في إنتاجنا أو حسمًا من فاتورة استيرادنا؟</p>
-						<div data-sanitized-id="topic-file-stories">
-			<div data-sanitized-class="views-element-container">		<div almanassa-posthog-link-source="" data-almanassa-posthog-link-source="Story Topic File Stories List" data-almanassa-posthog-link-source-type="topic_files" data-almanassa-posthog-link-source-id="embed_story_topic_file" data-sanitized-class="js-view-dom-id-f181e9920dfd34c5bcae54795d4fbf0d4f5ed582d42a97633608fd8b988d5625">
-		
-		
-		
-
-		
-		
-		
-		
-
-		
-		
-		
-
-		
-		
-
-		
-		
-	</div>
-</div>
-
-			</div>
-		</div><!-- FULLCONTENT end //-->]]></description>
-			<pubDate>Sun, 07 Jun 2026 11:32:13 +0300</pubDate>
-			<guid isPermaLink="false">1780821137419101</guid>
 		</item>
 
 	</channel>
