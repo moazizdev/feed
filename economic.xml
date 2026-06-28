@@ -4,10 +4,425 @@
 		<title>اقتصاد</title>
 		<link>http://192.168.1.50:8081/api/query.php?user=admin&amp;t=4IzCA6HFSoouCSR9nVqNkV&amp;f=html</link>
 		<description>RSS feed of اقتصاد</description>
-		<pubDate>Sun, 28 Jun 2026 15:00:03 +0300</pubDate>
-		<lastBuildDate>Sun, 28 Jun 2026 12:00:03 GMT</lastBuildDate>
+		<pubDate>Sun, 28 Jun 2026 15:05:03 +0300</pubDate>
+		<lastBuildDate>Sun, 28 Jun 2026 12:05:03 GMT</lastBuildDate>
 		<atom:link href="http://192.168.1.50:8081/api/query.php?user=admin&amp;t=4IzCA6HFSoouCSR9nVqNkV&amp;f=rss" rel="self" type="application/rss+xml" />
 				<item>
+			<title>أسعار العملات في مصر</title>
+			<link>https://realegp.com/</link>
+						<description><![CDATA[<table data-sanitized-class="table currencies-table">
+              <thead>
+                <tr data-sanitized-class="thick-border">
+                  <th data-sanitized-class="text-end">العملة</th>
+                  <th>سعر البنك</th>
+                  <th>
+                    <div>سعر السوق</div>
+                    <div data-sanitized-class="range">من - إلى</div>
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/usd">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-us fib"></i>
+                        </div>
+                        <div>دولار أمريكي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">49.32</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">50.51</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">50.16 - 50.76</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/eur">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-eu fib"></i>
+                        </div>
+                        <div>يورو</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">56.19</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">57.55</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">57.15 - 57.84</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/sar">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-sa fib"></i>
+                        </div>
+                        <div>ريال سعودي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">13.05</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">13.36</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">13.27 - 13.43</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/kwd">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-kw fib"></i>
+                        </div>
+                        <div>دينار كويتي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">160.1</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">163.99</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">162.8 - 164.8</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/aed">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-ae fib"></i>
+                        </div>
+                        <div>درهم اماراتي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">13.33</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">13.65</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">13.55 - 13.72</div>
+                  </td>
+                </tr>
+                
+  
+              </tbody>
+            </table>]]></description>
+			<pubDate>Sun, 28 Jun 2026 15:02:23 +0300</pubDate>
+			<guid isPermaLink="false">1782648147116536</guid>
+		</item>
+		<item>
+			<title>أسعار الذهب اليوم في مصر تتماسك عند 5800 جنيه لعيار 21 رغم استقرار الأوقية قرب 4091 دولارًا.. وآي صاغة: الفجوة السعرية تواصل الانكماش</title>
+			<link>https://market.isagha.com/articles/2304</link>
+						<media:thumbnail url="https://cdn.isagha.net/public/files/kjFrCgvdNfXaHCDGyHkH3RFToqQ8BKIaaT5HBc2Q.jpg" />
+			<media:content url="https://cdn.isagha.net/public/files/kjFrCgvdNfXaHCDGyHkH3RFToqQ8BKIaaT5HBc2Q.jpg" medium="image"></media:content>
+			<description><![CDATA[<div data-sanitized-class="content-article">
+					<p></p><p>المهندس سعيد إمبابي: الذهب يتحرك في معادلة معقدة بين التوترات الجيوسياسية وتشدد السياسة النقدية الأمريكية.</p>
+<p>استقرار الجنيه المصري حدّ من تقلبات أسعار الذهب في السوق المحلية.</p>
+<p>الدولار الأمريكي وقرارات الفيدرالي...</p>
+					<a href="https://market.isagha.com/articles/2304" data-sanitized-class="read-more">تابع القراءة</a>
+				</div>]]></description>
+			<pubDate>Sun, 28 Jun 2026 15:02:13 +0300</pubDate>
+			<guid isPermaLink="false">1782648147116535</guid>
+		</item>
+		<item>
+			<title>ماذا جنينا من توطين النقل؟</title>
+			<link>https://almanassa.com/stories/31798</link>
+						<media:thumbnail url="https://almanassa.com/sites/default/files/styles/lead_image_square/public/photobank/2026/18410556-de1d-42dc-861f-fbed6db05f1a.png.webp?itok=dEQOiIWc" />
+			<media:content url="https://almanassa.com/sites/default/files/styles/lead_image_square/public/photobank/2026/18410556-de1d-42dc-861f-fbed6db05f1a.png.webp?itok=dEQOiIWc" medium="image"></media:content>
+			<description><![CDATA[<!-- FULLCONTENT start //--><div data-sanitized-class="columns small-12 table-scroll">
+							<p dir="rtl">قبل أيام، نقلت وسائل الإعلام <a href="https://www.youm7.com/story/2026/6/16/%D9%83%D8%A7%D9%85%D9%84-%D8%A7%D9%84%D9%88%D8%B2%D9%8A%D8%B1-%D9%85%D8%B3%D8%AA%D8%B9%D8%AF-%D9%84%D9%84%D9%85%D8%B3%D8%A7%D8%A1%D9%84%D8%A9-%D8%A3%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86-%D9%88%D8%AA%D9%88%D8%B7%D9%8A%D9%86-%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D8%A9-%D9%8A%D9%82%D9%84%D8%B5-%D8%A7%D9%84%D9%85%D9%83%D9%88%D9%86/7450948">مناقشات</a> حامية بين نواب في البرلمان ووزير النقل كامل الوزير أثناء اعتماد قروض إضافية للقطار الكهربائي السريع. </p>
+
+<p dir="rtl">فُتح النقاش حول قروض مشروعات النقل الكبرى وما سببته من تفاقمٍ للدين الخارجي للبلاد، في مقابل دفاع الوزير عن سياساته مستندًا إلى نجاح جهود <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="b8bcf2f5-d973-41c8-a85e-017802c42227" href="https://almanassa.com/news/13020" title='خطة "النقل" لتوطين صناعة القطارات ينقصها الخبرة والدولار'>توطين صناعات النقل</a> في الحد من استنزاف العملة الصعبة، ضاربًا مثلًا بأن 70% من مكونات القطار السريع صُنعت محليًا بفضل التوطين. </p>
+
+<p dir="rtl">يروّج الوزير منذ عام 2022 لجذب استثمارات في صناعات النقل، معتمدًا على إغراء المستثمرين بالحوافز والتعاقدات المضمونة مع الدولة لتلبية احتياجات مرفقي السكة الحديد ومترو الأنفاق والجر الكهربائي. فلأي مدى نجح التوطين في توفير الدولار؟ وكيف تساهم الصناعات الجديدة في الحد من الضغوط التي فاقمتها ديون قطاع النقل؟</p>
+
+<h2 dir="rtl">الفلنكات مصرية 100% </h2>
+
+<p dir="rtl">يعتمد كامل الوزير <a href="https://www.youm7.com/story/2025/12/8/%D9%83%D8%A7%D9%85%D9%84-%D8%A7%D9%84%D9%88%D8%B2%D9%8A%D8%B1-%D9%8A%D8%AA%D9%81%D9%82%D8%AF-%D9%85%D8%B5%D8%A7%D9%86%D8%B9-%D8%A7%D9%84%D9%81%D9%84%D9%86%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%AE%D8%B1%D8%B3%D8%A7%D9%86%D9%8A%D8%A9-%D8%B6%D9%85%D9%86-%D8%AE%D8%B7%D8%A9-%D8%AA%D9%88%D8%B7%D9%8A%D9%86-%D8%B5%D9%86%D8%A7%D8%B9%D8%A7%D8%AA/7226368">صناعة</a> الفلنكات الخرسانية مؤشرًا على تقدم التوطين، ليس فقط لزيادة عدد الشركات التي انخرطت في هذا المجال، ولكن لأنه حقق اكتفاءً ذاتيًّا كاملًا.</p>
+
+<figure role="group" data-sanitized-class="align-left"><div data-embed-button="almanassa_media_browser" data-entity-embed-display="view_mode:media.embed" data-entity-type="media" data-entity-uuid="1ace9e57-a1dd-4104-afd9-1559f162f06f" data-langcode="ar" data-entity-embed-display-settings="[]" data-sanitized-class="embedded-entity">
+	    <picture><source media="all and (min-width: 1440px)" type="image/webp"><source media="all and (min-width: 641px)" type="image/webp"><source type="image/webp"><img src="https://almanassa.com/sites/default/files/styles/max_650x650/public/photobank/2026/1ace9e57-a1dd-4104-afd9-1559f162f06f.jpeg.webp?itok=jYX80oZA" alt="" typeof="foaf:Image"></picture><aside data-sanitized-class="media--management-links"><ul></ul></aside><aside data-sanitized-class="caption credits">صفحة رئاسة مجلس الوزراء المصري على فيسبوك</aside></div>
+<figcaption>زيارة الدكتور حسين عيسى، نائب رئيس مجلس الوزراء للشؤون الاقتصادية للشركة المصرية للمواسير والمنتجات الإسمنتية "سيجوارت" بحلوان، 22 يونيو 2026</figcaption></figure><p dir="rtl">وصل عدد الشركات التي تنتج القواعد الخرسانية التي تحمل القضبان إلى أربعٍ، ثلاث منها أنشئت خلال الفترة من 2022 إلى 2024، فيما توضع اللمسات النهائية للمصنع الخامس تمهيدًا لافتتاحه ويتبع شركة <a href="https://concrete-plus.net/cp-press/%D9%83%D9%88%D9%86%D9%83%D8%B1%D9%8A%D8%AA-%D8%A8%D9%84%D8%B3-%D8%AA%D8%A8%D8%AF%D8%A3-%D8%AA%D8%B4%D8%BA%D9%8A%D9%84-%D9%85%D8%B5%D9%86%D8%B9-%D8%A7%D9%84%D9%81%D9%84%D9%86%D9%83%D8%A7/">كونكريت بلس</a> الخاصة للمقاولات.</p>
+
+<p dir="rtl">إلى جانب انخراط شركات حكومية مثل <a href="https://www.egyin.com/article/82802/%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-%D9%84%D9%84%D8%B5%D9%8A%D8%A7%D9%86%D8%A9-%D8%AA%D9%88%D8%B1%D8%AF-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D9%81%D9%84%D9%86%D9%83%D8%A9-%D9%84%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D8%A7%D9%84%D9%82%D8%B7%D8%A7%D8%B1">المصرية للصيانة الذاتية</a> و<a href="https://www.youm7.com/story/2017/11/2/%D8%A7%D9%84%D9%86%D9%8A%D9%84-%D9%84%D9%84%D8%B7%D8%B1%D9%82-%D9%88%D8%A7%D9%84%D9%83%D8%A8%D8%A7%D8%B1%D9%89-%D8%AA%D8%A8%D8%AF%D8%A3-%D8%A5%D9%86%D8%B4%D8%A7%D8%A1-%D9%85%D8%B5%D9%86%D8%B9%D9%8A%D9%86-%D8%AC%D8%AF%D9%8A%D8%AF%D9%8A%D9%86-%D9%84%D8%A5%D9%86%D8%AA%D8%A7%D8%AC-%D8%A7%D9%84%D9%81%D9%84%D9%86%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%AE%D8%B1%D8%B3%D8%A7%D9%86%D9%8A%D8%A9/3491356">النيل العامة للإنشاء والطرق</a>، و<a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="8b87f28b-4c47-4fb0-9377-230ccecc052a" href="https://almanassa.com/stories/20627" title='"سيجوارت" تعود للحياة على فلنكات القطار السريع'>سيجوارت</a>، في تصنيع الفلنكات، تبرز شركة <a href="https://alshrqalawsat.com/%D8%B4%D8%B1%D9%83%D8%A9-%D8%A5%D9%8A%D9%83%D9%88-%D8%B1%D9%8A%D8%A7%D8%AF%D8%A9-30-%D8%B9%D8%A7%D9%85%D9%8B%D8%A7-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D8%AD%D8%AA/">إيكو</a> الخاصة، التي تعمل منذ عقود في مجال البنية التحتية، ودخلت مؤخرًا هذا المجال.</p>
+
+<p dir="rtl">بفضل هذه المصانع الجديدة، حققت الهيئة القومية للأنفاق الاكتفاء الذاتي من القواعد الخرسانية التي تحتاجها، كما يؤكد عضو بمجلس إدارتها رفض نشر اسمه لـ <strong>المنصة</strong>، لافتًا إلى<strong> </strong>أن التعاقدات الحالية تتجاوز 6 مليارات جنيه لصالح مشروعات القطار السريع والقطار الخفيف، وستحتاج في المستقبل لتعاقدات جديدة بقيم تتجاوز 15 مليار جنيه.</p>
+
+<p dir="rtl">فيما يخص هيئة السكة الحديدية، كشف عضو بمجلس إدارتها لـ <strong>المنصة</strong> أن التعاقدات مع شركات تصنيع الفلنكات خلال الفترة من 2024 وحتى نهاية العام المالي المقبل تتراوح بين 600 و800 مليون جنيه.</p>
+
+<h2 dir="rtl">أبعد من الفلنكات</h2>
+
+<p dir="rtl">تطلع الوزير لجذب استثمارات محلية لتوطين مكونات أخرى مكلفة أكثر وتحتاجها مشروعات النقل، ونجح بالفعل في جذب بعضها، معتمدًا طرقًا متنوعة بدءًا من <a href="https://almanassa.com/node/27807">تقديم</a> الحوافز المباشرة مثل منح الأراضي بأسعار مخفضة أو حتى بالمجان، إضافة لإغراء الشركات بالحصول على التعاقدات المضمونة في مشروعات النقل الكبرى.</p>
+
+<p dir="rtl">يضرب مصدر السكك الحديدية مثلًا بإحدى الشركة الصينية التي وُعدت بأنها إذا أقامت مصنعًا لعجلات القطار ستتوقف الهيئة عن الاستيراد بشكل نهائي بما تصل قيمته لنحو 90 مليون يورو سنويًا؛ "يعني فيه منفذ لشراء المنتجات من بداية التصنيع، الشركة مش هتدور هتبيع فين".</p>
+
+<p dir="rtl">شركة كول واي الإسبانية هي الأخرى كانت على رأس الشركات التي جاءت لمصر في خضم أزمة شح الدولار في 2023 لإنشاء مصنع لمكونات عربات النوم، بدأ <a href="https://www.facebook.com/EgyptianCabinet/posts/pfbid0yiRuzLyn4LsBpXBp5zVmyvFWWLRSaAR6PWyLGhz1K6apJPTjW5uWw3tbmC6ZK547l?rdid=yzMzBvonUvI32CLs#">العمل</a> فيه عام 2025، ما وفر نحو 40 مليون يورو، حسب تقدير المصدر بالهيئة، لافتًا إلى أن الحكومة تشدد الثمن للشركة الإسبانية بالعملة المحلية.</p>
+
+<blockquote>
+<p dir="rtl"> مساعي توطين عربات القطارات بدأت قبل 6 سنوات بتأسيس شركة "نيرك" بتحالف محلي وتحديث مصنع سيماف</p>
+</blockquote>
+
+<p dir="rtl">أيضًا اتفقت الهيئة مع شركة <a href="https://www.voestalpine.com/group/en/media/press-releases/2022-07-05-voestalpine-sets-course-for-egypt/">فويست ألبين</a> النمساوية على إنشاء مصنع لمفاتيح السكك الحديدية، ما وفر نحو 45 مليون يورو حتى الآن، على أن تغطى كامل احتياجات الهيئة محليًا خلال العامين المقبلين، كما يضيف المصدر لـ <strong>المنصة</strong>.</p>
+
+<p dir="rtl">إضافة للمستثمرين الأجانب، اعتمد الوزير على مصانع تابعة للدولة أو قريبة منها، بينها شركة السويس للصلب، التي <a href="https://www.solbmisr.com/ar">تتبع </a>القوات المسلحة منذ 2016، وبدأت <a href="https://www.egyin.com/article/99/%D8%B4%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%B3-%D9%84%D9%84%D8%B5%D9%84%D8%A8-%D8%AA%D9%86%D8%B4%D8%A6-%D9%85%D8%B5%D9%86%D8%B9-%D9%84%D8%A7%D9%86%D8%AA%D8%A7%D8%AC-%D9%82%D8%B6%D8%A8%D8%A7%D9%86">التشغيل</a> التجريبي لأحد مصانعها في تصنيع قضبان السكك الحديدية في عام 2024، وهو ما يكرر الوزير <a href="https://www.youtube.com/watch?v=EWe8uyie4mU&amp;t=71s">الإشارة</a> إليه في أحاديثه بالنظر إلى التكلفة المرتفعة لاستيراد القضبان.</p>
+
+<p dir="rtl">مصنع السويس للصلب ساهم هو الآخر في تقليص فاتورة الاستيراد بنحو 100 ملايين يورو؛ قيمة قضبان لمشروع القطار السريع، كما يؤكد المصدر بالسكة الحديد، لافتًا إلا أنه جرى الاعتماد أيضًا على شركة مصرية خاصة لها تاريخ سابق في التعاون مع وزارة الدفاع والإنتاج الحربي، هي <a href="https://pixel-demo.com/__lenza/history.php">لينزا إيجيبت</a>، <a href="https://www.alborsaanews.com/2023/03/15/1644927">لإنشاء</a> مصنع لقطع غيار السكك الحديدية، بالشراكة مع الهيئة.</p>
+
+<p dir="rtl">إلى جوار الأسماء السابقة، يبرز اسمان عالميان يراهن عليهما الوزير للتأكيد على قدرته على جذب الكيانات الكبرى للسوق المصرية؛ الأول هو شركة ألستوم الفرنسية والثاني تالجو الإسبانية، حيث تقيم الشركة الأولى مجمعًا للصناعات الكهربية المرتبطة بالسكك الحديدية، مثل الإشارات، ومن المتوقع <a href="https://en.amwalalghad.com/alstom-to-open-egypts-first-rail-electrical-components-factory-in-august/">افتتاحه</a> هذا العام.</p>
+
+<p dir="rtl">في المقابل لا يزال وضع شركة تالجو غامضًا، حيث من المفترض أن تقيم مصنعًا لعربات القطار داخل مصر تصنّع من خلاله العربات المثيلة <a href="https://www.talgo.com/en/talgo-starts-operating-its-intercity-trains-in-egypt">لصفقة</a> التوريد الضخمة 2022.</p>
+
+<figure role="group" data-sanitized-class="align-left"><div data-embed-button="almanassa_media_browser" data-entity-embed-display="view_mode:media.embed" data-entity-type="media" data-entity-uuid="905668b8-1ead-4301-b4ce-a8456ffab722" data-langcode="ar" data-entity-embed-display-settings="[]" data-sanitized-class="embedded-entity">
+	    <picture><source media="all and (min-width: 1440px)" type="image/webp"><source media="all and (min-width: 641px)" type="image/webp"><source type="image/webp"><img src="https://almanassa.com/sites/default/files/styles/max_650x650/public/photobank/2026/905668b8-1ead-4301-b4ce-a8456ffab722.jpg.webp?itok=rxshxEwk" alt="" typeof="foaf:Image"></picture><aside data-sanitized-class="media--management-links"><ul></ul></aside><aside data-sanitized-class="caption credits">صفحة وزارة النقل على فيسبوك</aside></div>
+<figcaption>صورة من داخل أحد قطارات تالجو، 22 ديسمبر 2026</figcaption></figure><p dir="rtl">"من جانبنا عرضنا العديد من الحوافز مثل تيسير الحصول على الأراضي، لكن شركات كبيرة مثل تالجو تحتاج لوقت طويل حتى تتخذ قرارها"، يفسر المصدر بالسكك الحديدية لـ<strong> المنصة</strong> سبب تأخر الشركة الإسبانية في البدء بالاستثمار داخل مصر، لافتًا إلى وجود تحديات تحتاج للدراسة مثل مدى وجود سوق كافية لإنتاج الشركة، فهي تتخصص في العربات الفاخرة فقط والسوق المصرية ليست كافية لاستعياب إنتاجها، لذا تحتاج لدراسة أسواق التصدير المتاحة.</p>
+
+<p>لا يقتصر توطين صناعة العربات على تالجو، فقد سعت الدولة قبل نحو<a href="https://gate.ahram.org.eg/News/2533579.aspx"> 6 سنوات</a> لتأسيس شركة في هذا المجال، معروفة باسم "نيرك"، <a href="https://www.neric.com/ar#about">بالشراكة</a> مع أسماء مشهورة في مجال المقاولات مثل سامكريت وحسن علام وأوراسكوم للإنشاءات.</p>
+
+<p>في البداية قابلت الشركة عقبات، أبرزها<a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="70eba623-aaa7-4d68-9d55-985a08139dbb" href="https://almanassa.com/stories/19477" title='رأس الحكمة.. طوق نجاة لتوطين "النقل"'> أزمة الدولار</a>، التي أخرت افتتاح المصنع حتى<a href="https://almalnews.com/2111105/%D9%86%D9%8A%D8%B1%D9%83-%D9%8A%D8%B4%D9%87%D8%AF-%D8%A7%D9%81%D8%AA%D8%AA%D8%A7%D8%AD%D8%A7%D8%AA-%D8%B1%D8%B3%D9%85%D9%8A%D8%A9-%D8%A8%D8%A8%D8%AF%D8%A1-%D8%A7%D9%84%D8%AA%D8%B4%D8%BA%D9%8A%D9%84-%D8%A7%D9%84%D9%81%D8%B9%D9%84%D9%8A/"> أبريل/نيسان الماضي</a>، لكنها سهلت جذب أسماء عالمية كبيرة للدخول في شراكات، أبرزها <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="1f6a93c0-3949-499f-9537-6262daaf71de" href="https://almanassa.com/stories/13499" title='أزمة الدولار لا تقف في طريق "المترو" '>هيونداي روتم </a>الكورية، أحد أبرز موردي العربات لمترو الأنفاق، التي أبرمت عقدًا ضخمًا مع نيرك للتشارك في صناعات قطارات<a href="https://www.facebook.com/share/p/18FNMvdWKq/"> مترو الأنفاق</a> في الإسكندرية والقاهرة، وأخرى مع <a href="https://www.alborsaanews.com/2025/11/27/1931864">سي آر سي</a> الصينية لإنتاج عربات مترو أبو قير الكهربائي.</p>
+
+<p dir="rtl">"بفضل نيرك، ألغيت مناقصة دولية طُرحت في 2022 لتوريد عربات قطار <a href="https://www.facebook.com/alexhabebti/posts/%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%85%D8%AA%D8%B1%D9%88-%D8%A7%D9%84%D8%A5%D8%B3%D9%83%D9%86%D8%AF%D8%B1%D9%8A%D8%A9-%D9%87%D9%88-%D8%A3%D8%AD%D8%AF-%D8%A3%D9%83%D8%A8%D8%B1-%D9%85%D8%B4%D8%B1%D9%88%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D9%82%D9%84-%D8%A7%D9%84%D8%AC%D8%A7%D8%B1%D9%8A-%D8%AA%D9%86%D9%81%D9%8A%D8%B0%D9%87%D8%A7-%D9%81%D9%8A-%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9-%D8%A7%D9%84%D8%A5%D8%B3%D9%83%D9%86%D8%AF/1351065367049161/">مترو أبو قير الكهربائي</a>، بعد تأكدنا من قدرة الشركة على إنتاج العربات"، يقول المصدر بهيئة الأنفاق، متوقعًا أن "يسهم ذلك في تحقيق وفورات تُقدّر بنحو 734 مليون يورو في مشروع مترو أبو قير فقط".</p>
+
+<p dir="rtl">إضافة لنيرك، عمدت الحكومة إلى <a href="https://almanassa.com/stories/masrawy.com/news/news_egypt/details/2026/1/1/2917851/%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB-%D9%85%D8%B5%D9%86%D8%B9-%D8%B9%D8%B1%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%83%D9%83-%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%AF%D9%8A%D8%A9-%D9%88%D9%85%D8%AA%D8%B1%D9%88-%D8%A7%D9%84%D8%A3%D9%86%D9%81%D8%A7%D9%82-%D8%B3%D9%8A%D9%85%D8%A7%D9%81-%D8%A8%D8%AA%D9%82%D9%86%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%AB%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D9%8A%D8%A9-%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9%D8%A9">تحديث</a> مصنعها القديم للعربات "سيماف"، الذي يتولى حاليًا صناعة 210 عربات نقل بضائع لشبكة القطارات السريعة، ويكشف المصدر أن العربة الواحدة التي كانت يتكلف استيرادها نحو 16 مليون جنيه، ستصنع محليًا بنحو 9 ملايين جنيه.</p>
+
+<h2 dir="rtl">كيف نمحو ذنوب الديون الماضية؟ </h2>
+
+<p dir="rtl">في <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="f3f782e9-f921-4e9f-99bb-0fc6a52e5a64" href="https://almanassa.com/stories/22388" title="وجارٍ البحث عن 9 مليارات دولار لاستكمال مشروعات النقل المفتوحة">حصر</a> سابق، قدرت<strong> المنصة </strong>إجمالي المتطلبات التمويلية لمشروعات النقل الكبرى بنحو 19 مليار دولار، ما يفاقم الدين الخارجي الذي شهد نموًا متسارعًا في العقد الأخير. </p>
+
+<p dir="rtl">وإن اعتبر الباحث بالمبادرة المصرية للحقوق الشخصية، محمد رمضان، جذب الشركات والمصانع الأجنبية للعمل داخل السوق المصرية خطوة إيجابية، فإنه لن يكون بديلًا حقيقيًا لاسترداد التكلفة الضخمة لمشروعات السكك الحديدية ومترو الأنفاق، خاصة أن هذه الصناعات ترتبط بعوامل أكثر تعقيدًا، تشمل التكنولوجيا، واستدامة التطوير والبحث، فضلًا عن التسويق وإمكانات التصدير مستقبلًا.</p>
+
+<p dir="rtl">يشير رمضان في تصريح لـ <strong>المنصة</strong> إلى إشكالية في طريقة احتساب المكون المحلي داخل الصناعات التي تُنفذ بالشراكة مع شركات عالمية، تتمثل في أن بعض الجهات تحتسب العمالة ضمن نسبة المكون المحلي، رغم أن المعيار الحقيقي يجب أن يرتبط بحجم القيمة المضافة، ومدى نقل التكنولوجيا، وعدد المهندسين الذين جرى تدريبهم، بالإضافة إلى القيمة الفنية والمالية للمنتج النهائي مقارنة بنظيره المستورد بالمواصفات نفسه.</p>
+
+<p dir="rtl">بينما يشدد فخري الفقي، الرئيس السابق للجنة الخطة والموازنة بالبرلمان، على أن الحد من الضغوط الناتجة عن زيادة الدين الخارجي في الفترة المقبلة لن تتأتى إلا من خلال تركيز الصناعات الجديدة على التوسع في التصدير، لافتًا إلى أن ثمار وفورات توطين صناعة النقل ستظل محدودة في المراحل الأولى، باعتبار أن الإنتاج سيُوجَّه في البداية لتغطية جزء من احتياجات السوق المحلية، لكن التأثير الاقتصادي الأكبر لن يظهر بصورة واضحة إلا مع نجاح هذه الصناعات في التوسع بعمليات التصدير إلى الأسواق الخارجية.</p>
+
+<p dir="rtl">هنا يلفت المصدر بهيئة الإنفاق إلى أن العديد من الشركات المؤسسة حديثًا تتطلع على المدى الطويل لاتخاذ مصر قاعدةً للتصدير، ويضرب مثالًا على ذلك بشركة ألستوم، حيث سيخصص إنتاج الشركة في المرحلة الأولى للخط السادس لمترو الأنفاق، على أن يوجه لاحقًا نحو التصدير.</p>
+
+<p dir="rtl">ويؤكد العضو المنتدب للشركة المصرية لصناعات السكك الحديدية "نيرك"، أحمد المفتي، لـ <strong>المنصة</strong> تبنيهم استراتيجية مرحلية لتوطين صناعة الوحدات المتحركة، تبدأ بتغطية احتياجات السوق المحلية، على أن تتوسع لاحقًا نحو التصدير، حيث تعتزم إعداد دراسة تفصيلية حول احتياجات السوق الأفريقية من القطارات قبل نهاية العام الحالي، تمهيدًا لدخولها كمرحلة أولى للتوسع الخارجي، مستفيدة من وجود شركات المقاولات المصرية العاملة في مشروعات البنية التحتية في القارة.</p>
+
+<p dir="rtl">يشرح المفتي أن هذا التوجه يستهدف بناء تحالفات متكاملة قادرة على تنفيذ المشروعات بنظام "تسليم المفتاح" لصالح الجهات المالكة في الدول الإفريقية، بما يعزز قدرة الشركات المصرية على المنافسة الإقليمية والدولية.</p>
+
+
+<div data-embed-button="almanassa_story_browser" data-entity-embed-display="view_mode:node.read_also" data-entity-type="node" data-entity-uuid="f97a6950-ed73-45c4-8a00-19860d534f4c" data-langcode="ar" data-entity-embed-display-settings="[]" data-sanitized-class="embedded-entity">
+	<article data-history-node-id="26129" role="article" about="/stories/26129" data-sanitized-id="node-26129" data-sanitized-class="view-mode--read-also type-story"><div data-sanitized-class="row">
+		<a href="https://almanassa.com/stories/26129" almanassa-posthog-link="" data-ph-capture-attribute-link-type="story" data-ph-capture-attribute-link-id="26129" data-ph-capture-attribute-link-title='كم كلفتنا قروض كامل الوزير "الأخوية"؟' data-ph-capture-attribute-link-section="اقتصاد وعمران" data-ph-capture-attribute-link-view-mode="read_also" data-sanitized-class="columns small-12 medium-6">
+			<hr data-sanitized-class="embed-divider"><div data-sanitized-class="h3">اقرأ أيضا</div>
+			
+			<div data-sanitized-class="h2">
+				<span>كم كلفتنا قروض كامل الوزير "الأخوية"؟</span>
+
+			</div>
+			
+			<hr data-sanitized-class="embed-divider"></a>
+	</div>
+</article></div>
+<p dir="rtl">سيكون التوجه نحو التصدير رهان قطاع النقل خلال السنوات المقبلة لوقف نزيف النقد الأجنبي الذي عانى منه الاقتصاد المصري، وسيظل فتح أسواق جديدة للمنتجات المصرية التحدي الأكبر أمام تحقيق هذا الهدف.</p>
+						<div data-sanitized-id="topic-file-stories">
+			<div data-sanitized-class="views-element-container">		<div almanassa-posthog-link-source="" data-almanassa-posthog-link-source="Story Topic File Stories List" data-almanassa-posthog-link-source-type="topic_files" data-almanassa-posthog-link-source-id="embed_story_topic_file" data-sanitized-class="js-view-dom-id-6c03ff829308ec6054fb43abb2a2fbeab2143030a2af31c671b708e6c57cb517">
+		
+		
+		
+
+		
+		
+		
+		
+
+		
+		
+		
+
+		
+		
+
+		
+		
+	</div>
+</div>
+
+			</div>
+		</div><!-- FULLCONTENT end //-->]]></description>
+			<pubDate>Sun, 28 Jun 2026 15:02:03 +0300</pubDate>
+			<guid isPermaLink="false">1782648147116534</guid>
+		</item>
+		<item>
+			<title>التمويل الاستهلاكي.. فرصة نمو أم مخاطرة يجب تداركها؟</title>
+			<link>https://almanassa.com/stories/32191</link>
+						<dc:creator>عمرو عادلي</dc:creator>
+			<media:thumbnail url="https://almanassa.com/sites/default/files/styles/card_lead/public/photobank/cardcredit.png.webp?itok=WjfzkMTG" />
+			<media:content url="https://almanassa.com/sites/default/files/styles/card_lead/public/photobank/cardcredit.png.webp?itok=WjfzkMTG" medium="image"></media:content>
+			<description><![CDATA[<!-- FULLCONTENT start //--><div data-sanitized-class="columns small-12 table-scroll">
+							<p>يٌعرِّف القانون<a href="https://fra.gov.eg/wp-content/uploads/2020/12/%D9%82%D8%A7%D9%86%D9%88%D9%86-%D9%86%D8%B4%D8%A7%D8%B7-%D8%A7%D9%84%D8%AA%D9%85%D9%88%D9%8A%D9%84-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%87%D9%84%D8%A7%D9%83%D9%8A-3.pdf"> رقم 18 لسنة 2020</a> التمويل الاستهلاكي بأنه "كل نشاط يهدف إلى توفير التمويل المخصص لشراء السلع والخدمات لأغراض استهلاكية متى تمت مزاولته على وجه الاعتياد، ويشمل التمويل من خلال بطاقات المدفوعات التجارية أو إحدى وسائل الدفع التي يقرها البنك المركزي".</p>
+
+<p>بعيدًا عن هذه اللغة القانونية الصارمة، التمويل الاستهلاكي ببساطة هو شراء سلعة أو خدمة لمستهلك لا يملك ثمنها في الوقت الراهن بأموال غيره من خلال الاقتراض مع الالتزام بالسداد في <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="e4ede638-746c-4570-bd2a-8d562703547f" href="https://almanassa.com/stories/26655" title="تعليم بالتقسيط.. قروض المدارس تنقذ أحلام الطبقة الوسطى">صورة أقساط</a> تكون مدتها الدنيا طبقًا للقانون المذكور ستة أشهر، متخليًا بذلك عن الصورة النقدية للإقراض. </p>
+
+<p>يتعدد أبطال<a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="c628be39-ce1a-4037-a668-3cde4b43255d" href="https://almanassa.com/stories/25415" title='2.3 مليون مديون.. البحث عن "فرج" في التمويل الاستهلاكي'> التمويل الاستهلاكي</a> من مستهلكين نهائيين وموزعي سلع وخدمات يتفاعلون بشكل مباشر مع المستهلكين، ومن ورائهم من يعتبرون عصب هذا النمط من التمويل؛ <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="56e6852e-bfb9-4b75-b1b2-0a45a9e0a347" href="https://almanassa.com/stories/18235" title='"طلبك مرفوض" في شركات التمويل.. الفائدة 30% والراتب 15 ألفًا'>شركات التمويل الاستهلاكي</a>، وهي مؤسسات مالية غير مصرفية بمعنى أنها ليست بنوكًا تتلقى ودائع من عملاء.</p>
+
+<p>ولكون التمويل الاستهلاكي أحد الأنشطة المالية غير المصرفية التي تتم من خلال شركات تستخدم رأسمالها، أو تقترض بدورها حتى يمكنها تمويل استهلاك عملائها النهائيينـ فإنه يخضع لهيئة الرقابة المالية التي تشاطر البنك المركزي الرقابة على أنشطة أسواق المال مع التركيز على كل ما هو غير مصرفي.</p>
+
+<h2>نشاط يتوسع</h2>
+
+<p>قصة التمويل الاستهلاكي طويلة وقديمة في مصر، لكن الشكل المحدد في التمويل الاستهلاكي غير المصرفي حديث ترجع بدايته إلى 6 سنوات فحسب عند تمرير القانون المذكور، ورغم قصر عهده فإنه مثل قصة نجاح، إذ شهد نموًا كبيرًا في حجم التمويل وعدد الشركات وبالقطع عدد العملاء.</p>
+
+<figure role="group" data-sanitized-class="align-left"><div data-embed-button="almanassa_media_browser" data-entity-embed-display="view_mode:media.embed" data-entity-type="media" data-entity-uuid="63881bc9-a452-4051-bfe5-58d29e7fee15" data-langcode="ar" data-entity-embed-display-settings="[]" data-sanitized-class="embedded-entity">
+	    <picture><source media="all and (min-width: 1440px)" type="image/webp"><source media="all and (min-width: 641px)" type="image/webp"><source type="image/webp"><img src="https://almanassa.com/sites/default/files/styles/max_650x650/public/photobank/2025/63881bc9-a452-4051-bfe5-58d29e7fee15.png.webp?itok=afTj9M2k" alt="" typeof="foaf:Image"></picture><aside data-sanitized-class="media--management-links"><ul></ul></aside><aside data-sanitized-class="caption credits">المصدر: صورة من إعلان شركة لايم على يوتيوب</aside></div>
+<figcaption>إعلان إحدى شركات التمويل الاستهلاكي 2025</figcaption></figure><p>في 2021 أفاد<a href="https://fra.gov.eg/wp-content/uploads/2022/09/Annual-Report-2021-10-March-2022-FINAL-1.pdf"> تقرير </a>هيئة الرقابة المالية<a href="https://fra.gov.eg/wp-content/uploads/2022/09/Annual-Report-2021-10-March-2022-FINAL-1.pdf"> </a>بوجود 30 شركة تخدم 1.34 مليون عميل بحجم تمويل 17 مليار جنيه مصري مقارنة بـ8 مليارات في 2020 فحسب، أي بمعدل نمو اسمي بلغ 102% طبقًا لحسابات التقرير.</p>
+
+<p>هذا التوسع استمر، فطبقًا <a href="https://fra.gov.eg/wp-content/uploads/2022/09/Annual-Report-2021-10-March-2022-FINAL-1.pdf">لتقرير الهيئة</a> لعام 2021، بلغ عدد شركات التمويل الاستهلاكي 45 شركة بـ3.3 مليون عميل؛ أي بزيادة 150% في ثلاث سنوات فحسب.</p>
+
+<p>ثم أتت القفزة الأكبر في حجم التمويل وعدد العملاء، إذ تفيد آخر  <a href="https://sis.gov.eg/ar/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%D9%8A/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%A7%D9%84%D8%B1%D9%82%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-417-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AC%D9%86%D9%8A%D9%87-%D8%AD%D8%AC%D9%85-%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D8%A7%D9%84%D8%AA%D9%85%D9%88%D9%8A%D9%84-%D8%BA%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%81%D9%8A-%D8%A8%D9%86%D9%87%D8%A7%D9%8A%D8%A9-2025/">إحصاءات</a><strong> </strong>الهيئة في نهاية 2025 بوصول عدد العملاء إلى 10.7 مليون عميل، ما يعني أن عدد العملاء ارتفع بين 2020 و2025 بنحو 700%، بالتزامن مع ارتفاع قيمة التمويل من 55 مليار جنيه في 2024 إلى 87 مليارًا في 2025.</p>
+
+<p>المثير للانتباه أن وزن التمويل الاستهلاكي وصل إلى ربع إجمالي التمويل السنوي غير المصرفي بنهاية 2025، وهي نسبة معتبرة لنشاط بدأ خضوعه لرقابة الهيئة في 2020 فقط، ما أثار مخاوف من أن يمضي نمو التمويل الاستهلاكي بوتيرة أسرع من قدرة الدولة على تنظيمه وضبطه، ما قد يجعله مصدرًا للمخاطرة وليس فرصةً للنمو من خلال زيادة القدرة الشرائية لملايين المواطنين.</p>
+
+<h2>خبرة توظيف الأموال</h2>
+
+<p>في هذا السياق توالت قرارات الهيئة العامة للرقابة المالية لإضفاء مزيد من التنظيم على التمويل الاستهلاكي، بدءًا بالطبع من <a href="https://www.almasdar.com/161022">القرار </a>رقم 222 لسنة 2025، الذي ألزم شركات التمويل الاستهلاكي بإعداد قواعد للمخالفين المتورطين فيما يُسمى بـ<a href="https://www.alarabiya.net/aswaq/economy/2025/09/18/%D9%85%D8%B5%D8%B1-%D8%AA%D8%AD%D8%B8%D8%B1-%D9%85%D9%85%D8%A7%D8%B1%D8%B3%D9%8A-%D8%A7%D9%84%D8%AA%D8%B3%D9%8A%D9%8A%D9%84-%D8%A7%D9%84%D9%86%D9%82%D8%AF%D9%8A-%D8%A8%D8%A7%D9%84%D8%AA%D9%85%D9%88%D9%8A%D9%84-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%87%D9%84%D8%A7%D9%83%D9%8A">التسييل النقدي</a>، وهي ظاهرة بدأت في الانتشار، إذ تقدم هذه الشركات قروضًا نقديةً للمستهلكين النهائيين بدلًا من الحصول على سلع أو خدمات حقيقية، بمقابل فوائد مرتفعة من المقترضين.</p>
+
+<p>تلت هذا جملةُ قرارات ذات صلة بإلزام الشركات بالتأمين لتغطية مخاطر أعضاء مجالس إدارتها والمديرين التنفيذيين كشرط لمزاولة النشاط (<a href="https://www.eastlaws.com/legislation-full-text/ar/egypt/financial-regulation-decision/17-02-2026/no-35?type=1&amp;id=5386673">قرار 35 </a>في فبراير/شباط 2026)<strong> </strong>وبإنشاء قوائم تحذيرية وسلبية للمخالفين (<a href="https://www.eastlaws.com/legislation-full-text/ar/egypt/financial-regulation-decision/20-05-2026/no-87?type=1&amp;id=5639208">قرار 87 </a>في مايو/أيار 2026).</p>
+
+<p>بالتزامن، دخل البنك المركزي على الخط و<a href="https://asharq.com/videos/shorts/4926/%D8%A7%D9%84%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A-%D9%8A%D8%B4%D8%AF%D8%AF-%D8%B6%D9%88%D8%A7%D8%A8%D8%B7-%D8%A7%D9%84%D8%AA%D9%85%D9%88%D9%8A%D9%84-%D8%BA%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%81%D9%8A/">أصدر</a> ضوابط رقابية صارمة تلزم البنوك بالتحقق من تسجيل شركات التمويل غير المصرفي لدى شركات الاستعلام الائتماني (مثل I-score) مع وضع سقف لأقساط التمويل الاستهلاكي بما لا يتجاوز 50% من دخل العميل للحد من مخاطر التعثر وتقييم الجدارة الائتمانية بشكل دقيق.</p>
+
+<blockquote>
+<p>البنك المركزي يتحرك مبكرًا لمحاصرة المخاطر الناشئة وهو أمر محمود ولا شك</p>
+</blockquote>
+
+<p>لا نملك تقديرات رسمية (ولا غير رسمية) لدرجة اعتماد شركات التمويل الاستهلاكي على القروض البنكية لتمويل أنشطتها، وإن كان بالإمكان اعتبار خطوات البنك المركزي الأخيرة قرينةً على الوزن النسبي المتزايد (ولا نقول بالضرورة أنه كبير بالفعل) لتلك الشركات بما يستدعي استهدافها بهذه الإجراءات التنظيمية بالتزامن وبالتنسيق مع هيئة الرقابة المالية.</p>
+
+<p>الأرجح أن معدلات النمو بالغة التسارع للتمويل الاستهلاكي في السنوات القليلة الماضية أدت بدورها إلى توسع تلك الشركات في الاقتراض من البنوك لعدم كفاية زيادات رأسمالها، وهو ما يخلق بيئة مختلفة للمخاطر لأنها تربط بشكل أو بآخر بين مخاطر تعثر عملاء التمويل الاستهلاكي من ناحية، والجهاز المصرفي متلقي الودائع من ناحية أخرى.</p>
+
+<p>علمًا بأن المنطق الحاكم لوضع التمويل الاستهلاكي تحت الأنشطة غير المصرفية كان هدفه بالأساس تحجيم تلك المخاطر وإبعادها عن الجهاز المصرفي، وهو درس قاسٍ تعلمه المركزي من تجربة شركات توظيف الأموال في نهاية ثمانينيات القرن الماضي عندما سمحت بيئة ضعيفة التنظيم وقتها لشركات لا تحمل رخصًا من المركزي بأن تمارس وظائف البنوك في تلقي الودائع وليس الإقراض فحسب.</p>
+
+<h2>المركزي منتبه</h2>
+
+<p>في الوقت الحالي لا يبدو أن هناك خطورةً حقيقيةً، إذ إن<a href="https://www.cbe.org.eg/-/media/project/cbe/listing/monthly-statistical-bulletin/bulletin/feb/monthly-statistical-bulletin-347.pdf"> إجمالي</a> حجم التمويل الاستهلاكي بنهاية 2025 (97 مليار جنيه) لا يمثل سوى 1% من إجمالي التمويل البنكي في الفترة نفسها تقريبًا، ما يعني أن قسم التمويل الاستهلاكي المعتمد على الاقتراض البنكي أصغر ربما بمقدار النصف إذا صحَّت التقديرات بأن شركات التمويل تعتمد على الاقتراض البنكي بنسبة 50% من محافظها. يشير هذا إلى أن البنك المركزي يتحرك مبكرًا لمحاصرة المخاطر الناشئة، وهو أمر محمود ولا شك.</p>
+
+<blockquote>
+<p>علينا النظر إلى ظروف الاقتصاد الكلي المحيطة بتمدد التمويل الاستهلاكي في المقام الأول</p>
+</blockquote>
+
+<p>بعيدًا عن صحة الجهاز المصرفي ككل، فإن قصة التمويل الاستهلاكي في السنوات القليلة الماضية تبرز محدودية مثل هذا النموذج من عدة زوايا:</p>
+
+<p>مبدئيًا، زيادة القدرة الشرائية من خلال إقراض المستهلكين هو مصدر نمو في اقتصاد يعتمد على الاستهلاك، لكنه يثير أسئلة كبيرة على مستوى الاقتصاد الكلي، سواء فيما يتعلق بكثافة الاستيراد للسلع المستهلكة، بما قد يعني زيادة الطلب على الواردات، وتوسيع العجز الهائل بالفعل في الميزان التجاري.</p>
+
+<p>كما يثير الأمر أسئلةً حول مقدرة العملاء المستجدين للتمويل الاستهلاكي، الذين قفزت أعدادهم بنسبة 700% في 5 سنوات، كما سبق الذكر، على الوفاء بالتزاماتهم مع الاضطرابات المتجددة على مستوى الاقتصاد الكلي في صورة تذبذب أسعار الصرف، معها معدلات التضخم المحلية علاوة على درجة التعرض المرتفعة للأزمات الخارجية في حالة الاقتصاد المصري.</p>
+
+<p>هذه المحددات كلها تتجاوز فحسب الاهتمام بالتمويل الاستهلاكي كنشاط مالي، وتدعو للنظر إلى ظروف الاقتصاد الكلي المحيطة بتمدد التمويل الاستهلاكي في المقام الأول.</p>
+
+<p>أما الملاحظة الثانية فهي عن محدودية توسع النشاط المالي غير المصرفي في بلد مثل مصر لا يزال جوهر النشاط المالي فيه هو البنوك التجارية المتلقية لودائع العائلات والأفراد، التي بدورها تقرض الحكومة في المقام الأول، والشركات الخاصة والعامة كبيرة الحجم في المقام الثاني بما لا يتيح الكثير من المساحة للتوسع في الإقراض الاستهلاكي البنكي.</p>
+
+
+<div data-embed-button="almanassa_story_browser" data-entity-embed-display="view_mode:node.read_also" data-entity-type="node" data-entity-uuid="56e9faf5-bf59-4649-ba8f-22e5ac329782" data-langcode="ar" data-entity-embed-display-settings="[]" data-sanitized-class="embedded-entity">
+	<article data-history-node-id="29615" role="article" about="/stories/29615" data-sanitized-id="node-29615" data-sanitized-class="view-mode--read-also type-story"><div data-sanitized-class="row">
+		<a href="https://almanassa.com/stories/29615" almanassa-posthog-link="" data-ph-capture-attribute-link-type="story" data-ph-capture-attribute-link-id="29615" data-ph-capture-attribute-link-title="تطبيقات التمويل الاستهلاكي.. الديون التي في جيبك" data-ph-capture-attribute-link-section="علوم وتكنولوجيا" data-ph-capture-attribute-link-view-mode="read_also" data-sanitized-class="columns small-12 medium-6">
+			<hr data-sanitized-class="embed-divider"><div data-sanitized-class="h3">اقرأ أيضا</div>
+			
+			<div data-sanitized-class="h2">
+				<span>تطبيقات التمويل الاستهلاكي.. الديون التي في جيبك</span>
+
+			</div>
+			
+			<hr data-sanitized-class="embed-divider"></a>
+	</div>
+</article></div>
+<p>قد يبدو للوهلة الأولى أن هناك التفافًا على هذا القيد عبر التوسع في التمويل الاستهلاكي غير المصرفي، وكذا التمويل متناهي الصغر، الذي لم أتناوله في هذا المقال رغم تداخله الموضوعي مع التمويل الاستهلاكي في الكثير من الأحيان، لكن حالما ينجح التمويل غير المصرفي في جذب العملاء وتوسيع محفظته، يتجه فورًا إلى الاقتراض البنكي في نهاية المطاف ما يزيد من المخاطر بالنسبة للجهاز المصرفي في المستقبل، ويطرح أسئلة حول القدرة على الاستمرار في مثل هذا توسع بعد خمس سنوات فقط من انطلاق قطار التمويل الاستهلاكي.</p>
+
+<p>يقول المثل الشعبي القديم: تروح فين الشمس من قفا الفلاح! أينما يذهب للعمل في الغيط يجد أشعة الشمس الحارقة تلاحقه، وهو ما يعني أنه لا مناص من النظر إلى الاقتصاد السياسي للقطاع المصرفي لفهم فرص نمو واستدامة التمويل غير المصرفي.</p>
+						<div data-sanitized-id="topic-file-stories">
+			<div data-sanitized-class="views-element-container">		<div almanassa-posthog-link-source="" data-almanassa-posthog-link-source="Story Topic File Stories List" data-almanassa-posthog-link-source-type="topic_files" data-almanassa-posthog-link-source-id="embed_story_topic_file" data-sanitized-class="js-view-dom-id-b1ae514970b3cd479b6fef9e3cf7a8ec0af7424ef3acd979e6fe10a7d403918b">
+		
+		
+		
+
+		
+		
+		
+		
+
+		
+		
+		
+
+		
+		
+
+		
+		
+	</div>
+</div>
+
+			</div>
+		</div><!-- FULLCONTENT end //-->]]></description>
+			<pubDate>Sun, 28 Jun 2026 15:02:03 +0300</pubDate>
+			<guid isPermaLink="false">1782648147116533</guid>
+		</item>
+		<item>
 			<title>أسعار العملات في مصر</title>
 			<link>https://realegp.com/</link>
 						<description><![CDATA[<table data-sanitized-class="table currencies-table">
@@ -2676,335 +3091,6 @@
             </table>]]></description>
 			<pubDate>Sat, 27 Jun 2026 18:02:20 +0300</pubDate>
 			<guid isPermaLink="false">1782572547895384</guid>
-		</item>
-		<item>
-			<title>أسعار العملات في مصر</title>
-			<link>https://realegp.com/</link>
-						<description><![CDATA[<table data-sanitized-class="table currencies-table">
-              <thead>
-                <tr data-sanitized-class="thick-border">
-                  <th data-sanitized-class="text-end">العملة</th>
-                  <th>سعر البنك</th>
-                  <th>
-                    <div>سعر السوق</div>
-                    <div data-sanitized-class="range">من - إلى</div>
-                  </th>
-                </tr>
-              </thead>
-              <tbody>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/usd">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-us fib"></i>
-                        </div>
-                        <div>دولار أمريكي</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">49.47</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">50.86</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">50.5 - 51.11</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/eur">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-eu fib"></i>
-                        </div>
-                        <div>يورو</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">56.36</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">57.94</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">57.53 - 58.23</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/sar">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-sa fib"></i>
-                        </div>
-                        <div>ريال سعودي</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">13.09</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">13.46</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">13.37 - 13.53</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/kwd">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-kw fib"></i>
-                        </div>
-                        <div>دينار كويتي</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">160.6</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">165.13</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">163.9 - 165.9</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/aed">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-ae fib"></i>
-                        </div>
-                        <div>درهم اماراتي</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">13.37</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">13.75</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">13.65 - 13.82</div>
-                  </td>
-                </tr>
-                
-  
-              </tbody>
-            </table>]]></description>
-			<pubDate>Sat, 27 Jun 2026 16:32:18 +0300</pubDate>
-			<guid isPermaLink="false">1782567146128870</guid>
-		</item>
-		<item>
-			<title>أسعار الذهب في مصر</title>
-			<link>https://realegp.com/</link>
-						<description><![CDATA[<table data-sanitized-class="table currencies-table">
-              <thead>
-                <tr data-sanitized-class="thick-border">
-                  <th data-sanitized-class="text-end">الذهب</th>
-                  <th>
-                    <div>متوسط السعر</div>
-                    <div data-sanitized-class="range">من - إلى</div>
-                  </th>
-                </tr>
-              </thead>
-              <tbody>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/gold/18k">
-                      <div data-sanitized-class="justify-content-start">
-                        
-                        <img src="https://realegp.com/static/img/gold.png">
-                        
-                        <div>ذهب عيار 18</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">4936</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">4918 - 4954</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/gold/21k">
-                      <div data-sanitized-class="justify-content-start">
-                        
-                        <img src="https://realegp.com/static/img/gold.png">
-                        
-                        <div>ذهب عيار 21</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">5760</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">5740 - 5780</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/gold/24k">
-                      <div data-sanitized-class="justify-content-start">
-                        
-                        <img src="https://realegp.com/static/img/gold.png">
-                        
-                        <div>ذهب عيار 24</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">6583</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">6560 - 6606</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/gold/pound">
-                      <div data-sanitized-class="justify-content-start">
-                        
-                        <i data-sanitized-class="bi bi-currency-pound"></i>
-                        
-                        <div>جنيه الذهب</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">46080</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">45920 - 46240</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/gold/usdsagha">
-                      <div data-sanitized-class="justify-content-start">
-                        
-                        <i data-sanitized-class="bi bi-coin"></i>
-                        
-                        <div>دولار الصاغة</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">50.31</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">50.14 - 50.49</div>
-                  </td>
-                </tr>
-                
-  
-              </tbody>
-            </table>]]></description>
-			<pubDate>Sat, 27 Jun 2026 16:32:18 +0300</pubDate>
-			<guid isPermaLink="false">1782567146128869</guid>
-		</item>
-		<item>
-			<title>مركز الملاذ الآمن: أسعار الفضة في مصر تتراجع بأكثر من 7% خلال أسبوع.. وعيار 999 يسجل 104 جنيهات بفعل التشدد النقدي الأمريكي</title>
-			<link>https://market.isagha.com/articles/2303</link>
-						<media:thumbnail url="https://cdn.isagha.net/public/files/odWMxw1Wb5elQCu4kRrTm5SW6XFZWXqt52HUpvxE.jpg" />
-			<media:content url="https://cdn.isagha.net/public/files/odWMxw1Wb5elQCu4kRrTm5SW6XFZWXqt52HUpvxE.jpg" medium="image"></media:content>
-			<description><![CDATA[<div data-sanitized-class="content-article">
-					<p></p><p>كشف تقرير فني صادر عن مركز الملاذ الآمن عن تعرض سوق الفضة في مصر لموجة هبوط قوية خلال تعاملات الأسبوع الممتد من 20 إلى 27 يونيو 2026، متأثرة بالتراجعات الحادة في الأسواق العالمية، في ظل تنامي توقعات استمرار السياسة...</p>
-					<a href="https://market.isagha.com/articles/2303" data-sanitized-class="read-more">تابع القراءة</a>
-				</div>]]></description>
-			<pubDate>Sat, 27 Jun 2026 16:32:10 +0300</pubDate>
-			<guid isPermaLink="false">1782567146128868</guid>
-		</item>
-		<item>
-			<title>آي صاغة: هبوط الأوقية إلى 4091 دولارًا يدفع عيار 21 لخسارة 3.5% خلال أسبوع.. والجنيه الذهب يتراجع إلى 46480 جنيهًا في السوق المصرية</title>
-			<link>https://market.isagha.com/articles/2302</link>
-						<media:thumbnail url="https://cdn.isagha.net/public/files/zKZlERJvUKZF9B7P9XmEEAAfyGY2sN6FeFWaTxRS.jpg" />
-			<media:content url="https://cdn.isagha.net/public/files/zKZlERJvUKZF9B7P9XmEEAAfyGY2sN6FeFWaTxRS.jpg" medium="image"></media:content>
-			<description><![CDATA[<div data-sanitized-class="content-article">
-					<p></p><p>المهندس سعيد إمبابي: ما يحدث في سوق الذهب تصحيح طبيعي بعد موجة الصعود القياسية.. والتراجعات الحالية قد تمثل فرصًا جيدة للشراء</p>
-<p>إمبابي: الفيدرالي الأمريكي غيّر اتجاه الأسواق والذهب خسر نحو 3% عالميًا خلال أسبوع</p>
-<p>شهدت...</p>
-					<a href="https://market.isagha.com/articles/2302" data-sanitized-class="read-more">تابع القراءة</a>
-				</div>]]></description>
-			<pubDate>Sat, 27 Jun 2026 16:32:10 +0300</pubDate>
-			<guid isPermaLink="false">1782567146128867</guid>
 		</item>
 
 	</channel>
