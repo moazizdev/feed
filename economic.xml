@@ -4,10 +4,682 @@
 		<title>اقتصاد</title>
 		<link>http://192.168.1.50:8081/api/query.php?user=admin&amp;t=4IzCA6HFSoouCSR9nVqNkV&amp;f=html</link>
 		<description>RSS feed of اقتصاد</description>
-		<pubDate>Sun, 05 Jul 2026 16:00:02 +0300</pubDate>
-		<lastBuildDate>Sun, 05 Jul 2026 13:00:02 GMT</lastBuildDate>
+		<pubDate>Sun, 05 Jul 2026 16:05:03 +0300</pubDate>
+		<lastBuildDate>Sun, 05 Jul 2026 13:05:03 GMT</lastBuildDate>
 		<atom:link href="http://192.168.1.50:8081/api/query.php?user=admin&amp;t=4IzCA6HFSoouCSR9nVqNkV&amp;f=rss" rel="self" type="application/rss+xml" />
 				<item>
+			<title>أسعار العملات في مصر</title>
+			<link>https://realegp.com/</link>
+						<description><![CDATA[<table data-sanitized-class="table currencies-table">
+              <thead>
+                <tr data-sanitized-class="thick-border">
+                  <th data-sanitized-class="text-end">العملة</th>
+                  <th>سعر البنك</th>
+                  <th>
+                    <div>سعر السوق</div>
+                    <div data-sanitized-class="range">من - إلى</div>
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/usd">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-us fib"></i>
+                        </div>
+                        <div>دولار أمريكي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">49.08</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">49.14</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">48.8 - 49.39</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/eur">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-eu fib"></i>
+                        </div>
+                        <div>يورو</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">56.16</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">56.23</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">55.84 - 56.51</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/sar">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-sa fib"></i>
+                        </div>
+                        <div>ريال سعودي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">12.98</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">13.0</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">12.91 - 13.06</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/kwd">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-kw fib"></i>
+                        </div>
+                        <div>دينار كويتي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">159.3</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">159.55</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">158.4 - 160.3</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/aed">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-ae fib"></i>
+                        </div>
+                        <div>درهم اماراتي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">13.26</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">13.28</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">13.19 - 13.35</div>
+                  </td>
+                </tr>
+                
+  
+              </tbody>
+            </table>]]></description>
+			<pubDate>Sun, 05 Jul 2026 16:02:22 +0300</pubDate>
+			<guid isPermaLink="false">1783256542335636</guid>
+		</item>
+		<item>
+			<title>أشباح القطن| تاريخ بيئي للاقتصاد المصري</title>
+			<link>https://almanassa.com/stories/32468</link>
+						<media:thumbnail url="https://almanassa.com/sites/default/files/styles/lead_image_square/public/photobank/2026/6898115a-b9e9-46d4-8482-16dc18ab53ee.png.webp?itok=I9FUa5d4" />
+			<media:content url="https://almanassa.com/sites/default/files/styles/lead_image_square/public/photobank/2026/6898115a-b9e9-46d4-8482-16dc18ab53ee.png.webp?itok=I9FUa5d4" medium="image"></media:content>
+			<description><![CDATA[<!-- FULLCONTENT start //--><div data-sanitized-class="columns small-12 table-scroll">
+							<p dir="rtl">قبل القرن التاسع عشر، لم يسجل القطن وجودًا ملحوظًا في مصر، ولا في أكثرية أقطار العالم، سواء على مستوى الإنتاج أو الاستهلاك، فعلى امتداد قرون طويلة اعتمدت صناعة النسيج المصرية على الكتان بشكل رئيسي يليه الصوف.</p>
+
+<p dir="rtl">كذلك في أوروبا، قبل الثورة الصناعية، اقتصر القطن على المنسوجات الهندية المستوردة التي اشتهرت عالميًا في ذلك الوقت بجودتها العالية وتنوعها، بينما ظل إنتاج القطنيات شبه منعدم، واستهلاكها محدودًا، بالأخص في شمال القارة العجوز، لدرجة أنه كان يُطلق عليه "الخروف النباتي"؛ إشارة إلى اعتباره نوعًا من أنواع الصوف الذي يُزرع في الأرض، كما يشير المؤرخ سيفن بيكرت في كتابه <a href="https://books.google.com.eg/books/about/%D8%A5%D9%85%D8%A8%D8%B1%D8%A7%D8%B7%D9%88%D8%B1%D9%8A%D8%A9_%D8%A7%D9%84%D9%82%D8%B7%D9%86.html?id=LrXTEQAAQBAJ&amp;redir_esc=y">إمبراطورية القطن</a>.</p>
+
+<p dir="rtl">مع <a href="https://www.ebsco.com/research-starters/history/patenting-steam-powered-loom">اختراع</a> آلات الغزل والنسيج البخارية المعتمدة على الوقود الأحفوري، أواخر القرن الثامن عشر، أصبح القطن المادة الخام الأساسية لصناعة النسيج التي قامت عليها الثورة الصناعية، كونه الأكثر ملاءمةً للتصنيع الآلي، فهو على عكس الصوف أو الكتان أكثر قابليةً للغزل الميكانيكي، وأليافه أقدر على تحمّل السرعة العالية والقوة الميكانيكية للآلات البخارية.</p>
+
+<figure role="group" data-sanitized-class="align-left"><div data-embed-button="almanassa_media_browser" data-entity-embed-display="view_mode:media.embed" data-entity-type="media" data-entity-uuid="59aa6d77-e958-402a-a935-629a79515f91" data-langcode="ar" data-entity-embed-display-settings="[]" data-sanitized-class="embedded-entity">
+	    <picture><source media="all and (min-width: 1440px)" type="image/webp"><source media="all and (min-width: 641px)" type="image/webp"><source type="image/webp"><img src="https://almanassa.com/sites/default/files/styles/max_650x650/public/photobank/alqtn-almstnbt-hdythaan-2.jpg.webp?itok=vDc_AFWM" alt="" typeof="foaf:Image"></picture><aside data-sanitized-class="media--management-links"><ul></ul></aside><aside data-sanitized-class="caption credits">معهد بحوث القطن </aside></div>
+<figcaption>قطن مصري</figcaption></figure><p dir="rtl">بالمثل، اكتسبت المنسوجات القطنية، المصنعة آليًّا، شعبيةً واسعةً بين المستهلكين حول العالم لنعومة ملمسها وخفة وزنها، فضلًا عن قوة تحملها ورخص سعرها النسبي.</p>
+
+<p dir="rtl">مع تنامي الإنتاج الصناعي، توسع الطلب على القطن بوتيرة غير مسبوقة، ومن هنا بدأت قصة القطن المصري وكيف تشكّلت التبعية الاقتصادية من خلال استنزاف الأرض والمياه والعمل في مصر داخل الشبكات الإمبراطورية للتراكم الرأسمالي والثورة الصناعية الصاعدة.</p>
+
+<p dir="rtl">سمح نمط الإنتاج الطرفي<em>(*)</em> بحدوث تراكم رأسمالي هائل في المركز، لكنه بالمقابل حال دون حدوثه بشكل فعال في مصر، رغم تسخير كميات هائلة من الموارد الطبيعية لهذا الغرض.</p>
+
+<p dir="rtl">تتبع هذه السلسلة المراحل المختلفة لتحولات زراعة القطن، وكيف أسهمت دورات صعوده وأزماته المتعاقبة في تشكيل الاقتصاد المصري الحديث وفرض حدود تطوره البيئية. </p>
+
+<h2 dir="rtl"><strong>مصر في التقسيم الدولي الأول للعمل</strong></h2>
+
+<p dir="rtl">في عام 1821 عندما اختبر والي مصر محمد علي والمهندس الفرنسي لوي أليكسي جوميل زراعة القطن طويل التيلة للمرة الأولى، لم يتجاوز إجمالي الإنتاج ألف قنطار (القنطار القديم يساوي نحو 45 كيلوجرامًا). إلا أنه بعد أربعة عقود، وصل لنحو 1.18 مليون قنطار، وفي عام 1864 قفز إلى 1.71 مليون قنطار قبل أن يتجاوز حد الـ7 ملايين قنطار عام 1910.</p>
+
+<p dir="rtl">تكشف هذه الأرقام تحولًا جذريًّا بالخريطة المحصولية. فبحلول أوائل القرن العشرين <a href="https://osf.io/preprints/africarxiv/g69ed_v1">خُصصت</a> نحو ثلاثة أرباع الأراضي المزروعة صيفًا في مصر  للقطن. كما ارتبط جزء كبير من العمالة المصرية مباشرةً بهذا المحصول، سواء في زراعته أو في الأنشطة المرتبطة به مثل النقل والحلج والتجارة والتصدير.</p>
+
+<blockquote>
+<p dir="rtl">بدا قرار الاستثمار في القطن خيارًا اقتصاديًا عقلانيًا في سياق عصر جديد يتشكل</p>
+</blockquote>
+
+<p dir="rtl">لم يكن التوسع في زراعة القطن ونقله ممكنًا من دون إعادة تشكيل كامل للبنية التحتية، فالقطن محصول صيفي يحتاج نظام ري مستمرًا، عكس المحاصيل التقليدية التي تعتمد أساسًا على نظام الفيضان السنوي للنيل. لذلك لا بد من توسيع شبكة القنوات وإعادة تنظيم نظام الري بحيث تتوفر المياه طوال أشهر الصيف. وتشير <a href="https://elmaraya.net/ar/blogs/%D8%A7%D9%84%D8%A8%D8%A7%D8%B4%D8%A7-%D9%88%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D8%B1-%D9%88%D8%A7%D9%84%D8%B9%D9%8A%D8%A7%D9%86">التقديرات</a> إلى أن محمد علي حشد ما يقرب 400 ألف فلاح، نحو عُشر سكان مصر وقتها، سنويًا للعمل في مشاريع الري وشق القنوات، وكانوا ينجزون أعمال حفر وردم بمعدل أربعين مليون متر مربع في العام الواحد.</p>
+
+<p dir="rtl">هدف محمد على في البداية لبناء صناعة محلية تخدم الجيش المتنامي وتُنافِس قطاع النسيج الصناعي الصاعد بقوة في بريطانيا، لكنَّ معاهدة لندن في 1840 قضتْ على هذا المشروع من خلال إجباره على تنفيذ <a href="https://gate.ahram.org.eg/News/4797883.aspx">معاهدة بلطة ليمان</a> الموقعة بين بريطانيا والدولة العثمانية، التي تقضي بـإلغاء نظام الاحتكار في جميع أراضي الدولة العثمانية.</p>
+
+<p dir="rtl">بإلغاء الاحتكار، فَقَدت المصانع المحلية السيطرة على أسعار المواد الخام وإمداداتها، تزامنًا مع إغراق السوق المصرية بالمنسوجات البريطانية الرخيصة بعد إزالة الحماية الجمركية. أمام هذه المنافسة غير المتكافئة، وتراجع الطلب الحكومي نتيجة تقليص حجم الجيش بموجب المعاهدة، عجزت المصانع الناشئة عن الصمود وتوقفت خطوط إنتاجها. </p>
+
+<p dir="rtl">بناءً على هذه التطورات، تحوّلت شبكات الري تدريجيًا إلى بنية تحتية تخدم الاقتصاد التصديري، وللمرة الأولى ذهب جزء كبير من الجهد الزراعي لتلبية احتياجات الأسواق الصناعية في أوروبا.</p>
+
+<h2 dir="rtl"><strong>القطن "اختيارًا"</strong></h2>
+
+<p dir="rtl">من المهم هنا التمييز بين حالة القطن في مصر ونماذج أخرى من الزراعة الإجبارية التي ارتبطت بالعنف الاستعماري المباشر. في أماكن كثيرة من العالم الاستعماري فُرضت زراعة محاصيل معينة بالقوة الصريحة، كما حدث مثلًا في <a href="https://www.independentarabia.com/node/637024/%D9%85%D9%86%D9%88%D8%B9%D8%A7%D8%AA/%D8%A7%D9%84%D9%85%D8%B7%D8%A7%D8%B7-%D8%A7%D9%84%D8%B0%D9%8A-%D8%A7%D9%83%D8%AA%D8%B4%D9%81-%D8%B5%D8%AF%D9%81%D8%A9-%D9%88%D8%A3%D8%B5%D8%A8%D8%AD-%D8%A3%D8%B3%D8%A7%D8%B3-%D8%A7%D9%84%D8%AD%D8%B6%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D9%8A%D8%A9">مزارع المطاط</a> في الكونغو الحرة تحت حكم ليوبولد الثاني، أو في نظام <a href="https://www.britannica.com/event/Culture-System">الزراعة الإجبارية</a> في جزر الهند الشرقية الهولندية خلال القرن التاسع عشر.</p>
+
+<p dir="rtl">أما في الحالة المصرية، فالصورة أكثر تعقيدًا. عندما بدأ التوسع بزراعة القطن في عشرينيات القرن التاسع عشر كانت البلاد مستقلة نسبيًا عن السيطرة الاستعمارية المباشرة، وبدا قرار الاستثمار في القطن خيارًا اقتصاديًّا عقلانيًّا في سياق عصر جديد يتشكل أولًا بسبب رغبة محمد على في توطين صناعة نسيج حديثة، وثانيًا بسبب الارتفاع الجنوني في أسعار القطن، مما جعله استثمارًا مغريًا لأصحاب الأرض والدولة على حد سواء. </p>
+
+<blockquote>
+<p dir="rtl">تكشف البيانات التاريخية أن أكبر التحولات في قيمة القطن نتجت عن أحداث دولية كبرى ودورات رأسمالية عالمية</p>
+</blockquote>
+
+<p dir="rtl">خاضت مصر إذًا أولى تجاربها في الانخراط بسلاسل القيمة العالمية وفقًا لاختيار فرضته ظروف العصر الناشئ، وعلى أثر هذه العولمة المبكرة واجهنا صدمات خارجة عن إرادتنا. لم يكن ممكنًا لصناع القرار في مصر التنبؤ بما سيأتي لاحقًا من دورات الرأسمالية المتقلبة، والانخفاض طويل المدى في قيمة المواد الخام مقارنة بالسلع المصنعة، أو القفزات الضخمة في إنتاجية الصناعة مقارنة بقفزات إنتاجية الزراعة، فكل هذه أمور تحدث لأول مرة في التاريخ. </p>
+
+<p dir="rtl">تكشف<a href="https://osf.io/preprints/africarxiv/g69ed_v1"> البيانات التاريخية</a> أن أكبر التحولات في قيمة القطن نتجت عن أحداث دولية كبرى ودورات رأسمالية عالمية مثل الحروب النابليونية التي أدت إلى تقلبات حادة في أسعار القطن في بدايات القرن التاسع عشر، بينما أحدثت الحرب الأهلية الأمريكية صدمة هائلة رفعت الأسعار إلى مستويات قياسية قبل أن تنهار سريعًا بعد انتهائها، ولاحقًا، لعبت الحرب العالمية الأولى دورًا مشابهًا في إعادة تشكيل الطلب والأسعار، قبل أن تأتي الأزمة الاقتصادية العالمية في الثلاثينيات لتدفع أسعار المنتجات الزراعية، في مقدمتها القطن، إلى مستويات متدنية. في كل هذه الحالات، كانت مصر تتلقى الصدمة لا تصنعها.</p>
+
+<p dir="rtl">إلى جانب الحروب، لعبت الدورات الرأسمالية دورًا حاسمًا في تحديد حجم عوائدنا من القطن، فالأزمات الدورية مثل كساد 1873 وكساد 1929  انعكست بشدة على أسعار القطن وعلى دخول الفلاحين وقدرتهم على الحفاظ على أراضيهم في مواجهة البنوك الأجنبية وديونهم المتراكمة، وانعكست أيضًا على قدرة الدولة على سداد ديونها والاستثمار في الاقتصاد والبنية التحتية. ومع تسارع التقدم التكنولوجي في الصناعة، أصبحت هذه الدورات أكثر تكرارًا وحدَّةً.</p>
+
+<figure role="group" data-sanitized-class="align-left"><div data-embed-button="almanassa_media_browser" data-entity-embed-display="view_mode:media.embed" data-entity-type="media" data-entity-uuid="a0c7a2fe-9c45-4b0f-aee7-438c230f94a5" data-langcode="ar" data-entity-embed-display-settings="[]" data-sanitized-class="embedded-entity">
+	    <picture><source media="all and (min-width: 1440px)" type="image/webp"><source media="all and (min-width: 641px)" type="image/webp"><source type="image/webp"><img src="https://almanassa.com/sites/default/files/styles/max_650x650/public/photobank/2026/a0c7a2fe-9c45-4b0f-aee7-438c230f94a5.jpg.webp?itok=1CpKmgoy" alt="" typeof="foaf:Image"></picture><aside data-sanitized-class="media--management-links"><ul></ul></aside><aside data-sanitized-class="caption credits">برخصة المشاع الإبداعي: Trainiac، فليكر</aside></div>
+<figcaption>سكك حديد دلتا مصر، قطار محمل بالقطن</figcaption></figure><p dir="rtl">وجد القائمون على زراعة القطن أنفسهم في مواجهة منظومة عالمية خارج سيطرتهم، إضافة إلى أن منظومة الإنتاج المحلي لم تكن هي الأخرى تحت السيطرة الكاملة، فالمشتري الأكبر للقطن المصري آنذاك، بريطانيا، فاعل سياسي وتنظيمي في سوقه العالمية.</p>
+
+<p dir="rtl">سعت بريطانيا بشكل منهجي إلى توسيع إنتاج القطن داخل إمبراطوريتها؛ في الهند ومصر تحديدًا مع بعض المحاولات في السودان، لتأمين إمدادات مستقرة لصناعتها وزيادة المعروض، ومن ثم الضغط على الأسعار. بهذا المعنى، لم تكن قوى العرض والطلب طبيعية أو محايدة، بل تشكّلت جزئيًّا بفعل القوة السياسية والتنظيمية للإمبراطورية.</p>
+
+<p dir="rtl"> يشرح أستاذ التاريخ الاقتصادي بجامعة هارفارد، سفين بيكرت، في كتابه "إمبراطورية القطن"، بهذا الصدد، أن الحرب الأهلية الأمريكية دفعت بريطانيا ورأسماليي القطن إلى البحث بشكل عاجل عن مصادر بديلة للإمدادات، فصعّدوا جهودهم لتوسيع إنتاج القطن داخل الإمبراطورية، خاصة في الهند، من خلال استثمارات ضخمة في البنية التحتية مثل الطرق والمواني، وحتى عبر تعديل القوانين لتسهيل تداول الأراضي وتجريم غش القطن.</p>
+
+<p dir="rtl">يظهر هذا التوجه بوضوح في تقرير لجنة المنسوجات التابعة لمجلس التجارة البريطاني عام 1916، إذ دعا إلى توظيف الخبرة البريطانية لزيادة إنتاجية القطن الهندي، مع التأكيد على أن ما اعتُبر توجهًا محافظًا للفلاحين الهنود في طرقهم للزراعة يمكن تجاوزه عبر إشراف حكومي أكثر فاعلية.</p>
+
+<p dir="rtl">يكشف التقرير نفسه أن صدمة <a href="https://www.qdl.qa/%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9/%D8%A7%D9%84%D8%A3%D8%B2%D9%85%D8%A9-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%81%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A8%D9%88%D9%85%D8%A8%D8%A7%D9%8A">مجاعة القطن</a> في ستينيات القرن التاسع عشر ظلت حاضرة في الذاكرة البريطانية، بحيث أظهرت مخاطر الاعتماد على مصدر واحد، ليس فقط على أرباح المصنعين، بل أيضًا على معيشة العمال. لذلك سعت بريطانيا إلى تنويع وتوسيع الإنتاج في الهند والسودان ومصر، مع التأكيد على إمكانات التوسع السريع إذا تم تحسين الإنتاجية والبنية التحتية. كما عبّر الملك إدوارد السابع عام 1904 عن قلقه المباشر من نقص القطن اللازم للصناعة في مقاطعة لانكشير، داعيًا إلى توسيع زراعته في أنحاء الإمبراطورية.</p>
+
+<h2 dir="rtl"><strong>إنما للطبيعة حدود</strong></h2>
+
+<p dir="rtl">بعد انتهاء الحرب الأهلية الأمريكية وعودة الإنتاج في الولايات المتحدة، ومع توسع بريطانيا في تشجيع زراعة القطن في أجزاء مختلفة من إمبراطوريتها، تحديدًا الهند، مع بعض المحاولات المحدودة في السودان، بدأت القيمة النسبية للقطن<em>(**)</em> تتراجع تدريجيًا. </p>
+
+<p dir="rtl">إلا أن هذا التراجع لم يقلص اندماج مصر في الاقتصاد العالمي، إنما عمّق نمطًا من التبادل اللامتكافئ، وهو ما يظهر من حساب صافي التدفقات البيئية المتجسدة في التجارة عند تساوي القيمة النقدية للصادرات والواردات (وبافتراض أن مصر استوردت منسوجات بريطانية بنفس قيمة صادراتها لتلك السنة)، إذ يتضح أن الموارد التي غادرت مصر عبر تجارة القطن تزايدت بوتيرة متسارعة، فقد ارتفع صافي ساعات العمل المصدرة من نحو 1.3 مليار ساعة عام 1865 إلى 4.4 مليار ساعة عام 1899، قبل أن يتجاوز 4.8 مليار ساعة عام 1929.</p>
+
+<p dir="rtl">خلال الفترة نفسها ارتفع صافي استهلاك المياه المتجسد في التجارة من نحو ملياري متر مكعب إلى 9 مليارات متر مكعب، بينما قفز صافي الأراضي الزراعية المخصصة لهذا التبادل من نحو 650 ألف فدان إلى أكثر من 2.5 مليون فدان.</p>
+
+<table><caption><strong>صافي انتقال العمل والأرض والمياه المتجسدة في تجارة القطن والمنسوجات على أساس القيمة المتكافئة للتبادل</strong></caption>
+	<thead><tr><th>السنة</th>
+			<th>صافي ساعات العمل المتجسدة في التجارة (ساعة)</th>
+			<th>صافي المياه المتجسدة في التجارة (م³)</th>
+			<th>صافي الأراضي المتجسدة في التجارة (فدان)</th>
+			<th>إجمالي صادرات الطاقة المتجسدة  (جيجا جول) من بريطانيا إلى مصر</th>
+		</tr></thead><tbody><tr><td>1822</td>
+			<td>46,620,200.59</td>
+			<td>65.706.730.82</td>
+			<td>21,891.69</td>
+			<td>4,178</td>
+		</tr><tr><td>1865</td>
+			<td>1,314,719,101.1</td>
+			<td>20.759.999.56</td>
+			<td>648,000.00</td>
+			<td>640,449</td>
+		</tr><tr><td>1899</td>
+			<td>4,403,000,026.8</td>
+			<td>49.097.815.65</td>
+			<td>1,406,051.68</td>
+			<td>772,035</td>
+		</tr><tr><td>1929</td>
+			<td>4,758,359,052.8</td>
+			<td>90.276.988.32</td>
+			<td>2,576,360.58</td>
+			<td>772,035</td>
+		</tr></tbody></table><p dir="rtl" data-sanitized-class="footnote">المصدر: حسابات المؤلف اعتمادًا على مصادر تاريخية حول زراعة القطن المصري وصناعة المنسوجات البريطانية وأسعار السلع والتجارة الخارجية. جرى تقدير بعض القيم المفقودة من خلال الاستيفاء بين السنوات المرجعية التاريخية (Interpolation) اعتمادًا على بيانات متطلبات العمل والمياه وإنتاجية الأرض، مع تطبيق منهجية انتقال الموارد المتجسدة (Embodied Resource Transfers) على أساس سلع بريطانية مساوية في القيمة لصادرات القطن المصرية</p>
+
+<p dir="rtl">يرجع ذلك إلى الزيادة الكبيرة في إنتاجية المنسوجات البريطانية (التي شكلت السواد الأعظم من وارداتنا خلال هذه الفترة) مقارنةً بالقطن الخام (الذي شكل السواد الأعظم من صادراتنا). فنرى مثلًا أن إنتاجية العمل في القطن تضاعفت نحو ثلاث مرات بين على مدار 130 عامًا من 1822 إلى 1952، وزادت إنتاجية المياه نحو مرة ونصف المرة، وإنتاجية الأرض نحو ثلاث مرات، بينما زادت إنتاجية عمال المنسوجات البريطانية نحو 26 مرة، وإنتاجية الطاقة نحو 4 مرات خلال الحقبة نفسها.</p>
+
+<p dir="rtl">هذا لن يحدث بسبب ضعف الإنتاجية في مصر مقابل بريطانيا، لكن أيضًا بسبب الحدود الطبيعية لزيادة الإنتاجية (تحديدًا الأرض والمياه) في الزراعة مقارنة بطبيعة الصناعة التي قد يؤدي تطور هندسي ما إلى مضاعفة الإنتاجية في فترة زمنية قصيرة. </p>
+
+<figure role="group" data-sanitized-class="align-left"><div data-embed-button="almanassa_media_browser" data-entity-embed-display="view_mode:media.embed" data-entity-type="media" data-entity-uuid="ee6f5b0c-1b85-4698-b4bd-69b1eb1b0603" data-langcode="ar" data-entity-embed-display-settings="[]" data-sanitized-class="embedded-entity">
+	    <picture><source media="all and (min-width: 1440px)" type="image/webp"><source media="all and (min-width: 641px)" type="image/webp"><source type="image/webp"><img src="https://almanassa.com/sites/default/files/styles/max_650x650/public/photobank/alqtn-almstnbt-hdythaan-3.jpg.webp?itok=iy1M2ikc" alt="" typeof="foaf:Image"></picture><aside data-sanitized-class="media--management-links"><ul></ul></aside><aside data-sanitized-class="caption credits">معهد بحوث القطن</aside></div>
+<figcaption>قطن مصري، أرشيفية</figcaption></figure><p dir="rtl">كان البريطانيون والمصريون، على حد سواء، يولون الكثير من الاهتمام إلى زيادة إنتاجية القطن، كما سنستكشف من خلال المواد الأرشيفية على مدار هذه السلسلة، وبالفعل جاءت نتائج زيادة الإنتاجية في مصر مبهرة لدرجة تحقيق واحدة من أفضل المعدلات على مستوى العالم، خصوصًا فيما يخص <a href="https://osf.io/preprints/africarxiv/g69ed_v1">إنتاجية</a> الأرض، ففي بدايات القرن العشرين وصلنا لنحو 450 رطلًا من القطن المحلوج للفدان، بينما توقفت الولايات المتحدة عند 200 رطل فقط والهند 80 رطلًا.</p>
+
+<p dir="rtl">تكتسب هذه الأرقام أهميةً لأن مصر لم تستورد سلعةً تجهل إنتاجها، بل امتلكت تقاليد عريقة في صناعة النسيج سبقت عصر القطن بقرون. بذلك، لم تكن الموارد والعمالة المغادرة مجردَ تكلفة لإنتاج القطن، إنما تكلفة فرصة بديلة لتحويله إلى منتجات أعلى قيمة وأكثر كفاءة.</p>
+
+<p dir="rtl">تكشف المواد الأرشيفية أيضًا كيف أدرك صناع القرار وقتها عدم استدامة هذا التوسع الكبير، سواء على مستوى المساحة، أو على مستوى إنتاجية الفدان باستخدام وسائل ري وكيماويات حديثة ودورة زراعية أقصر. ففي مذكرة حول ضريبة الأراضي كتبها المسؤول والدبلوماسي البريطاني إدجار فنسنت عام 1884، حذّر من أن زراعة القطن بوتيرة متزايدة بدأت تؤدي إلى إنهاك التربة. فدورة الزراعة التقليدية تقصر زراعة القطن على مرة كل ثلاث سنوات، لكن كثيرًا من الملاك بدأوا زراعته كل عامين فقط، وهو ما يهدد خصوبة الأرض.</p>
+
+<h2 dir="rtl">القيود البيئية</h2>
+
+<p dir="rtl">في <a href="https://archive.org/details/cu31924003635897">كتابه</a> عن الري في مصر الصادر عام 1889، أشار المهندس الفرنسي جوليان باروا إلى القيود البيئية التي تواجه توسع الزراعة الصيفية، ولاحظ أن توسيع الري الصيفي إلى كامل الأراضي الزراعية سيحتاج كميات من المياه تتجاوز أحيانًا تدفق النيل في موسم انخفاض منسوبه، ما يعني أن التوسع في زراعة القطن لا يمكن أن يستمر إلى ما لا نهاية من دون تغييرات جذرية في نظام إدارة المياه.</p>
+
+<p dir="rtl">هذه الملحوظات الأرشيفية تكشف أن ضغوط الاقتصاد العالمي ليست مجرد مسألة أسعار وأسواق، إنما موارد طبيعية وحدود بيئية أيضًا، فالقطن محصول كثيف استهلاك المياه والعمل والأرض.<strong> </strong>لذلك لم يكن الاندماج في الرأسمالية العالمية عملية اقتصادية مجردة إنما أعاد تشكيل البيئة والطبيعة المصرية نفسها، فالتوسع في زراعة القطن استلزم أنماطًا جديدةً من إدارة المياه والأرض والعمل، وربط النظام البيئي لوادي النيل بدورات الطلب والتراكم الرأسمالي على نطاق عالمي.</p>
+
+
+<div data-embed-button="almanassa_story_browser" data-entity-embed-display="view_mode:node.read_also" data-entity-type="node" data-entity-uuid="3efd020b-c231-4152-999e-b54531534223" data-langcode="ar" data-entity-embed-display-settings="[]" data-sanitized-class="embedded-entity">
+	<article data-history-node-id="4781" role="article" about="/stories/4781" data-sanitized-id="node-4781" data-sanitized-class="view-mode--read-also type-story"><div data-sanitized-class="row">
+		<a href="https://almanassa.com/stories/4781" almanassa-posthog-link="" data-ph-capture-attribute-link-type="story" data-ph-capture-attribute-link-id="4781" data-ph-capture-attribute-link-title="من القطن إلى البطاطس: الزراعة في الفراغ" data-ph-capture-attribute-link-section="اقتصاد وعمران" data-ph-capture-attribute-link-view-mode="read_also" data-sanitized-class="columns small-12 medium-6">
+			<hr data-sanitized-class="embed-divider"><div data-sanitized-class="h3">اقرأ أيضا</div>
+			
+			<div data-sanitized-class="h2">
+				<span>من القطن إلى البطاطس: الزراعة في الفراغ</span>
+
+			</div>
+			
+			<hr data-sanitized-class="embed-divider"></a>
+	</div>
+</article></div>
+<p dir="rtl">استنادًا إلى وثائق أرشيفية وبيانات تاريخية وبيئية غير منشورة من قبل، سنتتبع في المقالات المقبلة ثلاث دورات رئيسية في تاريخ القطن المصري، شهدت كلٌّ منها صعودًا أعقبه تراجعٌ أو انهيارٌ. كما سنستعرض محاولات التخلي عن هذا الإرث، ثم الجهود اللاحقة لإحيائه من جديد، وكيف أسهمت هذه التحولات المتعاقبة في تشكيل بنية الاقتصاد المصري ومجتمعه ومؤسساته، ولا تزال آثارها حاضرةً في كثير من التحديات التي نواجهها اليوم.</p>
+
+<hr><p data-sanitized-class="footnote">(*) المقصود بنمط الإنتاج الطرفي: نمط الإنتاج السائد في الدول التي تشغل موقع 'الطرف' ضمن منظومة دولية قائمة على التنمية غير المتكافئة؛ حيث يجري استنزاف موارد هذه الدول (الأطراف) وتحويل فائضها الاقتصادي لصالح الدول الواقعة في 'مركز' هذا النظام العالمي.</p>
+
+<p data-sanitized-class="footnote">(**) يقصد بتراجع القيمة النسبية للقطن هنا تراجع قدرته على مبادلة السلع الصناعية بمرور الوقت، بحيث تطلب الحصول على القيمة نفسها من الواردات الصناعية تعبئة كميات متزايدة من العمل والأرض والمياه في إنتاج القطن، رغم التحسن المستمر في إنتاجيته الزراعية.</p>
+						<div data-sanitized-id="topic-file-stories">
+			<div data-sanitized-class="views-element-container">		<div almanassa-posthog-link-source="" data-almanassa-posthog-link-source="Story Topic File Stories List" data-almanassa-posthog-link-source-type="topic_files" data-almanassa-posthog-link-source-id="embed_story_topic_file" data-sanitized-class="js-view-dom-id-6c3893e96d03eb0e0d41dafefd3a54acac5bf4de7df339e84b8c2685a5aa9a50">
+		
+		
+		
+
+		
+		
+		
+		
+
+		
+		
+		
+
+		
+		
+
+		
+		
+	</div>
+</div>
+
+			</div>
+		</div><!-- FULLCONTENT end //-->]]></description>
+			<pubDate>Sun, 05 Jul 2026 16:02:15 +0300</pubDate>
+			<guid isPermaLink="false">1783256542335635</guid>
+		</item>
+		<item>
+			<title>معجزة الحياد السنغافوري</title>
+			<link>https://almanassa.com/stories/32663</link>
+						<media:thumbnail url="https://almanassa.com/sites/default/files/styles/lead_image_square/public/photobank/2026/4e0269fd-96d4-4887-b202-785e7258ad4e.png.webp?itok=E_bP3uuj" />
+			<media:content url="https://almanassa.com/sites/default/files/styles/lead_image_square/public/photobank/2026/4e0269fd-96d4-4887-b202-785e7258ad4e.png.webp?itok=E_bP3uuj" medium="image"></media:content>
+			<description><![CDATA[<!-- FULLCONTENT start //--><div data-sanitized-class="columns small-12 table-scroll">
+							<p>تُعامل سنغافورة في أدبيات التنمية بوصفها <a href="https://www.youtube.com/watch?v=n-_QAgp8M78">معجزة اقتصادية</a>، هي من البلدان القليلة في الجنوب العالمي -غير الغنية بالموارد الطبيعية-التي يحظى سكانها بدخل مرتفع بل ربما بالغ الارتفاع.</p>
+
+<p>تتشابه سنغافورة مع دول خليجية في بعض الملامح، من حيث الموقع الجغرافي المهم، كما أنها تمثل النموذج الملهم لبعضها مثل الإمارات وقطر وحتى المملكة العربية السعودية لتنوع اقتصادها بعيدًا عن الاعتماد المفرط على البترول والغاز لاقتصادات تقوم على اجتذاب رؤوس الأموال وتصدير الخدمات مرتفعة القيمة المضافة. </p>
+
+<p>طالما ركزت التحليلات على مؤسسات وسياسات سنغافورة التي مكنتها من تبوء المكانة التي تحتلها اليوم، إلا أن واحدًا من أهم أسرار نجاحها الاقتصادي هو قدرتها على تجنب التورط في الحروب الإقليمية، وهو الدرس الذي على الخليج أن يعيه بشدة إذا أراد تحقيق نجاح مماثل.</p>
+
+<h2>سر الثراء السريع </h2>
+
+<p>وصلت سنغافورة إلى ما هي عليه انطلاقًا من مستويات فقر ملموسة عند الاستقلال في 1963. فمن 485 دولارًا للفرد في 1963 <a href="https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=SG">وصل</a> نصيب الفرد في الناتج المحلي السنغافوري إلى 90 ألفًا و670 دولارًا في 2024.</p>
+
+<figure role="group" data-sanitized-class="align-right"><div data-embed-button="almanassa_media_browser" data-entity-embed-display="view_mode:media.embed" data-entity-type="media" data-entity-uuid="664cfab2-6064-4820-b185-1d582cadc54a" data-langcode="ar" data-entity-embed-display-settings="[]" data-sanitized-class="embedded-entity">
+	    <picture><source media="all and (min-width: 1440px)" type="image/webp"><source media="all and (min-width: 641px)" type="image/webp"><source type="image/webp"><img src="https://almanassa.com/sites/default/files/styles/max_650x650/public/photobank/2025/664cfab2-6064-4820-b185-1d582cadc54a.jpg.webp?itok=vBjj0bOQ" alt="" typeof="foaf:Image"></picture><aside data-sanitized-class="media--management-links"><ul></ul></aside><aside data-sanitized-class="caption credits">الصفحة الرسمية للمتحدث باسم رئاسة الجمهورية</aside></div>
+<figcaption>الرئيس عبد الفتاح السيسي وقرينته انتصار السيسي مع رئيس سنغافورة ثارمان شانموجار أتنام وقرينته جين يوميكو إيتوجي</figcaption></figure><p>استند البلد الآسيوي الصغير في المقام الأول على تهيئة الظروف لتطوير اقتصاد قائم على تصدير الخدمات، بدءًا بالشحن والتفريغ وخدمات المواني، وهي الميزة الجغرافية التي ورثتها من الحكم الاستعماري البريطاني كونها مطلة على مضيق <a href="https://www.aljazeera.net/ebusiness/2026/5/7/%D9%85%D8%B6%D9%8A%D9%82-%D9%85%D9%84%D9%82%D8%A7-%D9%85%D8%A7%D9%84%D9%8A%D8%B2%D9%8A%D8%A7%D8%A8%D8%AF%D8%A7%D8%A6%D9%84-%D8%B5%D8%B9%D8%A8%D8%A9">ملقا</a>، ومن ثم انطلقت إلى التخصص في خدمات أكثر مهارة وذات قيمة مضافة أعلى خاصة في مجال الاستثمارات المالية والخدمات المصرفية وخدمات التأمين. يكفيك عزيزي القارئ معرفة أن سنغافورة، الدولة <a href="https://www.worldometers.info/world-population/singapore-population/">ذات</a> الـ6 ملايين نسمة، صدَّرت <a href="https://data.worldbank.org/indicator/BX.GSR.NFSV.CD?locations=SG">خدمات </a>بقيمة 400 مليار دولار في 2024.</p>
+
+<h2>تجنب الحروب.. تفسير بديل</h2>
+
+<p>يميل الكثيرون إلى التركيز على الإصلاح المؤسسي مدخلًا لتفسير قدرة سنغافورة على جذب الاستثمارات الضخمة التي أهلتها لهذا النجاح الاقتصادي، فهو بلد يتلقى سنويًّا ما يفوق 100 مليار دولار من <a href="https://data.worldbank.org/indicator/BX.KLT.DINV.CD.WD?locations=SG">تدفقات</a> الاستثمار الأجنبي المباشر منذ 2017 (باستثناء عامي كورونا).</p>
+
+<p>ما يدعم تضخيم دور الإصلاح المؤسسي في تفسير الحالة السنغافورية هو <a href="https://news.smu.edu.sg/news/2025/05/19/singapore-tops-global-index-elite-governance-yet-again-ai-redrawing-global-economic">التصنيف المتقدم</a> لجودة المؤسسات العامة في هذا البلد، سواء ما يتعلق بخلوها من الفساد أو بكفاءة أجهزة الدولة العاملة في مجالات كإنفاذ التعاقدات وحماية الملكية الخاصة وحكم القانون. لكن هناك تفسيرًا آخر لهذا النجاح الاقتصادي، ربما يكون أقل شيوعًا، ويتعلق بطريقة البلاد في إدارة سياستها الخارجية منذ الاستقلال في 1963.</p>
+
+<p>تستحق السياسة الخارجية لسنغافورة الاهتمام، خصوصًا وأنها لم تعش دائمًا في محيط مستقر، إذ عانت منطقة جنوب شرق آسيا من اضطرابات شديدة، سواء داخلية أو صراعات عسكرية دولية في فترة الحرب الباردة، لعل أبرزها حرب فيتنام.</p>
+
+<p>عسكريًّا اعتمد حكام سنغافورة على الاستثمار في جيش صغير لكنه شديد التطور يعتمد على التجنيد الإجباري، والاستخدام الكثيف للتكنولوجيا، كما أن<a href="https://data.worldbank.org/indicator/MS.MIL.XPND.GD.ZS?locations=SG"> الإنفاق العسكري</a> طالما كان مرتفعًا كنسبة من الناتج، وإن هبط من نطاق 4 إلى 5% من الناتج في سنوات حرب فيتنام وما تلاها من اضطرابات إقليمية إلى نحو 3% في العقد الأخير، وهي نسبة لا تزال مرتفعة.</p>
+
+<blockquote>
+<p>نجحت رهانات حكام سنغافورة في تجنب التورط عسكريًّا في أي صراع طيلة العقود الماضية رغم اضطراب الإقليم الشديد</p>
+</blockquote>
+
+<p>في مقابل الاستثمار بقدرات البلاد الدفاعية، فإن سنغافورة اتخذت خطًّا لا تحيد عنه منذ استقلالها، وهو عدم الانحياز في أي من الصراعات العسكرية أو السياسية، سواء داخل الإقليم أو على المستوى العالمي. لم تنخرط قط في أي تحالف عسكري ولم تسمح بإقامة <a href="https://www.emerald.com/expert-briefings/article-abstract/doi/10.1108/OXAN-DB247078/472137/Major-powers-eye-places-not-bases-in-South-east?redirectedFrom=fulltext">قواعد عسكرية</a> دائمة على أراضيها. فقط <a href="https://gate.ahram.org.eg/News/5181304.aspx">تعاونت </a>عسكريًّا مع الولايات المتحدة وبريطانيا لتطوير جيشها لكن دون التزامات طويلة الأجل تتجاوز تسهيلات لوجستية تقدمها للقوات الأمريكية في المنطقة.</p>
+
+<p>يعود هذا الموقف المتحفظ نسبيًّا إلى انتهاج سنغافورة سياسة إقامة <a href="https://www.gisreportsonline.com/r/singapore/">علاقات متوازنة</a> مع العمالقة المحيطين بها، بدءًا من الصين والولايات المتحدة فالهند وصولًا إلى إندونيسيا وماليزيا وتايلاند وفيتنام. ونجحت رهانات حكام سنغافورة من حيث تجنب التورط عسكريًّا في أي صراع طيلة العقود الماضية رغم اضطراب الإقليم الشديد في بعض المراحل، وفي الوقت نفسه نجحت العلاقات المتوازنة في تجنيبها التعرض هي نفسها لأي مخاطر أمنية أو عسكرية كبيرة كان يمكن لها أن تؤثر بالسلب على تخصص البلاد في خدمات التجارة والمال والسياحة، وكلها تفترض قبل كل شيء الأمن والاستقرار.</p>
+
+<h2>على الخليج تعلم الدرس </h2>
+
+<p>قالت العرب قديمًّا لا يجتمع الماء والنار في إناء واحد.. وقالت ما هلك امرؤ عرف قدر نفسه.</p>
+
+<figure role="group" data-sanitized-class="align-left"><div data-embed-button="almanassa_media_browser" data-entity-embed-display="view_mode:media.embed" data-entity-type="media" data-entity-uuid="33374b90-e120-47da-8d86-8d8f161d8e71" data-langcode="ar" data-entity-embed-display-settings="[]" data-sanitized-class="embedded-entity">
+	    <picture><source media="all and (min-width: 1440px)" type="image/webp"><source media="all and (min-width: 641px)" type="image/webp"><source type="image/webp"><img src="https://almanassa.com/sites/default/files/styles/max_650x650/public/photobank/camp-arifjan-kuwait-at-the-zone-2-dining-facility-4ce7a1-1024.jpeg.webp?itok=aoFfHmxD" alt="" typeof="foaf:Image"></picture><aside data-sanitized-class="media--management-links"><ul></ul></aside><aside data-sanitized-class="caption credits">الجيش الأمريكي</aside></div>
+<figcaption>صورة من احتفال لجنود أمريكيين في قاعدة عريفجان العسكرية الأمريكية في الكويت</figcaption></figure><p>كثيرًا ما تشير <a href="https://dubaipolicyreview.ae/ar/%D9%85%D8%A7-%D8%B3%D8%B1-%D9%86%D8%AC%D8%A7%D8%AD-%D8%B3%D9%86%D8%BA%D8%A7%D9%81%D9%88%D8%B1%D8%A9%D8%9F/">المؤسسات</a> الخليجية إلى معجزة سنغافورة مثالًا يستحق أن يُتبع، وهو أمر يمكن تفهمه ليس فقط في سياق الصعود السريع لهذا البلد الآسيوي، لكن أيضًا تشابهه مع دول خليجية في الاعتماد على الموقع الجغرافي في تصدير الخدمات، وهو ما يؤمل في الحالات العربية. في حالة سنغافورة كانت الخدمات فرصةً للصعود من الفقر، وفي حالة الخليج كانت مدخلًا مهمًا لتنويع الإيرادات بعيدًا عن التركيز على النفط.</p>
+
+<p>على هذا الأساس ارتسمت دول خليجية عدة مسارًا مشابهًا في الإصلاح المؤسسي، لكنها في الوقت نفسه تورطت في استضافة <a href="https://www.france24.com/ar/%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7/20260228-%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%B9%D8%AF-%D8%A7%D9%84%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9-%D9%82%D8%B7%D8%B1-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7">قواعد عسكرية</a> أمريكية أدركت عبئها خلال الحرب الأخيرة على إيران وما سببته لها من أضرار في البنية التحتية وتهديدًا لنشاطها التجاري والخدمي.</p>
+
+<p>لا يستقيم أن تجمع دولة استراتيجيةً سياسيةً أو عسكريةً نشطةً في الإقليم تستند إلى عقد تحالفات عسكرية، وخوض غمار مغامرات إما مباشرة أو من خلال وكلاء ومرتزقة في بلدان الجوار مع استراتيجية تنويع وتنمية اقتصادية تقوم بالأساس، وقبل كل شيء، على تقديم خدمات ترتبط بالتجارة والمال والسياحة، التي بدورها تتطلب أمنًا واستقرارًا. إما هذه وإما تلك.</p>
+
+<p>بل لقد اقتضى عدم الانحياز لدى سنغافورة الإحجام عن لعب أي دور وساطة نشط في الصراعات الإقليمية العديدة التي ضربت ولا يزال بعضها يضرب جنوب شرق آسيا، فنجد أنها استضافت مفاوضات ومباحثات ويسّرت التفاعل بين أطراف لكن دون أن تصبح <a href="https://www.tandfonline.com/doi/abs/10.1080/09557571.2010.484048">وسيطًا</a> منخرطًا في إنهاء الصراع، خصوصًا وأن الوساطة تحمل الكثير من المخاطر كما رأينا في <a href="https://www.aljazeera.net/encyclopedia/2025/9/12/%D8%A7%D9%84%D9%87%D8%AC%D9%88%D9%85-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%B9%D9%84%D9%89-%D9%82%D8%B7%D8%B1-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81">الغارة الإسرائيلية</a> الحمقاء على قطر في 2025.  </p>
+
+
+<div data-embed-button="almanassa_story_browser" data-entity-embed-display="view_mode:node.read_also" data-entity-type="node" data-entity-uuid="aa12c4a8-17a3-4193-9eea-a41915d2e52b" data-langcode="ar" data-entity-embed-display-settings="[]" data-sanitized-class="embedded-entity">
+	<article data-history-node-id="31112" role="article" about="/stories/31112" data-sanitized-id="node-31112" data-sanitized-class="view-mode--read-also type-story"><div data-sanitized-class="row">
+		<a href="https://almanassa.com/stories/31112" almanassa-posthog-link="" data-ph-capture-attribute-link-type="story" data-ph-capture-attribute-link-id="31112" data-ph-capture-attribute-link-title="دول الخليج رهينة حرب " data-ph-capture-attribute-link-section="رؤى" data-ph-capture-attribute-link-view-mode="read_also" data-sanitized-class="columns small-12 medium-6">
+			<hr data-sanitized-class="embed-divider"><div data-sanitized-class="h3">اقرأ أيضا</div>
+			
+			<div data-sanitized-class="h2">
+				<span>دول الخليج رهينة حرب </span>
+
+			</div>
+			
+			<hr data-sanitized-class="embed-divider"></a>
+	</div>
+</article></div>
+<p>كانت إسبرطة في اليونان القديم سوط عذاب على جيرانها لكنها لم تكن مركزًا للتجارة ولا للفن ولا للسفر والعلم. في المقابل كانت أثينا أكثر انفتاحًا وأكثر ثراءً، وحققت لنفسها وللبشرية إنجازات ضخمة في مجالات الفن والفلسفة في فترة سلام طويلة تحت حكم <a href="https://arab-ency.com.sy/details/14782">بركليس</a> الشهير.</p>
+
+<p>ما إنْ تخلت أثينا عن سياساتها المسالمة وتورطت في سلسلة لا تنتهي من الصراعات العسكرية، انتهى بها المطاف إلى الإفلاس والأفول والسقوط في يد أعدائها قبل أن تخرج من التاريخ وتصبح مزارًا أثريًّا.  </p>
+						<div data-sanitized-id="topic-file-stories">
+			<div data-sanitized-class="views-element-container">		<div almanassa-posthog-link-source="" data-almanassa-posthog-link-source="Story Topic File Stories List" data-almanassa-posthog-link-source-type="topic_files" data-almanassa-posthog-link-source-id="embed_story_topic_file" data-sanitized-class="js-view-dom-id-d3c1b04796b2748c74d09b1009dd55341e316fb5c56884c5e20af43af26e7eaa">
+		
+		
+		
+
+		
+		
+		
+		
+
+		
+		
+		
+
+		
+		
+
+		
+		
+	</div>
+</div>
+
+			</div>
+		</div><!-- FULLCONTENT end //-->]]></description>
+			<pubDate>Sun, 05 Jul 2026 16:02:15 +0300</pubDate>
+			<guid isPermaLink="false">1783256542335634</guid>
+		</item>
+		<item>
+			<title>ادفع لتشم الهواء.. المدينة في قبضة التاجر الكبير</title>
+			<link>https://almanassa.com/stories/31562</link>
+						<dc:creator>محمد السيد عيد</dc:creator>
+			<media:thumbnail url="https://almanassa.com/sites/default/files/styles/card_lead/public/photobank/2025/419c7590-b4d5-41c6-a3a8-9800a702fe2e.png.webp?itok=xvpMAiYi" />
+			<media:content url="https://almanassa.com/sites/default/files/styles/card_lead/public/photobank/2025/419c7590-b4d5-41c6-a3a8-9800a702fe2e.png.webp?itok=xvpMAiYi" medium="image"></media:content>
+			<description><![CDATA[<!-- FULLCONTENT start //--><div data-sanitized-class="columns small-12 table-scroll">
+							<p>لنتخيل مواطنَيْن خرجا لتوهما من يوم عملٍ شاقٍ، أحدهما في ميدان المسلة بمدينة الفيوم، والآخر في ميدان محمد فريد بالقاهرة، وكلاهما لا يرغب في العودة للمنزل سريعًا، فقررا التمشي قليلًا. يقطع الاثنان مسافةً من 300 إلى 500 متر بلا شجر في الأفق، وإن وجد فهو قليل وهزيل، وعلى رصيفٍ يضيق بسائريه، وإذا اتسع تأكله المحال المجاورة. </p>
+
+<p>يرغبان في الراحة قليلًا فينظران حولهما ولا يلمحان مقاعد للعامة. يمشيان أكثر من كيلومتر. وصل مَن في الفيوم إلى بحر يوسف (تفريعة النيل) ليجد مقاهي على طول البحر، بعضها أخذ مقاعد العامة/البنشات، لحسابه، ومن يجلس عليه أن يطلب، بالتالي يدفع. أما الثاني فبعد أن مر على كل مقاهي وسط البلد، ورفض طلب قهوتها أو شايها باهظي الثمن بالنسبة له، أخذته قدماه لميدان عبد المنعم رياض، ليجد أخيرًا مكانًا للراحة، أو هكذا ظن.</p>
+
+<p>جلس مَن في الفيوم وطلب كوب شاي مرغمًا ليتمتع ببحر المدينة الملوث ولو لبعض الوقت، وهو يتأمل مرة أخرى البنشات المنجدة التي أصبحت من أملاك المقاهي بعد أن كانت مجانية، ليلحظ أن بعضها ليس ثابتًا في الأرض، ما يعني أنه انتُزع من مكانه ونقل إلى هنا. يرى أيضًا صيادًا أتى بكرسيه الخاص وبجواره أدوات الصيد على الأرض وخلفه شجرات هزيلات بجوار بحرٍ يمتد لعدة كيلومترات وصوت سيارات الشرطة في الخلفية تروح وتجيء.</p>
+
+<p>أما مواطننا القاهري في ميدان عبد المنعم رياض، فقد جلس على بنش إسمنتي لا يعرف مصممه معنى الجلوس والراحة، لكن لا بأس، يتأمل حوله فيجد البنشات متباعدة كأنها مصممة خصيصًا لئلَّا يتعرف الأغراب على بعضهم البعض صدفةً فتنشأ علاقة اجتماعية لا سمح الله، وبالطبع لا شجر في الأفق أيضًا.</p>
+
+<p>يهم بالوقوف لبرهةٍ لإحساسه بعدم الراحة، ويتمنى لو أن هناك عربة شاي بسيطة اقتصادية بالقرب منه لكن الله لا يعطي كل شيء! وبالطبع سيارات الشرطة عند مدخل شارع شامبليون تراقب في العموم، وبالأخص من يقترب من تمثال البطل عبد المنعم رياض لسببٍ قد يعجز عن فهمه عبد المنعم رياض نفسه.</p>
+
+<p>يتنهد صديقانا الاثنان ويسألان في نفَسٍ واحد "لم أطلب الكثير فلماذا أشعر أني محاصر؟".</p>
+
+<h2><strong>العمارة العدائية</strong></h2>
+
+<figure role="group" data-sanitized-class="align-left"><div data-embed-button="almanassa_media_browser" data-entity-embed-display="view_mode:media.embed" data-entity-type="media" data-entity-uuid="c0da97fd-9843-465f-b1fa-78268c04dd33" data-langcode="ar" data-entity-embed-display-settings="[]" data-sanitized-class="embedded-entity">
+	    <picture><source media="all and (min-width: 1440px)" type="image/webp"><source media="all and (min-width: 641px)" type="image/webp"><source type="image/webp"><img src="https://almanassa.com/sites/default/files/styles/max_650x650/public/photobank/compound.jpg.webp?itok=gSVJNA9A" alt="" typeof="foaf:Image"></picture><aside data-sanitized-class="media--management-links"><ul></ul></aside><aside data-sanitized-class="caption credits">شركة تسويق عقاري على فيسيوك</aside></div>
+<figcaption>صورة من كمباوند على أطراف القاهرة بمدينة الشيخ زايد، تروى حدائقه بمياه النيل. </figcaption></figure><p>للإجابة عن سؤال "الشعور بالحصار" نحتاج لفهم مصطلح<a href="https://annasher.com/exclusive/15564/"> العمارة العدائية/Hostile architecture</a>. التعريف المادي البسيط له أنه تصميم الأماكن العامة كالحدائق ومناطق التجمع كالميادين والأرصفة بطريقة تحدد كيفية استعمال المكان وتحد من تعددية استخدامه، أو حتى تحد من فئات الأشخاص الذين يحق لهم استعمال المكان، ويمكن القيام بذلك أيضًا بإضافة بعض التعديلات على الأماكن الموجودة بالفعل لتحقيق الغرض نفسه.</p>
+
+<p>مثال على ذلك إنفاق المسؤولين في مدينة بورتلاند بولاية أوريجون في الولايات المتحدة 500 ألف دولار عام 2021 لإضافة ما أطلقوا عليه <a href="https://www.oregonlive.com/portland/2021/11/portland-to-spend-500000-on-benches-to-stop-homeless-from-camping-near-parks.html">الفرش الدفاعي</a> لحديقة المدينة الوحيدة مثل البنشات المضادة للمشردين التي توضع في بعضها أشواك تتحرك بالدفع لإبعاد من يجلس عليها لفترة طويلة، أو نشر صخور الزينة على الأعشاب ليصبح من الصعب النوم عليها، أو حتى على البنشات الإسمنتية ذات التصميمات التي تصعب ليس فقط النوم بل الجلوس لمدة طويلة.</p>
+
+<p>عادة ما يكون مبرر السلطات التي تطبق ذلك النوع من العمارة ضمانَ الأمن والسلامة ومنع الجريمة والأفعال غير المرغوب فيها، والمحافظة على الصورة العامة، وهنا يكمن السؤال، هل وضع بنش إسمنتي يصعب نوم المشرد، وجلوس العامة بالمجان يحد من الجريمة؟</p>
+
+<h2>الحرب على المشردين</h2>
+
+<p>قد تكمن الإجابة في فهم العمارة العدائية باعتبارها وليدة النيوليبرالية ومبنية في الأساس لمحاربة المشردين، أو من تصفهم بأنهم غير مشاركين في المجتمع بحسب مدى الانخراط في العملية الاستهلاكية، وتقوم كذلك على الفصل العمراني/urban segregation بين أصحاب الدخل المتوسط والمرتفع الذين يملكون المقدرة على استعمال المكان العام، والفقراء من الطبقات العاملة والمهمشة.</p>
+
+<p><a href="https://www.abc.net.au/news/2018-03-02/design-crimes-how-hostile-architecture-is-hurting-our-cities/9498912?source=post_page-----b0df9bb5bc53">وفق</a> المُحاضر في جغرافيا الإنسان بجامعة أوكلاند، توم بيكر،  فإن "الطبقات المختلفة من المجتمع قد تعيش في المكان نفسه ولكنهم مع ذلك يعيشون في عوالم مختلفة، فيهرول أبناء الطبقة المتوسطة والغنية بين أجزاء مختلفة من المدينة معزولين تمامًا عن باقي الطبقات، وفي اعتقادي أن المشردين ليسوا إلا رأس حربة أو ذريعة لهذا العملية".</p>
+
+<blockquote>
+<p>عندما تصبح المدينة شركة تهتم بالربح فقط تتحول الأماكن العامة إلى مجرد وسيلة تسليع وربح</p>
+</blockquote>
+
+<p>هنا يمكن استنتاج أن المكان الذي يسمى بالعام يحمل في طياته كل طباع الخصوصية، ويُهمل الجانب الأهم من كونه عملية مجتمعية مستمرة، ومساحة حرة للمجتمع لخلق أنشطة فيه، فالسُلَّم على سبيل المثال له غرض رئيسي، ولكن عن طريق التصميم الجيد وترك المساحة للمستخدم يمكن أن تخلق أنشطة جانبية كالجلوس والاجتماع أو حتى أنشطة رياضية يخلقها المستخدم قد لا تخطر على بال المصمم، ولكن عندما يعامل المكان كمنتج أو سلعة فقط يؤدي ذلك حتمًا إلى التعامل السلطوي مع المكان العام.</p>
+
+<p>في الوقت الحالي، أصبح المكان العام، وفق الفيلسوف الماركسي الفرنسي هنري لوفيفر في كتابه <a href="https://www.researchgate.net/publication/304885956_There_is_a_Politics_of_Space_because_Space_is_Political_Henri_Lefebvre_and_the_Production_of_Space">الإنتاج الاجتماعي للمكان</a>، أحد منتجات المرحلة النيوليبرالية، بالتالي ليس غريبًا أن تنشأ بداخله العمارة العدائية. هو ليس فقط مجرد وسيلة لتقوية الحالة الرأسمالية، وبما أنه جرى تسليعه بالفعل بحيث يُفرق بين من يملكه، ومن يستخدمه.</p>
+
+<p>بالتالي ليس غريبًا أن يرضى قطاع كبير من المجتمع بخصخصة الأماكن العامة، ويصبح سؤال موضع الأماكن العامة في علاقة الحكومة بالقطاع الخاص أكثر غموضًا، فعندما تصبح المدينة شركة تهتم بالربح فقط، تتحول الأماكن العامة إلى مجرد وسيلة تسليع، لذلك يُطرد السكان لصالح المستهلكين إن لم يشاركوا في الاستهلاك فتُدمر فكرة المدينة كمكان لكل العامة وتصبح ساحة للصراع الطبقي يطيح فيها الغني بالفقير.</p>
+
+<h2>سبوبة المكان العام</h2>
+
+<p>في مصر تخطت الأماكن العامة مرحلة الصراع الطبقي، فكل ما يمكن وصفه بأنه مكان عام تحول لفرصة للانتفاع؛ بداية من أي كورنيش مهما بلغت درجة انحداره، حيث تتحول رؤية المسطح المائي لرفاهية بسبب سوء التصميم من جهة، والاستيلاء على قطاعات كبيرة منه لصالح خدمات مدفوعة مثل المقاهي من جهة أخرى.</p>
+
+<p>مرورًا بالكباري التي استغلت المساحات أسفلها كمقاهٍ ومحلات ومواقف للسيارات في نزعة تتسم بطابع العمارة العدائية الذي يهدف للسيطرة على كل شبر يمكن أن ينام فيه من ليس له مأوى، انتهاءً بالمناطق الخضراء التي تكاد تكون خُصخصت بالكامل عن طريق إزالتها، بحيث لم تعد تتوافر إلا في المناطق الإيجيبتية والكومبوندات.</p>
+
+<p>هذه السردية تعززها بياناتٌ حديثةٌ للجهاز المركزي للتعبئة العامة والإحصاء تشير إلى <a href="https://www.capmas.gov.eg/publications/54">انخفاض</a> العدد الكلي لحدائق النباتات والمتنزهات الحكومية بين عامي 2022 و2024 من 1256 إلى 1115.</p>
+
+<p>تتسم الأماكن العامة الأخرى كالميادين بخضوعها لرقابة شرطية مستمرة تحد من حرية الاستعمال، إضافةً لفقرها التصميمي وعدم وجود أماكن للجلوس أو وجودها المحدود مع رداءة مكوناتها كأن تكون إسمنتية غير مشجعة على البقاء لمدة طويلة.</p>
+
+<p>أما الرصيف الذي يفترض أن يكون مكانًا للمشاة فيخوض صراعًا مستمرًا مع حارات السيارات المجاورة له من جهة، ومن المحلات والمقاهي التي تأكل جزءًا كبيرًا منه من جهة أخرى، في مظهر آخر من مظاهر السبوبة، إضافة لسوء تصميمه وافتقاره إلى التنظيم بحيث يوفر حارة للدراجات، ثم مكان للأشجار، ومكان للبنشات، يليه مكان للمارة يسمح لهم بالحركة بحرية دون الحاجة للمشي السريع والهرولة المستمرة وإلا داسوا بعضهم بعضًا، انتهاءً بمكان لامتداد المقاهي إذا سمحت سعة الرصيف بذلك.</p>
+
+
+<div data-embed-button="almanassa_story_browser" data-entity-embed-display="view_mode:node.read_also" data-entity-type="node" data-entity-uuid="e965f926-713e-4088-9706-5351206c1ea1" data-langcode="ar" data-entity-embed-display-settings="[]" data-sanitized-class="embedded-entity">
+	<article data-history-node-id="18292" role="article" about="/stories/18292" data-sanitized-id="node-18292" data-sanitized-class="view-mode--read-also type-story"><div data-sanitized-class="row">
+		<a href="https://almanassa.com/stories/18292" almanassa-posthog-link="" data-ph-capture-attribute-link-type="story" data-ph-capture-attribute-link-id="18292" data-ph-capture-attribute-link-title="يدٌ تجرح المدينة| الاستبعاد الطبقي بالعمران" data-ph-capture-attribute-link-section="اقتصاد وعمران" data-ph-capture-attribute-link-view-mode="read_also" data-sanitized-class="columns small-12 medium-6">
+			<hr data-sanitized-class="embed-divider"><div data-sanitized-class="h3">اقرأ أيضا</div>
+			
+			<div data-sanitized-class="h2">
+				<span>يدٌ تجرح المدينة| الاستبعاد الطبقي بالعمران</span>
+
+			</div>
+			
+			<hr data-sanitized-class="embed-divider"></a>
+	</div>
+</article></div>
+<p>إذا كانت تجربة المشي للمواطن الذكر السليم جسديًا تواجه هذه الصعوبات، فكيف حال الأطفال والعجائز وذوي الاحتياجات الخاصة، أو كيف الحال بالنساء في هذا الزحام الذي يوفر بيئة أكبر لحوادث التحرش والمضايقات.</p>
+						<div data-sanitized-id="topic-file-stories">
+			<div data-sanitized-class="views-element-container">		<div almanassa-posthog-link-source="" data-almanassa-posthog-link-source="Story Topic File Stories List" data-almanassa-posthog-link-source-type="topic_files" data-almanassa-posthog-link-source-id="embed_story_topic_file" data-sanitized-class="js-view-dom-id-898933fb0fa10554364225d0dae0b8a3729a28eb868ec21e9d2c99dd831f16b3">
+		
+		
+		
+
+		
+		
+		
+		
+
+		
+		
+		
+
+		
+		
+
+		
+		
+	</div>
+</div>
+
+			</div>
+		</div><!-- FULLCONTENT end //-->]]></description>
+			<pubDate>Sun, 05 Jul 2026 16:02:15 +0300</pubDate>
+			<guid isPermaLink="false">1783256542335633</guid>
+		</item>
+		<item>
+			<title>الشمس تشرق من الصين.. إغلاق هرمز يفتح الأبواب للطاقة المتجددة</title>
+			<link>https://almanassa.com/stories/31988</link>
+						<dc:creator>يوسف إبراهيم</dc:creator>
+			<media:thumbnail url="https://almanassa.com/sites/default/files/styles/card_lead/public/photobank/2026/b434cc0e-9c00-4735-aa96-5674213979d3_1.jpg.webp?itok=T1gBiHpN" />
+			<media:content url="https://almanassa.com/sites/default/files/styles/card_lead/public/photobank/2026/b434cc0e-9c00-4735-aa96-5674213979d3_1.jpg.webp?itok=T1gBiHpN" medium="image"></media:content>
+			<description><![CDATA[<!-- FULLCONTENT start //--><div data-sanitized-class="columns small-12 table-scroll">
+							<p>مستوى قياسي في <a href="https://www.cnbc.com/2026/06/07/iran-war-100-days-trump-stocks-sp500-bonds-oil.html">صادرات</a> النفط الخام الأمريكية سبَّب <a href="https://www.ft.com/content/d0be73c8-b8d8-4ffd-874e-e97a6ecffef7?syn-25a6b1a6=1">انخفاضًا</a> في مخزونها لأقل مستوى له منذ 2004، بعد ما سُحب منه لتعويض نقص البترول العالمي بعد مرور 100 يوم على الحرب على إيران بما استتبعته من غلق مضيق هرمز وإعاقة نفط الخليج.</p>
+
+<p>قد تدفعنا هذه البيانات للوهلة الأولى إلى استنتاج أن الولايات المتحدة هي المستفيد الأكبر من الحرب في مجال تصدير الطاقة، لكن الواقع يخبرنا أن خصمها اللدود، الصين، حقق هو الآخر مكاسب كبيرة من غلق مضيق هرمز.</p>
+
+<p>صحيح أن زيادة الإحساس بمخاطر انقطاع تدفق الطاقة أدى على المدى القصير لتعزيز الطلب على النفط الأمريكي، لكنه أيضًا دفع العديد من الحكومات للتوسع في استيراد أدوات إنتاج الطاقة الشمسية لتأمين الطاقة على المدى الطويل، وبالطبع الصين أكبر <a href="https://www.reuters.com/business/energy/chinas-solar-exports-jump-60-year-april-2026-05-18/">مصدري</a> هذه المستلزمات.</p>
+
+<h2>من استفاد من أزمة الحرب الإيرانية؟</h2>
+
+<p>مطلع هذا الشهر، أخبرتنا <a href="https://www.reuters.com/business/energy/us-crude-exports-hit-record-high-may-iran-war-tightens-global-oil-supplies-2026-06-01/">بيانات</a> رويترز أن صادرات النفط الخام من الولايات المتحدة بلغت في مايو/أيار الماضي مستوى غير مسبوق عند 5.58 مليون برميل يوميًا، وهو رقم لافت، إذ كانت الصادرات في الفترة السابقة على الحرب تدور تحت مستوى 4.5 مليون برميل يوميًّا.</p>
+
+<p>لكن المكسب لم يكن أمريكيًا صرفًا، فرويترز أخبرتنا أيضًا قبل أسابيع أن آخر <a href="https://www.reuters.com/business/energy/chinas-solar-exports-jump-60-year-april-2026-05-18/">البيانات</a> الصينية تشير إلى نمو كبير في صادرات الخلايا الشمسية، التي زادت بنحو 60% في أبريل/نيسان الماضي مقارنة بالشهر نفسه من العام السابق.</p>
+
+<blockquote>
+<p>سجلت دولٌ ناميةٌ بينها مصر أعلى مستوى في واردات مستلزمات الطاقة الشمسية</p>
+</blockquote>
+
+<p>تشير <a href="https://www.reuters.com/sustainability/climate-energy/africa-southeast-asia-drive-china-solar-panel-exports-record-march-2026-04-22/">تقارير سابقة</a> إلى أن الصين مرت <a href="https://ember-energy.org/latest-updates/chinese-solar-exports-double-in-a-month-to-hit-record-high-amid-energy-crisis/">بموجة انتعاش</a> ملحوظة في تصدير مستلزمات إنتاج الطاقة الشمسية منذ اندلاع الحرب على إيران، بسبب ارتفاع أسعار النفط عالميًا، ما ولد مخاوف كبيرة بشأن مخاطر تدبير إمدادات الطاقة.</p>
+
+<p>وتُظهر <a href="https://ember-energy.org/latest-updates/chinese-solar-exports-double-in-a-month-to-hit-record-high-amid-energy-crisis/">بيانات</a> مركز أبحاث إمبر أن دولًا ناميةً من بينها مصر، سجلت أعلى مستوى على الإطلاق في واردات مستلزمات الطاقة الشمسية خلال شهر مارس/آذار الماضي في ذروة الحرب.</p>
+
+<p>وفي هذا السياق، <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="d4b6634f-5f1a-4c62-ab97-d91521bdb273" href="https://almanassa.com/news/32011" title='"الكهرباء" تتوسع في الطاقة الشمسية المنزلية لتوفير 7.7 مليار قدم مكعب من الغاز'>أعلنت</a> وزارة الكهرباء المصرية في مايو/أيار الفائت عن تسهيل إجراءات تعاقد المواطنين على <a href="https://www.youm7.com/story/2026/5/18/%D9%83%D9%84-%D9%85%D8%A7-%D8%AA%D8%B1%D9%8A%D8%AF-%D9%85%D8%B9%D8%B1%D9%81%D8%AA%D9%87-%D8%B9%D9%86-%D8%AA%D8%B1%D9%83%D9%8A%D8%A8-%D8%A7%D9%84%D8%A7%D9%84%D9%88%D8%A7%D8%AD-%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9-%D8%A3%D8%B9%D9%84%D9%89-%D8%A7%D8%B3%D8%B7%D8%AD/7419772">تركيب</a> محطات الطاقة الشمسية والألواح على أسطح المنازل، ما يشير إلى أن القلق من انقطاع الوقود الأحفوري تُرجم في صورة إقبال أكبر على الطاقة المتجددة، وهو ما يؤكد عليه الرئيس التنفيذي لشركة <a href="https://www.onerasystems.com/">OneraSystems</a> وائل النشار.</p>
+
+<p>ويلفت النشار في حديثه إلى <strong>المنصة</strong> إلى أن التوسع في الطاقة الشمسية تحت وطأة مخاوف الحرب يبدو نمطًا متكررًا؛ "كلما واجه بلدنا أزمة، يتجه الناس إلى الطاقة الشمسية، وهذا أمر طبيعي. لكن بمجرد مرورها، يعود كل شيء إلى الوضع القائم".</p>
+
+<h2>رهان الكربون خطأ استراتيجي؟</h2>
+
+<figure role="group" data-sanitized-class="align-left"><div data-embed-button="almanassa_media_browser" data-entity-embed-display="view_mode:media.embed" data-entity-type="media" data-entity-uuid="f931eddd-c5e3-4b63-b6c4-0fd976cb6f0f" data-langcode="ar" data-entity-embed-display-settings="[]" data-sanitized-class="embedded-entity">
+	    <picture><source media="all and (min-width: 1440px)" type="image/webp"><source media="all and (min-width: 641px)" type="image/webp"><source type="image/webp"><img src="https://almanassa.com/sites/default/files/styles/max_650x650/public/photobank/trump_5.jpg.webp?itok=uk6Mlkoe" alt="" typeof="foaf:Image"></picture><aside data-sanitized-class="media--management-links"><ul></ul></aside><aside data-sanitized-class="caption credits">حساب دونالد ترامب على فيسبوك</aside></div>
+<figcaption>الرئيس الأمريكي دونالد ترامب، 26 يناير 2025</figcaption></figure><p>الدفاع عن الوقود الأحفوري وتوسيع نطاقه أولوية سياسية واقتصادية ثابتة بالنسبة للرئيس الأمريكي دونالد ترامب. فخلال حملتيه الانتخابيتين في 2016 و2024؛ قدّم سياسات المناخ لا باعتبارها ضرورة بيئية، بل عبء استراتيجي، وذهب في إحدى المرات إلى <a href="https://www.bbc.com/news/world-us-canada-51213003">وصف</a> تغير المناخ بأنه "خدعة" تقف وراءها ما وصفها بـ"جماعة علمية مسيّسة" تعمل في خدمة المصالح الوطنية الصينية.</p>
+
+<p>ومع عودته إلى البيت الأبيض في ولايته الثانية، تسارع هذا المسار <a href="https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/">لينتهي</a> إلى إجراءات تنفيذية بالتراجع عن مجموعة من المبادرات المناخية، وتخفيف القيود المفروضة على التوسع في الوقود الأحفوري، وتعليق جوانب من الدعم الفيدرالي لمشروعات الطاقة النظيفة التي أُقرت بموجب تشريعات سابقة. </p>
+
+<p>غير أن هذه الاستراتيجية لم تعد محصورةً في السياسة الداخلية، بل اكتسبت بعدًا جيوسياسيًا متزايدًا، ففي أوائل عام 2026، أطلقت الولايات المتحدة عملية <a href="https://www.nytimes.com/2026/01/03/us/politics/trump-capture-maduro-venezuela.html">العزم المطلق</a> للقبض على الرئيس الفنزويلي نيكولاس مادورو، ليُعاد تشكيل العلاقة الجيوسياسية بين البلدين بصورة دراماتيكية.</p>
+
+<p>قُدمت العملية رسميًا في إطار أمني، لكنها سرعان ما انعكست على أسواق الطاقة العالمية، وأعادت فنزويلا، بما تمتلك من <a href="https://asharq.com/reports/166487/%D9%86%D9%81%D8%B7-%D9%81%D9%86%D8%B2%D9%88%D9%8A%D9%84%D8%A7-%D8%A3%D9%83%D8%A8%D8%B1-%D8%A7%D8%AD%D8%AA%D9%8A%D8%A7%D8%B7%D8%A7%D8%AA-%D8%A8%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D9%88%D8%A8%D9%86%D9%8A%D8%A9-%D8%AA%D8%AD%D8%AA%D9%8A%D8%A9-%D9%85%D8%AA%D9%87%D8%A7%D9%84%D9%83%D8%A9/">أكبر</a> احتياطات النفط في العالم، التموضع سريعًا داخل هذا الإطار الطاقوي الموالي للولايات المتحدة، مع تركيز متجدد على زيادة الإنتاج وإعادة توجيه سلاسل الإمداد.</p>
+
+<p>وسواء كان ذلك يرقى إلى سيطرة مباشرة أم لا، فالرسالة الأوسع كانت واضحة؛ أمن الطاقة والنفوذ الجيوسياسي باتا أكثر تشابكًا، إذ لا تسعى واشنطن فقط إلى إنتاج الطاقة التقليدية، بل إلى تشكيل الشروط التي يجري تداولها عالميًا وفقها.</p>
+
+<blockquote>
+<p>كلما أصبح النفط أعلى تكلفة وأكثر زعزعة للاستقرار المالي ازدادت جاذبية مصادر الطاقة البديلة</p>
+</blockquote>
+
+<p>على عكس حالة فنزويلا، جاءت حرب ترامب على إيران بآثار عكسية قللت جاذبية الرهان على الطاقة التقليدية، بالأخص مع إغلاق مضيق هرمز الحيوي الذي يمر عبره نحو 20% من نفط العالم، و<a href="https://oilprice.com/oil-price-charts/#Brent-Crude">ارتفعت</a> أسعار البرميل إلى ما يتجاوز الـ100 دولار، بعدما كانت تدور حول 70 دولارًا قبل الحرب.</p>
+
+<p>بالنسبة إلى دول كثيرة، خصوصًا في الجنوب العالمي، هذه التطورات لا تعني ارتفاع تكاليف الطاقة فحسب، إنما تمثل ضغطًا حادًا على ميزان المدفوعات.</p>
+
+<p>في مثل هذه الظروف تحديدًا، يبدأ منطق الاعتماد على الوقود الأحفوري في التصدع، وكلما أصبح النفط أعلى تكلفة وأكثر زعزعة للاستقرار المالي، ازدادت جاذبية مصادر الطاقة البديلة، وعلى رأسها الطاقة الشمسية.</p>
+
+<h2>توسع صيني يقابله ضعف في العملات</h2>
+
+<p>تنعكس الطفرة في صادرات الخلايا الشمسية الصينية على شكل تحولاتٌ بنيويةٌ أعمقُ تنعكس في <a href="https://www.cnbcafrica.com/2026/africa-southeast-asia-drive-china-solar-panel-exports-to-record-in-march">دول</a> مثل الفلبين والكونغو الديمقراطية، حيث يُدفع الطلب من الشركات الصغيرة والسكان الريفيين المحرومين من خدمات الطاقة الذين يبحثون عن بدائل لإمدادات الوقود الأحفوري غير المستقرة والمكلفة.</p>
+
+<p>في باكستان، أيضًا، وخلال سنوات قليلة فقط، باتت الألواح الشمسية الصينية <a href="https://energytracker.asia/solar-power-shields-pakistan-from-the-hormuz-energy-crisis/">توفر 20%</a> من الكهرباء خارج الشبكات الأساسية، ما ساعد البلاد على تفادي أسوأ تداعيات حرب إيران.</p>
+
+<figure role="group" data-sanitized-class="align-right"><div data-embed-button="almanassa_media_browser" data-entity-embed-display="view_mode:media.embed" data-entity-type="media" data-entity-uuid="a644afd2-5cf8-4eee-9c33-a48273841cb2" data-langcode="ar" data-entity-embed-display-settings="[]" data-sanitized-class="embedded-entity">
+	    <picture><source media="all and (min-width: 1440px)" type="image/webp"><source media="all and (min-width: 641px)" type="image/webp"><source type="image/webp"><img src="https://almanassa.com/sites/default/files/styles/max_650x650/public/photobank/2026/a644afd2-5cf8-4eee-9c33-a48273841cb2.jpg.webp?itok=s97h0QZ6" alt="" typeof="foaf:Image"></picture><aside data-sanitized-class="media--management-links"><ul></ul></aside><aside data-sanitized-class="caption credits">صفحة شركة كايرو سولر لحلول الطاقة الشمسية على فيسبوك</aside></div>
+<figcaption>تركيب ألواح طاقة شمسية أعلى أسطح المنازل، 20 أكتوبر 2026</figcaption></figure><p>في مقابل الاحتياج القوي لمستلزمات الطاقة المتجددة، لا يحد من الطلب على المنتجات الصينية غير ضعف عملات البلدان المستوردة، حسب مارك بليث، أستاذ الاقتصاد السياسي الدولي ومدير مركز رودس للاقتصاد والتمويل.</p>
+
+<p>"الفكرة بسيطة للغاية. ما هو القيد الأكبر أمام أي دولة نامية؟ العملة الضعيفة"؛ يقول بليث لـ <strong>المنصة</strong>، ويشرح أن الواردات الأساسية لبلدان الجنوب العالمي، من الوقود والآلات إلى الغذاء ومدخلات الصناعة، غالبًا ما تُشترى بعملات أجنبية مثل الدولار واليورو، ما يخلق اعتمادًا متكررًا على التمويل الخارجي وتدفقات الدولار.</p>
+
+<p>تتفاقم المشكلة أكثر مع خروج الأموال الساخنة من الاقتصادات النامية في لحظات الاضطراب، مثل ما حدث في مصر عام 2022، عندما تسببت صدمة خارجية تمثلت في الحرب الروسية الأوكرانية في <a href="https://timep.org/2022/12/13/egypts-infinite-economic-crisis/">خروج رؤوس أموال</a> بقيمة 25 مليار دولار.</p>
+
+<p>لكن مقابل كل هذه العقبات، تمثل واردات مسلتزمات الطاقة الشمسية أهميةً استراتيجيةً تميزها عن باقي المستوردات. فعلى خلاف الوقود الأحفوري، الذي يتطلب واردات مستمرة مدفوعة بالدولار، تمثل الألواح الشمسية استثمارًا رأسماليًا لمرة واحدة قادرًا على إنتاج الكهرباء محليًا لعقود بتكاليف تشغيل محدودة، في ظل ما شهدته تكلفة تكنولوجيا الطاقة الشمسية من تراجع بنسبة <a href="https://www.weforum.org/stories/2021/11/renewable-energy-cost-fallen/">80%</a> في تحول قادته إلى حد كبير قدرة الصين الهائلة على توسيع التصنيع الأخضر صناعيًّا.</p>
+
+<p>بهذا المعنى، تمنح الألواح الشمسية الصينية الرخيصة الاقتصادات النامية ما هو أهم بكثير من الطاقة النظيفة وحدها؛ مسارًا محتملًا لتقليص واحد من أكبر مصادر اعتمادها المتكرر على الدولار، وهو واردات النفط.</p>
+
+<p>اللافت أنه عندما منحت الحرب الفرصة، كانت الصين مستعدةً للاستفادة منها، بحيث <a href="https://www.ids.ac.uk/news/new-study-reveals-chinas-global-role-in-renewable-energy-transition/">تهيمن</a> على صناعات الطاقة الشمسية من كافة أطرافها، وكل مراحلها؛ هي <a href="https://news.futunn.com/en/post/70407261/musk-s-move-sparks-market-surge-what-exactly-is-behind?level=1&amp;data_ticket=1780830844835734">تستحوذ</a> على 96% من صناعة البولي سيليكون عالميًا، و96.2% من صناعة الرقائق الشمسية، و91.3% من صناعة الخلايا الشمسية، و80.1% من صناعة الألواح الجاهزة.</p>
+
+<p>تعود هذه السيطرة إلى <a href="https://www.woodmac.com/press-releases/china-dominance-on-global-solar-supply-chain/">استثمار</a> الصين ما يتجاوز 130 مليار دولار في هذا القطاع خلال عام 2023 وحده، مع الاستفادة من الاستراتيجية الصناعية القائمة على تكامل رأسي واضح يعتمد السيطرة على المواد والمكونات أولًا، ثم الهيمنة على المنتج النهائي.</p>
+
+<h2>لماذا نتباطأ في مصر؟</h2>
+
+<figure role="group" data-sanitized-class="align-left"><div data-embed-button="almanassa_media_browser" data-entity-embed-display="view_mode:media.embed" data-entity-type="media" data-entity-uuid="d4951cd1-9425-4f27-b66b-018b395f7525" data-langcode="ar" data-entity-embed-display-settings="[]" data-sanitized-class="embedded-entity">
+	    <picture><source media="all and (min-width: 1440px)" type="image/webp"><source media="all and (min-width: 641px)" type="image/webp"><source type="image/webp"><img src="https://almanassa.com/sites/default/files/styles/max_650x650/public/photobank/2026/d4951cd1-9425-4f27-b66b-018b395f7525.jpg.webp?itok=9Fq_VKpB" alt="" typeof="foaf:Image"></picture><aside data-sanitized-class="media--management-links"><ul></ul></aside><aside data-sanitized-class="caption credits">حساب المواطن حسن رشوان على فيسبوك</aside></div>
+<figcaption>جانب من إغلاق المحال التجارية ليلًا بمنطقة وسط البلد في القاهرة، 29 مارس 2026</figcaption></figure><p>تُعد مصر من بين أكثر الاقتصادات النامية التي تضررت بشدة من صدمة النفط الأخيرة. ففي مارس، <a href="https://www.facebook.com/EgyptTodayMag/posts/prime-minister-mostafa-madbouly-said-egypts-energy-import-bill-surged-from-12-bi/1403216001820718/">قال</a> رئيس الوزراء مصطفى مدبولي إن فاتورة واردات الطاقة الشهرية للبلاد ارتفعت بحدة، لتصل في ذروة الضغط إلى ما بين 2 و2.5 مليار دولار.</p>
+
+<p>وفي مواجهة ذلك، <a href="https://www.bbc.com/news/articles/c0rxz7ggv8go">اتخذت</a> الحكومة إجراءات طارئة للحد من استهلاك الكهرباء، شملت تقليص ساعات العمل التجارية، عبر إلزام المحال بالإغلاق مبكرًا في المساء، إلى جانب توسيع العمل عن بُعد لعدد كبير من العاملين.</p>
+
+<p>هذه الهشاشة تحديدًا هي ما أعادت الاهتمام بالطاقة الشمسية كحلٍّ بنيويٍّ. يلاحظ وائل النشار، استنادًا إلى خبرته الممتدة لعقود في القطاع، أن العائق الأساسي أمام التوسع في الطاقة المتجددة مالي ومؤسسي، وأنه من دون التزام سياسي مستدام وآليات تمويل ميسرة، تفشل موجات الاهتمام المدفوعة بالأزمات في التحول إلى تغيير بنيوي طويل المدى ذي معنى.</p>
+
+<p>وفي أبريل، <a href="https://english.ahram.org.eg/News/565139.aspx">قال</a> مدبولي إن مصر قادرة على تحقيق هدفها لعام 2028 برفع حصة الطاقة المتجددة في إنتاج الكهرباء إلى 45%. لكن رغم المنطق الاقتصادي المتزايد وراء التوسع في الطاقة الشمسية، لا يزال كثيرون داخل القطاع المالي المصري يشككون في قدرة البلاد على تحقيق طموحاتها في مجال الطاقة المتجددة بالوتيرة التي يتصورها المسؤولون.</p>
+
+<p>ويؤكد خبير بارز في الاستدامة بأحد البنوك الخاصة الكبرى في مصر، تحدث لـ<strong> المنصة </strong>شرط عدم نشر اسمه، أن الفجوة بين أهداف الدولة وواقع السوق لا تزال كبيرة؛ "نحن متأخرون كثيرًا عن الجدول الزمني. هناك أهداف طموحة على الورق، لكن التنفيذ أبطأ بكثير مما توقعه صانعو السياسات".</p>
+
+
+<div data-embed-button="almanassa_story_browser" data-entity-embed-display="view_mode:node.read_also" data-entity-type="node" data-entity-uuid="af9a7bc0-c783-413f-bf1d-74d21fe82103" data-langcode="ar" data-entity-embed-display-settings="[]" data-sanitized-class="embedded-entity">
+	<article data-history-node-id="30969" role="article" about="/stories/30969" data-sanitized-id="node-30969" data-sanitized-class="view-mode--read-also type-story"><div data-sanitized-class="row">
+		<a href="https://almanassa.com/stories/30969" almanassa-posthog-link="" data-ph-capture-attribute-link-type="story" data-ph-capture-attribute-link-id="30969" data-ph-capture-attribute-link-title="اللعب بأسعار النفط ليس في صالح ترامب " data-ph-capture-attribute-link-section="اقتصاد وعمران" data-ph-capture-attribute-link-view-mode="read_also" data-sanitized-class="columns small-12 medium-6">
+			<hr data-sanitized-class="embed-divider"><div data-sanitized-class="h3">اقرأ أيضا</div>
+			
+			<div data-sanitized-class="h2">
+				<span>اللعب بأسعار النفط ليس في صالح ترامب </span>
+
+			</div>
+			
+			<hr data-sanitized-class="embed-divider"></a>
+	</div>
+</article></div>
+<p>بشكل عام، قد تسرّع الأزمة الراهنة من تحول نظر بلدان الجنوب العالمي بتجاه الطاقة المتجددة، لتنقل من كونها مجرد قضية مناخية إلى مسألة تتعلق بالصلابة الاقتصادية، واستقرار العملة، والأمن الاستراتيجي الوطني، وهو ما يجعلنا في حاجة ماسة لتجاوز أكبر العقبات المتمثلة، بحسب الخبير، في عدم استقرار الإطار التنظيمي، إذ تغيرت القواعد المنظمة للقطاع مرارًا خلال السنوات الأخيرة، ما خلق حالة من عدم اليقين لدى المستثمرين والأسر التي تدرس استثمارات طويلة الأجل في الطاقة الشمسية.</p>
+						<div data-sanitized-id="topic-file-stories">
+			<div data-sanitized-class="views-element-container">		<div almanassa-posthog-link-source="" data-almanassa-posthog-link-source="Story Topic File Stories List" data-almanassa-posthog-link-source-type="topic_files" data-almanassa-posthog-link-source-id="embed_story_topic_file" data-sanitized-class="js-view-dom-id-6c6c12686f2a210260e98c4dafd9057d6465eac7e06728f80b5ea361a6569e78">
+		
+		
+		
+
+		
+		
+		
+		
+
+		
+		
+		
+
+		
+		
+
+		
+		
+	</div>
+</div>
+
+			</div>
+		</div><!-- FULLCONTENT end //-->]]></description>
+			<pubDate>Sun, 05 Jul 2026 16:02:15 +0300</pubDate>
+			<guid isPermaLink="false">1783256542335632</guid>
+		</item>
+		<item>
 			<title>آي صاغة: الذهب في مصر يحقق مكاسب 23% خلال عام.. عيار 21 يرتفع 1065 جنيهات</title>
 			<link>https://market.isagha.com/articles/2314</link>
 						<media:thumbnail url="https://cdn.isagha.net/public/files/eIIkBDhR41DrrDIWmkaN7cxjEktBggWJeTyDY1ve.jpg" />
@@ -2345,467 +3017,6 @@
             </table>]]></description>
 			<pubDate>Sat, 04 Jul 2026 17:32:14 +0300</pubDate>
 			<guid isPermaLink="false">1783175539983838</guid>
-		</item>
-		<item>
-			<title>أسعار الذهب في مصر</title>
-			<link>https://realegp.com/</link>
-						<description><![CDATA[<table data-sanitized-class="table currencies-table">
-              <thead>
-                <tr data-sanitized-class="thick-border">
-                  <th data-sanitized-class="text-end">الذهب</th>
-                  <th>
-                    <div>متوسط السعر</div>
-                    <div data-sanitized-class="range">من - إلى</div>
-                  </th>
-                </tr>
-              </thead>
-              <tbody>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/gold/18k">
-                      <div data-sanitized-class="justify-content-start">
-                        
-                        <img src="https://realegp.com/static/img/gold.png">
-                        
-                        <div>ذهب عيار 18</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">5040</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">5032 - 5049</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/gold/21k">
-                      <div data-sanitized-class="justify-content-start">
-                        
-                        <img src="https://realegp.com/static/img/gold.png">
-                        
-                        <div>ذهب عيار 21</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">5880</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">5870 - 5890</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/gold/24k">
-                      <div data-sanitized-class="justify-content-start">
-                        
-                        <img src="https://realegp.com/static/img/gold.png">
-                        
-                        <div>ذهب عيار 24</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">6719</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">6708 - 6731</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/gold/pound">
-                      <div data-sanitized-class="justify-content-start">
-                        
-                        <i data-sanitized-class="bi bi-currency-pound"></i>
-                        
-                        <div>جنيه الذهب</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">47040</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">46960 - 47120</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/gold/usdsagha">
-                      <div data-sanitized-class="justify-content-start">
-                        
-                        <i data-sanitized-class="bi bi-coin"></i>
-                        
-                        <div>دولار الصاغة</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">50.04</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">49.95 - 50.13</div>
-                  </td>
-                </tr>
-                
-  
-              </tbody>
-            </table>]]></description>
-			<pubDate>Sat, 04 Jul 2026 17:32:14 +0300</pubDate>
-			<guid isPermaLink="false">1783175539983837</guid>
-		</item>
-		<item>
-			<title>مركز الملاذ الآمن: أسعار الفضة في مصر ترتفع 1.82% خلال أسبوع.. عيار 999 يسجل 105 جنيهات وتراجع الفجوة السعرية إلى 7.6%</title>
-			<link>https://market.isagha.com/articles/2313</link>
-						<media:thumbnail url="https://cdn.isagha.net/public/files/bctqQZTpTaQx9vPUeCbG0XCjHMipXDppnKcouQRi.jpg" />
-			<media:content url="https://cdn.isagha.net/public/files/bctqQZTpTaQx9vPUeCbG0XCjHMipXDppnKcouQRi.jpg" medium="image"></media:content>
-			<description><![CDATA[<div data-sanitized-class="content-article">
-					<p></p><p>تراجع الفجوة السعرية من 10.75% إلى 7.6% يعكس تحسن كفاءة سوق الفضة في مصر.</p>
-<p>صراع بين تشدد السياسة النقدية الأمريكية وضعف الدولار يدفع الفضة لإنهاء الأسبوع على مكاسب بلغت 1.82%.</p>
-<p>صعود <a href="https://safehavenhub.com/pages/%D8%A7%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D9%88%D8%A7%D9%84%D9%81%D8%B6%D8%A9">أسعار الفضة</a> في مصر يعكس توازنًا جديدًا بين...</p>
-					<a href="https://market.isagha.com/articles/2313" data-sanitized-class="read-more">تابع القراءة</a>
-				</div>]]></description>
-			<pubDate>Sat, 04 Jul 2026 16:02:21 +0300</pubDate>
-			<guid isPermaLink="false">1783170141469650</guid>
-		</item>
-		<item>
-			<title>أسعار العملات في مصر</title>
-			<link>https://realegp.com/</link>
-						<description><![CDATA[<table data-sanitized-class="table currencies-table">
-              <thead>
-                <tr data-sanitized-class="thick-border">
-                  <th data-sanitized-class="text-end">العملة</th>
-                  <th>سعر البنك</th>
-                  <th>
-                    <div>سعر السوق</div>
-                    <div data-sanitized-class="range">من - إلى</div>
-                  </th>
-                </tr>
-              </thead>
-              <tbody>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/usd">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-us fib"></i>
-                        </div>
-                        <div>دولار أمريكي</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">49.08</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">49.2</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">48.86 - 49.45</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/eur">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-eu fib"></i>
-                        </div>
-                        <div>يورو</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">56.16</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">56.3</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">55.91 - 56.58</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/sar">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-sa fib"></i>
-                        </div>
-                        <div>ريال سعودي</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">12.98</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">13.02</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">12.93 - 13.09</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/kwd">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-kw fib"></i>
-                        </div>
-                        <div>دينار كويتي</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">159.3</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">159.74</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">158.6 - 160.5</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/aed">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-ae fib"></i>
-                        </div>
-                        <div>درهم اماراتي</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">13.26</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">13.3</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">13.21 - 13.37</div>
-                  </td>
-                </tr>
-                
-  
-              </tbody>
-            </table>]]></description>
-			<pubDate>Sat, 04 Jul 2026 16:02:14 +0300</pubDate>
-			<guid isPermaLink="false">1783170141469649</guid>
-		</item>
-		<item>
-			<title>أسعار الذهب في مصر</title>
-			<link>https://realegp.com/</link>
-						<description><![CDATA[<table data-sanitized-class="table currencies-table">
-              <thead>
-                <tr data-sanitized-class="thick-border">
-                  <th data-sanitized-class="text-end">الذهب</th>
-                  <th>
-                    <div>متوسط السعر</div>
-                    <div data-sanitized-class="range">من - إلى</div>
-                  </th>
-                </tr>
-              </thead>
-              <tbody>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/gold/18k">
-                      <div data-sanitized-class="justify-content-start">
-                        
-                        <img src="https://realegp.com/static/img/gold.png">
-                        
-                        <div>ذهب عيار 18</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">5044</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">5036 - 5053</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/gold/21k">
-                      <div data-sanitized-class="justify-content-start">
-                        
-                        <img src="https://realegp.com/static/img/gold.png">
-                        
-                        <div>ذهب عيار 21</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">5885</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">5875 - 5895</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/gold/24k">
-                      <div data-sanitized-class="justify-content-start">
-                        
-                        <img src="https://realegp.com/static/img/gold.png">
-                        
-                        <div>ذهب عيار 24</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">6725</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">6714 - 6737</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/gold/pound">
-                      <div data-sanitized-class="justify-content-start">
-                        
-                        <i data-sanitized-class="bi bi-currency-pound"></i>
-                        
-                        <div>جنيه الذهب</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">47080</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">47000 - 47160</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/gold/usdsagha">
-                      <div data-sanitized-class="justify-content-start">
-                        
-                        <i data-sanitized-class="bi bi-coin"></i>
-                        
-                        <div>دولار الصاغة</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">50.08</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">50.0 - 50.17</div>
-                  </td>
-                </tr>
-                
-  
-              </tbody>
-            </table>]]></description>
-			<pubDate>Sat, 04 Jul 2026 16:02:14 +0300</pubDate>
-			<guid isPermaLink="false">1783170141469648</guid>
-		</item>
-		<item>
-			<title>آي صاغة: أسعار الذهب في مصر تقترب من 6000 جنيه لعيار 21 بعد مكاسب أسبوعية بلغت 145 جنيهًا.. والأوقية العالمية ترتفع 159 دولارًا وسط توقعات باستمرار الصعود</title>
-			<link>https://market.isagha.com/articles/2312</link>
-						<media:thumbnail url="https://cdn.isagha.net/public/files/fAaL3sQO4tdEQ879I1kSwxBHg2tVxMjBvBRFZyc2.jpg" />
-			<media:content url="https://cdn.isagha.net/public/files/fAaL3sQO4tdEQ879I1kSwxBHg2tVxMjBvBRFZyc2.jpg" medium="image"></media:content>
-			<description><![CDATA[<div data-sanitized-class="content-article">
-					<p></p><p>بيانات التوظيف الأمريكية الضعيفة دفعت أسعار الذهب عالميًا للصعود بنحو 4%، بينما ارتفع الذهب في مصر 145 جنيهًا خلال أسبوع.</p>
-<p>الفجوة السعرية عند 2.7% تعكس استقرار سوق الذهب المحلي.. وصعود الأسعار تقوده الأوقية العالمية وليس...</p>
-					<a href="https://market.isagha.com/articles/2312" data-sanitized-class="read-more">تابع القراءة</a>
-				</div>]]></description>
-			<pubDate>Sat, 04 Jul 2026 14:32:20 +0300</pubDate>
-			<guid isPermaLink="false">1783164740581896</guid>
 		</item>
 
 	</channel>
