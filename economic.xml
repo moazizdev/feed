@@ -4,10 +4,313 @@
 		<title>اقتصاد</title>
 		<link>http://192.168.1.50:8081/api/query.php?user=admin&amp;t=4IzCA6HFSoouCSR9nVqNkV&amp;f=html</link>
 		<description>RSS feed of اقتصاد</description>
-		<pubDate>Mon, 06 Jul 2026 11:30:03 +0300</pubDate>
-		<lastBuildDate>Mon, 06 Jul 2026 08:30:03 GMT</lastBuildDate>
+		<pubDate>Mon, 06 Jul 2026 11:35:02 +0300</pubDate>
+		<lastBuildDate>Mon, 06 Jul 2026 08:35:02 GMT</lastBuildDate>
 		<atom:link href="http://192.168.1.50:8081/api/query.php?user=admin&amp;t=4IzCA6HFSoouCSR9nVqNkV&amp;f=rss" rel="self" type="application/rss+xml" />
 				<item>
+			<title>أسعار العملات في مصر</title>
+			<link>https://realegp.com/</link>
+						<description><![CDATA[<table data-sanitized-class="table currencies-table">
+              <thead>
+                <tr data-sanitized-class="thick-border">
+                  <th data-sanitized-class="text-end">العملة</th>
+                  <th>سعر البنك</th>
+                  <th>
+                    <div>سعر السوق</div>
+                    <div data-sanitized-class="range">من - إلى</div>
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/usd">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-us fib"></i>
+                        </div>
+                        <div>دولار أمريكي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">48.83</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">49.24</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">48.9 - 49.49</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/eur">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-eu fib"></i>
+                        </div>
+                        <div>يورو</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">55.79</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">56.26</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">55.87 - 56.54</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/sar">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-sa fib"></i>
+                        </div>
+                        <div>ريال سعودي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">12.92</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">13.03</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">12.94 - 13.1</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/kwd">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-kw fib"></i>
+                        </div>
+                        <div>دينار كويتي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">158.5</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">159.87</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">158.7 - 160.6</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/aed">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-ae fib"></i>
+                        </div>
+                        <div>درهم اماراتي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">13.2</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">13.31</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">13.22 - 13.38</div>
+                  </td>
+                </tr>
+                
+  
+              </tbody>
+            </table>]]></description>
+			<pubDate>Mon, 06 Jul 2026 11:32:16 +0300</pubDate>
+			<guid isPermaLink="false">1783326736624047</guid>
+		</item>
+		<item>
+			<title>أسعار الذهب في مصر</title>
+			<link>https://realegp.com/</link>
+						<description><![CDATA[<table data-sanitized-class="table currencies-table">
+              <thead>
+                <tr data-sanitized-class="thick-border">
+                  <th data-sanitized-class="text-end">الذهب</th>
+                  <th>
+                    <div>متوسط السعر</div>
+                    <div data-sanitized-class="range">من - إلى</div>
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/18k">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <img src="https://realegp.com/static/img/gold.png">
+                        
+                        <div>ذهب عيار 18</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">4991</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">4968 - 5014</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/21k">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <img src="https://realegp.com/static/img/gold.png">
+                        
+                        <div>ذهب عيار 21</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">5825</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">5800 - 5850</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/24k">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <img src="https://realegp.com/static/img/gold.png">
+                        
+                        <div>ذهب عيار 24</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">6658</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">6630 - 6686</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/pound">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <i data-sanitized-class="bi bi-currency-pound"></i>
+                        
+                        <div>جنيه الذهب</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">46600</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">46400 - 46800</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/usdsagha">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <i data-sanitized-class="bi bi-coin"></i>
+                        
+                        <div>دولار الصاغة</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">49.66</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">49.45 - 49.86</div>
+                  </td>
+                </tr>
+                
+  
+              </tbody>
+            </table>]]></description>
+			<pubDate>Mon, 06 Jul 2026 11:32:16 +0300</pubDate>
+			<guid isPermaLink="false">1783326736624046</guid>
+		</item>
+		<item>
 			<title>أسعار العملات في مصر</title>
 			<link>https://realegp.com/</link>
 						<description><![CDATA[<table data-sanitized-class="table currencies-table">
@@ -2615,240 +2918,6 @@
 		</div><!-- FULLCONTENT end //-->]]></description>
 			<pubDate>Sun, 05 Jul 2026 16:02:15 +0300</pubDate>
 			<guid isPermaLink="false">1783256542335634</guid>
-		</item>
-		<item>
-			<title>ادفع لتشم الهواء.. المدينة في قبضة التاجر الكبير</title>
-			<link>https://almanassa.com/stories/31562</link>
-						<dc:creator>محمد السيد عيد</dc:creator>
-			<media:thumbnail url="https://almanassa.com/sites/default/files/styles/card_lead/public/photobank/2025/419c7590-b4d5-41c6-a3a8-9800a702fe2e.png.webp?itok=xvpMAiYi" />
-			<media:content url="https://almanassa.com/sites/default/files/styles/card_lead/public/photobank/2025/419c7590-b4d5-41c6-a3a8-9800a702fe2e.png.webp?itok=xvpMAiYi" medium="image"></media:content>
-			<description><![CDATA[<!-- FULLCONTENT start //--><div data-sanitized-class="columns small-12 table-scroll">
-							<p>لنتخيل مواطنَيْن خرجا لتوهما من يوم عملٍ شاقٍ، أحدهما في ميدان المسلة بمدينة الفيوم، والآخر في ميدان محمد فريد بالقاهرة، وكلاهما لا يرغب في العودة للمنزل سريعًا، فقررا التمشي قليلًا. يقطع الاثنان مسافةً من 300 إلى 500 متر بلا شجر في الأفق، وإن وجد فهو قليل وهزيل، وعلى رصيفٍ يضيق بسائريه، وإذا اتسع تأكله المحال المجاورة. </p>
-
-<p>يرغبان في الراحة قليلًا فينظران حولهما ولا يلمحان مقاعد للعامة. يمشيان أكثر من كيلومتر. وصل مَن في الفيوم إلى بحر يوسف (تفريعة النيل) ليجد مقاهي على طول البحر، بعضها أخذ مقاعد العامة/البنشات، لحسابه، ومن يجلس عليه أن يطلب، بالتالي يدفع. أما الثاني فبعد أن مر على كل مقاهي وسط البلد، ورفض طلب قهوتها أو شايها باهظي الثمن بالنسبة له، أخذته قدماه لميدان عبد المنعم رياض، ليجد أخيرًا مكانًا للراحة، أو هكذا ظن.</p>
-
-<p>جلس مَن في الفيوم وطلب كوب شاي مرغمًا ليتمتع ببحر المدينة الملوث ولو لبعض الوقت، وهو يتأمل مرة أخرى البنشات المنجدة التي أصبحت من أملاك المقاهي بعد أن كانت مجانية، ليلحظ أن بعضها ليس ثابتًا في الأرض، ما يعني أنه انتُزع من مكانه ونقل إلى هنا. يرى أيضًا صيادًا أتى بكرسيه الخاص وبجواره أدوات الصيد على الأرض وخلفه شجرات هزيلات بجوار بحرٍ يمتد لعدة كيلومترات وصوت سيارات الشرطة في الخلفية تروح وتجيء.</p>
-
-<p>أما مواطننا القاهري في ميدان عبد المنعم رياض، فقد جلس على بنش إسمنتي لا يعرف مصممه معنى الجلوس والراحة، لكن لا بأس، يتأمل حوله فيجد البنشات متباعدة كأنها مصممة خصيصًا لئلَّا يتعرف الأغراب على بعضهم البعض صدفةً فتنشأ علاقة اجتماعية لا سمح الله، وبالطبع لا شجر في الأفق أيضًا.</p>
-
-<p>يهم بالوقوف لبرهةٍ لإحساسه بعدم الراحة، ويتمنى لو أن هناك عربة شاي بسيطة اقتصادية بالقرب منه لكن الله لا يعطي كل شيء! وبالطبع سيارات الشرطة عند مدخل شارع شامبليون تراقب في العموم، وبالأخص من يقترب من تمثال البطل عبد المنعم رياض لسببٍ قد يعجز عن فهمه عبد المنعم رياض نفسه.</p>
-
-<p>يتنهد صديقانا الاثنان ويسألان في نفَسٍ واحد "لم أطلب الكثير فلماذا أشعر أني محاصر؟".</p>
-
-<h2><strong>العمارة العدائية</strong></h2>
-
-<figure role="group" data-sanitized-class="align-left"><div data-embed-button="almanassa_media_browser" data-entity-embed-display="view_mode:media.embed" data-entity-type="media" data-entity-uuid="c0da97fd-9843-465f-b1fa-78268c04dd33" data-langcode="ar" data-entity-embed-display-settings="[]" data-sanitized-class="embedded-entity">
-	    <picture><source media="all and (min-width: 1440px)" type="image/webp"><source media="all and (min-width: 641px)" type="image/webp"><source type="image/webp"><img src="https://almanassa.com/sites/default/files/styles/max_650x650/public/photobank/compound.jpg.webp?itok=gSVJNA9A" alt="" typeof="foaf:Image"></picture><aside data-sanitized-class="media--management-links"><ul></ul></aside><aside data-sanitized-class="caption credits">شركة تسويق عقاري على فيسيوك</aside></div>
-<figcaption>صورة من كمباوند على أطراف القاهرة بمدينة الشيخ زايد، تروى حدائقه بمياه النيل. </figcaption></figure><p>للإجابة عن سؤال "الشعور بالحصار" نحتاج لفهم مصطلح<a href="https://annasher.com/exclusive/15564/"> العمارة العدائية/Hostile architecture</a>. التعريف المادي البسيط له أنه تصميم الأماكن العامة كالحدائق ومناطق التجمع كالميادين والأرصفة بطريقة تحدد كيفية استعمال المكان وتحد من تعددية استخدامه، أو حتى تحد من فئات الأشخاص الذين يحق لهم استعمال المكان، ويمكن القيام بذلك أيضًا بإضافة بعض التعديلات على الأماكن الموجودة بالفعل لتحقيق الغرض نفسه.</p>
-
-<p>مثال على ذلك إنفاق المسؤولين في مدينة بورتلاند بولاية أوريجون في الولايات المتحدة 500 ألف دولار عام 2021 لإضافة ما أطلقوا عليه <a href="https://www.oregonlive.com/portland/2021/11/portland-to-spend-500000-on-benches-to-stop-homeless-from-camping-near-parks.html">الفرش الدفاعي</a> لحديقة المدينة الوحيدة مثل البنشات المضادة للمشردين التي توضع في بعضها أشواك تتحرك بالدفع لإبعاد من يجلس عليها لفترة طويلة، أو نشر صخور الزينة على الأعشاب ليصبح من الصعب النوم عليها، أو حتى على البنشات الإسمنتية ذات التصميمات التي تصعب ليس فقط النوم بل الجلوس لمدة طويلة.</p>
-
-<p>عادة ما يكون مبرر السلطات التي تطبق ذلك النوع من العمارة ضمانَ الأمن والسلامة ومنع الجريمة والأفعال غير المرغوب فيها، والمحافظة على الصورة العامة، وهنا يكمن السؤال، هل وضع بنش إسمنتي يصعب نوم المشرد، وجلوس العامة بالمجان يحد من الجريمة؟</p>
-
-<h2>الحرب على المشردين</h2>
-
-<p>قد تكمن الإجابة في فهم العمارة العدائية باعتبارها وليدة النيوليبرالية ومبنية في الأساس لمحاربة المشردين، أو من تصفهم بأنهم غير مشاركين في المجتمع بحسب مدى الانخراط في العملية الاستهلاكية، وتقوم كذلك على الفصل العمراني/urban segregation بين أصحاب الدخل المتوسط والمرتفع الذين يملكون المقدرة على استعمال المكان العام، والفقراء من الطبقات العاملة والمهمشة.</p>
-
-<p><a href="https://www.abc.net.au/news/2018-03-02/design-crimes-how-hostile-architecture-is-hurting-our-cities/9498912?source=post_page-----b0df9bb5bc53">وفق</a> المُحاضر في جغرافيا الإنسان بجامعة أوكلاند، توم بيكر،  فإن "الطبقات المختلفة من المجتمع قد تعيش في المكان نفسه ولكنهم مع ذلك يعيشون في عوالم مختلفة، فيهرول أبناء الطبقة المتوسطة والغنية بين أجزاء مختلفة من المدينة معزولين تمامًا عن باقي الطبقات، وفي اعتقادي أن المشردين ليسوا إلا رأس حربة أو ذريعة لهذا العملية".</p>
-
-<blockquote>
-<p>عندما تصبح المدينة شركة تهتم بالربح فقط تتحول الأماكن العامة إلى مجرد وسيلة تسليع وربح</p>
-</blockquote>
-
-<p>هنا يمكن استنتاج أن المكان الذي يسمى بالعام يحمل في طياته كل طباع الخصوصية، ويُهمل الجانب الأهم من كونه عملية مجتمعية مستمرة، ومساحة حرة للمجتمع لخلق أنشطة فيه، فالسُلَّم على سبيل المثال له غرض رئيسي، ولكن عن طريق التصميم الجيد وترك المساحة للمستخدم يمكن أن تخلق أنشطة جانبية كالجلوس والاجتماع أو حتى أنشطة رياضية يخلقها المستخدم قد لا تخطر على بال المصمم، ولكن عندما يعامل المكان كمنتج أو سلعة فقط يؤدي ذلك حتمًا إلى التعامل السلطوي مع المكان العام.</p>
-
-<p>في الوقت الحالي، أصبح المكان العام، وفق الفيلسوف الماركسي الفرنسي هنري لوفيفر في كتابه <a href="https://www.researchgate.net/publication/304885956_There_is_a_Politics_of_Space_because_Space_is_Political_Henri_Lefebvre_and_the_Production_of_Space">الإنتاج الاجتماعي للمكان</a>، أحد منتجات المرحلة النيوليبرالية، بالتالي ليس غريبًا أن تنشأ بداخله العمارة العدائية. هو ليس فقط مجرد وسيلة لتقوية الحالة الرأسمالية، وبما أنه جرى تسليعه بالفعل بحيث يُفرق بين من يملكه، ومن يستخدمه.</p>
-
-<p>بالتالي ليس غريبًا أن يرضى قطاع كبير من المجتمع بخصخصة الأماكن العامة، ويصبح سؤال موضع الأماكن العامة في علاقة الحكومة بالقطاع الخاص أكثر غموضًا، فعندما تصبح المدينة شركة تهتم بالربح فقط، تتحول الأماكن العامة إلى مجرد وسيلة تسليع، لذلك يُطرد السكان لصالح المستهلكين إن لم يشاركوا في الاستهلاك فتُدمر فكرة المدينة كمكان لكل العامة وتصبح ساحة للصراع الطبقي يطيح فيها الغني بالفقير.</p>
-
-<h2>سبوبة المكان العام</h2>
-
-<p>في مصر تخطت الأماكن العامة مرحلة الصراع الطبقي، فكل ما يمكن وصفه بأنه مكان عام تحول لفرصة للانتفاع؛ بداية من أي كورنيش مهما بلغت درجة انحداره، حيث تتحول رؤية المسطح المائي لرفاهية بسبب سوء التصميم من جهة، والاستيلاء على قطاعات كبيرة منه لصالح خدمات مدفوعة مثل المقاهي من جهة أخرى.</p>
-
-<p>مرورًا بالكباري التي استغلت المساحات أسفلها كمقاهٍ ومحلات ومواقف للسيارات في نزعة تتسم بطابع العمارة العدائية الذي يهدف للسيطرة على كل شبر يمكن أن ينام فيه من ليس له مأوى، انتهاءً بالمناطق الخضراء التي تكاد تكون خُصخصت بالكامل عن طريق إزالتها، بحيث لم تعد تتوافر إلا في المناطق الإيجيبتية والكومبوندات.</p>
-
-<p>هذه السردية تعززها بياناتٌ حديثةٌ للجهاز المركزي للتعبئة العامة والإحصاء تشير إلى <a href="https://www.capmas.gov.eg/publications/54">انخفاض</a> العدد الكلي لحدائق النباتات والمتنزهات الحكومية بين عامي 2022 و2024 من 1256 إلى 1115.</p>
-
-<p>تتسم الأماكن العامة الأخرى كالميادين بخضوعها لرقابة شرطية مستمرة تحد من حرية الاستعمال، إضافةً لفقرها التصميمي وعدم وجود أماكن للجلوس أو وجودها المحدود مع رداءة مكوناتها كأن تكون إسمنتية غير مشجعة على البقاء لمدة طويلة.</p>
-
-<p>أما الرصيف الذي يفترض أن يكون مكانًا للمشاة فيخوض صراعًا مستمرًا مع حارات السيارات المجاورة له من جهة، ومن المحلات والمقاهي التي تأكل جزءًا كبيرًا منه من جهة أخرى، في مظهر آخر من مظاهر السبوبة، إضافة لسوء تصميمه وافتقاره إلى التنظيم بحيث يوفر حارة للدراجات، ثم مكان للأشجار، ومكان للبنشات، يليه مكان للمارة يسمح لهم بالحركة بحرية دون الحاجة للمشي السريع والهرولة المستمرة وإلا داسوا بعضهم بعضًا، انتهاءً بمكان لامتداد المقاهي إذا سمحت سعة الرصيف بذلك.</p>
-
-
-<div data-embed-button="almanassa_story_browser" data-entity-embed-display="view_mode:node.read_also" data-entity-type="node" data-entity-uuid="e965f926-713e-4088-9706-5351206c1ea1" data-langcode="ar" data-entity-embed-display-settings="[]" data-sanitized-class="embedded-entity">
-	<article data-history-node-id="18292" role="article" about="/stories/18292" data-sanitized-id="node-18292" data-sanitized-class="view-mode--read-also type-story"><div data-sanitized-class="row">
-		<a href="https://almanassa.com/stories/18292" almanassa-posthog-link="" data-ph-capture-attribute-link-type="story" data-ph-capture-attribute-link-id="18292" data-ph-capture-attribute-link-title="يدٌ تجرح المدينة| الاستبعاد الطبقي بالعمران" data-ph-capture-attribute-link-section="اقتصاد وعمران" data-ph-capture-attribute-link-view-mode="read_also" data-sanitized-class="columns small-12 medium-6">
-			<hr data-sanitized-class="embed-divider"><div data-sanitized-class="h3">اقرأ أيضا</div>
-			
-			<div data-sanitized-class="h2">
-				<span>يدٌ تجرح المدينة| الاستبعاد الطبقي بالعمران</span>
-
-			</div>
-			
-			<hr data-sanitized-class="embed-divider"></a>
-	</div>
-</article></div>
-<p>إذا كانت تجربة المشي للمواطن الذكر السليم جسديًا تواجه هذه الصعوبات، فكيف حال الأطفال والعجائز وذوي الاحتياجات الخاصة، أو كيف الحال بالنساء في هذا الزحام الذي يوفر بيئة أكبر لحوادث التحرش والمضايقات.</p>
-						<div data-sanitized-id="topic-file-stories">
-			<div data-sanitized-class="views-element-container">		<div almanassa-posthog-link-source="" data-almanassa-posthog-link-source="Story Topic File Stories List" data-almanassa-posthog-link-source-type="topic_files" data-almanassa-posthog-link-source-id="embed_story_topic_file" data-sanitized-class="js-view-dom-id-898933fb0fa10554364225d0dae0b8a3729a28eb868ec21e9d2c99dd831f16b3">
-		
-		
-		
-
-		
-		
-		
-		
-
-		
-		
-		
-
-		
-		
-
-		
-		
-	</div>
-</div>
-
-			</div>
-		</div><!-- FULLCONTENT end //-->]]></description>
-			<pubDate>Sun, 05 Jul 2026 16:02:15 +0300</pubDate>
-			<guid isPermaLink="false">1783256542335633</guid>
-		</item>
-		<item>
-			<title>الشمس تشرق من الصين.. إغلاق هرمز يفتح الأبواب للطاقة المتجددة</title>
-			<link>https://almanassa.com/stories/31988</link>
-						<dc:creator>يوسف إبراهيم</dc:creator>
-			<media:thumbnail url="https://almanassa.com/sites/default/files/styles/card_lead/public/photobank/2026/b434cc0e-9c00-4735-aa96-5674213979d3_1.jpg.webp?itok=T1gBiHpN" />
-			<media:content url="https://almanassa.com/sites/default/files/styles/card_lead/public/photobank/2026/b434cc0e-9c00-4735-aa96-5674213979d3_1.jpg.webp?itok=T1gBiHpN" medium="image"></media:content>
-			<description><![CDATA[<!-- FULLCONTENT start //--><div data-sanitized-class="columns small-12 table-scroll">
-							<p>مستوى قياسي في <a href="https://www.cnbc.com/2026/06/07/iran-war-100-days-trump-stocks-sp500-bonds-oil.html">صادرات</a> النفط الخام الأمريكية سبَّب <a href="https://www.ft.com/content/d0be73c8-b8d8-4ffd-874e-e97a6ecffef7?syn-25a6b1a6=1">انخفاضًا</a> في مخزونها لأقل مستوى له منذ 2004، بعد ما سُحب منه لتعويض نقص البترول العالمي بعد مرور 100 يوم على الحرب على إيران بما استتبعته من غلق مضيق هرمز وإعاقة نفط الخليج.</p>
-
-<p>قد تدفعنا هذه البيانات للوهلة الأولى إلى استنتاج أن الولايات المتحدة هي المستفيد الأكبر من الحرب في مجال تصدير الطاقة، لكن الواقع يخبرنا أن خصمها اللدود، الصين، حقق هو الآخر مكاسب كبيرة من غلق مضيق هرمز.</p>
-
-<p>صحيح أن زيادة الإحساس بمخاطر انقطاع تدفق الطاقة أدى على المدى القصير لتعزيز الطلب على النفط الأمريكي، لكنه أيضًا دفع العديد من الحكومات للتوسع في استيراد أدوات إنتاج الطاقة الشمسية لتأمين الطاقة على المدى الطويل، وبالطبع الصين أكبر <a href="https://www.reuters.com/business/energy/chinas-solar-exports-jump-60-year-april-2026-05-18/">مصدري</a> هذه المستلزمات.</p>
-
-<h2>من استفاد من أزمة الحرب الإيرانية؟</h2>
-
-<p>مطلع هذا الشهر، أخبرتنا <a href="https://www.reuters.com/business/energy/us-crude-exports-hit-record-high-may-iran-war-tightens-global-oil-supplies-2026-06-01/">بيانات</a> رويترز أن صادرات النفط الخام من الولايات المتحدة بلغت في مايو/أيار الماضي مستوى غير مسبوق عند 5.58 مليون برميل يوميًا، وهو رقم لافت، إذ كانت الصادرات في الفترة السابقة على الحرب تدور تحت مستوى 4.5 مليون برميل يوميًّا.</p>
-
-<p>لكن المكسب لم يكن أمريكيًا صرفًا، فرويترز أخبرتنا أيضًا قبل أسابيع أن آخر <a href="https://www.reuters.com/business/energy/chinas-solar-exports-jump-60-year-april-2026-05-18/">البيانات</a> الصينية تشير إلى نمو كبير في صادرات الخلايا الشمسية، التي زادت بنحو 60% في أبريل/نيسان الماضي مقارنة بالشهر نفسه من العام السابق.</p>
-
-<blockquote>
-<p>سجلت دولٌ ناميةٌ بينها مصر أعلى مستوى في واردات مستلزمات الطاقة الشمسية</p>
-</blockquote>
-
-<p>تشير <a href="https://www.reuters.com/sustainability/climate-energy/africa-southeast-asia-drive-china-solar-panel-exports-record-march-2026-04-22/">تقارير سابقة</a> إلى أن الصين مرت <a href="https://ember-energy.org/latest-updates/chinese-solar-exports-double-in-a-month-to-hit-record-high-amid-energy-crisis/">بموجة انتعاش</a> ملحوظة في تصدير مستلزمات إنتاج الطاقة الشمسية منذ اندلاع الحرب على إيران، بسبب ارتفاع أسعار النفط عالميًا، ما ولد مخاوف كبيرة بشأن مخاطر تدبير إمدادات الطاقة.</p>
-
-<p>وتُظهر <a href="https://ember-energy.org/latest-updates/chinese-solar-exports-double-in-a-month-to-hit-record-high-amid-energy-crisis/">بيانات</a> مركز أبحاث إمبر أن دولًا ناميةً من بينها مصر، سجلت أعلى مستوى على الإطلاق في واردات مستلزمات الطاقة الشمسية خلال شهر مارس/آذار الماضي في ذروة الحرب.</p>
-
-<p>وفي هذا السياق، <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="d4b6634f-5f1a-4c62-ab97-d91521bdb273" href="https://almanassa.com/news/32011" title='"الكهرباء" تتوسع في الطاقة الشمسية المنزلية لتوفير 7.7 مليار قدم مكعب من الغاز'>أعلنت</a> وزارة الكهرباء المصرية في مايو/أيار الفائت عن تسهيل إجراءات تعاقد المواطنين على <a href="https://www.youm7.com/story/2026/5/18/%D9%83%D9%84-%D9%85%D8%A7-%D8%AA%D8%B1%D9%8A%D8%AF-%D9%85%D8%B9%D8%B1%D9%81%D8%AA%D9%87-%D8%B9%D9%86-%D8%AA%D8%B1%D9%83%D9%8A%D8%A8-%D8%A7%D9%84%D8%A7%D9%84%D9%88%D8%A7%D8%AD-%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9-%D8%A3%D8%B9%D9%84%D9%89-%D8%A7%D8%B3%D8%B7%D8%AD/7419772">تركيب</a> محطات الطاقة الشمسية والألواح على أسطح المنازل، ما يشير إلى أن القلق من انقطاع الوقود الأحفوري تُرجم في صورة إقبال أكبر على الطاقة المتجددة، وهو ما يؤكد عليه الرئيس التنفيذي لشركة <a href="https://www.onerasystems.com/">OneraSystems</a> وائل النشار.</p>
-
-<p>ويلفت النشار في حديثه إلى <strong>المنصة</strong> إلى أن التوسع في الطاقة الشمسية تحت وطأة مخاوف الحرب يبدو نمطًا متكررًا؛ "كلما واجه بلدنا أزمة، يتجه الناس إلى الطاقة الشمسية، وهذا أمر طبيعي. لكن بمجرد مرورها، يعود كل شيء إلى الوضع القائم".</p>
-
-<h2>رهان الكربون خطأ استراتيجي؟</h2>
-
-<figure role="group" data-sanitized-class="align-left"><div data-embed-button="almanassa_media_browser" data-entity-embed-display="view_mode:media.embed" data-entity-type="media" data-entity-uuid="f931eddd-c5e3-4b63-b6c4-0fd976cb6f0f" data-langcode="ar" data-entity-embed-display-settings="[]" data-sanitized-class="embedded-entity">
-	    <picture><source media="all and (min-width: 1440px)" type="image/webp"><source media="all and (min-width: 641px)" type="image/webp"><source type="image/webp"><img src="https://almanassa.com/sites/default/files/styles/max_650x650/public/photobank/trump_5.jpg.webp?itok=uk6Mlkoe" alt="" typeof="foaf:Image"></picture><aside data-sanitized-class="media--management-links"><ul></ul></aside><aside data-sanitized-class="caption credits">حساب دونالد ترامب على فيسبوك</aside></div>
-<figcaption>الرئيس الأمريكي دونالد ترامب، 26 يناير 2025</figcaption></figure><p>الدفاع عن الوقود الأحفوري وتوسيع نطاقه أولوية سياسية واقتصادية ثابتة بالنسبة للرئيس الأمريكي دونالد ترامب. فخلال حملتيه الانتخابيتين في 2016 و2024؛ قدّم سياسات المناخ لا باعتبارها ضرورة بيئية، بل عبء استراتيجي، وذهب في إحدى المرات إلى <a href="https://www.bbc.com/news/world-us-canada-51213003">وصف</a> تغير المناخ بأنه "خدعة" تقف وراءها ما وصفها بـ"جماعة علمية مسيّسة" تعمل في خدمة المصالح الوطنية الصينية.</p>
-
-<p>ومع عودته إلى البيت الأبيض في ولايته الثانية، تسارع هذا المسار <a href="https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/">لينتهي</a> إلى إجراءات تنفيذية بالتراجع عن مجموعة من المبادرات المناخية، وتخفيف القيود المفروضة على التوسع في الوقود الأحفوري، وتعليق جوانب من الدعم الفيدرالي لمشروعات الطاقة النظيفة التي أُقرت بموجب تشريعات سابقة. </p>
-
-<p>غير أن هذه الاستراتيجية لم تعد محصورةً في السياسة الداخلية، بل اكتسبت بعدًا جيوسياسيًا متزايدًا، ففي أوائل عام 2026، أطلقت الولايات المتحدة عملية <a href="https://www.nytimes.com/2026/01/03/us/politics/trump-capture-maduro-venezuela.html">العزم المطلق</a> للقبض على الرئيس الفنزويلي نيكولاس مادورو، ليُعاد تشكيل العلاقة الجيوسياسية بين البلدين بصورة دراماتيكية.</p>
-
-<p>قُدمت العملية رسميًا في إطار أمني، لكنها سرعان ما انعكست على أسواق الطاقة العالمية، وأعادت فنزويلا، بما تمتلك من <a href="https://asharq.com/reports/166487/%D9%86%D9%81%D8%B7-%D9%81%D9%86%D8%B2%D9%88%D9%8A%D9%84%D8%A7-%D8%A3%D9%83%D8%A8%D8%B1-%D8%A7%D8%AD%D8%AA%D9%8A%D8%A7%D8%B7%D8%A7%D8%AA-%D8%A8%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D9%88%D8%A8%D9%86%D9%8A%D8%A9-%D8%AA%D8%AD%D8%AA%D9%8A%D8%A9-%D9%85%D8%AA%D9%87%D8%A7%D9%84%D9%83%D8%A9/">أكبر</a> احتياطات النفط في العالم، التموضع سريعًا داخل هذا الإطار الطاقوي الموالي للولايات المتحدة، مع تركيز متجدد على زيادة الإنتاج وإعادة توجيه سلاسل الإمداد.</p>
-
-<p>وسواء كان ذلك يرقى إلى سيطرة مباشرة أم لا، فالرسالة الأوسع كانت واضحة؛ أمن الطاقة والنفوذ الجيوسياسي باتا أكثر تشابكًا، إذ لا تسعى واشنطن فقط إلى إنتاج الطاقة التقليدية، بل إلى تشكيل الشروط التي يجري تداولها عالميًا وفقها.</p>
-
-<blockquote>
-<p>كلما أصبح النفط أعلى تكلفة وأكثر زعزعة للاستقرار المالي ازدادت جاذبية مصادر الطاقة البديلة</p>
-</blockquote>
-
-<p>على عكس حالة فنزويلا، جاءت حرب ترامب على إيران بآثار عكسية قللت جاذبية الرهان على الطاقة التقليدية، بالأخص مع إغلاق مضيق هرمز الحيوي الذي يمر عبره نحو 20% من نفط العالم، و<a href="https://oilprice.com/oil-price-charts/#Brent-Crude">ارتفعت</a> أسعار البرميل إلى ما يتجاوز الـ100 دولار، بعدما كانت تدور حول 70 دولارًا قبل الحرب.</p>
-
-<p>بالنسبة إلى دول كثيرة، خصوصًا في الجنوب العالمي، هذه التطورات لا تعني ارتفاع تكاليف الطاقة فحسب، إنما تمثل ضغطًا حادًا على ميزان المدفوعات.</p>
-
-<p>في مثل هذه الظروف تحديدًا، يبدأ منطق الاعتماد على الوقود الأحفوري في التصدع، وكلما أصبح النفط أعلى تكلفة وأكثر زعزعة للاستقرار المالي، ازدادت جاذبية مصادر الطاقة البديلة، وعلى رأسها الطاقة الشمسية.</p>
-
-<h2>توسع صيني يقابله ضعف في العملات</h2>
-
-<p>تنعكس الطفرة في صادرات الخلايا الشمسية الصينية على شكل تحولاتٌ بنيويةٌ أعمقُ تنعكس في <a href="https://www.cnbcafrica.com/2026/africa-southeast-asia-drive-china-solar-panel-exports-to-record-in-march">دول</a> مثل الفلبين والكونغو الديمقراطية، حيث يُدفع الطلب من الشركات الصغيرة والسكان الريفيين المحرومين من خدمات الطاقة الذين يبحثون عن بدائل لإمدادات الوقود الأحفوري غير المستقرة والمكلفة.</p>
-
-<p>في باكستان، أيضًا، وخلال سنوات قليلة فقط، باتت الألواح الشمسية الصينية <a href="https://energytracker.asia/solar-power-shields-pakistan-from-the-hormuz-energy-crisis/">توفر 20%</a> من الكهرباء خارج الشبكات الأساسية، ما ساعد البلاد على تفادي أسوأ تداعيات حرب إيران.</p>
-
-<figure role="group" data-sanitized-class="align-right"><div data-embed-button="almanassa_media_browser" data-entity-embed-display="view_mode:media.embed" data-entity-type="media" data-entity-uuid="a644afd2-5cf8-4eee-9c33-a48273841cb2" data-langcode="ar" data-entity-embed-display-settings="[]" data-sanitized-class="embedded-entity">
-	    <picture><source media="all and (min-width: 1440px)" type="image/webp"><source media="all and (min-width: 641px)" type="image/webp"><source type="image/webp"><img src="https://almanassa.com/sites/default/files/styles/max_650x650/public/photobank/2026/a644afd2-5cf8-4eee-9c33-a48273841cb2.jpg.webp?itok=s97h0QZ6" alt="" typeof="foaf:Image"></picture><aside data-sanitized-class="media--management-links"><ul></ul></aside><aside data-sanitized-class="caption credits">صفحة شركة كايرو سولر لحلول الطاقة الشمسية على فيسبوك</aside></div>
-<figcaption>تركيب ألواح طاقة شمسية أعلى أسطح المنازل، 20 أكتوبر 2026</figcaption></figure><p>في مقابل الاحتياج القوي لمستلزمات الطاقة المتجددة، لا يحد من الطلب على المنتجات الصينية غير ضعف عملات البلدان المستوردة، حسب مارك بليث، أستاذ الاقتصاد السياسي الدولي ومدير مركز رودس للاقتصاد والتمويل.</p>
-
-<p>"الفكرة بسيطة للغاية. ما هو القيد الأكبر أمام أي دولة نامية؟ العملة الضعيفة"؛ يقول بليث لـ <strong>المنصة</strong>، ويشرح أن الواردات الأساسية لبلدان الجنوب العالمي، من الوقود والآلات إلى الغذاء ومدخلات الصناعة، غالبًا ما تُشترى بعملات أجنبية مثل الدولار واليورو، ما يخلق اعتمادًا متكررًا على التمويل الخارجي وتدفقات الدولار.</p>
-
-<p>تتفاقم المشكلة أكثر مع خروج الأموال الساخنة من الاقتصادات النامية في لحظات الاضطراب، مثل ما حدث في مصر عام 2022، عندما تسببت صدمة خارجية تمثلت في الحرب الروسية الأوكرانية في <a href="https://timep.org/2022/12/13/egypts-infinite-economic-crisis/">خروج رؤوس أموال</a> بقيمة 25 مليار دولار.</p>
-
-<p>لكن مقابل كل هذه العقبات، تمثل واردات مسلتزمات الطاقة الشمسية أهميةً استراتيجيةً تميزها عن باقي المستوردات. فعلى خلاف الوقود الأحفوري، الذي يتطلب واردات مستمرة مدفوعة بالدولار، تمثل الألواح الشمسية استثمارًا رأسماليًا لمرة واحدة قادرًا على إنتاج الكهرباء محليًا لعقود بتكاليف تشغيل محدودة، في ظل ما شهدته تكلفة تكنولوجيا الطاقة الشمسية من تراجع بنسبة <a href="https://www.weforum.org/stories/2021/11/renewable-energy-cost-fallen/">80%</a> في تحول قادته إلى حد كبير قدرة الصين الهائلة على توسيع التصنيع الأخضر صناعيًّا.</p>
-
-<p>بهذا المعنى، تمنح الألواح الشمسية الصينية الرخيصة الاقتصادات النامية ما هو أهم بكثير من الطاقة النظيفة وحدها؛ مسارًا محتملًا لتقليص واحد من أكبر مصادر اعتمادها المتكرر على الدولار، وهو واردات النفط.</p>
-
-<p>اللافت أنه عندما منحت الحرب الفرصة، كانت الصين مستعدةً للاستفادة منها، بحيث <a href="https://www.ids.ac.uk/news/new-study-reveals-chinas-global-role-in-renewable-energy-transition/">تهيمن</a> على صناعات الطاقة الشمسية من كافة أطرافها، وكل مراحلها؛ هي <a href="https://news.futunn.com/en/post/70407261/musk-s-move-sparks-market-surge-what-exactly-is-behind?level=1&amp;data_ticket=1780830844835734">تستحوذ</a> على 96% من صناعة البولي سيليكون عالميًا، و96.2% من صناعة الرقائق الشمسية، و91.3% من صناعة الخلايا الشمسية، و80.1% من صناعة الألواح الجاهزة.</p>
-
-<p>تعود هذه السيطرة إلى <a href="https://www.woodmac.com/press-releases/china-dominance-on-global-solar-supply-chain/">استثمار</a> الصين ما يتجاوز 130 مليار دولار في هذا القطاع خلال عام 2023 وحده، مع الاستفادة من الاستراتيجية الصناعية القائمة على تكامل رأسي واضح يعتمد السيطرة على المواد والمكونات أولًا، ثم الهيمنة على المنتج النهائي.</p>
-
-<h2>لماذا نتباطأ في مصر؟</h2>
-
-<figure role="group" data-sanitized-class="align-left"><div data-embed-button="almanassa_media_browser" data-entity-embed-display="view_mode:media.embed" data-entity-type="media" data-entity-uuid="d4951cd1-9425-4f27-b66b-018b395f7525" data-langcode="ar" data-entity-embed-display-settings="[]" data-sanitized-class="embedded-entity">
-	    <picture><source media="all and (min-width: 1440px)" type="image/webp"><source media="all and (min-width: 641px)" type="image/webp"><source type="image/webp"><img src="https://almanassa.com/sites/default/files/styles/max_650x650/public/photobank/2026/d4951cd1-9425-4f27-b66b-018b395f7525.jpg.webp?itok=9Fq_VKpB" alt="" typeof="foaf:Image"></picture><aside data-sanitized-class="media--management-links"><ul></ul></aside><aside data-sanitized-class="caption credits">حساب المواطن حسن رشوان على فيسبوك</aside></div>
-<figcaption>جانب من إغلاق المحال التجارية ليلًا بمنطقة وسط البلد في القاهرة، 29 مارس 2026</figcaption></figure><p>تُعد مصر من بين أكثر الاقتصادات النامية التي تضررت بشدة من صدمة النفط الأخيرة. ففي مارس، <a href="https://www.facebook.com/EgyptTodayMag/posts/prime-minister-mostafa-madbouly-said-egypts-energy-import-bill-surged-from-12-bi/1403216001820718/">قال</a> رئيس الوزراء مصطفى مدبولي إن فاتورة واردات الطاقة الشهرية للبلاد ارتفعت بحدة، لتصل في ذروة الضغط إلى ما بين 2 و2.5 مليار دولار.</p>
-
-<p>وفي مواجهة ذلك، <a href="https://www.bbc.com/news/articles/c0rxz7ggv8go">اتخذت</a> الحكومة إجراءات طارئة للحد من استهلاك الكهرباء، شملت تقليص ساعات العمل التجارية، عبر إلزام المحال بالإغلاق مبكرًا في المساء، إلى جانب توسيع العمل عن بُعد لعدد كبير من العاملين.</p>
-
-<p>هذه الهشاشة تحديدًا هي ما أعادت الاهتمام بالطاقة الشمسية كحلٍّ بنيويٍّ. يلاحظ وائل النشار، استنادًا إلى خبرته الممتدة لعقود في القطاع، أن العائق الأساسي أمام التوسع في الطاقة المتجددة مالي ومؤسسي، وأنه من دون التزام سياسي مستدام وآليات تمويل ميسرة، تفشل موجات الاهتمام المدفوعة بالأزمات في التحول إلى تغيير بنيوي طويل المدى ذي معنى.</p>
-
-<p>وفي أبريل، <a href="https://english.ahram.org.eg/News/565139.aspx">قال</a> مدبولي إن مصر قادرة على تحقيق هدفها لعام 2028 برفع حصة الطاقة المتجددة في إنتاج الكهرباء إلى 45%. لكن رغم المنطق الاقتصادي المتزايد وراء التوسع في الطاقة الشمسية، لا يزال كثيرون داخل القطاع المالي المصري يشككون في قدرة البلاد على تحقيق طموحاتها في مجال الطاقة المتجددة بالوتيرة التي يتصورها المسؤولون.</p>
-
-<p>ويؤكد خبير بارز في الاستدامة بأحد البنوك الخاصة الكبرى في مصر، تحدث لـ<strong> المنصة </strong>شرط عدم نشر اسمه، أن الفجوة بين أهداف الدولة وواقع السوق لا تزال كبيرة؛ "نحن متأخرون كثيرًا عن الجدول الزمني. هناك أهداف طموحة على الورق، لكن التنفيذ أبطأ بكثير مما توقعه صانعو السياسات".</p>
-
-
-<div data-embed-button="almanassa_story_browser" data-entity-embed-display="view_mode:node.read_also" data-entity-type="node" data-entity-uuid="af9a7bc0-c783-413f-bf1d-74d21fe82103" data-langcode="ar" data-entity-embed-display-settings="[]" data-sanitized-class="embedded-entity">
-	<article data-history-node-id="30969" role="article" about="/stories/30969" data-sanitized-id="node-30969" data-sanitized-class="view-mode--read-also type-story"><div data-sanitized-class="row">
-		<a href="https://almanassa.com/stories/30969" almanassa-posthog-link="" data-ph-capture-attribute-link-type="story" data-ph-capture-attribute-link-id="30969" data-ph-capture-attribute-link-title="اللعب بأسعار النفط ليس في صالح ترامب " data-ph-capture-attribute-link-section="اقتصاد وعمران" data-ph-capture-attribute-link-view-mode="read_also" data-sanitized-class="columns small-12 medium-6">
-			<hr data-sanitized-class="embed-divider"><div data-sanitized-class="h3">اقرأ أيضا</div>
-			
-			<div data-sanitized-class="h2">
-				<span>اللعب بأسعار النفط ليس في صالح ترامب </span>
-
-			</div>
-			
-			<hr data-sanitized-class="embed-divider"></a>
-	</div>
-</article></div>
-<p>بشكل عام، قد تسرّع الأزمة الراهنة من تحول نظر بلدان الجنوب العالمي بتجاه الطاقة المتجددة، لتنقل من كونها مجرد قضية مناخية إلى مسألة تتعلق بالصلابة الاقتصادية، واستقرار العملة، والأمن الاستراتيجي الوطني، وهو ما يجعلنا في حاجة ماسة لتجاوز أكبر العقبات المتمثلة، بحسب الخبير، في عدم استقرار الإطار التنظيمي، إذ تغيرت القواعد المنظمة للقطاع مرارًا خلال السنوات الأخيرة، ما خلق حالة من عدم اليقين لدى المستثمرين والأسر التي تدرس استثمارات طويلة الأجل في الطاقة الشمسية.</p>
-						<div data-sanitized-id="topic-file-stories">
-			<div data-sanitized-class="views-element-container">		<div almanassa-posthog-link-source="" data-almanassa-posthog-link-source="Story Topic File Stories List" data-almanassa-posthog-link-source-type="topic_files" data-almanassa-posthog-link-source-id="embed_story_topic_file" data-sanitized-class="js-view-dom-id-6c6c12686f2a210260e98c4dafd9057d6465eac7e06728f80b5ea361a6569e78">
-		
-		
-		
-
-		
-		
-		
-		
-
-		
-		
-		
-
-		
-		
-
-		
-		
-	</div>
-</div>
-
-			</div>
-		</div><!-- FULLCONTENT end //-->]]></description>
-			<pubDate>Sun, 05 Jul 2026 16:02:15 +0300</pubDate>
-			<guid isPermaLink="false">1783256542335632</guid>
 		</item>
 
 	</channel>
