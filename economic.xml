@@ -4,10 +4,313 @@
 		<title>اقتصاد</title>
 		<link>http://192.168.1.50:8081/api/query.php?user=admin&amp;t=4IzCA6HFSoouCSR9nVqNkV&amp;f=html</link>
 		<description>RSS feed of اقتصاد</description>
-		<pubDate>Fri, 10 Jul 2026 02:30:02 +0300</pubDate>
-		<lastBuildDate>Thu, 09 Jul 2026 23:30:02 GMT</lastBuildDate>
+		<pubDate>Fri, 10 Jul 2026 02:35:03 +0300</pubDate>
+		<lastBuildDate>Thu, 09 Jul 2026 23:35:03 GMT</lastBuildDate>
 		<atom:link href="http://192.168.1.50:8081/api/query.php?user=admin&amp;t=4IzCA6HFSoouCSR9nVqNkV&amp;f=rss" rel="self" type="application/rss+xml" />
 				<item>
+			<title>أسعار العملات في مصر</title>
+			<link>https://realegp.com/</link>
+						<description><![CDATA[<table data-sanitized-class="table currencies-table">
+              <thead>
+                <tr data-sanitized-class="thick-border">
+                  <th data-sanitized-class="text-end">العملة</th>
+                  <th>سعر البنك</th>
+                  <th>
+                    <div>سعر السوق</div>
+                    <div data-sanitized-class="range">من - إلى</div>
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/usd">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-us fib"></i>
+                        </div>
+                        <div>دولار أمريكي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">49.56</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">50.58</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">50.23 - 50.83</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/eur">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-eu fib"></i>
+                        </div>
+                        <div>يورو</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">56.66</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">57.83</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">57.43 - 58.12</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/sar">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-sa fib"></i>
+                        </div>
+                        <div>ريال سعودي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">13.11</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">13.38</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">13.29 - 13.45</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/kwd">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-kw fib"></i>
+                        </div>
+                        <div>دينار كويتي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">160.9</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">164.22</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">163.0 - 165.0</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/aed">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-ae fib"></i>
+                        </div>
+                        <div>درهم اماراتي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">13.39</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">13.67</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">13.57 - 13.74</div>
+                  </td>
+                </tr>
+                
+  
+              </tbody>
+            </table>]]></description>
+			<pubDate>Fri, 10 Jul 2026 02:32:10 +0300</pubDate>
+			<guid isPermaLink="false">1783639930040236</guid>
+		</item>
+		<item>
+			<title>أسعار الذهب في مصر</title>
+			<link>https://realegp.com/</link>
+						<description><![CDATA[<table data-sanitized-class="table currencies-table">
+              <thead>
+                <tr data-sanitized-class="thick-border">
+                  <th data-sanitized-class="text-end">الذهب</th>
+                  <th>
+                    <div>متوسط السعر</div>
+                    <div data-sanitized-class="range">من - إلى</div>
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/18k">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <img src="https://realegp.com/static/img/gold.png">
+                        
+                        <div>ذهب عيار 18</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">4993</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">4980 - 5006</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/21k">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <img src="https://realegp.com/static/img/gold.png">
+                        
+                        <div>ذهب عيار 21</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">5825</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">5810 - 5840</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/24k">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <img src="https://realegp.com/static/img/gold.png">
+                        
+                        <div>ذهب عيار 24</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">6657</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">6640 - 6674</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/pound">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <i data-sanitized-class="bi bi-currency-pound"></i>
+                        
+                        <div>جنيه الذهب</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">46600</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">46480 - 46720</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/usdsagha">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <i data-sanitized-class="bi bi-coin"></i>
+                        
+                        <div>دولار الصاغة</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">50.16</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">50.03 - 50.29</div>
+                  </td>
+                </tr>
+                
+  
+              </tbody>
+            </table>]]></description>
+			<pubDate>Fri, 10 Jul 2026 02:32:10 +0300</pubDate>
+			<guid isPermaLink="false">1783639930040235</guid>
+		</item>
+		<item>
 			<title>أسعار العملات في مصر</title>
 			<link>https://realegp.com/</link>
 						<description><![CDATA[<table data-sanitized-class="table currencies-table">
@@ -2446,272 +2749,6 @@
 		</div><!-- FULLCONTENT end //-->]]></description>
 			<pubDate>Thu, 09 Jul 2026 13:02:23 +0300</pubDate>
 			<guid isPermaLink="false">1783591349710382</guid>
-		</item>
-		<item>
-			<title>لماذا ارتفعت تحويلات المصريين خلال الحرب؟</title>
-			<link>https://almanassa.com/stories/32315</link>
-						<dc:creator>هاجر عطية</dc:creator>
-			<media:thumbnail url="https://almanassa.com/sites/default/files/styles/card_lead/public/photobank/2026/958fe62c-1402-40bb-a937-70a56eaabf3a.png.webp?itok=1y-adYnF" />
-			<media:content url="https://almanassa.com/sites/default/files/styles/card_lead/public/photobank/2026/958fe62c-1402-40bb-a937-70a56eaabf3a.png.webp?itok=1y-adYnF" medium="image"></media:content>
-			<description><![CDATA[<!-- FULLCONTENT start //--><div data-sanitized-class="columns small-12 table-scroll">
-							<p dir="rtl">مستوياتٌ قياسية من <a href="https://www.cbe.org.eg/ar/news-publications/news/2026/06/01/11/47/remittances-1-june-2026">الارتفاع</a> سجلتها تحويلات المصريين العاملين بالخارج في مارس/آذار الماضي، وهو الشهر الذي عاش فيه العاملون في الخليج تحت القذائف الإيرانية التي استهدفت المواقع والمصالح الأمريكية ضمن الحرب المتصاعدة بين البلدين.</p>
-
-<p dir="rtl">التحويلات التي كانت تتراوح في 2025 بين 3-4 مليارت دولار وصلت في مارس إلى 5.5 مليار،  وهو ما يرجعه محللون إلى القلق من الحرب الدائرة في الخليج، ويؤكد عليه عاملون في هذه الأسواق قالوا لـ <strong>المنصة</strong> إنهم في أوقات الخطر لا يجدون ملاذًا آمنًا لأموالهم غير حسابات الأسر المقيمة في مصر. </p>
-
-<div data-sanitized-class="embed-media embed-media--rich-flourish"><div><iframe src="https://flo.uri.sh/visualisation/29319218/embed" allowfullscreen="" title="التحويلات شهريًا" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" sandbox="allow-scripts allow-same-origin"></iframe></div></div><aside dir="rtl" data-sanitized-class="caption">رسم من تصميم المنصة يستعرض البيانات الشهرية لتحويلات المصريين العاملين في الخارج</aside><p dir="rtl"> </p>
-
-<h2><strong>كيف نفسِّر الصعود الكبير؟</strong></h2>
-
-<p>تعتبر رئيسة البحوث بشركة برايم لتداول الأوراق المالية، ولاء أحمد، الارتفاع الملحوظ في تحويلات المصريين العاملين بالخارج بمثابة رد فعل لحالة عدم اليقين في دول الخليج خلال تلك الفترة.</p>
-
-<p><a href="https://www.instagram.com/p/DVddeXZjefu/">وتعرضت</a> مواقع خليجية عدة للقصف الإيراني ردًا على الحرب التي شنتها ضدها كل من الولايات المتحدة وإسرائيل منذ نهاية فبراير/شباط الماضي، وبينما كان الهدف الرئيسي هو القواعد الأمريكية طالت النيران الإيرانية <a href="https://www.elwatannews.com/news/details/8246321">منشآت</a> مثل المطارات والمواني الخليجية.</p>
-
-<p>وتسبب القصف الإيراني المستمر في حالةٍ من الذعر بين العاملين في الخليج، خصوصًا مع تعطل حركة الملاحة الجوية، وذلك قبل أن تستعيد الأجواء الخليجية قدرًا من الهدوء مع إعلان <a href="https://www.mc-doualiya.com/%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7/20260609-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%88%D8%B9%D9%88%D8%AF-%D9%85%D8%B1%D8%A9-%D8%AA%D9%83%D8%B1%D8%A7%D8%B1">الهدنة</a> الأمريكية الإيرانية في أبريل/نيسان الماضي، التي <a href="https://www.alarabiya.net/aswaq/travel-and-tourism/2026/05/02/%D8%A7%D9%84%D8%A7%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D8%B9%D9%84%D9%86-%D8%B9%D9%88%D8%AF%D8%A9-%D8%AD%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%AD%D8%A9-%D8%A7%D9%84%D8%AC%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D9%89-%D9%88%D8%B6%D8%B9%D9%87%D8%A7-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A">مهّدت</a> لاحقًا لاستعادة الوتيرة الطبيعية لحركة الملاحة الجوية.</p>
-
-<p dir="rtl">تحسبًا لأيّ تطورات قد تؤثر على الاستقرار الاقتصادي أو المالي في المنطقة، لجأ الكثير من العاملين إلى تحويل مدخراتهم ورواتبهم إلى مصر أولًا بأول،  كما تؤكد ولاء أحمد لـ <strong>المنصة</strong>، بالأخص وأن الخليج السوق الأكبر للعمالة المصرية في الخارج، التي <a href="https://www.facebook.com/cairo24/posts/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D9%84%D9%80-%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9-24-%D9%84%D8%AF%D9%8A%D9%86%D8%A7-5-%D9%85%D9%84%D8%A7%D9%8A%D9%8A%D9%86-%D9%85%D8%B5%D8%B1%D9%8A-%D9%8A%D8%B9%D9%85%D9%84%D9%88%D9%86-%D8%A8%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC-%D9%88%D8%AA%D8%AD%D9%88%D9%8A%D9%84%D8%A7%D8%AA%D9%87%D9%85-%D8%AA%D8%AA%D8%AC%D8%A7%D9%88%D8%B2-25/1975101013258868/">تقدر</a> بنحو خمسة ملايين مواطن.</p>
-
-<div data-sanitized-class="embed-media embed-media--rich-flourish"><div><iframe src="https://flo.uri.sh/visualisation/29334946/embed" allowfullscreen="" title="Untitled Visualization" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" sandbox="allow-scripts allow-same-origin"></iframe></div></div><aside dir="rtl" data-sanitized-class="caption">رسم من تصميم المنصة يستعرض نصيب الدول العربية من إجمالي تراخيص العمل في الخارج الصادرة في 2023</aside><p dir="rtl">تشير ولاء إلى أن ارتفاع سعر الدولار أمام الجنيه خلال مارس الماضي زاد من جاذبية فكرة تحويل الأموال في نظر العاملين في الخارج، وهو الطرح الذي تتفق معه سلمى طه، مديرة البحوث بشركة النعيم للوساطة في الأوراق المالية، وتؤكد لـ <strong>المنصة </strong>أن سياسة سعر الصرف المرن التي تبناها البنك المركزي المصري ساهمت بشكل مباشر في استعادة تدفقات النقد الأجنبي وعدم لجوء المصريين في الخارج لتحويل أموالهم عبر السوق الموازية.</p>
-
-<p dir="rtl">وبلغ سعر صرف الدولار مستويات غير مسبوقة خلال مارس، عندما <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="15f12ed6-0e7d-4d14-a66e-ecb25fcf6f1b" href="https://almanassa.com/news/30603" title="خروج الأموال الساخنة يرفع الدولار فوق 49 جنيهًا.. والذهب يواصل الصعود">تجاوز</a> 54 جنيهًا لأول مرة، متأثرًا بالخروج السريعة للاستثمارات الأجنبية في الدين العام.</p>
-
-<p dir="rtl">بينما تلفت محللة الاقتصاد الكلي بشركة ثاندر لتداول الأوراق المالية، إسراء أحمد، لسبب آخر في زيادة كثافة التحويلات في مارس، مؤكدةً أنها قد تأتي مدفوعةً أيضًا بقلق العاملين على أهلهم في مصر من تداعيات الحرب، التي <a href="https://www.almasryalyoum.com/news/details/4218464">تسببت</a> في رفع أسعار الوقود وغيرها من الضغوط التضخمية.</p>
-
-<h2 dir="rtl"><strong>صدمة غير مسبوقة</strong></h2>
-
-<p dir="rtl">ويشرح أحمد محمد، مصري يعمل بمطار دبي، لـ <strong>المنصة</strong> كيف مر المصريون بفترة من عدم اليقين زادت إحساسهم بالخطر؛ "وقتها لم نكن قادرين على تقدير إن كنا سنستمر في الإقامة أم سنعود لبلادنا، ما شجع على تحويل نسبة أكبر من الأموال لمصر".</p>
-
-<p dir="rtl">يشير أحمد إلى أن ما شجع على الإسراع بالتحويل هو أن وسائل نقل الأموال أصبحت أكثر سهولة بفضل الخدمات الرقمية الجديدة؛ "إلا أن الدافع الأساسي يتمثل في الرغبة في الاحتفاظ بالمدخرات بالقرب من الأسرة وفي بلد الإقامة الدائمة، تحسبًا لأي تطورات قد تؤثر على خطط العمل أو الإقامة خلال الفترة المقبلة".</p>
-
-<p dir="rtl">إضافة للأسباب السابقة، تزامنت الحرب مع إحساس قطاعات كبيرة من العاملين في السعودية بعدم الاستقرار بسبب ضوابط جديدة للعمل، كما يؤكد محمد شعبان، الذي يعمل في هذه السوق، لـ <strong>المنصة</strong>. </p>
-
-<p dir="rtl">وأعلنت <a href="https://bigsolutions-co.com/blog/nihayat-iafaa-almuqabil-almali-almanshaat-alsaghira/a-657650344">الحكومة</a> السعودية أن الإعفاء الذي منحته من الرسوم المفروضة على الموظفين الوافدين عام 2020 سيتوقف العمل به في بداية 2027، ما نقل إحساسًا إلى قطاعات من العاملين بالخطر من إمكانية تسريحهم بسبب ارتفاع التكلفة.</p>
-
-<p dir="rtl">"لو اتطبق القرار احتمال كبير <a href="https://www.daftra.com/hub/%D8%A7%D9%84%D9%85%D8%A4%D8%B3%D8%B3%D8%A9-%D8%A7%D9%84%D9%81%D8%B1%D8%AF%D9%8A%D8%A9">مؤسسات</a> فردية كتير تقفل وتزيد نسبة الضغط على العامل"؛ يقول شعبان، إذ تبلغ قيمة هذه الرسوم 9600 ريال سنويًّا عن كل موظف وافد في الشركات التي تقل فيها نسبة السعودة عن 50%.</p>
-
-<h2 dir="rtl"><strong>فرصة لحماية الجنيه</strong></h2>
-
-<p dir="rtl">لا يتوقع المحللون استمرار هذه الطفرة مع استقرار الأوضاع في الخليج، وهو ما تتجلى مؤشراته في تراجع <a href="https://www.facebook.com/EgyptianCabinet/posts/%D8%A8%D9%8A%D8%A7%D9%86-%D8%B5%D8%A7%D8%AF%D8%B1-%D8%B9%D9%86-%D8%A7%D9%84%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A392-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D8%AD%D8%B5%D9%8A%D9%84%D8%A9-%D8%AA%D8%AD%D9%88%D9%8A%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D9%8A%D9%86-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D9%84%D9%8A%D9%86/1593370502833364/">تحويلات</a> شهر أبريل إلى 4.3 مليار دولار. إلا أنهم يعتبرون أن هذه التجربة تسلط الضوء على دور المصريين في الخارج كحائط صد ضد صدمات الأموال الساخنة.</p>
-
-<p dir="rtl">في الوقت الذي خرج فيه قدر كبير من استثمارات الأجانب في أدوات الدين المصرية ما أدى لخفض الجنيه، كانت التحويلات تتدفق في الاتجاه المعاكس لداخل مصر، ما ساهم في الحد من انخفاض العملة المحلية أمام الدولار.</p>
-
-<p dir="rtl">تؤكد سلمى طه على أن تحويلات المصريين بالخارج ساعدت خلال الفترة الأخيرة في تعزيز المعروض من الدولار داخل الجهاز المصرفي، خاصة في أوقات خروج استثمارات أجنبية من الأسواق الناشئة، وتذهب إسراء أحمد إلى حد القول إنه لولا التحويلات لكان من الممكن أن يصل الجنيه لمستويات أقل من التي بلغها خلال الأزمة بسبب الأموال الساخنة.</p>
-
-<p dir="rtl"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="87c1d322-88a4-46d4-b7cf-734777330348" href="https://almanassa.com/news/32277" title='رغم تداعيات "حرب إيران".. احتياطي النقد الأجنبي يواصل الصعود إلى 53.1 مليار دولار'>وارتفع</a> احتياطي النقد الأجنبي في مايو/أيار الماضي إلى 53.134 مليار دولار، بزيادة إجمالية بلغت نحو 388 مليون دولار منذ فبراير، رغم الضغوط الاقتصادية والتداعيات السلبية التي خلفتها الحرب الأمريكية على إيران في المنطقة.</p>
-
-
-<div data-embed-button="almanassa_story_browser" data-entity-embed-display="view_mode:node.read_also" data-entity-type="node" data-entity-uuid="92ea0020-33f6-4f6b-b46b-6f88d6450829" data-langcode="ar" data-entity-embed-display-settings="[]" data-sanitized-class="embedded-entity">
-	<article data-history-node-id="29941" role="article" about="/stories/29941" data-sanitized-id="node-29941" data-sanitized-class="view-mode--read-also type-story"><div data-sanitized-class="row">
-		<a href="https://almanassa.com/stories/29941" almanassa-posthog-link="" data-ph-capture-attribute-link-type="story" data-ph-capture-attribute-link-id="29941" data-ph-capture-attribute-link-title="الحكومة والمصريون بالخارج.. ذبح الدجاجة التي تبيض ذهبًا " data-ph-capture-attribute-link-section="رؤى" data-ph-capture-attribute-link-view-mode="read_also" data-sanitized-class="columns small-12 medium-6">
-			<hr data-sanitized-class="embed-divider"><div data-sanitized-class="h3">اقرأ أيضا</div>
-			
-			<div data-sanitized-class="h2">
-				<span>الحكومة والمصريون بالخارج.. ذبح الدجاجة التي تبيض ذهبًا </span>
-
-			</div>
-			
-			<hr data-sanitized-class="embed-divider"></a>
-	</div>
-</article></div>
-<p dir="rtl">بعيدًا عن الأزمات، يرى المحللون أن هذه التحويلات مرشحة للعب دور رئيسي في حماية احتياطات البلاد من النقد الأجنبي خلال الفترة المقبلة، وذلك بعد أن نجح البنك المركزي في القضاء على السوق السوداء ما قطع الطريق على تسرب التدفقات خارج القطاع المصرفي.</p>
-						<div data-sanitized-id="topic-file-stories">
-			<div data-sanitized-class="views-element-container">		<div almanassa-posthog-link-source="" data-almanassa-posthog-link-source="Story Topic File Stories List" data-almanassa-posthog-link-source-type="topic_files" data-almanassa-posthog-link-source-id="embed_story_topic_file" data-sanitized-class="js-view-dom-id-3a6053b62b594672193be146fa638b9f542897437adbd6875fa6c78fb82286c8">
-		
-		
-		
-
-		
-		
-		
-		
-
-		
-		
-		
-
-		
-		
-
-		
-		
-	</div>
-</div>
-
-			</div>
-		</div><!-- FULLCONTENT end //-->]]></description>
-			<pubDate>Thu, 09 Jul 2026 13:02:23 +0300</pubDate>
-			<guid isPermaLink="false">1783591349710381</guid>
-		</item>
-		<item>
-			<title>أسعار العملات في مصر</title>
-			<link>https://realegp.com/</link>
-						<description><![CDATA[<table data-sanitized-class="table currencies-table">
-              <thead>
-                <tr data-sanitized-class="thick-border">
-                  <th data-sanitized-class="text-end">العملة</th>
-                  <th>سعر البنك</th>
-                  <th>
-                    <div>سعر السوق</div>
-                    <div data-sanitized-class="range">من - إلى</div>
-                  </th>
-                </tr>
-              </thead>
-              <tbody>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/usd">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-us fib"></i>
-                        </div>
-                        <div>دولار أمريكي</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">49.63</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">50.24</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">49.89 - 50.49</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/eur">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-eu fib"></i>
-                        </div>
-                        <div>يورو</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">56.71</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">57.41</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">57.01 - 57.7</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/sar">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-sa fib"></i>
-                        </div>
-                        <div>ريال سعودي</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">13.13</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">13.29</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">13.2 - 13.36</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/kwd">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-kw fib"></i>
-                        </div>
-                        <div>دينار كويتي</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">161.1</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">163.12</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">161.9 - 163.9</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/aed">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-ae fib"></i>
-                        </div>
-                        <div>درهم اماراتي</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">13.41</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">13.58</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">13.48 - 13.65</div>
-                  </td>
-                </tr>
-                
-  
-              </tbody>
-            </table>]]></description>
-			<pubDate>Thu, 09 Jul 2026 13:02:09 +0300</pubDate>
-			<guid isPermaLink="false">1783591349710380</guid>
 		</item>
 
 	</channel>
