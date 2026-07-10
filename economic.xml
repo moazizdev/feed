@@ -4,10 +4,313 @@
 		<title>اقتصاد</title>
 		<link>http://192.168.1.50:8081/api/query.php?user=admin&amp;t=4IzCA6HFSoouCSR9nVqNkV&amp;f=html</link>
 		<description>RSS feed of اقتصاد</description>
-		<pubDate>Fri, 10 Jul 2026 04:00:03 +0300</pubDate>
-		<lastBuildDate>Fri, 10 Jul 2026 01:00:03 GMT</lastBuildDate>
+		<pubDate>Fri, 10 Jul 2026 04:05:03 +0300</pubDate>
+		<lastBuildDate>Fri, 10 Jul 2026 01:05:03 GMT</lastBuildDate>
 		<atom:link href="http://192.168.1.50:8081/api/query.php?user=admin&amp;t=4IzCA6HFSoouCSR9nVqNkV&amp;f=rss" rel="self" type="application/rss+xml" />
 				<item>
+			<title>أسعار العملات في مصر</title>
+			<link>https://realegp.com/</link>
+						<description><![CDATA[<table data-sanitized-class="table currencies-table">
+              <thead>
+                <tr data-sanitized-class="thick-border">
+                  <th data-sanitized-class="text-end">العملة</th>
+                  <th>سعر البنك</th>
+                  <th>
+                    <div>سعر السوق</div>
+                    <div data-sanitized-class="range">من - إلى</div>
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/usd">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-us fib"></i>
+                        </div>
+                        <div>دولار أمريكي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">49.56</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">50.52</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">50.17 - 50.77</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/eur">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-eu fib"></i>
+                        </div>
+                        <div>يورو</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">56.67</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">57.76</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">57.36 - 58.05</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/sar">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-sa fib"></i>
+                        </div>
+                        <div>ريال سعودي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">13.11</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">13.37</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">13.28 - 13.44</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/kwd">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-kw fib"></i>
+                        </div>
+                        <div>دينار كويتي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">160.9</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">164.03</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">162.8 - 164.8</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/aed">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-ae fib"></i>
+                        </div>
+                        <div>درهم اماراتي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">13.39</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">13.65</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">13.55 - 13.72</div>
+                  </td>
+                </tr>
+                
+  
+              </tbody>
+            </table>]]></description>
+			<pubDate>Fri, 10 Jul 2026 04:02:09 +0300</pubDate>
+			<guid isPermaLink="false">1783645340929573</guid>
+		</item>
+		<item>
+			<title>أسعار الذهب في مصر</title>
+			<link>https://realegp.com/</link>
+						<description><![CDATA[<table data-sanitized-class="table currencies-table">
+              <thead>
+                <tr data-sanitized-class="thick-border">
+                  <th data-sanitized-class="text-end">الذهب</th>
+                  <th>
+                    <div>متوسط السعر</div>
+                    <div data-sanitized-class="range">من - إلى</div>
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/18k">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <img src="https://realegp.com/static/img/gold.png">
+                        
+                        <div>ذهب عيار 18</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">4993</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">4980 - 5006</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/21k">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <img src="https://realegp.com/static/img/gold.png">
+                        
+                        <div>ذهب عيار 21</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">5825</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">5810 - 5840</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/24k">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <img src="https://realegp.com/static/img/gold.png">
+                        
+                        <div>ذهب عيار 24</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">6657</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">6640 - 6674</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/pound">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <i data-sanitized-class="bi bi-currency-pound"></i>
+                        
+                        <div>جنيه الذهب</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">46600</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">46480 - 46720</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/usdsagha">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <i data-sanitized-class="bi bi-coin"></i>
+                        
+                        <div>دولار الصاغة</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">50.15</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">50.03 - 50.28</div>
+                  </td>
+                </tr>
+                
+  
+              </tbody>
+            </table>]]></description>
+			<pubDate>Fri, 10 Jul 2026 04:02:09 +0300</pubDate>
+			<guid isPermaLink="false">1783645340929572</guid>
+		</item>
+		<item>
 			<title>أسعار العملات في مصر</title>
 			<link>https://realegp.com/</link>
 						<description><![CDATA[<table data-sanitized-class="table currencies-table">
@@ -2616,139 +2919,6 @@
             </table>]]></description>
 			<pubDate>Thu, 09 Jul 2026 14:32:10 +0300</pubDate>
 			<guid isPermaLink="false">1783596750191769</guid>
-		</item>
-		<item>
-			<title>أسعار الذهب في مصر ترتفع 50 جنيهًا خلال يومين.. وعيار 21 يسجل 5860 جنيهًا</title>
-			<link>https://market.isagha.com/articles/2320</link>
-						<media:thumbnail url="https://cdn.isagha.net/public/files/N2EULdgtmtzDDCE1VbDhbP5JEFQTbktva49vZjng.jpg" />
-			<media:content url="https://cdn.isagha.net/public/files/N2EULdgtmtzDDCE1VbDhbP5JEFQTbktva49vZjng.jpg" medium="image"></media:content>
-			<description><![CDATA[<div data-sanitized-class="content-article">
-					<p></p><p>ارتفاع أسعار الذهب محليًا بنسبة 0.86% يعكس قوة الطلب واستقرار سوق الذهب في مصر رغم التقلبات العالمية.</p>
-<p>استقرار سعر صرف الدولار واتساع الفجوة السعرية بصورة محدودة يؤكدان توازن سوق الذهب المحلية.</p>
-<p>التوترات الجيوسياسية...</p>
-					<a href="https://market.isagha.com/articles/2320" data-sanitized-class="read-more">تابع القراءة</a>
-				</div>]]></description>
-			<pubDate>Thu, 09 Jul 2026 14:32:08 +0300</pubDate>
-			<guid isPermaLink="false">1783596750191768</guid>
-		</item>
-		<item>
-			<title>الخلاصة| كيف نفهم نظام التموين الجديد؟</title>
-			<link>https://almanassa.com/stories/32765</link>
-						<media:thumbnail url="https://almanassa.com/sites/default/files/styles/lead_image_square/public/photobank/2026/2655463a-dd4b-476c-a1d1-e2b43982773f.png.webp?itok=-xXdC9xK" />
-			<media:content url="https://almanassa.com/sites/default/files/styles/lead_image_square/public/photobank/2026/2655463a-dd4b-476c-a1d1-e2b43982773f.png.webp?itok=-xXdC9xK" medium="image"></media:content>
-			<description><![CDATA[<!-- FULLCONTENT start //--><div data-sanitized-class="columns small-12 table-scroll">
-							<p>قبل بضعة أسابيع، <a href="https://www.facebook.com/reel/1375567787748534">وقف</a> رئيس الوزراء مصطفى مدبولي بملابس صيفية أمام أحد اللانشات خلال <a href="https://www.facebook.com/StateInformationService/posts/-%D9%81%D9%8A-%D8%AE%D8%AA%D8%A7%D9%85-%D8%AC%D9%88%D9%84%D8%A9-%D8%AA%D9%81%D9%82%D8%AF%D9%8A%D8%A9-%D9%85%D9%88%D8%B3%D8%B9%D8%A9-%D8%A8%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9-%D8%A7%D9%84%D8%A8%D8%AD%D9%8A%D8%B1%D8%A9-%D8%B9%D9%82%D8%AF-%D8%A7%D9%84%D8%AF%D9%83%D8%AA%D9%88%D8%B1-%D9%85%D8%B5%D8%B7%D9%81%D9%89-%D9%85%D8%AF%D8%A8%D9%88%D9%84%D9%8A-%D8%B1%D8%A6%D9%8A%D8%B3-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84/1324779233160705/">جولته</a> بمحافظة البحيرة ليتحدث عن مواطنين احتفظوا ببطاقات تموين لمدد تجاوزت الـ30 عامًا وورّثوها أبناءهم دون معرفة مدى استحقاقهم للدعم أو حتى عددهم، مدللًا بذلك على عجز النظام الحالي عن توصيل الدعم لمستحقيه ما يستوجب إدخال تعديلات واسعة عليه.</p>
-
-<p>لم يصمت لمدبولي أمام حالة <a href="https://www.almasryalyoum.com/news/details/4305590">الغضب</a> التي تتسع بعد استبعاد مئات الآلاف من منظومة التموين خلال الأسابيع القليلة الأخيرة، هذا بالإضافة <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="dca6f44f-5ca3-47c8-9e5d-74e0763b1e96" href="https://almanassa.com/news/32613" title='مصدر: تفعيل معايير الحذف من التموين "بشكل حازم" هذا الشهر لاستبعاد مليوني مواطن'>للتسريبات</a> التي تنشرها وسائل الإعلام عن أن ما جرى ما هو إلا تمهيدٌ <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="dca6f44f-5ca3-47c8-9e5d-74e0763b1e96" href="https://almanassa.com/news/32613" title='مصدر: تفعيل معايير الحذف من التموين "بشكل حازم" هذا الشهر لاستبعاد مليوني مواطن'>لحذف </a>ما قد يصل إلى ملايين المواطنين في إعادة هيكلة واسعة لمنظومة التموين، التي يعود عمرها لما يقرب من قرن.</p>
-
-<p>وفق المتاح لدينا من معلومات، فإن الحكومة كانت تتجه لتطبيق نظام الدعم الجديد مع بداية العام المالي الحالي، أي في يوليو/تموز الحالي، لكن وكما قال مصدر في وزارة التموين لـ <strong>المنصة</strong>، فإنه جرى التراجع عن ذلك لصالح تطبيق النظام بشكل تجريبي في محافظة بورسعيد فقط.</p>
-
-<p>ما هي ملامح نظام التموين الجديد، وهل نحن بصدد تطوير للمنظومة أم تقشف في توفير الحماية الاجتماعية والمزيد من التسليع للخدمات العامة؟</p>
-
-<h2>ما الذي يدبرونه للتموين؟</h2>
-
-<p>خلال الأيام الماضية تكررت بوستات على السوشيال ميديا يعبر فيها مواطنون عن صدمتهم بعدما اكتشفوا بالصدفة وقفَ بطاقاتهم التموينية وحذفهم من قوائم التموين، وتساءل كثيرون منهم عن أسباب الحذف.</p>
-
-<p>في تصريحاتها الرسمية، أقرت وزارة التموين بأنها <a href="https://www.almasryalyoum.com/news/details/4310400">استبعدت </a>حتى نهاية يونيو/حزيران الماضي 850 ألف مواطن، لكنها أرادت أن يبدو ذلك إجراءً روتينيًّا، إذ روجت لأن <a href="https://www.parlmany.com/News/7/607734/6-%D8%A3%D8%B3%D8%A8%D8%A7%D8%A8-%D9%84%D8%A5%D9%8A%D9%82%D8%A7%D9%81-%D8%A8%D8%B7%D8%A7%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D9%85%D9%88%D9%8A%D9%86-%D8%AE%D9%84%D8%A7%D9%84-%D8%B4%D9%87%D8%B1-%D9%8A%D9%88%D9%86%D9%8A%D9%88-%D8%A7%D8%B9%D8%B1%D9%81-%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84">الاستبعاد</a> استند إلى معايير تعتمدها مثل امتلاك سيارة فاخرة أو أكثر من 10 أفدنة.</p>
-
-<p>إلى جانب التصريحات الرسمية التي حاولت تهدئة الرأي العام، أُسندت <a href="https://www.masrawy.com/news/news_egypt/details/2026/6/10/3000373/%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9-%D9%85%D9%86-%D9%8A%D9%88%D9%84%D9%8A%D9%88-%D8%A7%D9%84%D8%AA%D9%85%D9%88%D9%8A%D9%86-%D8%AA%D8%B3%D8%AA%D8%B9%D8%AF-%D9%84%D8%AD%D8%B0%D9%81-%D8%A8%D8%B7%D8%A7%D9%82%D8%A7%D8%AA-%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D9%85%D8%B1%D8%AA%D9%81%D8%B9%D8%A9-24-%D8%A3%D9%84%D9%81-%D8%A7-%D9%81%D8%A3%D9%83%D8%AB%D8%B1-">تصريحات</a> أخرى لمسؤولين مُجهلين تحدثوا للصحافة بأن وزارة التموين تطبق شرطًا جديدًا يتعلق باستبعاد من يزيد دخله الشهري عن 24 ألف جنيه، وأن هذا هو السبب الرئيسي في محو نحو مليون مواطن من منظومة الدعم التمويني خلال أسابيع قليلة.</p>
-
-<p>استمر الجدل حتى حسمه وزير التمو<strong>ي</strong>ن و<a href="https://www.almasryalyoum.com/news/details/4294793">خرج </a>يتحدث في منتصف يونيو الماضي عن ملامح تغييرات واسعة في منظومة التموين، ربما أكثر عناوينها صدمةً هو رفع سعر الخبز في المنظومة الجديدة من 20 قرشًا حاليًا إلى جنيه ونصف الجنيه.</p>
-
-<p>يلخص عضو باللجنة الوزارية التي تشكّلت هذا العام لإعادة هيكلة الدعم، والذي طلب عدم نشر اسمه،<strong> </strong>أبرز ملامح النظام الجديد في أن "الدولة لن تحدد سعر السلعة، وإنما ستحدد فقط قيمة الدعم الذي يستحقه المواطن، لتباع السلع بأسعارها الحرة وفقًا لحركة السوق". </p>
-
-<blockquote>
-<p>يروّج وزير التموين للنظام الجديد باعتباره بديلًا صحيًّا للتغذية</p>
-</blockquote>
-
-<p>في حين يعتمد النظام التمويني الحالي على منح المواطنين المستحقين للدعم 50 جنيهًا شهريًّا للفرد لشراء سلع تموينية مسعرة مسبقًا، بالإضافة إلى الخبز المدعم من منافذ وزارة التموين، فإن النظام الجديد سيحافظ على الدعم بشكله الحالي، لكنه سيرفع قيمته النقدية مع منح المنافذ التموينية حرية تسعير السلع بأسعار تتماشي مع اتجاهات السوق.</p>
-
-<p>"مع تطبيق النظام الجديد ستقتصر الحماية على قيمة الدعم فقط، في حين ستتحرك أسعار السلع وفقًا للعرض والطلب وتكاليف الإنتاج والاستيراد"؛ يشرح المصدر لـ <strong>المنصة</strong>، مؤكدًا على أن الهدف من هذا التغيير هو الحد من عمليات بيع السلع المدعمة بالأسعار الحرة، أو ما يُعرف بالسوق السوداء، إلى جانب التصدي لأي من أشكال الهدر الأخرى مثل استخدام الخبز المدعم في إطعام الطيور وغيرها.</p>
-
-<p>النقطة الأخيرة تحديدًا شدد عليها وزير التموين في تبريره خلال <a href="https://www.youtube.com/watch?v=0JL8BGxoSbs">حوار</a> تليفزيوني عن التغييرات المرتقبة، إذ قدر أشكال الهدر المختلفة بنحو 35 مليار جنيه من إجمالي موازنة الدعم تقدر هذا العام بنحو 178.3 مليار جنيه.</p>
-
-<p>ادعى الوزير كذلك أن النظام الجديد في مصلحة أصحاب البطاقات، فصاحب البطاقة الذي لا يستهلك الأرغفة المستحقة له كان <a href="https://www.facebook.com/watch/?v=1629957535407344">يحصل</a> في المقابل على نقاط خبز بقيمة 10 قروش للرغيف، بينما تحت النظام الجديد النقطة بجنيه ونصف.</p>
-
-<p>كما <a href="https://www.facebook.com/cairo24/posts/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AA%D9%85%D9%88%D9%8A%D9%86-%D8%B9%D8%A7%D9%85%D9%84%D9%8A%D9%86-%D8%B3%D9%84%D8%A9-%D8%BA%D8%B0%D8%A7%D8%A6%D9%8A%D8%A9-%D8%B5%D8%AD%D9%8A%D8%A9-%D9%86%D9%86%D8%B5%D8%AD-%D8%A8%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85%D9%87%D8%A7-%D9%81%D9%8A%D9%87%D8%A7-%D8%A8%D9%8A%D8%B6-%D9%88%D8%B3%D9%85%D9%86-%D9%88%D9%81%D8%B1%D8%AE%D8%A9-%D8%A3%D9%88-%D8%A8%D8%B1%D9%88%D8%AA%D9%8A/2022174125218223/?locale=ar_AR">روَّج</a> للنظام الجديد باعتباره بديلًا صحيًّا للتغذية، فالنظام الحالي يشجع على استهلاك كبير للخبز، بينما الجديد سيشمل سلعًا لم تكن متوفرةً من قبل مثل البيض والسمن والدجاج وغيرها جرى اختيارها على أساس تحقيق توازن غذائي للأسر المستفيدة من البطاقة.</p>
-
-<h2>من يحصل على الدعم؟</h2>
-
-<p>واحد من العوامل المثيرة للجدل هو معايير الاستحقاق الجديدة، بالأخص معيار الدخل، الذي يرى خبراء أن الحكومة لا تمتلك البيانات الكافية التي تؤهلها للاعتماد عليه، ما قد يسبب استبعادات واسعة للكثير من مستحقي الدعم.</p>
-
-<p>تتساءل أستاذة الاقتصاد والمساعد السابق لوزير المالية، شيرين الشواربي، عن الكيفية التي ستحذف بها الأسر التي يزيد دخلها عن 24 ألف جنيه من منظومة الدعم الجديدة، خصوصًا وأن الحكومة لديها معرفة فقط بدخول العاملين في القطاع الحكومي، وليست لديها معلومات أو دراية بدخول العاملين في القطاع الخاص سواء الرسمي أو غير الرسمي؟</p>
-
-<p>إلى جانب الدخل، ترى شيرين الشواربي في تصريح لـ <strong>المنصة</strong> أن بعض المعايير الأخرى لا تراعي الضغوط المعيشية التي يواجهها المواطنون في الوقت الراهن، وتشير  بالأخص إلى شرط امتلاك سيارة يصل سعرها إلى مليون جنيه؛ "معظم هؤلاء المواطنين يمتلكون سيارات فاخرة بالفعل، لكن تم شراؤها بنظام التقسيط من أجل العمل بها في تطبيقات النقل الذكي كمحاولة لزيادة الدخول والتصدي لضغوط الحياة اليومية، كما أن مليون جنيه ليس بالرقم الكبير في سوق السيارات الآن".</p>
-
-<p>لا تتوقف الأسئلة فيما يخص معايير الاستبعاد عند ذلك، بل يكشف مسؤول حكومي سابق مطلع على مناقشات تعديل نظام التموين أن الحكومة التفت إلى عدد من المشكلات التي يمكن أن تنتج عن عمليات الاستبعاد، ما دفعها لدراسة تطبيق نظام جديد للتقييم.</p>
-
-<p>يشرح المصدر، الذي طلب عدم نشر اسمه، لـ <strong>المنصة</strong> أن عمليات تنقية البطاقات ستعتمد على "مجموع نقاط للاستحقاق، بحيث لا يؤدي ارتفاع أحد المؤشرات وحده إلى الاستبعاد تلقائيًا، وإنما تقيَّم الحالة الاقتصادية للأسرة بصورة متكاملة، وهو ما يمنح مرونة أكبر ويقلل احتمالات استبعاد أسر مستحقة بسبب الاعتماد على مؤشر منفرد".</p>
-
-<h2>ما قيمة الدعم النقدي؟</h2>
-
-<p>حتى الآن يرفض وزير التموين تحديدَ مبلغ الدعم التمويني الجديد، ويقول إنه لا يزال خاضعًا للدراسة، لكن ما سُرّب للصحافة أنه <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="89091b8d-ca56-4acc-9e4c-27a4fb6502a0" href="https://almanassa.com/news/32299" title="مصدر: دعم التموين سيتراوح بين 200 و300 جنيه للفرد بعد تحرير أسعار السلع">سيرتفع</a> من 50 جنيهًا للفرد حاليًا إلى 300 جنيه لكي يغطي الأسعار شبه المحررة للسلع التموينية.</p>
-
-<p>لا يحدد الوزير أيضًا هامش الارتفاع المحتمل في أسعار السلع التموينية، لكنه يشير بشكلٍ متكررٍ إلى أن هذه السلع مدعمةٌ بشكل كبير في الوقت الراهن؛ <a href="https://www.facebook.com/capitalnewseg/posts/-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AA%D9%85%D9%88%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B7%D9%86-%D9%8A%D8%AD%D8%B5%D9%84-%D8%B9%D9%84%D9%89-%D8%B2%D8%AC%D8%A7%D8%AC%D8%A9-%D8%B2%D9%8A%D8%AA-%D9%88%D9%83%D9%8A%D9%84%D9%88-%D8%B3%D9%83%D8%B1-%D9%88%D9%85%D9%83%D8%B1%D9%88%D9%86%D8%A9-%D8%A8%D8%B3%D8%B9%D8%B1-50-%D8%AC%D9%86%D9%8A%D9%87%D9%8B%D8%A7-%D8%A8%D8%AF%D9%84%D8%A7-%D9%85/970723011832286/?locale=bn_IN">يقول</a> مثلًا إن الخمسين جنيهًا تكفي لشراء زجاجة زيت وكيلو سكر وكيس مكرونة يتجاوز سعرها الحر 100 جنيه، <a href="https://www.facebook.com/AmwalBank/posts/%D9%81%D9%8A-%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%AF%D8%B9%D9%85-%D8%A7%D9%84%D9%86%D9%82%D8%AF%D9%8A-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF-%D9%87%D8%AA%D8%B4%D8%AA%D8%B1%D9%8A-%D9%83%D9%8A%D9%84%D9%88-%D8%A7%D9%84%D8%B3%D9%83%D8%B1-%D8%A8%D9%8028-%D8%AC%D9%86%D9%8A%D9%87-%D8%A8%D8%AF%D9%84%D8%A7-%D9%85%D9%86-125-%D8%AC%D9%86%D9%8A%D9%87-%D8%AD%D8%A7%D9%84%D9%8A%D8%A7-%D8%AF/991521496975736/">ويقارن</a> أيضًا بين سعر كيلو السكر المدعم 12.5 جنيه وسعره الحر 28 جنيهًا.</p>
-
-<p>ويكشف المسؤول السابق أنه لم يجر بعد حسم الأسعار الجديدة للسلع التموينية، لكن الحكومة ترغب في الموازنة بين تقريب السعر من مستويات السوق، وفي الوقت نفسه عدم إحداث قفزات كبيرة في تكلفة السلعة على مستحقي التموين.</p>
-
-<p>وبينما ترى عالية المهدي، العميدة السابقة لكلية الاقتصاد والعلوم السياسية بجامعة القاهرة، في الدعم النقدي أداةً لحماية المواطن، فإنها تحذر بالمقابل من أنه قد يصبح بدون قيمة في ظل الارتفاع الجنوني للأسعار.</p>
-
-<p>"بفرض أن أسرة حصلت على دعم نقدي بقيمة 1200 جنيه فهي ستحتاج إلى 900 جنيه لتغطية تكلفة الخبز الجديدة فقط، فهل يكفي ما تبقى من المبلغ لتغطية باقي احتياجاتها الغذائية؟"؛ تقول عالية لـ <strong>المنصة</strong>.</p>
-
-<p><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="30498404-6356-4149-975e-65d1e536d7f6" href="https://almanassa.com/stories/20352" title="تضخم 100% خلال عامين.. هل زادت دخولنا بنفس المعدل؟">وعانى</a> المصريون من ارتفاع معدلات التضخم إلى مستويات غير مسبوقة خلال السنوات الخمس الماضية، مع تتابع الانخفاضات القوية لقيمة العملة المحلية أمام الدولار، وأعادت <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="7c4c54f7-4044-4379-9071-2c0f53567ea2" href="https://almanassa.com/news/31273" title="بسبب الوقود والدولار.. التضخم السنوي يقفز إلى 13.5% في مارس">الحرب</a> الأمريكية على إيران تحفيز وتيرة التضخم في ظل ما تسببت فيه من ارتفاع تكاليف الطاقة وارتفاع سعر صرف العملة الأمريكية.</p>
-
-<p>لذلك تشير شيرين الشواربي إلى خطورة ثبات قيمة الدعم النقدي مقابل التضخم، كما جرى في السنوات الأخيرة، حيث رُفعت قيمة الدعم إلى 50 جنيهًا في 2017 واستمر عند مستواه هذا العام؛ "الأزمة تتمثل في تآكل قيمة الدعم بسبب التضخم المرتفع وزيادة الأسعار من وقت لآخر بشكل كبير".</p>
-
-<h2>نظام تمويني جديد</h2>
-
-<p>ترى الباحثة في المبادرة المصرية للحقوق الشخصية سلمى حسين، أن النظام الحالي للدعم يحتاج للإصلاح، وتُوصي بتطبيق إصلاحات تستهدف بالأساس الحماية الاجتماعية وليس مجرد تحقيق وفر مالي للحكومة.</p>
-
-<p>تضرب مثلًا بالخبز، فمن الممكن تحرير سعر القمح والدقيق لكل من المطاحن والمخابز، وذلك ضمانًا لعدم تهريب السلع المدعمة وهدر الموارد، لكن في المقابل يجب أن يظل سعر الرغيف النهائي للمستهلك ثابتًا لضمان توفير الحماية الاجتماعية له.</p>
-
-<p>"لا حاجة لرفع سعر الرغيف بدعوى إيصال الدعم لمستحقيه، فمن يقف في طابور العيش هو بالتأكيد مستحق للدعم" تقول سلمى لـ<strong> المنصة</strong>، وتشير إلى ضرورة إدراج سلع جديدة ضمن نظام التموين، أبرزها أنابيب البوتاجاز، فهي تقدم بسعر مدعم في الوقت الحالي ولكن عن طريق وزارة البترول التي لا تتمتع بنفس خبرة "التموين" في إيصال الدعم لمستحقيه، فعلى سبيل المثال توجه نسبة كبيرة من الأنابيب للمطاعم السياحية، التي تحصل عليها بنفس السعر المدعم.</p>
-
-
-<div data-embed-button="almanassa_story_browser" data-entity-embed-display="view_mode:node.read_also" data-entity-type="node" data-entity-uuid="dc73ff3e-c825-4b16-8736-811602a95ceb" data-langcode="ar" data-entity-embed-display-settings="[]" data-sanitized-class="embedded-entity">
-	<article data-history-node-id="30875" role="article" about="/stories/30875" data-sanitized-id="node-30875" data-sanitized-class="view-mode--read-also type-story"><div data-sanitized-class="row">
-		<a href="https://almanassa.com/stories/30875" almanassa-posthog-link="" data-ph-capture-attribute-link-type="story" data-ph-capture-attribute-link-id="30875" data-ph-capture-attribute-link-title='لا نواية لتسند الزير.. فقراء مستبعدون عشوائيًّا من "منحة التموين"' data-ph-capture-attribute-link-section="اقتصاد وعمران" data-ph-capture-attribute-link-view-mode="read_also" data-sanitized-class="columns small-12 medium-6">
-			<hr data-sanitized-class="embed-divider"><div data-sanitized-class="h3">اقرأ أيضا</div>
-			
-			<div data-sanitized-class="h2">
-				<span>لا نواية لتسند الزير.. فقراء مستبعدون عشوائيًّا من "منحة التموين"</span>
-
-			</div>
-			
-			<hr data-sanitized-class="embed-divider"></a>
-	</div>
-</article></div>
-<p>وعن معايير الاستحقاق، توصي سلمى بضرورة ألا يقتصر الأمر على طرد غير المستحقين من المنظومة لكن أيضًا التأكد من توافر آليات للشكوى تضمن الإنصاف للمواطن المستحق، كذلك تيسير دخول مواليد جدد لمنظومة الدعم وعدم غلق المنظومة في وجه الأجيال الجديدة لفترات طويلة في ظل احتياجهم لهذا الشكل من الحماية الاجتماعية.</p>
-						<div data-sanitized-id="topic-file-stories">
-			<div data-sanitized-class="views-element-container">		<div almanassa-posthog-link-source="" data-almanassa-posthog-link-source="Story Topic File Stories List" data-almanassa-posthog-link-source-type="topic_files" data-almanassa-posthog-link-source-id="embed_story_topic_file" data-sanitized-class="js-view-dom-id-e64a77ac05a95794eeda90e082656a2193d99cea5d51625b75db15fd65863d52">
-		
-		
-		
-
-		
-		
-		
-		
-
-		
-		
-		
-
-		
-		
-
-		
-		
-	</div>
-</div>
-
-			</div>
-		</div><!-- FULLCONTENT end //-->]]></description>
-			<pubDate>Thu, 09 Jul 2026 13:02:23 +0300</pubDate>
-			<guid isPermaLink="false">1783591349710382</guid>
 		</item>
 
 	</channel>
