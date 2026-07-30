@@ -4,10 +4,313 @@
 		<title>اقتصاد</title>
 		<link>http://192.168.1.50:8081/api/query.php?user=admin&amp;t=4IzCA6HFSoouCSR9nVqNkV&amp;f=html</link>
 		<description>RSS feed of اقتصاد</description>
-		<pubDate>Thu, 30 Jul 2026 05:00:02 +0300</pubDate>
-		<lastBuildDate>Thu, 30 Jul 2026 02:00:02 GMT</lastBuildDate>
+		<pubDate>Thu, 30 Jul 2026 05:05:02 +0300</pubDate>
+		<lastBuildDate>Thu, 30 Jul 2026 02:05:02 GMT</lastBuildDate>
 		<atom:link href="http://192.168.1.50:8081/api/query.php?user=admin&amp;t=4IzCA6HFSoouCSR9nVqNkV&amp;f=rss" rel="self" type="application/rss+xml" />
 				<item>
+			<title>أسعار العملات في مصر</title>
+			<link>https://realegp.com/</link>
+						<description><![CDATA[<table data-sanitized-class="table currencies-table">
+              <thead>
+                <tr data-sanitized-class="thick-border">
+                  <th data-sanitized-class="text-end">العملة</th>
+                  <th>سعر البنك</th>
+                  <th>
+                    <div>سعر السوق</div>
+                    <div data-sanitized-class="range">من - إلى</div>
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/usd">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-us fib"></i>
+                        </div>
+                        <div>دولار أمريكي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">50.62</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">51.3</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">50.94 - 51.56</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/eur">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-eu fib"></i>
+                        </div>
+                        <div>يورو</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">57.98</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">58.76</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">58.35 - 59.05</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/sar">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-sa fib"></i>
+                        </div>
+                        <div>ريال سعودي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">13.39</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">13.57</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">13.48 - 13.64</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/kwd">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-kw fib"></i>
+                        </div>
+                        <div>دينار كويتي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">164.3</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">166.56</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">165.3 - 167.3</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/aed">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-ae fib"></i>
+                        </div>
+                        <div>درهم اماراتي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">13.68</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">13.86</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">13.76 - 13.93</div>
+                  </td>
+                </tr>
+                
+  
+              </tbody>
+            </table>]]></description>
+			<pubDate>Thu, 30 Jul 2026 05:02:09 +0300</pubDate>
+			<guid isPermaLink="false">1785376929729830</guid>
+		</item>
+		<item>
+			<title>أسعار الذهب في مصر</title>
+			<link>https://realegp.com/</link>
+						<description><![CDATA[<table data-sanitized-class="table currencies-table">
+              <thead>
+                <tr data-sanitized-class="thick-border">
+                  <th data-sanitized-class="text-end">الذهب</th>
+                  <th>
+                    <div>متوسط السعر</div>
+                    <div data-sanitized-class="range">من - إلى</div>
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/18k">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <img src="https://realegp.com/static/img/gold.png">
+                        
+                        <div>ذهب عيار 18</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">5031</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">5018 - 5044</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/21k">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <img src="https://realegp.com/static/img/gold.png">
+                        
+                        <div>ذهب عيار 21</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">5870</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">5855 - 5885</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/24k">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <img src="https://realegp.com/static/img/gold.png">
+                        
+                        <div>ذهب عيار 24</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">6709</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">6692 - 6726</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/pound">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <i data-sanitized-class="bi bi-currency-pound"></i>
+                        
+                        <div>جنيه الذهب</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">46960</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">46840 - 47080</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/usdsagha">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <i data-sanitized-class="bi bi-coin"></i>
+                        
+                        <div>دولار الصاغة</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">51.18</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">51.06 - 51.31</div>
+                  </td>
+                </tr>
+                
+  
+              </tbody>
+            </table>]]></description>
+			<pubDate>Thu, 30 Jul 2026 05:02:09 +0300</pubDate>
+			<guid isPermaLink="false">1785376929729829</guid>
+		</item>
+		<item>
 			<title>أسعار العملات في مصر</title>
 			<link>https://realegp.com/</link>
 						<description><![CDATA[<table data-sanitized-class="table currencies-table">
@@ -2335,120 +2638,6 @@
             </table>]]></description>
 			<pubDate>Wed, 29 Jul 2026 17:02:08 +0300</pubDate>
 			<guid isPermaLink="false">1785333740138454</guid>
-		</item>
-		<item>
-			<title>الجنيه الذهب يتراجع إلى أقل من 47 ألف جنيه.. وعيار 21 يسجل 5865 جنيهًا والأوقية العالمية تستقر عند 4033 دولارًا</title>
-			<link>https://market.isagha.com/articles/2351</link>
-						<media:thumbnail url="https://cdn.isagha.net/public/files/W5O4oF3xq9ih31KL6wGWI9CiABwCtBMGa2xf9LGr.jpg" />
-			<media:content url="https://cdn.isagha.net/public/files/W5O4oF3xq9ih31KL6wGWI9CiABwCtBMGa2xf9LGr.jpg" medium="image"></media:content>
-			<description><![CDATA[<div data-sanitized-class="content-article">
-					<p></p><p>التوترات الجيوسياسية تواصل دعم أسعار الذهب.. لكن توقعات الفائدة الأمريكية تحد من انطلاق موجة صعود جديدة.</p>
-<p>تراجع الذهب بنسبة 0.17% لا يعكس ضعف السوق، وإنما يعبر عن حالة ترقب لقرار مجلس الاحتياطي الفيدرالي الأمريكي بشأن...</p>
-					<a href="https://market.isagha.com/articles/2351" data-sanitized-class="read-more">تابع القراءة</a>
-				</div>]]></description>
-			<pubDate>Wed, 29 Jul 2026 15:32:42 +0300</pubDate>
-			<guid isPermaLink="false">1785328362967049</guid>
-		</item>
-		<item>
-			<title>أثرياء مصر فقراء العالم</title>
-			<link>https://almanassa.com/stories/33127</link>
-						<media:thumbnail url="https://almanassa.com/sites/default/files/styles/lead_image_square/public/photobank/2026/a9c1e05d-2118-4f92-97f6-d93ef924c0ad.jpg.webp?itok=AsTifpdk" />
-			<media:content url="https://almanassa.com/sites/default/files/styles/lead_image_square/public/photobank/2026/a9c1e05d-2118-4f92-97f6-d93ef924c0ad.jpg.webp?itok=AsTifpdk" medium="image"></media:content>
-			<description><![CDATA[<!-- FULLCONTENT start //--><div data-sanitized-class="columns small-12 table-scroll">
-							<p>في 2019 زرت العاصمة الأرجنتينية بوينوس آيرس. مدينة رائعة الجمال كثيفة الأشجار. ميادين واسعة ومبانٍ أوروبية كلاسيكية. يمر <a href="https://www.britannica.com/place/Rio-de-la-Plata">نهر لابلاتا</a> الشهير حذاء المدينة، لا يخترقها، لا تظهر ضفافه في أغلب الأماكن للمارة والسائرين أو تؤثر في تفاصيل حياتهم اليومية، كحال المصريين مع نهر النيل.</p>
-
-<p>لهذا السبب لم تتحول المناطق المطلة على "لاباتا" إلى مناطق سياحية، ربما باستثناء منطقة بويرتو ماديرو، التي تطل منها أبراجٌ شاهقة ترى منها مجرى النهر الشاسع.</p>
-
-<p>ما أدهشني وأنا أتجول في هذه المنطقة لأول مرة، أن غالب الأبراج السكنية بدت خالية من أي علامات على الحياة أو وجود سكان، اللهم بعض أفراد الأمن القابعين على المداخل! فسألت صديقي الذي قادني إلى هذا الجزء من المدينة عن السبب، ليخبرني بأن سكّان هذه الأبراج في الغالب أجانب يأتون لزيارة المدينة أيامًا معدودة في السنة، إذا أتوا أصلًا. </p>
-
-<p>أُنشأت هذه الأبراج ضمن مخطط لإعادة تخطيط لبويرتو ماديرو. وهي لا تستهدف أبناء العاصمة الأرجنتينية بقدر ما تستهدف الأجانب الذين يأتون لزيارة المدينة أيامًا معدودة من السنة أو لا يأتون مطلقًا، فيما <a href="https://www.shorouknews.com/columns/view.aspx?cdate=25122023&amp;id=c3b0d15b-df41-4b4a-98fe-b3b51ba6c318">يُعرف لدينا</a> بتصدير العقار، وذلك بالنظر إلى أن الوحدات العقارية بها هي <a href="https://bric-group.com/article/the-most-expensive-real-estate-in-latin-america">الأعلى سعرًا</a> في المدينة، وربما ضمن الأعلى عالميًّا.</p>
-
-<p>لم تخلُ ثرثرة الأرجنتينيين بالطبع من حديث عن طبيعة مشتري تلك الوحدات الفاخرة، الذين قلما يظهرون في المدينة لأن غرضهم الاستثمار لا السُكنى. البعض يقول إنهم من أمراء الحرب في الشرق الأوسط، والبعض الآخر يتحدث عن أعضاء في المافيا الروسية، بينما يذهب فريق ثالث إلى أن الطلب يأتي من بارونات المخدرات من البرازيل وفنزويلا وبيرو.</p>
-
-<p>بغض النظر عن دقة هذه المعلومات، فإن حال المنطقة الصغيرة يعكس واحدًا من نماذج لعنة تسليع السواحل والهوس بتصدير العقار، التي إن أصابت الأرجنتين بشكل عارض، فإنها في مصر باتت مرضًا متأصلًا.</p>
-
-<p>هي قضية تعود إلينا في كل صيف، مع موجة الهجرة إلى الساحل الشمالي. ربما الجديد في الأمر أن تداعيات سياسات "تصدير العقار" تفاقمت حتى أصابت الشرائح الغنية من المصريين. هذا ما يمكن استنتاجه من متابعة الجدال الأخير حول طريقة إدارة منتجع <a href="https://www.facebook.com/reel/1722676725443094">مراسي</a> في سيدي عبد الرحمن. </p>
-
-<p>فما الذي تقوله التجربة العالمية عن مستقبل الساحل الشمالي؟ وهل تفوق مزايا تصدير العقار أضراره أم العكس؟</p>
-
-<h2>سيناريوهات تصدير العقار في مصر </h2>
-
-<figure role="group" data-sanitized-class="align-left"><div data-embed-button="almanassa_media_browser" data-entity-embed-display="view_mode:media.embed" data-entity-type="media" data-entity-uuid="972c45d4-b6ba-41c5-b828-0b8a36f1aa2a" data-langcode="ar" data-entity-embed-display-settings="[]" data-sanitized-class="embedded-entity">
-	    <picture><source media="all and (min-width: 1440px)" type="image/webp"><source media="all and (min-width: 641px)" type="image/webp"><source type="image/webp"><img src="https://almanassa.com/sites/default/files/styles/max_650x650/public/photobank/2026/972c45d4-b6ba-41c5-b828-0b8a36f1aa2a.jpg.webp?itok=m3_DqTv4" alt="" typeof="foaf:Image"></picture><aside data-sanitized-class="media--management-links"><ul></ul></aside><aside data-sanitized-class="caption credits">برخصة المشاع الإبداعي: ويكبيديا</aside></div>
-<figcaption>منطقة بوريتو ماديرو في العاصمة الأرجنتينية بوينس آيرس، 2018</figcaption></figure><p>اللافت في ترند مراسي الذي سيطر على السوشيال ميديا مؤخرًا، أن الشكوى فيه قادمةٌ من فئات لديها قدر من النفوذ، ولا تمانع مبدأ تسليع الشواطئ وفرض رسوم مرتفعة على السياحة الساحلية لقدرتها على الاستهلاك.</p>
-
-<p>لكن حتى أبناء هذه الطبقة <a href="https://www.facebook.com/watch/?v=28404389432486980">صُدموا</a> بتسعيرٍ عالٍ لخدمات داخل الشاطئ، ما حوَّل أمرًا بسيط مثل نزول البحر؛ إلى عبءٍ ماديٍّ مرهقٍ حتى بالنسبة لمستويات دخولهم المرتفعة.</p>
-
-<p>تعكس هذه الواقعة طبيعة ما ينتظرنا مع المضي قدمًا في سياسة تصدير العقار، من سيناريوهات عدة ستحوّل كلها الساحل الشمالي لمنتجع يستهدف الأجانب، بشكل أساسي، بالتالي ستُستبعد منه العديد من الشرائح، بما فيها أغنياء القوم.</p>
-
-<p>طغى هدف <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="9f6fd97b-e57c-4d49-9c86-91e7637a2561" href="https://almanassa.com/stories/13693" title="خرافة تصدير العقار">تصدير العقار </a>على الخطاب الحكومي قبل بضع سنوات، وصولًا إلى تأسيس <a href="https://www.youm7.com/story/2026/7/13/%D9%83%D9%8A%D9%81-%D8%AA%D8%B3%D8%AA%D8%B9%D8%AF-%D9%85%D8%B5%D8%B1-%D9%84%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D9%85%D9%86%D8%B5%D8%A9-%D8%AA%D8%B5%D8%AF%D9%8A%D8%B1-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1-%D8%A7%D8%B9%D8%B1%D9%81-%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/7479210">منصة </a>لتسهيل عمليات التسويق للأجانب ضمن استراتيجية وطنية. وليس بخافٍ أن <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="23af2451-13a8-4d4f-b8e5-9f890582497a" href="https://almanassa.com/news-bulletin/32960" title="مقترح صفقة أكبر من رأس الحكمة">صفقة</a> رأس الحكمة خطوةٌ عملاقةٌ في هذا الاتجاه، إذ إن تسويق الوحدات العقارية للأجانب كان في صلب <a href="https://www.rasel-hekma.com/">المشروع </a>الذي يقوده المطور العقاري؛ شركة أبو ظبي التنموية القابضة.</p>
-
-<p>هذا يعني أنه آجلًا أو عاجلًا ستؤول بعض الوحدات المباعة في الساحل الشمالي إلى ملاك أجانب انطلاقًا من قاعدة الزبائن في الإمارات، التي حتمًا لن تقتصر على أبناء البلد الشقيق (وهم <a href="https://www.ft.com/content/72b46543-41d7-4442-971e-c32684e36237">يمثلون</a> بالكاد 10% من إجمالي السكان هناك على أي حال)، بل ستمتد لتشمل جنسيات شتى من العالم بأسره تيمنًا بنموذج دبي، التي <a href="https://taxobservatory.world/publication/foreign-investment-in-the-dubai-housing-market-2020-2024/">قدّرت</a> دراسةٌ صدرت مؤخرًا أن 43% من إجمالي قيمة الوحدات العقارية مملوكة لأجانب، 68% منهم لا يقيمون في المدينة أصلًا.</p>
-
-<div data-sanitized-class="embed-media embed-media--video-youtube"><div><iframe src="https://www.youtube.com/embed/xDsuKWYFJcA?rel=0&amp;start=716" allowfullscreen="" scrolling="no" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" title="الحكاية | عمرو أديب: من يملك البحر في مصر ؟ ومين ليه الحق ينزل البحر ومين لأ؟" sandbox="allow-scripts allow-same-origin"></iframe></div></div><aside data-sanitized-class="caption">حلقة من برنامج الإعلامي عمرو أديب تتناول الجدال الدائر حول شروط الخدمات الشاطئية في الساحل الشمالي</aside><hr><h2>طرد الأغنياء </h2>
-
-<p>سيكون من حسن طالع عوام الأغنياء المصريين أن يكتفي مشترو الوحدات العقارية هناك بالاستثمار لا السكن والإقامة، أو حتى الزيارة في الصيف. ربما يعاد ساعتها إنتاج نموذج بويرتو ماديرو في بوينوس آيرس؛ أبراج شاهقة وشقق فاخرة مباعة لأجانب غير مقيمين.</p>
-
-<p>أما إن نجح مشروع رأس الحكمة وأخوته القائمة على الاستثمارات الإماراتية و<a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="c6924e1c-b8ae-4d11-8bef-71e56c9228d6" href="https://almanassa.com/stories/28867" title="من رأس الحكمة إلى علم الروم.. مخاطر خدمة الديون ببيع الأراضي">القطرية</a> (والسعودية لاحقًا) في تطوير الساحل ليصبح مقصدًا سياحيًّا، ربما على غرار موناكو أو مدن السواحل الشمالية للمتوسط في فرنسا وإسبانيا، ساعتها لن يكون هناك مفر من إعادة تخطيط وتطوير الساحل بما يغير من استخداماته، ولن يكون هذا إلا باستبعاد الشرائح ذات الدخل المرتفع من المصريين. </p>
-
-<p>سيمثل هذا تغيُّرًا جوهريًّا في نمط حياة الفئات الغنية من الطبقات العليا والشرائح العليا من الطبقات المتوسطة، التي اعتادت على السياحة المحلية. ومع الترويج للساحل الشمالي كساحل عالمي؛ يصبح تكرار ظواهر مثل تسعير الخدمات بالدولار أمرًا طبيعيًا، ولن يقدر حتى الأكثر ثراءً على مجاراة نمط السياحة العالمية. اللهم إلا إذا لجأوا إلى الساحل القديم ليعيدوا تطويره هو الآخر لأغراض السياحة المحلية.</p>
-
-<h2>الساحل مصدرًا للعملة الصعبة</h2>
-
-<figure role="group" data-sanitized-class="align-left"><div data-embed-button="almanassa_media_browser" data-entity-embed-display="view_mode:media.embed" data-entity-type="media" data-entity-uuid="75fe43b7-39d9-4f90-b531-9e7d7a51898f" data-langcode="ar" data-entity-embed-display-settings="[]" data-sanitized-class="embedded-entity">
-	    <picture><source media="all and (min-width: 1440px)" type="image/webp"><source media="all and (min-width: 641px)" type="image/webp"><source type="image/webp"><img src="https://almanassa.com/sites/default/files/styles/max_650x650/public/photobank/2026/75fe43b7-39d9-4f90-b531-9e7d7a51898f_0.png.webp?itok=z0aUUbms" alt="" typeof="foaf:Image"></picture><aside data-sanitized-class="media--management-links"><ul></ul></aside><aside data-sanitized-class="caption credits">تصميم سيف الدين أحمد، المنصة، 2026</aside></div>
-<figcaption>كيو أر كود للبحر في مراسي بالساحل الشمالي</figcaption></figure><p>لن يكون هذا بالضرورة أمرًا سيئًا بالنسبة للاقتصاد ككل، وإن استغلب استغلال الساحل في إنشاء منتجعات خرسانية تُهجر كل السنة عدا شهرين على الأكثر  الكثيرَ من النقد مرارًا وتكرارًا من زوايا كثيرة، لعل آخرها <a href="https://www.shorouknews.com/columns/view.aspx?cdate=18082017&amp;id=90423224-96e1-4f1d-94d5-13140306b00d">مقال </a>سلمى حسين الذي وصفه بالتنمية العرجاء.</p>
-
-<p>لكن التحول إلى استخدام الساحل وموارده لتوليد مكتسبات بالعملة الصعبة، سواء من خلال تصدير العقار أو بالتحول من السياحة المحلية إلى السياحة الدولية، سينعكس إيجابًا على الاقتصاد الكلي، وسيكون وسيلةً أفضل على الصعيد المالي على أقل تقدير.</p>
-
-<p>المشكلة أن نعتبر "تصدير العقار" نموذجًا شاملًا لتحقيق التنمية، ليس فقط بسبب مخاطر عدم استقرار التدفقات الناتجة عنه، إنما لتعارض الاستثمار العقاري مع التنمية في أكثر من نقطة فهو مثلًا لا يوفر وظائف مستقرة للمشتغلين فيه.</p>
-
-<p>إضافةً لكل ما تجادلنا فيه سابقًا حول خطورة المراهنة على تصدير العقار حلًا لمشكلاتنا الاقتصادية الراهنة، تكشف أزمة مراسي عن وجه جديد لمشكلات هذا النمط وهو تعميق عملية الاستبعاد من الموارد الطبيعية في مصر.</p>
-
-
-<div data-embed-button="almanassa_story_browser" data-entity-embed-display="view_mode:node.read_also" data-entity-type="node" data-entity-uuid="cc119569-feb5-4c14-a40d-7e2f4711a087" data-langcode="ar" data-entity-embed-display-settings="[]" data-sanitized-class="embedded-entity">
-	<article data-history-node-id="33090" role="article" about="/stories/33090" data-sanitized-id="node-33090" data-sanitized-class="view-mode--read-also type-story"><div data-sanitized-class="row">
-		<a href="https://almanassa.com/stories/33090" almanassa-posthog-link="" data-ph-capture-attribute-link-type="story" data-ph-capture-attribute-link-id="33090" data-ph-capture-attribute-link-title="عن القابضين على الجمر في مراسي" data-ph-capture-attribute-link-section="رؤى" data-ph-capture-attribute-link-view-mode="read_also" data-sanitized-class="columns small-12 medium-6">
-			<hr data-sanitized-class="embed-divider"><div data-sanitized-class="h3">اقرأ أيضا</div>
-			
-			<div data-sanitized-class="h2">
-				<span>عن القابضين على الجمر في مراسي</span>
-
-			</div>
-			
-			<hr data-sanitized-class="embed-divider"></a>
-	</div>
-</article></div>
-<p>سيكون من الطريف أن تُستبعد الشرائح الأعلى دخلًا في مصر، مقابل تحقيق عوائد مالية أكبر للدولة عبر إعادة تعريف الاستخدامات المكانية، على عكس أشكال الاستبعاد السابقة التي رأيناها مثلًا في محاولات تنمية <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="ba91e769-71dd-473b-b546-51ae86074204" href="https://almanassa.com/news/11176" title='العائدون إلى ماسبيرو يشتكون من تحصيل "التأمين على الوحدات"'>مربع ماسبيرو</a> وغيرها من المناطق التي أصابت الطبقات الأقل دخلًا.</p>
-
-<p>لسنوات طويلة ظلَّت الشرائح الأعلى دخلًا في مأمن من الاستبعاد الناجم عن مخططات "إعادة التخطيط والتطوير"، فهل حلَّ دورهم ليقفوا إلى جوار الفقراء خارج أسوار الكمباوند من أجل أن "تحيا مصر"؟ </p>
-						<div data-sanitized-id="topic-file-stories">
-			<div data-sanitized-class="views-element-container">		<div almanassa-posthog-link-source="" data-almanassa-posthog-link-source="Story Topic File Stories List" data-almanassa-posthog-link-source-type="topic_files" data-almanassa-posthog-link-source-id="embed_story_topic_file" data-sanitized-class="js-view-dom-id-9792d4797c28fba31b0af92ecfd7fd8870830a8ce055e5fe4adb109b5c396e66">
-		
-		
-		
-
-		
-		
-		
-		
-
-		
-		
-		
-
-		
-		
-
-		
-		
-	</div>
-</div>
-
-			</div>
-		</div><!-- FULLCONTENT end //-->]]></description>
-			<pubDate>Wed, 29 Jul 2026 15:32:27 +0300</pubDate>
-			<guid isPermaLink="false">1785328362967045</guid>
 		</item>
 
 	</channel>
