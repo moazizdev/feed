@@ -3,10 +3,182 @@
 		<title>اقتصاد</title>
 		<link>http://192.168.1.50:8081/api/query.php?user=admin&amp;t=4IzCA6HFSoouCSR9nVqNkV&amp;f=html</link>
 		<description>RSS feed of اقتصاد</description>
-		<pubDate>Wed, 26 Aug 2026 01:00:03 +0300</pubDate>
-		<lastBuildDate>Tue, 25 Aug 2026 22:00:03 GMT</lastBuildDate>
+		<pubDate>Wed, 26 Aug 2026 01:15:03 +0300</pubDate>
+		<lastBuildDate>Tue, 25 Aug 2026 22:15:03 GMT</lastBuildDate>
 		<atom:link href="http://192.168.1.50:8081/api/query.php?user=admin&amp;t=4IzCA6HFSoouCSR9nVqNkV&amp;f=rss" rel="self" type="application/rss+xml" />
 				<item>
+			<title>أسعار العملات في مصر</title>
+			<link>https://realegp.com/</link>
+						<description><![CDATA[<table data-sanitized-class="table currencies-table">
+              <thead>
+                <tr data-sanitized-class="thick-border">
+                  <th data-sanitized-class="text-end">العملة</th>
+                  <th>سعر البنك</th>
+                  <th>
+                    <div>سعر السوق</div>
+                    <div data-sanitized-class="range">من - إلى</div>
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/usd">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-us fib"></i>
+                        </div>
+                        <div>دولار أمريكي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">50.32</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">51.12</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">50.76 - 51.38</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/eur">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-eu fib"></i>
+                        </div>
+                        <div>يورو</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">58.74</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">59.67</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">59.25 - 59.97</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/sar">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-sa fib"></i>
+                        </div>
+                        <div>ريال سعودي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">13.31</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">13.52</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">13.43 - 13.59</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/kwd">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-kw fib"></i>
+                        </div>
+                        <div>دينار كويتي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">163.3</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">165.97</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">164.8 - 166.8</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/aed">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-ae fib"></i>
+                        </div>
+                        <div>درهم اماراتي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">13.6</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">13.82</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">13.72 - 13.89</div>
+                  </td>
+                </tr>
+                
+  
+              </tbody>
+            </table>]]></description>
+			<pubDate>Wed, 26 Aug 2026 01:02:08 +0300</pubDate>
+			<guid isPermaLink="false">1787695335700061</guid>
+		</item>
+		<item>
 			<title>أسعار العملات في مصر</title>
 			<link>https://realegp.com/</link>
 						<description><![CDATA[<table data-sanitized-class="table currencies-table">
@@ -2406,124 +2578,6 @@
 		</div><!-- FULLCONTENT end //-->]]></description>
 			<pubDate>Tue, 25 Aug 2026 14:32:05 +0300</pubDate>
 			<guid isPermaLink="false">1787657541113684</guid>
-		</item>
-		<item>
-			<title>الخلاصة| لماذا يشدد "المركزي" رقابته على سندات التوريق؟</title>
-			<link>https://almanassa.com/stories/32887</link>
-						<dc:creator>هاجر عطية</dc:creator>
-			<media:thumbnail url="https://almanassa.com/sites/default/files/styles/card_lead/public/photobank/2026/9046cbf2-eb63-415d-9b86-52867556d1e4.jpg.webp?itok=cJkaLK1B" />
-			<media:content url="https://almanassa.com/sites/default/files/styles/card_lead/public/photobank/2026/9046cbf2-eb63-415d-9b86-52867556d1e4.jpg.webp?itok=cJkaLK1B" medium="image"></media:content>
-			<description><![CDATA[<!-- FULLCONTENT start //--><div data-sanitized-class="columns small-12 table-scroll">
-							<p dir="rtl">حملَ <a href="https://www.cbe.org.eg/-/media/project/cbe/file/long-context/laws-and-regulations/book-4/%D8%A7%D9%84%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9-%D8%A7%D9%84%D9%81%D8%B5%D9%84-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A-%D8%B9%D8%B4%D8%B1-%D8%B6%D9%88%D8%A7%D8%A8%D8%B7-%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D9%86%D9%88%D9%83-%D9%81%D9%8A-%D8%B3%D9%86%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D9%88%D8%B3%D9%86%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D9%88%D8%B1%D9%8A%D9%82.pdf">إعلان</a> البنك المركزي في وقتٍ سابقٍ هذا الشهر، وضع ضوابط مشددة على البنوك عند إصدارها سندات التوريق، دلالات هامة تتعلق بالجدل الدائر حول مخاطر نمو السريع لقطاع <a href="https://asharqbusiness.com/financing-and-investment/135662/%D8%B1%D8%A6%D9%8A%D8%B3-cib-%D9%8A%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D8%AA%D9%81%D8%A7%D9%88%D8%AA-%D9%85%D8%B9%D8%A7%D9%8A%D9%8A%D8%B1-%D8%A7%D9%84%D8%AA%D9%85%D9%88%D9%8A%D9%84-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1/">التمويل الاستهلاكي</a> ومخاطر وقوعه في التعثر، وكذلك انفجار <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="6dcd8e61-a07d-4bff-bd1c-424bab62d701" href="https://almanassa.com/stories/30390" title="لماذا يربح طلعت مصطفى في الأزمات ونخسر نحن؟">فقاعة عقارية</a> مع أي انهيار مفاجئ في أسعار العقارات.</p>
-
-<p dir="rtl">و<a href="https://www.firstbankeg.com/18372">التوريق</a> هو عملية مالية تحول بها الشركات أقساط ديون عملائها المؤجلة إلى أموال كاش فورية. وبموجب هذه الأداة، تبيع شركات العقارات أو التمويل أقساطها المستقبليّة للبنوك في شكل "سندات" مقابل الحصول على سيولة فورية لبناء مشاريع جديدة.</p>
-
-<p dir="rtl">وإلى جانب السندات، يمكن أن يتم التوريق أيضًا عن طريق إصدار صكوك تخضع بدورها لرقابة مشددة من البنك المركزي خلال الفترة الأخيرة، بحسب <a href="https://enterpriseam.com/egypt-ar/2026/07/09/%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D9%8A%D8%B4%D8%AF%D8%AF-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A-%D8%B1%D9%82%D8%A7%D8%A8%D8%AA%D9%87-%D8%B9%D9%84%D9%89-%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1%D8%A7%D8%AA/">تقارير صحفية</a>.</p>
-
-<p dir="rtl">وتتولى البنوك في المقابل جمع الأقساط من المواطنين لحسابها، وهو ما يجعلها عرضة للخسارة المباشرة في حال تعثر هؤلاء العملاء عن السداد. وهو يختلف عن <a href="https://www.sec.gov/files/ib_corporatebonds.pdf">السند التقليدي</a> في أن الأخير يُعدُّ دينًا تلتزم الشركة التي أصدرته بسداده حين يحين أجله.   </p>
-
-<h2 dir="rtl">لماذا يشعر "المركزي" بالقلق؟</h2>
-
-<p dir="rtl">يمثل التوريق فرصة أمام الشركات العقارية وشركات التمويل الاستهلاكي لبيع ديون عملائها و<a href="https://www.alarabiya.net/politics/2024/01/25/%D8%A7%D9%84%D8%AA%D9%88%D8%B1%D9%8A%D9%82-%D9%85%D8%A7-%D9%87%D9%88%D8%9F-%D9%88%D9%87%D9%84-%D9%8A%D8%AD%D9%84-%D9%85%D8%B4%D9%83%D9%84%D8%AA%D9%86%D8%A7-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A%D8%A9%D8%9F">الحصول</a> على قيمتها فورًا، لاستخدام السيولة في أنشطة جديدة، بينما تتحمل المؤسسات المشترية لسندات التوريق، مثل البنوك، عبء انتظار سداد العملاء أقساطهم.</p>
-
-<p dir="rtl">لكن قبل سبعة أشهر، أصدر البنك المركزي "تعليمات شفهية" للبنوك بعدم شراء أي سندات توريق قبل الرجوع إليه، وفق <a href="https://asharqbusiness.com/banks/111806/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A-%D9%8A%D9%84%D8%B2%D9%85-%D8%A7%D9%84%D8%A8%D9%86%D9%88%D9%83-%D8%A8%D8%A7%D9%84%D8%AD%D8%B5%D9%88%D9%84-%D8%B9%D9%84%D9%89-%D9%85%D9%88%D8%A7%D9%81%D9%82%D8%AA%D9%87-%D9%81%D9%8A-%D8%A7%D9%84%D8%AA%D9%88%D8%B1%D9%8A%D9%82/">تقرير</a> نشرته الشرق بلومبرج في ديسمبر/كانون الأول الماضي، بعد أن ظلَّ الاستثمار في تلك السندات مفتوحًا من دون ضوابط محددة</p>
-
-<blockquote>
-<p dir="rtl">تظل المخاطر الائتمانية في الأساس مرتبطة بقدرة العملاء النهائيين على السداد</p>
-</blockquote>
-
-<p dir="rtl">وتعد شركات <a href="https://www.aqar-gate.com/%D8%AA%D9%82%D8%A7%D8%B1%D9%8A%D8%B1-%D9%88%D9%85%D9%84%D9%81%D8%A7%D8%AA/%D9%85%D8%AD%D9%85%D8%AF-%D8%B1%D8%A7%D8%B4%D8%AF-%D8%B3%D9%86%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D9%88%D8%B1%D9%8A%D9%82-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D9%8A-%D8%B7%D9%88%D9%82/">العقارات</a> و<a href="https://www.facebook.com/benokinvest/posts/%D8%A3%D8%B9%D9%84%D9%86%D8%AA-%D8%B4%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D8%A8%D8%B1%D9%83%D8%A9-%D9%83%D8%A7%D8%A8%D9%8A%D8%AA%D8%A7%D9%84-%D8%A7%D9%84%D8%B0%D8%B1%D8%A7%D8%B9-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1%D9%8A-%D9%84%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D8%A8%D8%B1%D9%83%D8%A9-%D9%85%D8%B5%D8%B1-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%B9%D9%86-%D8%A5%D8%AA%D9%85%D8%A7%D9%85-%D8%A3%D9%83%D8%A8%D8%B1-/1450364670463762/">التمويل الاستهلاكي</a> غير المصرفي من أبرز اللاعبين في سوق التوريق بمصر، لأن كلتيهما تحمل في حافظاتها ديونًا كبيرة للعملاء. ويثير ذلك مخاوف من أن أيَّ أزمة في أيٍّ من القطاعين سيكون لها صدى قوي في القطاع المصرفي، بالنظر إلى أن البنوك من أبرز مشتري سندات التوريق.</p>
-
-<p dir="rtl">وفي مايو/أيار الماضي، <a href="https://www.facebook.com/AsharqBusiness/posts/%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AA%D9%86%D9%81%D9%8A%D8%B0%D9%8A-%D9%84%D9%84%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-cib-%D9%85%D8%B5%D8%B1-%D9%87%D8%B4%D8%A7%D9%85-%D8%B9%D8%B2-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8-%D9%84%D9%80%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A3%D9%86%D8%A7-%D9%82%D9%84%D9%82-%D9%84%D9%84%D8%BA%D8%A7%D9%8A/1322209093344388/">أعرب</a> رئيس البنك التجاري هشام عز عن قلقه من "توسع الأفراد في الاقتراض من القطاع المالي غير المصرفي بدلًا من البنوك، وهو ما أصفه بالقطاع المصرفي الموازي"، وحذّر من خطورة ذلك على الدورة الاقتصادية في مصر، مُشككًا في "التزام بعض هذه الشركات بسياسات تقييم ائتماني منضبطة مماثلة لتلك المطبقة في البنوك".</p>
-
-<p dir="rtl">"التوريق في جوهره أحد أشكال التمويل البنكي غير المباشر، حيث تنتقل السيولة من البنوك إلى الشركات عبر الاستثمار في محافظ الأقساط، بينما تظل المخاطر الائتمانية في الأساس مرتبطة بقدرة العملاء النهائيين على السداد، وهي قدرة قد تتأثر بالمتغيرات الاقتصادية المختلفة" كما يقول محلل القطاع العقاري بشركة أسطول لتداول الأوراق المالية، علي الدجوي، لـ <strong>المنصة</strong>.</p>
-
-<p dir="rtl">ومع التضخم الكبير في قيمة سندات وصكوك التوريق في 2025، يمكن فهم مخاوف البنك المركزي من اتساع الظاهرة.</p>
-
-<h2 dir="rtl">ما حجم سوق سندات التوريق في مصر؟</h2>
-
-<p dir="rtl">بلغت قيمة سندات وصكوك التوريق وفق بيانات هيئة الرقابة المالية 57 مليار جنيه في الربع الأخير من عام 2025، بزيادة 85.6% عن الربع الأخير من عام 2024. </p>
-
-<div data-sanitized-class="embed-media embed-media--rich-flourish"><div><iframe src="https://flo.uri.sh/visualisation/29680962/embed" allowfullscreen="allowfullscreen" title="اصدارات التوريق" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" sandbox="allow-scripts allow-same-origin"></iframe></div></div><aside dir="rtl" data-sanitized-class="caption">رسم من تصميم المنصة يستعرض قيمة إصدارات سندات وصكوك التوريق في الفترة بين 2024 و2026</aside><p dir="rtl">لكن بيانات هيئة الرقابة المالية تعكس أيضًا انخفاضًا قويًا في قيمة هذه الإصدارات خلال الربع الأول من العام الجاري، بالتزامن مع حديث الصحافة عن تشديد الرقابة على استثمار البنوك فيها.</p>
-
-<p dir="rtl">ولا يستبعد علي الدجوي، أن يكون لتشديد ضوابط المركزي دور في انكماش هذه الإصدارات في بداية السنة الجارية، كما يقول لـ المنصة.</p>
-
-<p dir="rtl">لكنه يضيف أن ذلك لا يعني بالضرورة استمرار تباطؤ سوق هذه السندات خلال الفترة المقبلة، "قد يشهد هذا النشاط تحسنًا تدريجيًا خلال الفترات المقبلة مع استقرار آليات التطبيق وعودة الإصدارات المؤجلة."</p>
-
-<h2 dir="rtl">ما الضوابط الجديدة وما أثرها؟</h2>
-
-<p dir="rtl">إلى جانب "التعليمات الشفهية" للبنوك بعدم الاستثمار في سندات وصكوك التوريق دون إذن مسبق، نشر البنك المركزي على موقعه تعليمات مفصلة تتعلق بوضع سقف على استثمارات البنوك في هذه الشركات، وبالرقابة على جودة السندات الصادرة عنها.</p>
-
-<p dir="rtl">ويشرح الرئيس التنفيذي للمجموعة المالية هيرميس للحلول التمويلية، طلال العياط، أن الضوابط الجديدة تشمل احتساب عمليات التوريق ضمن الحدود الائتمانية للعميل، مثلًا إذا كانت الحدود الائتمانية لإحدى الشركات 8  مليارات جنيه، وباعت للبنك سندات بأربعة مليارات، فلا يمكنها الاقتراض من البنك بأكثر من النصف الثاني من هذا المبلغ "وهو ما سيدفع العديد من الشركات إلى إعادة النظر في جدوى اللجوء إلى التوريق"، كما يقول لـ <strong>المنصة</strong>.</p>
-
-<blockquote>
-<p dir="rtl">وتجاوزت مدة تحصيل أقساط الوحدات في السوق العقارية المصرية مؤخرًا العشر سنوات</p>
-</blockquote>
-
-<p dir="rtl">وتمتد رقابة المركزي إلى الشركات المُصدِرة للسندات نفسها، وضرورة أن تحصل على شهادة من مراقب الحسابات بأنها حين تمنح قرضًا تراعي أن يكون متناسبًا مع دخل المقترض.</p>
-
-<p dir="rtl">ويعكس هذا التشدد التضخم الشديد للتمويلات الممنوحة للعملاء من خارج القطاع المصرفي، حيث بلغت في بعض <a href="https://sis.gov.eg/ar/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%D9%8A/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%A7%D9%84%D8%B1%D9%82%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-417-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AC%D9%86%D9%8A%D9%87-%D8%AD%D8%AC%D9%85-%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D8%A7%D9%84%D8%AA%D9%85%D9%88%D9%8A%D9%84-%D8%BA%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%81%D9%8A-%D8%A8%D9%86%D9%87%D8%A7%D9%8A%D8%A9-2025/">التقديرات</a> نحو 417 مليار جنيه بنهاية العام الماضي، وإن كانت نسبة التعثر في سدادها أقل من 3%، إلا أن نفاذها للبنوك عبر السندات بات يمثل مخاطرة تحتاج للرقابة.</p>
-
-<p dir="rtl">"ضوابط المركزي تهدف في الأساس إلى إدارة المخاطر المرتبطة بهذا النوع من الاستثمارات المالية وتأثيرها على استقرار القطاع المصرفي" كما يضيف العياط.</p>
-
-<h2 dir="rtl"><strong>كيف يتأثر القطاعان العقاري والاستهلاكي بالضوابط؟</strong></h2>
-
-<p dir="rtl">يرى خبراء أن الضوابط الجديدة ستحدث ارتباكًا في سوق التوريق بمصر، "ليس متوقعًا تنفيذ برامج توريق جديدة في الوقت الحالي، على الأقل إلى حين اتضاح كيفية تطبيق الضوابط الجديدة واستيعاب البنوك لها" كما يقول طلال العياط.</p>
-
-<p dir="rtl">ويشير  محلل قطاع البنوك والخدمات المالية غير المصرفية بشركة نعيم لتداول الأوراق المالية، عزت ياسر، إلى أن "اشتراط الحصول على موافقة البنك المركزي قبل مشاركة البنوك في الاكتتاب بإصدارات الصكوك أو السندات، رغم أنها سليمة من الناحية الرقابية، تجعل العملية أكثر تعقيدًا وتستغرق فترة أطول قد تصل إلى ستة أو سبعة أشهر" كما يقول لـ <strong>المنصة</strong>.</p>
-
-<p dir="rtl">وبشكل أكثر تفصيلًا، يشرح ياسر أن الضوابط الجديدة ستنعكس على المطورين العقاريين، فهم يعتمدون بدرجة كبيرة على توريق ديون وحدات غير مكتملة، على الخارطة، بينما يشترط المركزي حاليًا أن تتعلق الديون المباعة بوحدات جاهزة للتسليم "قد يدفع هذا الشرط بعض المطورين العقاريين لتقصير مدة تنفيذ المشاريع ليحصلوا على سيولة".</p>
-
-<p dir="rtl">و<a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="73f3ff98-6d8f-420c-bace-b00b35e6bc1e" href="https://almanassa.com/stories/22090" title="ادفع براحتك على 13 سنة.. الفقاعة العقارية بنكهة مصرية">تجاوزت</a> مدة تحصيل أقساط الوحدات في السوق العقارية المصرية مؤخرًا العشر سنوات، في محاولة لتيسير سبل سداد الوحدات في ظل ارتفاعها المستمر بسبب الضغوط التضخمية.</p>
-
-<p dir="rtl">ويشير العياط إلى أن شركات التمويل العقاري تعتمد على التوريق بدرجة أكبر من المطورين، باعتباره من أهم أدوات إعادة تمويل محافظها والتوسع في منح تمويلات جديدة، ما يجعلها أكثر تأثرًا بالضوابط الجديدة.</p>
-
-
-<div data-embed-button="almanassa_story_browser" data-entity-embed-display="view_mode:node.read_also" data-entity-type="node" data-entity-uuid="c628be39-ce1a-4037-a668-3cde4b43255d" data-langcode="ar" data-entity-embed-display-settings="[]" data-sanitized-class="embedded-entity">
-	<article data-history-node-id="25415" role="article" data-sanitized-id="node-25415" data-sanitized-class="view-mode--read-also type-story"><div data-sanitized-class="row">
-		<a href="https://almanassa.com/stories/25415" data-ph-capture-attribute-link-type="story" data-ph-capture-attribute-link-id="25415" data-ph-capture-attribute-link-title='2.3 مليون مديون.. البحث عن "فرج" في التمويل الاستهلاكي' data-ph-capture-attribute-link-section="اقتصاد وعمران" data-ph-capture-attribute-link-view-mode="read_also" data-sanitized-class="columns small-12 medium-6">
-			<hr data-sanitized-class="embed-divider"><div data-sanitized-class="h3">اقرأ أيضا</div>
-			
-			<div data-sanitized-class="h2">
-				<span>2.3 مليون مديون.. البحث عن "فرج" في التمويل الاستهلاكي</span>
-
-			</div>
-			
-			<hr data-sanitized-class="embed-divider"></a>
-	</div>
-</article></div>
-<p dir="rtl">ولا يختلف الأمر كثيرًا بالنسبة لشركات التمويل الاستهلاكي، التي يرجّح ياسر أن "ما بين 30% و50% من تمويلها يعتمد على التمويل بالتوريق، باعتباره جزءًا أساسيًا من نموذج أعمالها".</p>
-
-<p dir="rtl">ويرى خبراء أن ضوابط البنك المركزي ستضع العديد من الشركات أمام خيارين إما الحد من فرص التمويل، أو العودة إلى أشكال التمويل التقليدية، أي القروض المباشرة من البنوك.</p>
-
-<p dir="rtl">"من المتوقع زيادة الاعتماد على القروض المصرفية بوصفها البديل الأكثر عملية، إذ أن الحلول الأخرى لتوفير التمويل ستكون من خلال زيادة رأس مال الشركة، وهو أمر أكثر تكلفة ويستغرق وقتًا أطول" كما يقول المحلل بشركة النعيم.</p>
-						<div data-sanitized-id="topic-file-stories">
-			<div data-sanitized-class="views-element-container">		<div data-almanassa-posthog-link-source="Story Topic File Stories List" data-almanassa-posthog-link-source-type="topic_files" data-almanassa-posthog-link-source-id="embed_story_topic_file" data-sanitized-class="js-view-dom-id-7e21f82af25076ede6aa120b154703fe0ef7498a5b4328c0cb3e4fc18e995fa4">
-		
-		
-		
-
-		
-		
-		
-		
-
-		
-		
-		
-
-		
-		
-
-		
-		
-	</div>
-</div>
-
-			</div>
-		</div><!-- FULLCONTENT end //-->]]></description>
-			<pubDate>Tue, 25 Aug 2026 14:32:05 +0300</pubDate>
-			<guid isPermaLink="false">1787657541113683</guid>
 		</item>
 
 	</channel>
