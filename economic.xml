@@ -3,10 +3,669 @@
 		<title>اقتصاد</title>
 		<link>http://192.168.1.50:8081/api/query.php?user=admin&amp;t=4IzCA6HFSoouCSR9nVqNkV&amp;f=html</link>
 		<description>RSS feed of اقتصاد</description>
-		<pubDate>Tue, 25 Aug 2026 14:30:03 +0300</pubDate>
-		<lastBuildDate>Tue, 25 Aug 2026 11:30:03 GMT</lastBuildDate>
+		<pubDate>Tue, 25 Aug 2026 14:45:03 +0300</pubDate>
+		<lastBuildDate>Tue, 25 Aug 2026 11:45:03 GMT</lastBuildDate>
 		<atom:link href="http://192.168.1.50:8081/api/query.php?user=admin&amp;t=4IzCA6HFSoouCSR9nVqNkV&amp;f=rss" rel="self" type="application/rss+xml" />
 				<item>
+			<title>أسعار العملات في مصر</title>
+			<link>https://realegp.com/</link>
+						<description><![CDATA[<table data-sanitized-class="table currencies-table">
+              <thead>
+                <tr data-sanitized-class="thick-border">
+                  <th data-sanitized-class="text-end">العملة</th>
+                  <th>سعر البنك</th>
+                  <th>
+                    <div>سعر السوق</div>
+                    <div data-sanitized-class="range">من - إلى</div>
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/usd">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-us fib"></i>
+                        </div>
+                        <div>دولار أمريكي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">50.37</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">51.08</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">50.72 - 51.34</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/eur">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-eu fib"></i>
+                        </div>
+                        <div>يورو</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">58.74</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">59.57</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">59.15 - 59.87</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/sar">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-sa fib"></i>
+                        </div>
+                        <div>ريال سعودي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">13.33</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">13.51</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">13.42 - 13.58</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/kwd">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-kw fib"></i>
+                        </div>
+                        <div>دينار كويتي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">163.5</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">165.84</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">164.6 - 166.6</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/aed">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-ae fib"></i>
+                        </div>
+                        <div>درهم اماراتي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">13.61</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">13.81</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">13.71 - 13.88</div>
+                  </td>
+                </tr>
+                
+  
+              </tbody>
+            </table>]]></description>
+			<pubDate>Tue, 25 Aug 2026 14:32:11 +0300</pubDate>
+			<guid isPermaLink="false">1787657541113687</guid>
+		</item>
+		<item>
+			<title>أسعار الذهب في مصر</title>
+			<link>https://realegp.com/</link>
+						<description><![CDATA[<table data-sanitized-class="table currencies-table">
+              <thead>
+                <tr data-sanitized-class="thick-border">
+                  <th data-sanitized-class="text-end">الذهب</th>
+                  <th>
+                    <div>متوسط السعر</div>
+                    <div data-sanitized-class="range">من - إلى</div>
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/18k">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <img src="https://realegp.com/static/img/gold.png">
+                        
+                        <div>ذهب عيار 18</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">5635</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">5617 - 5653</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/21k">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <img src="https://realegp.com/static/img/gold.png">
+                        
+                        <div>ذهب عيار 21</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">6575</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">6555 - 6595</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/24k">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <img src="https://realegp.com/static/img/gold.png">
+                        
+                        <div>ذهب عيار 24</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">7514</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">7491 - 7537</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/pound">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <i data-sanitized-class="bi bi-currency-pound"></i>
+                        
+                        <div>جنيه الذهب</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">52600</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">52440 - 52760</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/usdsagha">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <i data-sanitized-class="bi bi-coin"></i>
+                        
+                        <div>دولار الصاغة</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">50.29</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">50.14 - 50.45</div>
+                  </td>
+                </tr>
+                
+  
+              </tbody>
+            </table>]]></description>
+			<pubDate>Tue, 25 Aug 2026 14:32:11 +0300</pubDate>
+			<guid isPermaLink="false">1787657541113686</guid>
+		</item>
+		<item>
+			<title>شهية الاستحواذ.. لماذا يتوسع الخليج في القطاع المصرفي المصري؟</title>
+			<link>https://almanassa.com/stories/33433</link>
+						<media:thumbnail url="https://almanassa.com/sites/default/files/styles/lead_image_square/public/photobank/2026/03791ba5-a46c-4505-8327-40c97bbf4b95.png.webp?itok=eDDujqbG" />
+			<media:content url="https://almanassa.com/sites/default/files/styles/lead_image_square/public/photobank/2026/03791ba5-a46c-4505-8327-40c97bbf4b95.png.webp?itok=eDDujqbG" medium="image"></media:content>
+			<description><![CDATA[<!-- FULLCONTENT start //--><div data-sanitized-class="columns small-12 table-scroll">
+							<p>لا يمكننا التعامل مع <a href="https://www.hsbc.com/news-and-views/news/media-releases/2026/hsbc-agrees-to-sell-egypt-retail-banking-business-to-emirates-nbd">إعلان</a> بنك HSBC مطلع الشهر الجاري بيع قطاع الخدمات المصرفية المقدمة للأفراد، إلى أحد أكبر البنوك الإماراتية في مصر، كصفقة تخارج واستحواذ معتادة، كونها تعكس توجهًا متناميًا لاستحواذات البنوك الخليجية على القطاع المصرفي بمصر، وتخارج البنوك الأجنبية في الوقت ذاته.</p>
+
+<p>فوفق مسحٍ أجرته <strong>المنصة</strong>، كانت البنوك الخليجية هي الطرف المشتري في 80% من صفقات الاستحواذ البنكية في مصر المعلنة آخر 15 عامًا، ما ساهم في جعل بنوك دول مجلس التعاون هي الأكثر عددًا في القطاع المصرفي المصري بعد البنوك الوطنية.</p>
+
+<p>"لدينا حاليًا أكثر من 10 بنوك خليجية من بين 36 بنكًا تعمل في القطاع المصرفي المصري، بينها نحو 7 بنوك نتج وجودها عن استحواذات مباشرة لمؤسسات مالية خليجية على كيانات في مصر"، كما يقول عزت ياسر، محلل قطاع البنوك والخدمات المالية غير المصرفية بشركة نعيم لتداول الأوراق المالية لـ <strong>المنصة</strong>.</p>
+
+<div data-sanitized-class="embed-media embed-media--rich-flourish"><div><iframe src="https://flo.uri.sh/visualisation/29987536/embed" allowfullscreen="allowfullscreen" title="جنسيات البنوك" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" sandbox="allow-scripts allow-same-origin"></iframe></div></div><aside data-sanitized-class="caption"><p>رسم من تصميم المنصة، تم تصنيف جنسيات البنوك على أساس المقر الرئيسي للبنك</p>
+</aside><p>ولا يقتصر الحضور الخليجي على العدد فقط، ولكن بعض هذه البنوك زاد ثقله في السوق خلال سنوات قليلة، المثال الأبرز على ذلك بنك قطر الوطني الذي دخل لمصر من خلال صفقة استحواذ على البنك الأهلي سوسيتيه جنرال في 2013، <a href="https://www.bnok24.com/2026/04/%D8%A3%D9%83%D8%A8%D8%B1-5-%D8%A8%D9%86%D9%88%D9%83-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1-%D9%85%D9%86-%D8%AD%D9%8A%D8%AB-%D8%AD%D8%AC%D9%85-%D8%A7%D9%84%D8%A3%D8%B5%D9%88%D9%84-%D8%A8%D9%86%D9%87%D8%A7/">ويصنف</a> حاليًا خامس أكبر بنك في مصر من حيث حجم الأصول، متجاوزًا العديد من البنوك العريقة في السوق.</p>
+
+<p>لكن لماذا صار البنك الخليجي هو الأقرب للحصول على الصفقات السانحة مصر، وهل ينطوي ذلك على مميزات للاقتصاد المصري أم أن مخاطره تفوق إيجابياته؟ </p>
+
+<h2><strong>لماذا يشتري الخليج؟</strong></h2>
+
+<p>قبل عامين، قدمت وكالة فيتش <a href="https://www.fitchratings.com/research/banks/gcc-banks-show-strong-appetite-for-international-expansion-23-07-2024">تقريرًا</a> هامًا يفسّر هذا الحضور الخليجي المتنامي، بتعاظم فرصها للربح ليس فقط في مصر وإنما أيضًا في تركيا والهند.</p>
+
+<p>ويؤيد الخبراء الذين تحدثت إليهم <strong>المنصة</strong> هذا التحليل، مشيرين إلى أن لدى السوق الخليجية على ضخامة رؤوس أموالها فرص نمو محدودة بالمقارنة بالمتاح في مصر، بالنظر إلى ضخامة قاعدة المستهلكين لدينا.</p>
+
+<p>ويقارن الخبير المصرفي محمد عبد الحكيم مؤشر العائد على حقوق الملكية في البنوك المصرية، الذي <a href="https://www.cbe.org.eg/-/media/project/cbe/listing/publication/reports-fsi/march-2026/financial-soundness-indicators--banking-sector.pdf">بلغ</a> نحو 39% خلال دورة التشديد النقدي، و<a href="https://www.cbe.org.eg/-/media/project/cbe/listing/publication/reports-fsi/march-2026/financial-soundness-indicators--banking-sector.pdf">انخفض</a> في مارس/آذار الماضي إلى 30% مع تراجع الفائدة، بنظيره في الإمارات والذي <a href="https://www.centralbank.ae/media/f2qdr0xe/core-financial-soundness-indicators-q4-dec-2025.pdf">اقتصر</a> على 15%.</p>
+
+<p>ويقيس <a href="https://naga.com/ar/academy/alaed-ala-almolkyeah">العائد</a> على حقوق الملكية كفاءة الشركة في توليد الأرباح من أموال المساهمين، ويُحسب بقسمة صافي الدخل على متوسط حقوق المساهمين. ويُعدُّ من أبرز المؤشرات التي تعبر عن فارق الفرص بالمقارنة مع السوق الخليجية.</p>
+
+<blockquote>
+<p>لا يرى الخبراء في خروج HSBC من خدمات الأفراد في مصر مؤشرًا على تقييم سلبي للبنوك الأجنبية لمصر</p>
+</blockquote>
+
+<p>ويشير عبد الحكيم إلى مؤشر آخر يعزز فكرة تفوق البنوك المصرية في تحقيق عوائد أكبر، وهو هامش الفائدة الصافي للبنوك الذي <a href="https://maalpedia.com/%D9%87%D8%A7%D9%85%D8%B4-%D8%B5%D8%A7%D9%81%D9%8A-%D8%A7%D9%84%D9%81%D9%88%D8%A7%D8%A6%D8%AF/%D9%87/%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA">يقيس</a> هامش الفائدة مدى نجاح البنك في تحقيق أرباح من القروض والاستثمارات مقارنة بالفوائد التي يدفعها على الودائع. ويتراوح تقديره في مصر بين 6.5% إلى 10%، مقابل 2.2% إلى 3.2% في البنوك الخليجية.</p>
+
+<p>وبحسب <a href="https://www.fitchratings.com/research/banks/egyptian-banks-net-interest-margins-resilient-to-upcoming-rate-cuts-19-02-2025">تقرير</a> سابق لوكالة فيتش، كانت أسعار العائد المرتفعة التي تدفعها الحكومة على ديونها سببًا رئيسيًا وراء هوامش الفائدة القوية في مصر، إذ يعدُّ القطاع المصرفي أحد أبرز المستثمرين في الدين العام.</p>
+
+<p>وبجانب العوامل السابقة، تشير آية زهير، المحللة بشركة زيلا كابيتال، إلى الروابط التجارية والاستثمارية القوية مع دول الخليج، التي تشجع بنوكها على العمل في مصر. وتقول لـ <strong>المنصة</strong> "لا تقتصر الفرص أمام البنوك الخليجية على تمويل الشركات والأفراد في السوق المصرية، وإنما تمتد إلى تمويل الشركات الخليجية العاملة في مصر، وتمويل التجارة البينية، وخطابات الاعتماد والضمان، وتمويل المشروعات والاستثمارات الخليجية في مصر".</p>
+
+<p>وساهم تراجع الجنيه أمام الدولار في منح صفقات الاستحواذ دفعة أيضًا، كما يقول عزت ياسر، محلل البنوك في شركة النعيم "تراجعت تقييمات الأصول المصرية بالدولار بعد موجات خفض قيمة الجنيه في 2016 و2022 و2024، إلى جانب تداول البنوك المصرية عند مضاعفات قيمة دفترية منخفضة نسبيًا، ما يجعل الاستحواذ على أصول مصرفية قائمة أكثر جاذبية للمستثمر الأجنبي".</p>
+
+<h2>لماذا يحل الخليجي مكان الغربي؟</h2>
+
+<figure role="group" data-sanitized-class="align-left"><div data-embed-button="almanassa_media_browser" data-entity-embed-display="view_mode:media.embed" data-entity-type="media" data-entity-uuid="21d17102-175d-4d1e-bf2f-ffe7ced85aab" data-langcode="ar" data-entity-embed-display-settings="[]" data-sanitized-class="embedded-entity">
+	    <picture><source media="all and (min-width: 1440px)" type="image/webp"><source media="all and (min-width: 641px)" type="image/webp"><source type="image/webp"><img src="https://almanassa.com/sites/default/files/styles/max_650x650/public/photobank/2026/21d17102-175d-4d1e-bf2f-ffe7ced85aab.png.webp?itok=RGe1uAiD" alt=""></picture><aside data-sanitized-class="media--management-links"><ul></ul></aside><aside data-sanitized-class="caption credits">تصميم: أحمد بلال</aside></div>
+<figcaption>خريطة الاستحواذات في القطاع المصرفي المصري خلال 15 عامًا</figcaption></figure><p>لا يرى الخبراء في خروج HSBC من خدمات الأفراد في مصر مؤشرًا على تقييم سلبي للبنوك الأجنبية لمصر، بقدر ما يرتبط بترتيبات يقوم بها البنك لإعادة هيكلة أعماله عالميًا.</p>
+
+<p>"التخارج الأخير يعكس تحولًا استراتيجيًا عالميًا لإعادة هيكلة أعمال البنك، حيث يحاول HSBC قَصْر أعماله بالأسواق الناشئة على خدمات تمويل الشركات والتجارة الدولية وإدارة الثروات" كما يقول عبد الحكيم.</p>
+
+<p>لكن بالنظر إلى حركة الاستحواذات في مصر على مدار عقد ونصف، كانت أغلب البنوك المتخارجة من مصر أوروبية أو أمريكية، فهل كانت التخارجات الغربية السابقة لأسباب مشابهة؟</p>
+
+<p>يرى عبد الحكيم أن الحالات السابقة لا تختلف كثيرًا عن دوافع HSBC، حيث يقول " تتحرك بنوك أوروبية وأمريكية كبرى منذ سنوات في اتجاه ما يمكن وصفه بإدارة المخاطر وإعادة التمركز الجغرافي، عبر التركيز في المقابل على أسواقها الرئيسية أو المناطق التي تحقق عوائد أعلى وبعملات أكثر استقرارًا".</p>
+
+<p>ويضيف "في المقابل، تنظر البنوك الخليجية لمصر باعتبارها جزءًا من نطاقها الاقتصادي الطبيعي، لا سوقًا ناشئة بعيدة تتطلب تكاليف إضافية لإدارة المخاطر، وهو ما يمنحها قدرة أكبر على تحمل تقلبات السوق والاستثمار على أفق زمني أطول".</p>
+
+<p>لكن عزت ياسر يشير إلى أن الاضطرابات التي شهدتها السوق المصرية خلال السنوات الأخيرة لعبت دورًا في تغيير خريطة الفاعلين في القطاع المصرفي المصري "المستثمرين الأجانب واجهوا خلال السنوات الماضية عددًا من التحديات المرتبطة ببيئة الاستثمار".</p>
+
+<p>وارتفع <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="68e434c1-58f2-4e53-adc6-16f3b4f1a31f" href="https://almanassa.com/stories/14284" title="كيف حوّلتنا أزمة الدولار إلى مضاربين في العملة؟">سعر</a> صرف الدولار في مصر بقوة خلال السنوات الأخيرة، مدفوعًا بأزمات متوالية من ضعف تدفقات النقد الأجنبي في مقابل الطلب القوي على العملة الصعبة لتمويل الاحتياجات الرئيسية للبلاد.</p>
+
+<p>ويضيف ياسر أن "جانبًا من هذه العقبات شهد تحسنًا ملحوظًا، خاصة فيما يتعلق بتوافر الموارد الدولارية وسهولة تحويل الأرباح، إلى جانب إلغاء ضريبة الأرباح الرأسمالية على تداولات البورصة واستبدالها بضريبة الدمغة، وهو ما وفر قدرًا أكبر من الوضوح في المعاملة الضريبية للاستثمارات".</p>
+
+<p>لكن هناك تحديات أخرى لا تزال بحاجة إلى معالجة لزيادة جاذبية الأصول المصرية أمام المستثمرين الأجانب، كما يضيف ياسر، في مقدمتها محدودية عمق السوق وانخفاض مستويات السيولة، إلى جانب تركز جزء كبير من رأس المال السوقي في عدد محدود من الأسهم، حسب محلل قطاع البنوك بشركة نعيم لتداول الأوراق المالية.</p>
+
+<h2>لماذا لم ينقذ الخليج صفقات الخصخصة؟</h2>
+
+<p>ويثير الإقبال الخليجي القوي على البنوك المصرية التساؤلات، لماذا لم يسهم الخليج في دفع برنامج الخصخصة، الذي عانى من تباطؤ قوي وواجه نقدًا شديدًا من صندوق النقد الدولي؟</p>
+
+<p>من أبرز الأمثلة على ذلك صفقة بيع بنك القاهرة، والتي روجت لها الحكومة كثيرًا ضمن برنامج بيع الأصول، لكن بحسب مصادر <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="f798cad4-5d71-4153-8e97-ff8f258b28c7" href="https://almanassa.com/news/24233" title="لتدني العروض.. الحكومة تتراجع عن بيع بنك القاهرة وتتجه لطرحه في البورصة">تحدثت</a> لـ <strong>المنصة</strong> في 2025، فشلت الصفقة آنذاك بسبب تدني قيمة السعر المعروض من بنك الإمارات دبي الوطني.</p>
+
+<blockquote>
+<p>في حال طرحت الدولة حصصًا في بنوك مصرية فمن المرجح أن تكون البنوك الخليجية في مقدمة المتنافسين</p>
+</blockquote>
+
+<p>ويرى عزت ياسر أن طبيعة صفقات الخصخصة وحرص الحكومة على تحقيق قيمة عادلة تتناسب مع حجم الأصل وأهميته الاستراتيجية، كان لها تأثير على سرعة تطبيق الخصخصة في البنوك الحكومية.</p>
+
+<p>أما الاستحواذات في البنوك الخاصة فكان لها ظروف مختلفة "البائع طرف أجنبي راغب في التخارج ضمن إعادة هيكلة استراتيجية عالمية أو إقليمية لأعماله، وهو ما يجعل ديناميكية التسعير والتفاوض مختلفة عن حالة بيع أصل مملوك للدولة"، كما يضيف ياسر.</p>
+
+<h2><strong>هل يمثل التركز خطرًا؟</strong></h2>
+
+<p>لا يرى فريق من الخبراء أن التوسعات الخليجية تمثل خطرًا، بل يعتبرونها دافعًا لإصلاح القطاع المصرفي، بينما يحذر آخرون من أن كثافة الحضور الخليجي في مصر قد تجعل القطاع المصرفي لدينا شديد الارتباط بالتقلبات المحتملة في السوق الخليجية.</p>
+
+<p>تقول آية زهير إنه بغض النظر عن جنسية رأس مال لبنك، فجميع البنوك العاملة في مصر تخضع لقواعد ورقابة البنك المركزي المصري، وبالتالي لا مخاطر من عمليات الاستحواذ في القطاع المصرفي.</p>
+
+<p>ويشير عزت ياسر إلى أن دخول بنك خليجي في هيكل ملكية بنك مصري غالبًا ما يصاحبه تطوير للخدمات وزيادة في الملاءة المالية، إلى جانب إعادة هيكلة الأنشطة والبنية التكنولوجية وتحسين جودة الأصول والكفاءة التشغيلية.</p>
+
+<p>كما يلفت ياسر إلى أن البنوك الحكومية ما زالت تحتفظ بوضعٍ مُسيطرٍ في السوق، إذ يتمتع البنك الأهلي المصري وبنك مصر مجتمعين بنحو 50% من أصول هذا القطاع "يحد ذلك من قدرة البنوك الخليجية على التأثير بصورة منفردة في مستوى المنافسة، إلى جانب الدور الرقابي للبنك المركزي المصري الذي يضع ضوابط وحدودًا على عمليات الاستحواذ بما يحافظ على المنافسة والاستقرار المالي للقطاع" كما يضيف.</p>
+
+<p>لكن الوصول إلى حصة كبيرة من الملكية الخليجية يرتبط ببعض المخاطر، كما يقول عبد الحكيم، بينها احتمالية ربط جانب من الاستقرار المالي بالدورات الاقتصادية الإقليمية، إلى جانب زيادة الضغوط المستقبلية لتحويل الأرباح بالعملة الأجنبية إلى الخارج، وإن كان ممكنًا السيطرة هذه المخاطر  من خلال الرقابة التي يطبقها البنك المركزي المصري.</p>
+
+<h2><strong>هل يواصل الخليج التوسع؟</strong></h2>
+
+<p>وتتوقع<strong> </strong>آية زهير استمرار الاهتمام الخليجي بالسوق المصرية خلال السنوات المقبلة، لكن بصورة انتقائية ترتبط بالفرص المتاحة والتقييمات والموافقات التنظيمية، وليس بالضرورة في صورة موجة واسعة من الاستحواذات.</p>
+
+<p>"من المرجح استمرار نشاط الاندماجات والاستحواذات في القطاع المصرفي المصري، لكن بوتيرة أقل من السنوات الماضية، في ظل تقلص عدد الفرص الكبيرة المتبقية، بعد تنفيذ عدد من الصفقات الكبرى التي أعادت تشكيل ملكية القطاع خلال العقد الأخير" كما يقول عزت ياسر.</p>
+
+
+<div data-embed-button="almanassa_story_browser" data-entity-embed-display="view_mode:node.read_also" data-entity-type="node" data-entity-uuid="82fa9b99-191a-4a88-a992-3f7fa2fce805" data-langcode="ar" data-entity-embed-display-settings="[]" data-sanitized-class="embedded-entity">
+	<article data-history-node-id="26962" role="article" data-sanitized-id="node-26962" data-sanitized-class="view-mode--read-also type-story"><div data-sanitized-class="row">
+		<a href="https://almanassa.com/stories/26962" data-ph-capture-attribute-link-type="story" data-ph-capture-attribute-link-id="26962" data-ph-capture-attribute-link-title="الفائدة من رفع الفائدة" data-ph-capture-attribute-link-section="اقتصاد وعمران" data-ph-capture-attribute-link-view-mode="read_also" data-sanitized-class="columns small-12 medium-6">
+			<hr data-sanitized-class="embed-divider"><div data-sanitized-class="h3">اقرأ أيضا</div>
+			
+			<div data-sanitized-class="h2">
+				<span>الفائدة من رفع الفائدة</span>
+
+			</div>
+			
+			<hr data-sanitized-class="embed-divider"></a>
+	</div>
+</article></div>
+<p>ولم تُطرح حتى الآن أسماء محددة لبنوك مرشحة للاستحواذ، خاصة مع سرعة تغير المشهد، لكن في حال طرحت الدولة حصصًا في بنوك مصرية، فمن المرجح أن تكون البنوك الخليجية في مقدمة المتنافسين، مستفيدة من قدراتها التمويلية وخبرتها السابقة في السوق المصرية، وفق ياسر.</p>
+						<div data-sanitized-id="topic-file-stories">
+			<div data-sanitized-class="views-element-container">		<div data-almanassa-posthog-link-source="Story Topic File Stories List" data-almanassa-posthog-link-source-type="topic_files" data-almanassa-posthog-link-source-id="embed_story_topic_file" data-sanitized-class="js-view-dom-id-bb8adf150cd5b744079b12002ca9d6fd90ea1c0300ed3e4a6047d1419259e2d1">
+		
+		
+		
+
+		
+		
+		
+		
+
+		
+		
+		
+
+		
+		
+
+		
+		
+	</div>
+</div>
+
+			</div>
+		</div><!-- FULLCONTENT end //-->]]></description>
+			<pubDate>Tue, 25 Aug 2026 14:32:05 +0300</pubDate>
+			<guid isPermaLink="false">1787657541113685</guid>
+		</item>
+		<item>
+			<title>أثرياء مصر فقراء العالم</title>
+			<link>https://almanassa.com/stories/33127</link>
+						<dc:creator>عمرو عادلي</dc:creator>
+			<media:thumbnail url="https://almanassa.com/sites/default/files/styles/card_lead/public/photobank/2026/a9c1e05d-2118-4f92-97f6-d93ef924c0ad.jpg.webp?itok=1eHvyB2h" />
+			<media:content url="https://almanassa.com/sites/default/files/styles/card_lead/public/photobank/2026/a9c1e05d-2118-4f92-97f6-d93ef924c0ad.jpg.webp?itok=1eHvyB2h" medium="image"></media:content>
+			<description><![CDATA[<!-- FULLCONTENT start //--><div data-sanitized-class="columns small-12 table-scroll">
+							<p>في 2019 زرت العاصمة الأرجنتينية بوينوس آيرس. مدينة رائعة الجمال كثيفة الأشجار. ميادين واسعة ومبانٍ أوروبية كلاسيكية. يمر <a href="https://www.britannica.com/place/Rio-de-la-Plata">نهر لابلاتا</a> الشهير حذاء المدينة، لا يخترقها، لا تظهر ضفافه في أغلب الأماكن للمارة والسائرين أو تؤثر في تفاصيل حياتهم اليومية، كحال المصريين مع نهر النيل.</p>
+
+<p>لهذا السبب لم تتحول المناطق المطلة على "لاباتا" إلى مناطق سياحية، ربما باستثناء منطقة بويرتو ماديرو، التي تطل منها أبراجٌ شاهقة ترى منها مجرى النهر الشاسع.</p>
+
+<p>ما أدهشني وأنا أتجول في هذه المنطقة لأول مرة، أن غالب الأبراج السكنية بدت خالية من أي علامات على الحياة أو وجود سكان، اللهم بعض أفراد الأمن القابعين على المداخل! فسألت صديقي الذي قادني إلى هذا الجزء من المدينة عن السبب، ليخبرني بأن سكّان هذه الأبراج في الغالب أجانب يأتون لزيارة المدينة أيامًا معدودة في السنة، إذا أتوا أصلًا. </p>
+
+<p>أُنشأت هذه الأبراج ضمن مخطط لإعادة تخطيط لبويرتو ماديرو. وهي لا تستهدف أبناء العاصمة الأرجنتينية بقدر ما تستهدف الأجانب الذين يأتون لزيارة المدينة أيامًا معدودة من السنة أو لا يأتون مطلقًا، فيما <a href="https://www.shorouknews.com/columns/view.aspx?cdate=25122023&amp;id=c3b0d15b-df41-4b4a-98fe-b3b51ba6c318">يُعرف لدينا</a> بتصدير العقار، وذلك بالنظر إلى أن الوحدات العقارية بها هي <a href="https://bric-group.com/article/the-most-expensive-real-estate-in-latin-america">الأعلى سعرًا</a> في المدينة، وربما ضمن الأعلى عالميًّا.</p>
+
+<p>لم تخلُ ثرثرة الأرجنتينيين بالطبع من حديث عن طبيعة مشتري تلك الوحدات الفاخرة، الذين قلما يظهرون في المدينة لأن غرضهم الاستثمار لا السُكنى. البعض يقول إنهم من أمراء الحرب في الشرق الأوسط، والبعض الآخر يتحدث عن أعضاء في المافيا الروسية، بينما يذهب فريق ثالث إلى أن الطلب يأتي من بارونات المخدرات من البرازيل وفنزويلا وبيرو.</p>
+
+<p>بغض النظر عن دقة هذه المعلومات، فإن حال المنطقة الصغيرة يعكس واحدًا من نماذج لعنة تسليع السواحل والهوس بتصدير العقار، التي إن أصابت الأرجنتين بشكل عارض، فإنها في مصر باتت مرضًا متأصلًا.</p>
+
+<p>هي قضية تعود إلينا في كل صيف، مع موجة الهجرة إلى الساحل الشمالي. ربما الجديد في الأمر أن تداعيات سياسات "تصدير العقار" تفاقمت حتى أصابت الشرائح الغنية من المصريين. هذا ما يمكن استنتاجه من متابعة الجدال الأخير حول طريقة إدارة منتجع <a href="https://www.facebook.com/reel/1722676725443094">مراسي</a> في سيدي عبد الرحمن. </p>
+
+<p>فما الذي تقوله التجربة العالمية عن مستقبل الساحل الشمالي؟ وهل تفوق مزايا تصدير العقار أضراره أم العكس؟</p>
+
+<h2>سيناريوهات تصدير العقار في مصر </h2>
+
+<figure role="group" data-sanitized-class="align-left"><div data-embed-button="almanassa_media_browser" data-entity-embed-display="view_mode:media.embed" data-entity-type="media" data-entity-uuid="972c45d4-b6ba-41c5-b828-0b8a36f1aa2a" data-langcode="ar" data-entity-embed-display-settings="[]" data-sanitized-class="embedded-entity">
+	    <picture><source media="all and (min-width: 1440px)" type="image/webp"><source media="all and (min-width: 641px)" type="image/webp"><source type="image/webp"><img src="https://almanassa.com/sites/default/files/styles/max_650x650/public/photobank/2026/972c45d4-b6ba-41c5-b828-0b8a36f1aa2a.jpg.webp?itok=m3_DqTv4" alt=""></picture><aside data-sanitized-class="media--management-links"><ul></ul></aside><aside data-sanitized-class="caption credits">برخصة المشاع الإبداعي: ويكبيديا</aside></div>
+<figcaption>منطقة بوريتو ماديرو في العاصمة الأرجنتينية بوينس آيرس، 2018</figcaption></figure><p>اللافت في ترند مراسي الذي سيطر على السوشيال ميديا مؤخرًا، أن الشكوى فيه قادمةٌ من فئات لديها قدر من النفوذ، ولا تمانع مبدأ تسليع الشواطئ وفرض رسوم مرتفعة على السياحة الساحلية لقدرتها على الاستهلاك.</p>
+
+<p>لكن حتى أبناء هذه الطبقة <a href="https://www.facebook.com/watch/?v=28404389432486980">صُدموا</a> بتسعيرٍ عالٍ لخدمات داخل الشاطئ، ما حوَّل أمرًا بسيط مثل نزول البحر؛ إلى عبءٍ ماديٍّ مرهقٍ حتى بالنسبة لمستويات دخولهم المرتفعة.</p>
+
+<p>تعكس هذه الواقعة طبيعة ما ينتظرنا مع المضي قدمًا في سياسة تصدير العقار، من سيناريوهات عدة ستحوّل كلها الساحل الشمالي لمنتجع يستهدف الأجانب، بشكل أساسي، بالتالي ستُستبعد منه العديد من الشرائح، بما فيها أغنياء القوم.</p>
+
+<p>طغى هدف <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="9f6fd97b-e57c-4d49-9c86-91e7637a2561" href="https://almanassa.com/stories/13693" title="خرافة تصدير العقار">تصدير العقار </a>على الخطاب الحكومي قبل بضع سنوات، وصولًا إلى تأسيس <a href="https://www.youm7.com/story/2026/7/13/%D9%83%D9%8A%D9%81-%D8%AA%D8%B3%D8%AA%D8%B9%D8%AF-%D9%85%D8%B5%D8%B1-%D9%84%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D9%85%D9%86%D8%B5%D8%A9-%D8%AA%D8%B5%D8%AF%D9%8A%D8%B1-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1-%D8%A7%D8%B9%D8%B1%D9%81-%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/7479210">منصة </a>لتسهيل عمليات التسويق للأجانب ضمن استراتيجية وطنية. وليس بخافٍ أن <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="23af2451-13a8-4d4f-b8e5-9f890582497a" href="https://almanassa.com/news-bulletin/32960" title="مقترح صفقة أكبر من رأس الحكمة">صفقة</a> رأس الحكمة خطوةٌ عملاقةٌ في هذا الاتجاه، إذ إن تسويق الوحدات العقارية للأجانب كان في صلب <a href="https://www.rasel-hekma.com/">المشروع </a>الذي يقوده المطور العقاري؛ شركة أبو ظبي التنموية القابضة.</p>
+
+<p>هذا يعني أنه آجلًا أو عاجلًا ستؤول بعض الوحدات المباعة في الساحل الشمالي إلى ملاك أجانب انطلاقًا من قاعدة الزبائن في الإمارات، التي حتمًا لن تقتصر على أبناء البلد الشقيق (وهم <a href="https://www.ft.com/content/72b46543-41d7-4442-971e-c32684e36237">يمثلون</a> بالكاد 10% من إجمالي السكان هناك على أي حال)، بل ستمتد لتشمل جنسيات شتى من العالم بأسره تيمنًا بنموذج دبي، التي <a href="https://taxobservatory.world/publication/foreign-investment-in-the-dubai-housing-market-2020-2024/">قدّرت</a> دراسةٌ صدرت مؤخرًا أن 43% من إجمالي قيمة الوحدات العقارية مملوكة لأجانب، 68% منهم لا يقيمون في المدينة أصلًا.</p>
+
+<div data-sanitized-class="embed-media embed-media--video-youtube"><div><iframe src="https://www.youtube.com/embed/xDsuKWYFJcA?rel=0&amp;start=716" allowfullscreen="allowfullscreen" scrolling="no" title="الحكاية | عمرو أديب: من يملك البحر في مصر ؟ ومين ليه الحق ينزل البحر ومين لأ؟" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" sandbox="allow-scripts allow-same-origin"></iframe></div></div><aside data-sanitized-class="caption">حلقة من برنامج الإعلامي عمرو أديب تتناول الجدال الدائر حول شروط الخدمات الشاطئية في الساحل الشمالي</aside><hr><h2>طرد الأغنياء </h2>
+
+<p>سيكون من حسن طالع عوام الأغنياء المصريين أن يكتفي مشترو الوحدات العقارية هناك بالاستثمار لا السكن والإقامة، أو حتى الزيارة في الصيف. ربما يعاد ساعتها إنتاج نموذج بويرتو ماديرو في بوينوس آيرس؛ أبراج شاهقة وشقق فاخرة مباعة لأجانب غير مقيمين.</p>
+
+<p>أما إن نجح مشروع رأس الحكمة وأخوته القائمة على الاستثمارات الإماراتية و<a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="c6924e1c-b8ae-4d11-8bef-71e56c9228d6" href="https://almanassa.com/stories/28867" title="من رأس الحكمة إلى علم الروم.. مخاطر خدمة الديون ببيع الأراضي">القطرية</a> (والسعودية لاحقًا) في تطوير الساحل ليصبح مقصدًا سياحيًّا، ربما على غرار موناكو أو مدن السواحل الشمالية للمتوسط في فرنسا وإسبانيا، ساعتها لن يكون هناك مفر من إعادة تخطيط وتطوير الساحل بما يغير من استخداماته، ولن يكون هذا إلا باستبعاد الشرائح ذات الدخل المرتفع من المصريين. </p>
+
+<p>سيمثل هذا تغيُّرًا جوهريًّا في نمط حياة الفئات الغنية من الطبقات العليا والشرائح العليا من الطبقات المتوسطة، التي اعتادت على السياحة المحلية. ومع الترويج للساحل الشمالي كساحل عالمي؛ يصبح تكرار ظواهر مثل تسعير الخدمات بالدولار أمرًا طبيعيًا، ولن يقدر حتى الأكثر ثراءً على مجاراة نمط السياحة العالمية. اللهم إلا إذا لجأوا إلى الساحل القديم ليعيدوا تطويره هو الآخر لأغراض السياحة المحلية.</p>
+
+<h2>الساحل مصدرًا للعملة الصعبة</h2>
+
+<figure role="group" data-sanitized-class="align-left"><div data-embed-button="almanassa_media_browser" data-entity-embed-display="view_mode:media.embed" data-entity-type="media" data-entity-uuid="75fe43b7-39d9-4f90-b531-9e7d7a51898f" data-langcode="ar" data-entity-embed-display-settings="[]" data-sanitized-class="embedded-entity">
+	    <picture><source media="all and (min-width: 1440px)" type="image/webp"><source media="all and (min-width: 641px)" type="image/webp"><source type="image/webp"><img src="https://almanassa.com/sites/default/files/styles/max_650x650/public/photobank/2026/75fe43b7-39d9-4f90-b531-9e7d7a51898f_0.png.webp?itok=z0aUUbms" alt=""></picture><aside data-sanitized-class="media--management-links"><ul></ul></aside><aside data-sanitized-class="caption credits">تصميم سيف الدين أحمد، المنصة، 2026</aside></div>
+<figcaption>كيو أر كود للبحر في مراسي بالساحل الشمالي</figcaption></figure><p>لن يكون هذا بالضرورة أمرًا سيئًا بالنسبة للاقتصاد ككل، وإن استغلب استغلال الساحل في إنشاء منتجعات خرسانية تُهجر كل السنة عدا شهرين على الأكثر  الكثيرَ من النقد مرارًا وتكرارًا من زوايا كثيرة، لعل آخرها <a href="https://www.shorouknews.com/columns/view.aspx?cdate=18082017&amp;id=90423224-96e1-4f1d-94d5-13140306b00d">مقال </a>سلمى حسين الذي وصفه بالتنمية العرجاء.</p>
+
+<p>لكن التحول إلى استخدام الساحل وموارده لتوليد مكتسبات بالعملة الصعبة، سواء من خلال تصدير العقار أو بالتحول من السياحة المحلية إلى السياحة الدولية، سينعكس إيجابًا على الاقتصاد الكلي، وسيكون وسيلةً أفضل على الصعيد المالي على أقل تقدير.</p>
+
+<p>المشكلة أن نعتبر "تصدير العقار" نموذجًا شاملًا لتحقيق التنمية، ليس فقط بسبب مخاطر عدم استقرار التدفقات الناتجة عنه، إنما لتعارض الاستثمار العقاري مع التنمية في أكثر من نقطة فهو مثلًا لا يوفر وظائف مستقرة للمشتغلين فيه.</p>
+
+<p>إضافةً لكل ما تجادلنا فيه سابقًا حول خطورة المراهنة على تصدير العقار حلًا لمشكلاتنا الاقتصادية الراهنة، تكشف أزمة مراسي عن وجه جديد لمشكلات هذا النمط وهو تعميق عملية الاستبعاد من الموارد الطبيعية في مصر.</p>
+
+
+<div data-embed-button="almanassa_story_browser" data-entity-embed-display="view_mode:node.read_also" data-entity-type="node" data-entity-uuid="cc119569-feb5-4c14-a40d-7e2f4711a087" data-langcode="ar" data-entity-embed-display-settings="[]" data-sanitized-class="embedded-entity">
+	<article data-history-node-id="33090" role="article" data-sanitized-id="node-33090" data-sanitized-class="view-mode--read-also type-story"><div data-sanitized-class="row">
+		<a href="https://almanassa.com/stories/33090" data-ph-capture-attribute-link-type="story" data-ph-capture-attribute-link-id="33090" data-ph-capture-attribute-link-title="عن القابضين على الجمر في مراسي" data-ph-capture-attribute-link-section="رؤى" data-ph-capture-attribute-link-view-mode="read_also" data-sanitized-class="columns small-12 medium-6">
+			<hr data-sanitized-class="embed-divider"><div data-sanitized-class="h3">اقرأ أيضا</div>
+			
+			<div data-sanitized-class="h2">
+				<span>عن القابضين على الجمر في مراسي</span>
+
+			</div>
+			
+			<hr data-sanitized-class="embed-divider"></a>
+	</div>
+</article></div>
+<p>سيكون من الطريف أن تُستبعد الشرائح الأعلى دخلًا في مصر، مقابل تحقيق عوائد مالية أكبر للدولة عبر إعادة تعريف الاستخدامات المكانية، على عكس أشكال الاستبعاد السابقة التي رأيناها مثلًا في محاولات تنمية <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="ba91e769-71dd-473b-b546-51ae86074204" href="https://almanassa.com/news/11176" title='العائدون إلى ماسبيرو يشتكون من تحصيل "التأمين على الوحدات"'>مربع ماسبيرو</a> وغيرها من المناطق التي أصابت الطبقات الأقل دخلًا.</p>
+
+<p>لسنوات طويلة ظلَّت الشرائح الأعلى دخلًا في مأمن من الاستبعاد الناجم عن مخططات "إعادة التخطيط والتطوير"، فهل حلَّ دورهم ليقفوا إلى جوار الفقراء خارج أسوار الكمباوند من أجل أن "تحيا مصر"؟ </p>
+						<div data-sanitized-id="topic-file-stories">
+			<div data-sanitized-class="views-element-container">		<div data-almanassa-posthog-link-source="Story Topic File Stories List" data-almanassa-posthog-link-source-type="topic_files" data-almanassa-posthog-link-source-id="embed_story_topic_file" data-sanitized-class="js-view-dom-id-e2f18f93504e5fa1c4b9a10d4068e85a785bd66192cafcb11cd924edb1d30e46">
+		
+		
+		
+
+		
+		
+		
+		
+
+		
+		
+		
+
+		
+		
+
+		
+		
+	</div>
+</div>
+
+			</div>
+		</div><!-- FULLCONTENT end //-->]]></description>
+			<pubDate>Tue, 25 Aug 2026 14:32:05 +0300</pubDate>
+			<guid isPermaLink="false">1787657541113684</guid>
+		</item>
+		<item>
+			<title>الخلاصة| لماذا يشدد "المركزي" رقابته على سندات التوريق؟</title>
+			<link>https://almanassa.com/stories/32887</link>
+						<dc:creator>هاجر عطية</dc:creator>
+			<media:thumbnail url="https://almanassa.com/sites/default/files/styles/card_lead/public/photobank/2026/9046cbf2-eb63-415d-9b86-52867556d1e4.jpg.webp?itok=cJkaLK1B" />
+			<media:content url="https://almanassa.com/sites/default/files/styles/card_lead/public/photobank/2026/9046cbf2-eb63-415d-9b86-52867556d1e4.jpg.webp?itok=cJkaLK1B" medium="image"></media:content>
+			<description><![CDATA[<!-- FULLCONTENT start //--><div data-sanitized-class="columns small-12 table-scroll">
+							<p dir="rtl">حملَ <a href="https://www.cbe.org.eg/-/media/project/cbe/file/long-context/laws-and-regulations/book-4/%D8%A7%D9%84%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9-%D8%A7%D9%84%D9%81%D8%B5%D9%84-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A-%D8%B9%D8%B4%D8%B1-%D8%B6%D9%88%D8%A7%D8%A8%D8%B7-%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D9%86%D9%88%D9%83-%D9%81%D9%8A-%D8%B3%D9%86%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D9%88%D8%B3%D9%86%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D9%88%D8%B1%D9%8A%D9%82.pdf">إعلان</a> البنك المركزي في وقتٍ سابقٍ هذا الشهر، وضع ضوابط مشددة على البنوك عند إصدارها سندات التوريق، دلالات هامة تتعلق بالجدل الدائر حول مخاطر نمو السريع لقطاع <a href="https://asharqbusiness.com/financing-and-investment/135662/%D8%B1%D8%A6%D9%8A%D8%B3-cib-%D9%8A%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D8%AA%D9%81%D8%A7%D9%88%D8%AA-%D9%85%D8%B9%D8%A7%D9%8A%D9%8A%D8%B1-%D8%A7%D9%84%D8%AA%D9%85%D9%88%D9%8A%D9%84-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1/">التمويل الاستهلاكي</a> ومخاطر وقوعه في التعثر، وكذلك انفجار <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="6dcd8e61-a07d-4bff-bd1c-424bab62d701" href="https://almanassa.com/stories/30390" title="لماذا يربح طلعت مصطفى في الأزمات ونخسر نحن؟">فقاعة عقارية</a> مع أي انهيار مفاجئ في أسعار العقارات.</p>
+
+<p dir="rtl">و<a href="https://www.firstbankeg.com/18372">التوريق</a> هو عملية مالية تحول بها الشركات أقساط ديون عملائها المؤجلة إلى أموال كاش فورية. وبموجب هذه الأداة، تبيع شركات العقارات أو التمويل أقساطها المستقبليّة للبنوك في شكل "سندات" مقابل الحصول على سيولة فورية لبناء مشاريع جديدة.</p>
+
+<p dir="rtl">وإلى جانب السندات، يمكن أن يتم التوريق أيضًا عن طريق إصدار صكوك تخضع بدورها لرقابة مشددة من البنك المركزي خلال الفترة الأخيرة، بحسب <a href="https://enterpriseam.com/egypt-ar/2026/07/09/%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D9%8A%D8%B4%D8%AF%D8%AF-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A-%D8%B1%D9%82%D8%A7%D8%A8%D8%AA%D9%87-%D8%B9%D9%84%D9%89-%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1%D8%A7%D8%AA/">تقارير صحفية</a>.</p>
+
+<p dir="rtl">وتتولى البنوك في المقابل جمع الأقساط من المواطنين لحسابها، وهو ما يجعلها عرضة للخسارة المباشرة في حال تعثر هؤلاء العملاء عن السداد. وهو يختلف عن <a href="https://www.sec.gov/files/ib_corporatebonds.pdf">السند التقليدي</a> في أن الأخير يُعدُّ دينًا تلتزم الشركة التي أصدرته بسداده حين يحين أجله.   </p>
+
+<h2 dir="rtl">لماذا يشعر "المركزي" بالقلق؟</h2>
+
+<p dir="rtl">يمثل التوريق فرصة أمام الشركات العقارية وشركات التمويل الاستهلاكي لبيع ديون عملائها و<a href="https://www.alarabiya.net/politics/2024/01/25/%D8%A7%D9%84%D8%AA%D9%88%D8%B1%D9%8A%D9%82-%D9%85%D8%A7-%D9%87%D9%88%D8%9F-%D9%88%D9%87%D9%84-%D9%8A%D8%AD%D9%84-%D9%85%D8%B4%D9%83%D9%84%D8%AA%D9%86%D8%A7-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A%D8%A9%D8%9F">الحصول</a> على قيمتها فورًا، لاستخدام السيولة في أنشطة جديدة، بينما تتحمل المؤسسات المشترية لسندات التوريق، مثل البنوك، عبء انتظار سداد العملاء أقساطهم.</p>
+
+<p dir="rtl">لكن قبل سبعة أشهر، أصدر البنك المركزي "تعليمات شفهية" للبنوك بعدم شراء أي سندات توريق قبل الرجوع إليه، وفق <a href="https://asharqbusiness.com/banks/111806/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A-%D9%8A%D9%84%D8%B2%D9%85-%D8%A7%D9%84%D8%A8%D9%86%D9%88%D9%83-%D8%A8%D8%A7%D9%84%D8%AD%D8%B5%D9%88%D9%84-%D8%B9%D9%84%D9%89-%D9%85%D9%88%D8%A7%D9%81%D9%82%D8%AA%D9%87-%D9%81%D9%8A-%D8%A7%D9%84%D8%AA%D9%88%D8%B1%D9%8A%D9%82/">تقرير</a> نشرته الشرق بلومبرج في ديسمبر/كانون الأول الماضي، بعد أن ظلَّ الاستثمار في تلك السندات مفتوحًا من دون ضوابط محددة</p>
+
+<blockquote>
+<p dir="rtl">تظل المخاطر الائتمانية في الأساس مرتبطة بقدرة العملاء النهائيين على السداد</p>
+</blockquote>
+
+<p dir="rtl">وتعد شركات <a href="https://www.aqar-gate.com/%D8%AA%D9%82%D8%A7%D8%B1%D9%8A%D8%B1-%D9%88%D9%85%D9%84%D9%81%D8%A7%D8%AA/%D9%85%D8%AD%D9%85%D8%AF-%D8%B1%D8%A7%D8%B4%D8%AF-%D8%B3%D9%86%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D9%88%D8%B1%D9%8A%D9%82-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D9%8A-%D8%B7%D9%88%D9%82/">العقارات</a> و<a href="https://www.facebook.com/benokinvest/posts/%D8%A3%D8%B9%D9%84%D9%86%D8%AA-%D8%B4%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D8%A8%D8%B1%D9%83%D8%A9-%D9%83%D8%A7%D8%A8%D9%8A%D8%AA%D8%A7%D9%84-%D8%A7%D9%84%D8%B0%D8%B1%D8%A7%D8%B9-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1%D9%8A-%D9%84%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D8%A8%D8%B1%D9%83%D8%A9-%D9%85%D8%B5%D8%B1-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%B9%D9%86-%D8%A5%D8%AA%D9%85%D8%A7%D9%85-%D8%A3%D9%83%D8%A8%D8%B1-/1450364670463762/">التمويل الاستهلاكي</a> غير المصرفي من أبرز اللاعبين في سوق التوريق بمصر، لأن كلتيهما تحمل في حافظاتها ديونًا كبيرة للعملاء. ويثير ذلك مخاوف من أن أيَّ أزمة في أيٍّ من القطاعين سيكون لها صدى قوي في القطاع المصرفي، بالنظر إلى أن البنوك من أبرز مشتري سندات التوريق.</p>
+
+<p dir="rtl">وفي مايو/أيار الماضي، <a href="https://www.facebook.com/AsharqBusiness/posts/%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AA%D9%86%D9%81%D9%8A%D8%B0%D9%8A-%D9%84%D9%84%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-cib-%D9%85%D8%B5%D8%B1-%D9%87%D8%B4%D8%A7%D9%85-%D8%B9%D8%B2-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8-%D9%84%D9%80%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A3%D9%86%D8%A7-%D9%82%D9%84%D9%82-%D9%84%D9%84%D8%BA%D8%A7%D9%8A/1322209093344388/">أعرب</a> رئيس البنك التجاري هشام عز عن قلقه من "توسع الأفراد في الاقتراض من القطاع المالي غير المصرفي بدلًا من البنوك، وهو ما أصفه بالقطاع المصرفي الموازي"، وحذّر من خطورة ذلك على الدورة الاقتصادية في مصر، مُشككًا في "التزام بعض هذه الشركات بسياسات تقييم ائتماني منضبطة مماثلة لتلك المطبقة في البنوك".</p>
+
+<p dir="rtl">"التوريق في جوهره أحد أشكال التمويل البنكي غير المباشر، حيث تنتقل السيولة من البنوك إلى الشركات عبر الاستثمار في محافظ الأقساط، بينما تظل المخاطر الائتمانية في الأساس مرتبطة بقدرة العملاء النهائيين على السداد، وهي قدرة قد تتأثر بالمتغيرات الاقتصادية المختلفة" كما يقول محلل القطاع العقاري بشركة أسطول لتداول الأوراق المالية، علي الدجوي، لـ <strong>المنصة</strong>.</p>
+
+<p dir="rtl">ومع التضخم الكبير في قيمة سندات وصكوك التوريق في 2025، يمكن فهم مخاوف البنك المركزي من اتساع الظاهرة.</p>
+
+<h2 dir="rtl">ما حجم سوق سندات التوريق في مصر؟</h2>
+
+<p dir="rtl">بلغت قيمة سندات وصكوك التوريق وفق بيانات هيئة الرقابة المالية 57 مليار جنيه في الربع الأخير من عام 2025، بزيادة 85.6% عن الربع الأخير من عام 2024. </p>
+
+<div data-sanitized-class="embed-media embed-media--rich-flourish"><div><iframe src="https://flo.uri.sh/visualisation/29680962/embed" allowfullscreen="allowfullscreen" title="اصدارات التوريق" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" sandbox="allow-scripts allow-same-origin"></iframe></div></div><aside dir="rtl" data-sanitized-class="caption">رسم من تصميم المنصة يستعرض قيمة إصدارات سندات وصكوك التوريق في الفترة بين 2024 و2026</aside><p dir="rtl">لكن بيانات هيئة الرقابة المالية تعكس أيضًا انخفاضًا قويًا في قيمة هذه الإصدارات خلال الربع الأول من العام الجاري، بالتزامن مع حديث الصحافة عن تشديد الرقابة على استثمار البنوك فيها.</p>
+
+<p dir="rtl">ولا يستبعد علي الدجوي، أن يكون لتشديد ضوابط المركزي دور في انكماش هذه الإصدارات في بداية السنة الجارية، كما يقول لـ المنصة.</p>
+
+<p dir="rtl">لكنه يضيف أن ذلك لا يعني بالضرورة استمرار تباطؤ سوق هذه السندات خلال الفترة المقبلة، "قد يشهد هذا النشاط تحسنًا تدريجيًا خلال الفترات المقبلة مع استقرار آليات التطبيق وعودة الإصدارات المؤجلة."</p>
+
+<h2 dir="rtl">ما الضوابط الجديدة وما أثرها؟</h2>
+
+<p dir="rtl">إلى جانب "التعليمات الشفهية" للبنوك بعدم الاستثمار في سندات وصكوك التوريق دون إذن مسبق، نشر البنك المركزي على موقعه تعليمات مفصلة تتعلق بوضع سقف على استثمارات البنوك في هذه الشركات، وبالرقابة على جودة السندات الصادرة عنها.</p>
+
+<p dir="rtl">ويشرح الرئيس التنفيذي للمجموعة المالية هيرميس للحلول التمويلية، طلال العياط، أن الضوابط الجديدة تشمل احتساب عمليات التوريق ضمن الحدود الائتمانية للعميل، مثلًا إذا كانت الحدود الائتمانية لإحدى الشركات 8  مليارات جنيه، وباعت للبنك سندات بأربعة مليارات، فلا يمكنها الاقتراض من البنك بأكثر من النصف الثاني من هذا المبلغ "وهو ما سيدفع العديد من الشركات إلى إعادة النظر في جدوى اللجوء إلى التوريق"، كما يقول لـ <strong>المنصة</strong>.</p>
+
+<blockquote>
+<p dir="rtl">وتجاوزت مدة تحصيل أقساط الوحدات في السوق العقارية المصرية مؤخرًا العشر سنوات</p>
+</blockquote>
+
+<p dir="rtl">وتمتد رقابة المركزي إلى الشركات المُصدِرة للسندات نفسها، وضرورة أن تحصل على شهادة من مراقب الحسابات بأنها حين تمنح قرضًا تراعي أن يكون متناسبًا مع دخل المقترض.</p>
+
+<p dir="rtl">ويعكس هذا التشدد التضخم الشديد للتمويلات الممنوحة للعملاء من خارج القطاع المصرفي، حيث بلغت في بعض <a href="https://sis.gov.eg/ar/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%D9%8A/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%A7%D9%84%D8%B1%D9%82%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-417-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AC%D9%86%D9%8A%D9%87-%D8%AD%D8%AC%D9%85-%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D8%A7%D9%84%D8%AA%D9%85%D9%88%D9%8A%D9%84-%D8%BA%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%81%D9%8A-%D8%A8%D9%86%D9%87%D8%A7%D9%8A%D8%A9-2025/">التقديرات</a> نحو 417 مليار جنيه بنهاية العام الماضي، وإن كانت نسبة التعثر في سدادها أقل من 3%، إلا أن نفاذها للبنوك عبر السندات بات يمثل مخاطرة تحتاج للرقابة.</p>
+
+<p dir="rtl">"ضوابط المركزي تهدف في الأساس إلى إدارة المخاطر المرتبطة بهذا النوع من الاستثمارات المالية وتأثيرها على استقرار القطاع المصرفي" كما يضيف العياط.</p>
+
+<h2 dir="rtl"><strong>كيف يتأثر القطاعان العقاري والاستهلاكي بالضوابط؟</strong></h2>
+
+<p dir="rtl">يرى خبراء أن الضوابط الجديدة ستحدث ارتباكًا في سوق التوريق بمصر، "ليس متوقعًا تنفيذ برامج توريق جديدة في الوقت الحالي، على الأقل إلى حين اتضاح كيفية تطبيق الضوابط الجديدة واستيعاب البنوك لها" كما يقول طلال العياط.</p>
+
+<p dir="rtl">ويشير  محلل قطاع البنوك والخدمات المالية غير المصرفية بشركة نعيم لتداول الأوراق المالية، عزت ياسر، إلى أن "اشتراط الحصول على موافقة البنك المركزي قبل مشاركة البنوك في الاكتتاب بإصدارات الصكوك أو السندات، رغم أنها سليمة من الناحية الرقابية، تجعل العملية أكثر تعقيدًا وتستغرق فترة أطول قد تصل إلى ستة أو سبعة أشهر" كما يقول لـ <strong>المنصة</strong>.</p>
+
+<p dir="rtl">وبشكل أكثر تفصيلًا، يشرح ياسر أن الضوابط الجديدة ستنعكس على المطورين العقاريين، فهم يعتمدون بدرجة كبيرة على توريق ديون وحدات غير مكتملة، على الخارطة، بينما يشترط المركزي حاليًا أن تتعلق الديون المباعة بوحدات جاهزة للتسليم "قد يدفع هذا الشرط بعض المطورين العقاريين لتقصير مدة تنفيذ المشاريع ليحصلوا على سيولة".</p>
+
+<p dir="rtl">و<a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="73f3ff98-6d8f-420c-bace-b00b35e6bc1e" href="https://almanassa.com/stories/22090" title="ادفع براحتك على 13 سنة.. الفقاعة العقارية بنكهة مصرية">تجاوزت</a> مدة تحصيل أقساط الوحدات في السوق العقارية المصرية مؤخرًا العشر سنوات، في محاولة لتيسير سبل سداد الوحدات في ظل ارتفاعها المستمر بسبب الضغوط التضخمية.</p>
+
+<p dir="rtl">ويشير العياط إلى أن شركات التمويل العقاري تعتمد على التوريق بدرجة أكبر من المطورين، باعتباره من أهم أدوات إعادة تمويل محافظها والتوسع في منح تمويلات جديدة، ما يجعلها أكثر تأثرًا بالضوابط الجديدة.</p>
+
+
+<div data-embed-button="almanassa_story_browser" data-entity-embed-display="view_mode:node.read_also" data-entity-type="node" data-entity-uuid="c628be39-ce1a-4037-a668-3cde4b43255d" data-langcode="ar" data-entity-embed-display-settings="[]" data-sanitized-class="embedded-entity">
+	<article data-history-node-id="25415" role="article" data-sanitized-id="node-25415" data-sanitized-class="view-mode--read-also type-story"><div data-sanitized-class="row">
+		<a href="https://almanassa.com/stories/25415" data-ph-capture-attribute-link-type="story" data-ph-capture-attribute-link-id="25415" data-ph-capture-attribute-link-title='2.3 مليون مديون.. البحث عن "فرج" في التمويل الاستهلاكي' data-ph-capture-attribute-link-section="اقتصاد وعمران" data-ph-capture-attribute-link-view-mode="read_also" data-sanitized-class="columns small-12 medium-6">
+			<hr data-sanitized-class="embed-divider"><div data-sanitized-class="h3">اقرأ أيضا</div>
+			
+			<div data-sanitized-class="h2">
+				<span>2.3 مليون مديون.. البحث عن "فرج" في التمويل الاستهلاكي</span>
+
+			</div>
+			
+			<hr data-sanitized-class="embed-divider"></a>
+	</div>
+</article></div>
+<p dir="rtl">ولا يختلف الأمر كثيرًا بالنسبة لشركات التمويل الاستهلاكي، التي يرجّح ياسر أن "ما بين 30% و50% من تمويلها يعتمد على التمويل بالتوريق، باعتباره جزءًا أساسيًا من نموذج أعمالها".</p>
+
+<p dir="rtl">ويرى خبراء أن ضوابط البنك المركزي ستضع العديد من الشركات أمام خيارين إما الحد من فرص التمويل، أو العودة إلى أشكال التمويل التقليدية، أي القروض المباشرة من البنوك.</p>
+
+<p dir="rtl">"من المتوقع زيادة الاعتماد على القروض المصرفية بوصفها البديل الأكثر عملية، إذ أن الحلول الأخرى لتوفير التمويل ستكون من خلال زيادة رأس مال الشركة، وهو أمر أكثر تكلفة ويستغرق وقتًا أطول" كما يقول المحلل بشركة النعيم.</p>
+						<div data-sanitized-id="topic-file-stories">
+			<div data-sanitized-class="views-element-container">		<div data-almanassa-posthog-link-source="Story Topic File Stories List" data-almanassa-posthog-link-source-type="topic_files" data-almanassa-posthog-link-source-id="embed_story_topic_file" data-sanitized-class="js-view-dom-id-7e21f82af25076ede6aa120b154703fe0ef7498a5b4328c0cb3e4fc18e995fa4">
+		
+		
+		
+
+		
+		
+		
+		
+
+		
+		
+		
+
+		
+		
+
+		
+		
+	</div>
+</div>
+
+			</div>
+		</div><!-- FULLCONTENT end //-->]]></description>
+			<pubDate>Tue, 25 Aug 2026 14:32:05 +0300</pubDate>
+			<guid isPermaLink="false">1787657541113683</guid>
+		</item>
+		<item>
 			<title>أسعار العملات في مصر</title>
 			<link>https://realegp.com/</link>
 						<description><![CDATA[<table data-sanitized-class="table currencies-table">
@@ -2298,743 +2957,6 @@
             </table>]]></description>
 			<pubDate>Tue, 25 Aug 2026 02:32:08 +0300</pubDate>
 			<guid isPermaLink="false">1787614341280935</guid>
-		</item>
-		<item>
-			<title>أسعار الذهب في مصر</title>
-			<link>https://realegp.com/</link>
-						<description><![CDATA[<table data-sanitized-class="table currencies-table">
-              <thead>
-                <tr data-sanitized-class="thick-border">
-                  <th data-sanitized-class="text-end">الذهب</th>
-                  <th>
-                    <div>متوسط السعر</div>
-                    <div data-sanitized-class="range">من - إلى</div>
-                  </th>
-                </tr>
-              </thead>
-              <tbody>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/gold/18k">
-                      <div data-sanitized-class="justify-content-start">
-                        
-                        <img src="https://realegp.com/static/img/gold.png">
-                        
-                        <div>ذهب عيار 18</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">5657</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">5644 - 5670</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/gold/21k">
-                      <div data-sanitized-class="justify-content-start">
-                        
-                        <img src="https://realegp.com/static/img/gold.png">
-                        
-                        <div>ذهب عيار 21</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">6600</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">6585 - 6615</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/gold/24k">
-                      <div data-sanitized-class="justify-content-start">
-                        
-                        <img src="https://realegp.com/static/img/gold.png">
-                        
-                        <div>ذهب عيار 24</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">7543</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">7526 - 7560</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/gold/pound">
-                      <div data-sanitized-class="justify-content-start">
-                        
-                        <i data-sanitized-class="bi bi-currency-pound"></i>
-                        
-                        <div>جنيه الذهب</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">52800</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">52680 - 52920</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/gold/usdsagha">
-                      <div data-sanitized-class="justify-content-start">
-                        
-                        <i data-sanitized-class="bi bi-coin"></i>
-                        
-                        <div>دولار الصاغة</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">50.28</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">50.16 - 50.39</div>
-                  </td>
-                </tr>
-                
-  
-              </tbody>
-            </table>]]></description>
-			<pubDate>Tue, 25 Aug 2026 02:32:08 +0300</pubDate>
-			<guid isPermaLink="false">1787614341280934</guid>
-		</item>
-		<item>
-			<title>أسعار العملات في مصر</title>
-			<link>https://realegp.com/</link>
-						<description><![CDATA[<table data-sanitized-class="table currencies-table">
-              <thead>
-                <tr data-sanitized-class="thick-border">
-                  <th data-sanitized-class="text-end">العملة</th>
-                  <th>سعر البنك</th>
-                  <th>
-                    <div>سعر السوق</div>
-                    <div data-sanitized-class="range">من - إلى</div>
-                  </th>
-                </tr>
-              </thead>
-              <tbody>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/usd">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-us fib"></i>
-                        </div>
-                        <div>دولار أمريكي</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">50.68</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">51.26</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">50.9 - 51.52</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/eur">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-eu fib"></i>
-                        </div>
-                        <div>يورو</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">59.11</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">59.78</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">59.36 - 60.08</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/sar">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-sa fib"></i>
-                        </div>
-                        <div>ريال سعودي</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">13.41</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">13.56</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">13.47 - 13.63</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/kwd">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-kw fib"></i>
-                        </div>
-                        <div>دينار كويتي</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">164.5</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">166.43</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">165.2 - 167.2</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/aed">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-ae fib"></i>
-                        </div>
-                        <div>درهم اماراتي</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">13.7</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">13.85</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">13.75 - 13.92</div>
-                  </td>
-                </tr>
-                
-  
-              </tbody>
-            </table>]]></description>
-			<pubDate>Tue, 25 Aug 2026 01:02:09 +0300</pubDate>
-			<guid isPermaLink="false">1787608936124156</guid>
-		</item>
-		<item>
-			<title>أسعار الذهب في مصر</title>
-			<link>https://realegp.com/</link>
-						<description><![CDATA[<table data-sanitized-class="table currencies-table">
-              <thead>
-                <tr data-sanitized-class="thick-border">
-                  <th data-sanitized-class="text-end">الذهب</th>
-                  <th>
-                    <div>متوسط السعر</div>
-                    <div data-sanitized-class="range">من - إلى</div>
-                  </th>
-                </tr>
-              </thead>
-              <tbody>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/gold/18k">
-                      <div data-sanitized-class="justify-content-start">
-                        
-                        <img src="https://realegp.com/static/img/gold.png">
-                        
-                        <div>ذهب عيار 18</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">5657</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">5644 - 5670</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/gold/21k">
-                      <div data-sanitized-class="justify-content-start">
-                        
-                        <img src="https://realegp.com/static/img/gold.png">
-                        
-                        <div>ذهب عيار 21</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">6600</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">6585 - 6615</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/gold/24k">
-                      <div data-sanitized-class="justify-content-start">
-                        
-                        <img src="https://realegp.com/static/img/gold.png">
-                        
-                        <div>ذهب عيار 24</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">7543</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">7526 - 7560</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/gold/pound">
-                      <div data-sanitized-class="justify-content-start">
-                        
-                        <i data-sanitized-class="bi bi-currency-pound"></i>
-                        
-                        <div>جنيه الذهب</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">52800</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">52680 - 52920</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/gold/usdsagha">
-                      <div data-sanitized-class="justify-content-start">
-                        
-                        <i data-sanitized-class="bi bi-coin"></i>
-                        
-                        <div>دولار الصاغة</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">50.48</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">50.37 - 50.6</div>
-                  </td>
-                </tr>
-                
-  
-              </tbody>
-            </table>]]></description>
-			<pubDate>Tue, 25 Aug 2026 01:02:09 +0300</pubDate>
-			<guid isPermaLink="false">1787608936124155</guid>
-		</item>
-		<item>
-			<title>أسعار العملات في مصر</title>
-			<link>https://realegp.com/</link>
-						<description><![CDATA[<table data-sanitized-class="table currencies-table">
-              <thead>
-                <tr data-sanitized-class="thick-border">
-                  <th data-sanitized-class="text-end">العملة</th>
-                  <th>سعر البنك</th>
-                  <th>
-                    <div>سعر السوق</div>
-                    <div data-sanitized-class="range">من - إلى</div>
-                  </th>
-                </tr>
-              </thead>
-              <tbody>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/usd">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-us fib"></i>
-                        </div>
-                        <div>دولار أمريكي</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">50.68</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">51.26</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">50.9 - 51.52</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/eur">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-eu fib"></i>
-                        </div>
-                        <div>يورو</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">59.1</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">59.77</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">59.35 - 60.07</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/sar">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-sa fib"></i>
-                        </div>
-                        <div>ريال سعودي</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">13.41</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">13.56</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">13.47 - 13.63</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/kwd">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-kw fib"></i>
-                        </div>
-                        <div>دينار كويتي</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">164.5</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">166.43</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">165.2 - 167.2</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/aed">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-ae fib"></i>
-                        </div>
-                        <div>درهم اماراتي</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">13.7</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">13.85</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">13.75 - 13.92</div>
-                  </td>
-                </tr>
-                
-  
-              </tbody>
-            </table>]]></description>
-			<pubDate>Mon, 24 Aug 2026 23:32:09 +0300</pubDate>
-			<guid isPermaLink="false">1787603529982596</guid>
-		</item>
-		<item>
-			<title>أسعار الذهب في مصر</title>
-			<link>https://realegp.com/</link>
-						<description><![CDATA[<table data-sanitized-class="table currencies-table">
-              <thead>
-                <tr data-sanitized-class="thick-border">
-                  <th data-sanitized-class="text-end">الذهب</th>
-                  <th>
-                    <div>متوسط السعر</div>
-                    <div data-sanitized-class="range">من - إلى</div>
-                  </th>
-                </tr>
-              </thead>
-              <tbody>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/gold/18k">
-                      <div data-sanitized-class="justify-content-start">
-                        
-                        <img src="https://realegp.com/static/img/gold.png">
-                        
-                        <div>ذهب عيار 18</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">5661</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">5648 - 5674</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/gold/21k">
-                      <div data-sanitized-class="justify-content-start">
-                        
-                        <img src="https://realegp.com/static/img/gold.png">
-                        
-                        <div>ذهب عيار 21</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">6605</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">6590 - 6620</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/gold/24k">
-                      <div data-sanitized-class="justify-content-start">
-                        
-                        <img src="https://realegp.com/static/img/gold.png">
-                        
-                        <div>ذهب عيار 24</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">7549</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">7532 - 7566</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/gold/pound">
-                      <div data-sanitized-class="justify-content-start">
-                        
-                        <i data-sanitized-class="bi bi-currency-pound"></i>
-                        
-                        <div>جنيه الذهب</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">52840</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">52720 - 52960</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/gold/usdsagha">
-                      <div data-sanitized-class="justify-content-start">
-                        
-                        <i data-sanitized-class="bi bi-coin"></i>
-                        
-                        <div>دولار الصاغة</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">50.73</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">50.62 - 50.85</div>
-                  </td>
-                </tr>
-                
-  
-              </tbody>
-            </table>]]></description>
-			<pubDate>Mon, 24 Aug 2026 23:32:09 +0300</pubDate>
-			<guid isPermaLink="false">1787603529982595</guid>
 		</item>
 
 	</channel>
