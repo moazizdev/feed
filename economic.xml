@@ -3,10 +3,182 @@
 		<title>اقتصاد</title>
 		<link>http://192.168.1.50:8081/api/query.php?user=admin&amp;t=4IzCA6HFSoouCSR9nVqNkV&amp;f=html</link>
 		<description>RSS feed of اقتصاد</description>
-		<pubDate>Sun, 30 Aug 2026 21:00:03 +0300</pubDate>
-		<lastBuildDate>Sun, 30 Aug 2026 18:00:03 GMT</lastBuildDate>
+		<pubDate>Sun, 30 Aug 2026 21:15:04 +0300</pubDate>
+		<lastBuildDate>Sun, 30 Aug 2026 18:15:04 GMT</lastBuildDate>
 		<atom:link href="http://192.168.1.50:8081/api/query.php?user=admin&amp;t=4IzCA6HFSoouCSR9nVqNkV&amp;f=rss" rel="self" type="application/rss+xml" />
 				<item>
+			<title>أسعار العملات في مصر</title>
+			<link>https://realegp.com/</link>
+						<description><![CDATA[<table data-sanitized-class="table currencies-table">
+              <thead>
+                <tr data-sanitized-class="thick-border">
+                  <th data-sanitized-class="text-end">العملة</th>
+                  <th>سعر البنك</th>
+                  <th>
+                    <div>سعر السوق</div>
+                    <div data-sanitized-class="range">من - إلى</div>
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/usd">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-us fib"></i>
+                        </div>
+                        <div>دولار أمريكي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">50.47</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">50.99</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">50.63 - 51.24</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/eur">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-eu fib"></i>
+                        </div>
+                        <div>يورو</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">58.48</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">59.07</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">58.66 - 59.37</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/sar">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-sa fib"></i>
+                        </div>
+                        <div>ريال سعودي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">13.35</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">13.49</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">13.4 - 13.56</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/kwd">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-kw fib"></i>
+                        </div>
+                        <div>دينار كويتي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">163.8</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">165.55</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">164.3 - 166.3</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/aed">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-ae fib"></i>
+                        </div>
+                        <div>درهم اماراتي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">13.64</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">13.78</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">13.68 - 13.85</div>
+                  </td>
+                </tr>
+                
+  
+              </tbody>
+            </table>]]></description>
+			<pubDate>Sun, 30 Aug 2026 21:02:13 +0300</pubDate>
+			<guid isPermaLink="false">1788112937529881</guid>
+		</item>
+		<item>
 			<title>أسعار العملات في مصر</title>
 			<link>https://realegp.com/</link>
 						<description><![CDATA[<table data-sanitized-class="table currencies-table">
@@ -183,7 +355,7 @@
 			<link>https://newsletter.amwal.ai/p/099</link>
 						<dc:creator>Amwal AI - أموال إيه آي</dc:creator>
 			<media:content url="https://substackcdn.com/image/fetch/$s_!DlTe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6d59e3ee-f311-4521-bc32-5f021de428a9_1920x1080.jpeg" type="image/jpeg"></media:content>
-			<description><![CDATA[<div data-attrs='{"url":"https://newsletter.amwal.ai/subscribe?","text":"Subscribe","language":"en"}' data-component-name="SubscribeWidgetToDOM" data-sanitized-class="subscription-widget-wrap-editor"><div data-sanitized-class="subscription-widget show-subscribe"><div data-sanitized-class="preamble"><p data-sanitized-class="cta-caption">فاتتك الأخبار؟ اشترك لتصلك نشرتنا على بريدك الإلكتروني</p></div><div data-sanitized-class="fake-input-wrapper"><div data-sanitized-class="fake-input"></div><div data-sanitized-class="fake-button"></div></div></div></div><div data-sanitized-class="captioned-image-container"><figure><a href="https://substackcdn.com/image/fetch/%24s_!DlTe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6d59e3ee-f311-4521-bc32-5f021de428a9_1920x1080.jpeg" data-component-name="Image2ToDOM" data-sanitized-class="image-link image2 is-viewable-img"><div data-sanitized-class="image2-inset"><picture><source type="image/webp"><img src="https://substackcdn.com/image/fetch/%24s_!DlTe!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6d59e3ee-f311-4521-bc32-5f021de428a9_1920x1080.jpeg" width="1456" height="819" data-attrs='{"src":"https://substack-post-media.s3.amazonaws.com/public/images/6d59e3ee-f311-4521-bc32-5f021de428a9_1920x1080.jpeg","srcNoWatermark":null,"fullscreen":null,"imageSize":null,"height":819,"width":1456,"resizeWidth":null,"bytes":null,"alt":null,"title":null,"type":null,"href":null,"belowTheFold":false,"topImage":true,"internalRedirect":null,"isProcessing":false,"align":null,"offset":false}' alt="" data-sanitized-class="sizing-normal"></picture><div data-sanitized-class="image-link-expand"><div data-sanitized-class="pencraft pc-display-flex pc-gap-8 pc-reset"><button data-sanitized-class="pencraft pc-reset pencraft icon-container restack-image"></button><button data-sanitized-class="pencraft pc-reset pencraft icon-container view-image"></button></div></div></div></a></figure></div><p><span>أهلًا بكم في نشرة أموال الأسبوعية!</span></p><p><span>توقفنا في عددنا السابق عند تدخُّل الخزانة الأمريكية في سوق السندات وما تبعه من تراجعٍ في الأسهم وارتفاعٍ في الذهب وبتكوين، وقد جاءت كلمة رئيس الفيدرالي في ندوة چاكسون هول هذا الأسبوع لتُعيد تسعير مسار الفائدة، فارتفعت عوائد السندات قصيرة الأجل وهبط الذهب، بينما أنهت الأسهم الأمريكية الأسبوع مرتفعة. لذا نبدأ عدد هذا الأسبوع بكلمة وارش وأثرها على السندات والدولار والأسهم، ونقدم تحليلًا خاصًا لأسباب ارتفاع عوائد السندات طويلة الأجل منذ أكثر من عام، ثم ننتقل إلى تغطية وتقديرات لأسعار أسهم أبرز الشركات على المدى القصير والطويل، فمستجدات السياسة النقدية العالمية، ونختم بقراءتنا المعتادة للذهب وبتكوين.</span></p><p data-attrs='{"url":"https://www.amwal.ai/#portfolios","text":"للاشتراك في محافظ أموال","action":null,"class":null}' data-component-name="ButtonCreateButton" data-sanitized-class="button-wrapper"><a href="https://www.amwal.ai/#portfolios" data-sanitized-class="button primary"><span>للاشتراك في محافظ أموال</span></a></p><h2><strong><span>عوائد السندات قصيرة الأجل ترتفع بعد كلمة چاكسون هول</span></strong></h2><p><span>ألقى كيڤن وارش، رئيس الفيدرالي، أول كلمةٍ له في ندوة چاكسون هول يوم الجمعة، فقال إن قراءات التضخم خلال الصيف لا تعني أن الاتجاه الأساسي للأسعار قد تحسَّن، وإن الأوضاع المالية ليست متشددة، وأكَّد ثبات هدف ٢٪ لمعدل التضخم، ورفض العودة إلى ممارسة التوجيه المسبق للأسواق (Forward Guidance). في حين يبلغ التضخم الأمريكي ٣٫٧٪ سنويًا، متجاوزًا المستوى المستهدف لقرابة خمس سنوات متصلة.</span></p><p><span>ارتفع احتمال رفع الفائدة في اجتماع سبتمبر من ٣٦٪ إلى ٥٨٪ بعد كلمة وارش، فيما تُسعِّر العقود الآجلة حاليًا رفع الفائدة مرتين خلال الاثني عشر شهرًا القادمة. وارتفع عائد السندات لأجل عامين ١٠ نقاط أساس خلال الأسبوع إلى ٤٫٣٤٪ وهو أعلى مستوى له منذ الانتخابات الرئاسية في نهاية ٢٠٢٤، بينما تراجع عائد العشر سنوات نقطة واحدة إلى ٤٫٧٣٪ وعائد الثلاثين عامًا ٥ نقاط إلى ٥٫٢٢٪. وارتفع مؤشر الدولار DXY بنسبة ٠٫٩٪ خلال الأسبوع.</span></p><p><span>في المقابل، ارتفع مؤشر S&amp;P 500 بنسبة ٠٫٥٪ إلى ٧,٧١٢ نقطة، وارتفع مؤشر Nasdaq 100 بنسبة ٠٫٤٪ إلى ٢٩,٤٣٣ نقطة، ومؤشر Dow Jones بنسبة ٠٫٥٪ إلى ٥٣,٥٦٠ نقطة، وتراجع مؤشر Russell 2000 للشركات الصغيرة ١٫٥٪، وأغلق مؤشر التذبذب VIX عند ١٤ نقطة وهو أدنى إغلاقٍ له في ٢٠٢٦. وتركَّزت مكاسب الأسبوع في جلسة الخميس التي تلت نتائج Nvidia الإيجابية.</span></p><p><span>ويبقى السؤال الأوسع في الأسواق هو سبب ارتفاع عوائد السندات طويلة الأجل المستمر منذ أكثر من عام.</span></p><p><span>لا يرتفع عائد السند إلا لواحدٍ من ثلاثة أسباب: أن يتوقع المستثمرون فائدةً مستقبلية أعلى، أو أن يتوقعوا تضخمًا أعلى، أو أن يطلبوا عائدًا إضافيًا مقابل مخاطرة تراجع قيمة السندات التي يحتفظون بها، وهو ما يسمى «علاوة المخاطرة» أو Risk Premium.</span></p><p><span>نستبعد السبب الأول، فقد خفض الفيدرالي الفائدة على مدى العامين الماضيين وواصلت العوائد طويلة الأجل صعودها رغم ذلك. والسبب الثاني مُستبعد أيضًا، حيث توقعات التضخم المستخلصة من أسعار السندات المرتبطة بالتضخم مستقرة عند ٢٫٣٪ لأجلَي خمس وعشر سنوات. فلم يبقَ إلا السبب الثالث، وهو ارتفاع علاوة المخاطرة. وليست المخاطرة المقصودة هنا تقلُّب الفائدة نفسه، إذ تتراجع مقاييس التذبذب المتوقع في سوق السندات.</span></p><div data-sanitized-class="captioned-image-container"><figure><a href="https://substackcdn.com/image/fetch/%24s_!efqM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F16f9bd89-d8cd-4199-a992-d64cf873ee05_2048x980.png" data-component-name="Image2ToDOM" data-sanitized-class="image-link image2 is-viewable-img"><div data-sanitized-class="image2-inset"><picture><source type="image/webp"><img src="https://substackcdn.com/image/fetch/%24s_!efqM!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F16f9bd89-d8cd-4199-a992-d64cf873ee05_2048x980.png" width="1456" height="697" data-attrs='{"src":"https://substack-post-media.s3.amazonaws.com/public/images/16f9bd89-d8cd-4199-a992-d64cf873ee05_2048x980.png","srcNoWatermark":null,"fullscreen":null,"imageSize":null,"height":697,"width":1456,"resizeWidth":null,"bytes":null,"alt":null,"title":null,"type":null,"href":null,"belowTheFold":true,"topImage":false,"internalRedirect":null,"isProcessing":false,"align":null,"offset":false}' alt="" data-sanitized-class="sizing-normal"></picture><div data-sanitized-class="image-link-expand"><div data-sanitized-class="pencraft pc-display-flex pc-gap-8 pc-reset"><button data-sanitized-class="pencraft pc-reset pencraft icon-container restack-image"></button><button data-sanitized-class="pencraft pc-reset pencraft icon-container view-image"></button></div></div></div></a><figcaption data-sanitized-class="image-caption">​​العائد على سندات الـ١٠ سنوات والـ٣٠ سنة مقابل معدل الفائدة الفيدرالي</figcaption></figure></div><p><span>ويُرجع الكثير من المحللين ارتفاع هذه العلاوة إلى منافسة الشركات الأعلى إنفاقًا على الذكاء الاصطناعي للخزانة الأمريكية على مصادر التمويل نفسها، ولا نرى في أموال أن الأرقام تدعم هذا التفسير. فلو صحَّ لاتجه المستثمرون إلى سندات الشركات بحثًا عن عوائدها الأعلى، بينما مازالت صناديق التقاعد الأمريكية، وهي أكبر المستثمرين في سوق السندات وأكثرهم خبرة، ترفع من حيازاتها من السندات الحكومية وتقلل من سندات الشركات. ولم يتسع الفارق بين عائد سندات الشركات وعائد السندات الحكومية، أي أن سندات الشركات لم تصبح أكثر جاذبية أصلًا. كما ارتفعت عوائد السندات الألمانية أسرع من نظيرتها الأمريكية، ولو كان الاقتراض الأمريكي هو السبب لكان الارتفاع في الأمريكية أكبر.</span></p><div data-sanitized-class="captioned-image-container"><figure><a href="https://substackcdn.com/image/fetch/%24s_!m04t!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff972ea0f-fc60-48e8-bce3-42c3eb149c1f_2048x963.png" data-component-name="Image2ToDOM" data-sanitized-class="image-link image2 is-viewable-img"><div data-sanitized-class="image2-inset"><picture><source type="image/webp"><img src="https://substackcdn.com/image/fetch/%24s_!m04t!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff972ea0f-fc60-48e8-bce3-42c3eb149c1f_2048x963.png" width="1456" height="685" data-attrs='{"src":"https://substack-post-media.s3.amazonaws.com/public/images/f972ea0f-fc60-48e8-bce3-42c3eb149c1f_2048x963.png","srcNoWatermark":null,"fullscreen":null,"imageSize":null,"height":685,"width":1456,"resizeWidth":null,"bytes":null,"alt":null,"title":null,"type":null,"href":null,"belowTheFold":true,"topImage":false,"internalRedirect":null,"isProcessing":false,"align":null,"offset":false}' alt="" data-sanitized-class="sizing-normal"></picture><div data-sanitized-class="image-link-expand"><div data-sanitized-class="pencraft pc-display-flex pc-gap-8 pc-reset"><button data-sanitized-class="pencraft pc-reset pencraft icon-container restack-image"></button><button data-sanitized-class="pencraft pc-reset pencraft icon-container view-image"></button></div></div></div></a><figcaption data-sanitized-class="image-caption">حيازات صناديق التقاعد من السندات الحكومية الأمريكية وسندات الشركات</figcaption></figure></div><div data-sanitized-class="captioned-image-container"><figure><a href="https://substackcdn.com/image/fetch/%24s_!YSab!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb2d10e2a-e676-4aab-8714-4f034e381adb_2048x980.png" data-component-name="Image2ToDOM" data-sanitized-class="image-link image2 is-viewable-img"><div data-sanitized-class="image2-inset"><picture><source type="image/webp"><img src="https://substackcdn.com/image/fetch/%24s_!YSab!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb2d10e2a-e676-4aab-8714-4f034e381adb_2048x980.png" width="1456" height="697" data-attrs='{"src":"https://substack-post-media.s3.amazonaws.com/public/images/b2d10e2a-e676-4aab-8714-4f034e381adb_2048x980.png","srcNoWatermark":null,"fullscreen":null,"imageSize":null,"height":697,"width":1456,"resizeWidth":null,"bytes":null,"alt":null,"title":null,"type":null,"href":null,"belowTheFold":true,"topImage":false,"internalRedirect":null,"isProcessing":false,"align":null,"offset":false}' alt="" data-sanitized-class="sizing-normal"></picture><div data-sanitized-class="image-link-expand"><div data-sanitized-class="pencraft pc-display-flex pc-gap-8 pc-reset"><button data-sanitized-class="pencraft pc-reset pencraft icon-container restack-image"></button><button data-sanitized-class="pencraft pc-reset pencraft icon-container view-image"></button></div></div></div></a><figcaption data-sanitized-class="image-caption">​​العائد على السندات الألمانية والسندات الأمريكية والفرق بين عوائد أذون الخزانة الألمانية والأمريكية</figcaption></figure></div><p><span>ونرى في أموال أن ما يُسعِّره المستثمرون هو أوضاع المالية العامة الأمريكية نفسها. فهم لا يخشون تعثُّرًا في سداد الدين، وإنما يخشون تآكل القيمة الحقيقية لما يستردونه مع استمرار العجز المالي دون مسارٍ واضح لضبطه.</span></p><p><span>أوضح دليلٍ على ذلك أن السندات الأمريكية لم تعد تؤدي دورها الدفاعي، إذ كانت أسعارها ترتفع كلما اضطربت الأسواق حتى ٢٠٢٠، فيُعوض ارتفاع السندات انخفاض الأسهم، لكن هذه العلاقة اختفت تمامًا بعد ٢٠٢٠، فأصبح كل اضطراب للأسواق يؤدي إلى انخفاض الأسهم والسندات معًا. ومازالت توقعات التضخم مستقرة رغم ذلك، وهو ما نتابعه عن قرب، فبقاء التضخم فوق هدف ٢٪ خمس سنوات متصلة يجعل استقرار هذه التوقعات أقل ضمانًا كلما طال الأمد.</span></p><div data-sanitized-class="captioned-image-container"><figure><a href="https://substackcdn.com/image/fetch/%24s_!a1x4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F778adc92-90dd-433e-90de-149e32deff39_2048x823.png" data-component-name="Image2ToDOM" data-sanitized-class="image-link image2 is-viewable-img"><div data-sanitized-class="image2-inset"><picture><source type="image/webp"><img src="https://substackcdn.com/image/fetch/%24s_!a1x4!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F778adc92-90dd-433e-90de-149e32deff39_2048x823.png" width="1456" height="585" data-attrs='{"src":"https://substack-post-media.s3.amazonaws.com/public/images/778adc92-90dd-433e-90de-149e32deff39_2048x823.png","srcNoWatermark":null,"fullscreen":null,"imageSize":null,"height":585,"width":1456,"resizeWidth":null,"bytes":null,"alt":null,"title":null,"type":null,"href":null,"belowTheFold":true,"topImage":false,"internalRedirect":null,"isProcessing":false,"align":null,"offset":false}' alt="" data-sanitized-class="sizing-normal"></picture><div data-sanitized-class="image-link-expand"><div data-sanitized-class="pencraft pc-display-flex pc-gap-8 pc-reset"><button data-sanitized-class="pencraft pc-reset pencraft icon-container restack-image"></button><button data-sanitized-class="pencraft pc-reset pencraft icon-container view-image"></button></div></div></div></a><figcaption data-sanitized-class="image-caption">تغير العلاقة بين مؤشر التذبذب VIX والعائد على سندات الـ١٠ سنوات الأمريكية في الفترة من عام ٢٠٠٠ إلى عام ٢٠٢٠، ومن ٢٠٢١ حتى الآن</figcaption></figure></div><p><span>وخلاصة ما سبق أن عوائد السندات طويلة الأجل لا ترتفع لأن المستثمرين يتوقعون فائدةً أعلى أو تضخمًا أعلى، ولا لأن الشركات تزاحم الخزانة على التمويل، ولا لأن مخاطر تقلُّب الفائدة ازدادت، بل لأنهم يطلبون تعويضًا عن احتمال أن تتآكل قيمة ديونهم بفعل سياساتٍ تُبقي العوائد دون التضخم. واللافت أنهم لم يرفعوا توقعاتهم للتضخم رغم إدراكهم أن الفيدرالي صار أميل إلى التيسير تحت ضغط احتياجات التمويل الحكومي. فإذا استمر هذا الوضع، فإن ما سيطلبه المستثمرون لاحقًا هو تعويضٌ عن ضريبة التضخم نفسها، وهو ما يرفع العوائد طويلة الأجل من جديد. وعلى هذه القراءة نبني نظرتنا بعيدة الأجل، وهي أن السندات لن تكون استثمارًا جيدًا خلال العقد المقبل، وأن الذهب يبقى في دورة صعودٍ طويلة الأجل.</span></p><div data-attrs='{"url":"https://newsletter.amwal.ai/p/099?utm_source=substack&amp;utm_medium=email&amp;utm_content=share&amp;action=share","text":"Share"}' data-component-name="CaptionedButtonToDOM" data-sanitized-class="captioned-button-wrap"><div data-sanitized-class="preamble"><p data-sanitized-class="cta-caption">لديك صديق مهتم بالاستثمار؟ شارك نشرتنا معه</p></div><p data-attrs='{"url":"https://newsletter.amwal.ai/p/099?utm_source=substack&amp;utm_medium=email&amp;utm_content=share&amp;action=share","text":"Share"}' data-component-name="ButtonCreateButton" data-sanitized-class="button-wrapper"><a href="https://newsletter.amwal.ai/p/099?utm_source=substack&amp;utm_medium=email&amp;utm_content=share&amp;action=share" data-sanitized-class="button primary"><span>Share</span></a></p></div><h2><strong><span>تقدير أسعار أسهم أبرز الشركات</span></strong></h2><p><span>تحسَّنت قراءتنا الفنية قصيرة الأجل للأسهم الأمريكية خلال الأسبوع، دون أن يتغيَّر أيٌّ من تقييماتنا للشركات الكبرى، إذ نبني هذه التقييمات على تقديراتنا للأرباح لا على حركة الأسعار قصيرة الأجل.</span></p><p><span>أعلنت Nvidia نتائجها مساء الأربعاء، فبلغت إيراداتها ٩٦ مليار دولار بنموٍّ قدره ١٠٦٪ سنويًا، بينما نمت إيرادات مراكز البيانات ١١٧٪، وجاءت ربحية السهم ٢٫٢٢ دولار مقابل ٢٫٠٩ دولار متوقعة. تتوقع الشركة نموًا يقارب ٧٠٪ في إيرادات ٢٠٢٧، مع خفض هامش ربحها الإجمالي المتوقع من ٧٥٪ إلى ٧٢٪. ارتفع السهم ٨٫٧٪ يوم الخميس مضيفًا ٤٤٠ مليار دولار إلى قيمته السوقية في جلسةٍ واحدة، وهو ثاني أكبر مكسبٍ يومي في تاريخ السوق الأمريكية، ثم تراجع ٤٫٥٪ يوم الجمعة. ومازالت نظرتنا إلى سهم Nvidia إيجابية، وإن خفَّضنا تقديرنا لأرباحه في ٢٠٢٧ بعد التوجه الجديد، فصارت تزيد على متوسط تقديرات السوق بنحو ٢١٪ بدلًا من ٣٠٪.</span></p><p><strong><span>تقديرات أموال لأسعار الأسهم الرئيسية:</span></strong></p><ul><li><p>سهم Nvidia: ٢٢٦ دولارًا على المدى القصير، و٧١٠ دولارًا على المدى الطويل. سعر السهم الحالي هو ٢١٧٫٥٥ دولار.</p></li><li><p>سهم Amazon: ٢٦٤ دولارًا على المدى القصير، و٤٨٠ دولارًا على المدى الطويل. سعر السهم الحالي هو ٢٦٦٫٤٣ دولار.</p></li><li><p>سهم Micron: ٩٧٠ دولارًا على المدى القصير، و١٠١٥ دولارًا على المدى الطويل. سعر السهم الحالي هو ٩٣٢٫٨٦ دولار.</p></li><li><p>سهم Microsoft: ٤٩٧ دولارًا على المدى القصير، و٧٩٨ دولارًا على المدى الطويل. سعر السهم الحالي هو ٥١٣٫٥٣ دولار.</p></li><li><p>سهم Google: ٣٤٥ دولارًا على المدى القصير، و٤٠٦ دولارًا على المدى الطويل. سعر السهم الحالي هو ٣٤٢٫٨٨ دولار.</p></li><li><p>سهم Meta: ٥٩٦ دولارًا على المدى القصير، و٣٧٩ دولارًا على المدى الطويل. سعر السهم الحالي هو ٥٧٨٫٠٢ دولار.</p></li></ul><div data-sanitized-class="captioned-image-container"><figure><a href="https://www.amwal.ai/" data-component-name="Image2ToDOM" data-sanitized-class="image-link image2"><div data-sanitized-class="image2-inset"><picture><source type="image/webp"><img src="https://substackcdn.com/image/fetch/%24s_!rZ8Y!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb59c7805-96f5-4e5d-85fb-9f0c5140983d_1100x220.jpeg" width="1100" height="220" data-attrs='{"src":"https://substack-post-media.s3.amazonaws.com/public/images/b59c7805-96f5-4e5d-85fb-9f0c5140983d_1100x220.jpeg","srcNoWatermark":null,"fullscreen":null,"imageSize":null,"height":220,"width":1100,"resizeWidth":null,"bytes":null,"alt":null,"title":null,"type":null,"href":"https://www.amwal.ai/","belowTheFold":true,"topImage":false,"internalRedirect":null,"isProcessing":false,"align":null,"offset":false}' alt="" data-sanitized-class="sizing-normal"></picture><div></div></div></a></figure></div><h2><strong><span>تراجع الذهب فرصة للاستثمار طويل المدى</span></strong></h2><p><span>تراجع الذهب ٣٪ خلال الأسبوع إلى ٤,٤٥٥ دولارًا للأونصة، بعد أن سجَّل قمةً دورية جديدة عند ٤,٦٩٧ دولارًا يوم الثلاثاء. وجاء معظم التراجع في جلسة الجمعة وحدها عقب كلمة چاكسون هول، مع ارتفاع عوائد السندات قصيرة الأجل وارتفاع الدولار.</span></p><p><span>نرى في أموال أن مستويات ٤,٣٥٠ إلى ٤,٤٥٠ دولارًا للأونصة مناسبة للعودة إلى الاستثمار في الذهب بعد تحوُّل إشارة الزخم لدينا من سلبية إلى محايدة. وتراجع عائد الثلاثين عامًا ٥ نقاط أساس خلال الأسبوع إلى ٥٫٢٢٪، وهو التراجع الذي اشترطناه للعودة إلى الاستثمار في الذهب، ويحتاج السعر استمرار التراجع في عوائد السندات خلال الأشهر القادمة كي يواصل الارتفاع.</span></p><p><span>نرى في أموال أن التصحيح الحالي سينتهي قرب ٤,٣٥٠-٤,٤٠٠ دولار مطلع الأسبوع المقبل، تليه موجة صعودٍ ثانية نحو ٥,٠٠٠ دولار بحلول أكتوبر.</span></p><p><strong><span>💡 توقعات خبراء أموال: نبدأ الآن في العودة تدريجيًا إلى الاستثمار في الذهب، ويبقى هدفنا عند ٦,٥٠٠ دولار خلال النصف الأول من ٢٠٢٧ بشرط استمرار تراجع عوائد السندات طويلة الأجل.</span></strong></p><div><hr></div><h2><strong><span>بتكوين في اختبار حقيقي عند متوسط الخمسين أسبوع</span></strong></h2><p><span>تجاوز بتكوين مستوى ٨١,٠٠٠ دولار في منتصف الأسبوع قبل أن يتراجع مرة أخرى إلى ٧٨,١٠٠ دولار بنهاية جلسة الجمعة.</span></p><p><span>وصمد الشرطان اللذان يحددان حالة السوق، فقد بقي السعر فوق المتوسط الحقيقي للسوق (True Market Mean)، وهو متوسط تكلفة السوق ككل، الذي ارتفع بدوره إلى ٧٦,٣٠٠ دولار، وفوق متوسط تكلفة المستثمرين قصيري الأجل (STH Cost Basis) الذي ارتفع إلى ٧٠,٠٠٠ دولار، وقد أضفنا مركزنا الجديد في بتكوين كما أعلنَّا في النشرة الماضية.</span></p><p><span>والاختبار المقبل هو متوسط الخمسين أسبوعًا عند ٨٢,٠٠٠ دولار، وهو المستوى نفسه الذي توقَّف عنده الصعود في منتصف الأسبوع، والإغلاق الأسبوعي فوقه يفتح الطريق نحو ٨٦,٠٠٠ دولار. ويبقى التراجع دون المتوسط الحقيقي للسوق هو ما يُنهي هذه القراءة الإيجابية.</span></p><p><span>وكان هناك تدفقات إيجابية لصناديق ETFs بنحو ٩٠٠ مليون دولار في أسبوعٍ إيجابي ثانٍ، وهو نصف تدفق الأسبوع السابق تقريبًا، ومازال متوسط تكلفة مستثمريها عند ٨٤,٢٠٠ دولار أي أن معظمهم في خسارةٍ تقارب ٧٪ بعد أن كانت تقارب ١٠٪ قبل أسبوع.</span></p><p><strong><span>💡 توقعات خبراء أموال: نحافظ على نظرتنا الإيجابية لبتكوين طالما ظل السعر فوق المتوسط الحقيقي للسوق، الذي ارتفع هذا الأسبوع إلى ٧٦,٣٠٠ دولار.</span></strong></p><div><hr></div><h2><strong>ما يجب مراقبته خلال الأسبوع المقبل</strong></h2><ul><li><p><span>الإثنين ٣١ أغسطس: مؤشر مديري المشتريات الصناعي الرسمي في الصين لشهر أغسطس (المتوقع ٤٩٫٥ نقطة).</span></p></li><li><p><span>الثلاثاء ١ سبتمبر: مؤشر ISM الصناعي الأمريكي، وبيانات فرص العمل المتاحة، والقراءة الأولية للتضخم في منطقة اليورو.</span></p></li><li><p><span>الأربعاء ٢ سبتمبر: تقرير الفيدرالي عن أوضاع الاقتصاد.</span></p></li><li><p><span>الخميس ٣ سبتمبر: كلمة كريستوفر وولر، عضو مجلس الفيدرالي، ومؤشر ISM الخدمي.</span></p></li><li><p><span>الجمعة ٤ سبتمبر: تقرير الوظائف الأمريكية لشهر أغسطس (المتوقع ٥٥,٠٠٠ وظيفة).</span></p><p></p><p><strong><span>ترقَّبوا عددنا القادم لمواكبة أبرز المستجدات وتحليل انعكاساتها على مختلف الأصول الاستثمارية.</span></strong></p></li></ul><p data-attrs='{"url":"https://www.amwal.ai/","text":"للمزيد من المعلومات عن أموال، زُر موقعنا","action":null,"class":null}' data-component-name="ButtonCreateButton" data-sanitized-class="button-wrapper"><a href="https://www.amwal.ai/" data-sanitized-class="button primary"><span>للمزيد من المعلومات عن أموال، زُر موقعنا</span></a></p>]]></description>
+			<description><![CDATA[<div data-attrs='{"url":"https://newsletter.amwal.ai/subscribe?","text":"Subscribe","language":"en"}' data-component-name="SubscribeWidgetToDOM" data-sanitized-class="subscription-widget-wrap-editor"><div data-sanitized-class="subscription-widget show-subscribe"><div data-sanitized-class="preamble"><p data-sanitized-class="cta-caption">فاتتك الأخبار؟ اشترك لتصلك نشرتنا على بريدك الإلكتروني</p></div><div data-sanitized-class="fake-input-wrapper"><div data-sanitized-class="fake-input"></div><div data-sanitized-class="fake-button"></div></div></div></div><div data-sanitized-class="captioned-image-container"><figure><a href="https://substackcdn.com/image/fetch/%24s_!DlTe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6d59e3ee-f311-4521-bc32-5f021de428a9_1920x1080.jpeg" data-component-name="Image2ToDOM" data-sanitized-class="image-link image2 is-viewable-img"><div data-sanitized-class="image2-inset"><picture><source type="image/webp"><img src="https://substackcdn.com/image/fetch/%24s_!DlTe!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6d59e3ee-f311-4521-bc32-5f021de428a9_1920x1080.jpeg" width="1456" height="819" data-attrs='{"src":"https://substack-post-media.s3.amazonaws.com/public/images/6d59e3ee-f311-4521-bc32-5f021de428a9_1920x1080.jpeg","srcNoWatermark":null,"fullscreen":null,"imageSize":null,"height":819,"width":1456,"resizeWidth":null,"bytes":null,"alt":null,"title":null,"type":null,"href":null,"belowTheFold":false,"topImage":true,"internalRedirect":null,"isProcessing":false,"align":null,"offset":false}' alt="" data-sanitized-class="sizing-normal"></picture><div data-sanitized-class="image-link-expand"><div data-sanitized-class="pencraft pc-display-flex pc-gap-8 pc-reset"><button data-sanitized-class="pencraft pc-reset pencraft icon-container restack-image"></button><button data-sanitized-class="pencraft pc-reset pencraft icon-container view-image"></button></div></div></div></a></figure></div><p><span>أهلًا بكم في نشرة أموال الأسبوعية!</span></p><p><span>توقفنا في عددنا السابق عند تدخُّل الخزانة الأمريكية في سوق السندات وما تبعه من تراجعٍ في الأسهم وارتفاعٍ في الذهب وبتكوين، وقد جاءت كلمة رئيس الفيدرالي في ندوة چاكسون هول هذا الأسبوع لتُعيد تسعير مسار الفائدة، فارتفعت عوائد السندات قصيرة الأجل وهبط الذهب، بينما أنهت الأسهم الأمريكية الأسبوع مرتفعة. لذا نبدأ عدد هذا الأسبوع بكلمة وارش وأثرها على السندات والدولار والأسهم، ونقدم تحليلًا خاصًا لأسباب ارتفاع عوائد السندات طويلة الأجل منذ أكثر من عام، ثم ننتقل إلى تغطية وتقديرات لأسعار أسهم أبرز الشركات على المدى القصير والطويل، فمستجدات السياسة النقدية العالمية، ونختم بقراءتنا المعتادة للذهب وبتكوين.</span></p><p data-attrs='{"url":"https://www.amwal.ai/#portfolios","text":"للاشتراك في محافظ أموال","action":null,"class":null}' data-component-name="ButtonCreateButton" data-sanitized-class="button-wrapper"><a href="https://www.amwal.ai/#portfolios" data-sanitized-class="button primary"><span>للاشتراك في محافظ أموال</span></a></p><h2><strong><span>عوائد السندات قصيرة الأجل ترتفع بعد كلمة چاكسون هول</span></strong></h2><p><span>ألقى كيڤن وارش، رئيس الفيدرالي، أول كلمةٍ له في ندوة چاكسون هول يوم الجمعة، فقال إن قراءات التضخم خلال الصيف لا تعني أن الاتجاه الأساسي للأسعار قد تحسَّن، وإن الأوضاع المالية ليست متشددة، وأكَّد ثبات هدف ٢٪ لمعدل التضخم، ورفض العودة إلى ممارسة التوجيه المسبق للأسواق (Forward Guidance). في حين يبلغ التضخم الأمريكي ٣٫٧٪ سنويًا، متجاوزًا المستوى المستهدف لقرابة خمس سنوات متصلة.</span></p><p><span>ارتفع احتمال رفع الفائدة في اجتماع سبتمبر من ٣٦٪ إلى ٥٨٪ بعد كلمة وارش، فيما تُسعِّر العقود الآجلة حاليًا رفع الفائدة مرتين خلال الاثني عشر شهرًا القادمة. وارتفع عائد السندات لأجل عامين ١٠ نقاط أساس خلال الأسبوع إلى ٤٫٣٤٪ وهو أعلى مستوى له منذ الانتخابات الرئاسية في نهاية ٢٠٢٤، بينما تراجع عائد العشر سنوات نقطة واحدة إلى ٤٫٧٣٪ وعائد الثلاثين عامًا ٥ نقاط إلى ٥٫٢٢٪. وارتفع مؤشر الدولار DXY بنسبة ٠٫٩٪ خلال الأسبوع.</span></p><p><span>في المقابل، ارتفع مؤشر S&amp;P 500 بنسبة ٠٫٥٪ إلى ٧,٧١٢ نقطة، وارتفع مؤشر Nasdaq 100 بنسبة ٠٫٤٪ إلى ٢٩,٤٣٣ نقطة، ومؤشر Dow Jones بنسبة ٠٫٥٪ إلى ٥٣,٥٦٠ نقطة، وتراجع مؤشر Russell 2000 للشركات الصغيرة ١٫٥٪، وأغلق مؤشر التذبذب VIX عند ١٤ نقطة وهو أدنى إغلاقٍ له في ٢٠٢٦. وتركَّزت مكاسب الأسبوع في جلسة الخميس التي تلت نتائج Nvidia الإيجابية.</span></p><p><span>ويبقى السؤال الأوسع في الأسواق هو سبب ارتفاع عوائد السندات طويلة الأجل المستمر منذ أكثر من عام.</span></p><p><span>لا يرتفع عائد السند إلا لواحدٍ من ثلاثة أسباب: أن يتوقع المستثمرون فائدةً مستقبلية أعلى، أو أن يتوقعوا تضخمًا أعلى، أو أن يطلبوا عائدًا إضافيًا مقابل مخاطرة تراجع قيمة السندات التي يحتفظون بها، وهو ما يسمى «علاوة المخاطرة» أو Risk Premium.</span></p><p><span>نستبعد السبب الأول، فقد خفض الفيدرالي الفائدة على مدى العامين الماضيين وواصلت العوائد طويلة الأجل صعودها رغم ذلك. والسبب الثاني مُستبعد أيضًا، حيث توقعات التضخم المستخلصة من أسعار السندات المرتبطة بالتضخم مستقرة عند ٢٫٣٪ لأجلَي خمس وعشر سنوات. فلم يبقَ إلا السبب الثالث، وهو ارتفاع علاوة المخاطرة. وليست المخاطرة المقصودة هنا تقلُّب الفائدة نفسه، إذ تتراجع مقاييس التذبذب المتوقع في سوق السندات.</span></p><div data-sanitized-class="captioned-image-container"><figure><a href="https://substackcdn.com/image/fetch/%24s_!efqM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F16f9bd89-d8cd-4199-a992-d64cf873ee05_2048x980.png" data-component-name="Image2ToDOM" data-sanitized-class="image-link image2 is-viewable-img"><div data-sanitized-class="image2-inset"><picture><source type="image/webp"><img src="https://substackcdn.com/image/fetch/%24s_!efqM!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F16f9bd89-d8cd-4199-a992-d64cf873ee05_2048x980.png" width="1456" height="697" data-attrs='{"src":"https://substack-post-media.s3.amazonaws.com/public/images/16f9bd89-d8cd-4199-a992-d64cf873ee05_2048x980.png","srcNoWatermark":null,"fullscreen":null,"imageSize":null,"height":697,"width":1456,"resizeWidth":null,"bytes":null,"alt":null,"title":null,"type":null,"href":null,"belowTheFold":true,"topImage":false,"internalRedirect":null,"isProcessing":false,"align":null,"offset":false}' alt="" data-sanitized-class="sizing-normal"></picture><div data-sanitized-class="image-link-expand"><div data-sanitized-class="pencraft pc-display-flex pc-gap-8 pc-reset"><button data-sanitized-class="pencraft pc-reset pencraft icon-container restack-image"></button><button data-sanitized-class="pencraft pc-reset pencraft icon-container view-image"></button></div></div></div></a><figcaption data-sanitized-class="image-caption">​​العائد على سندات الـ١٠ سنوات والـ٣٠ سنة مقابل معدل الفائدة الفيدرالي</figcaption></figure></div><p><span>ويُرجع الكثير من المحللين ارتفاع هذه العلاوة إلى منافسة الشركات الأعلى إنفاقًا على الذكاء الاصطناعي للخزانة الأمريكية على مصادر التمويل نفسها، ولا نرى في أموال أن الأرقام تدعم هذا التفسير. فلو صحَّ لاتجه المستثمرون إلى سندات الشركات بحثًا عن عوائدها الأعلى، بينما مازالت صناديق التقاعد الأمريكية، وهي أكبر المستثمرين في سوق السندات وأكثرهم خبرة، ترفع من حيازاتها من السندات الحكومية وتقلل من سندات الشركات. ولم يتسع الفارق بين عائد سندات الشركات وعائد السندات الحكومية، أي أن سندات الشركات لم تصبح أكثر جاذبية أصلًا. كما ارتفعت عوائد السندات الألمانية أسرع من نظيرتها الأمريكية، ولو كان الاقتراض الأمريكي هو السبب لكان الارتفاع في الأمريكية أكبر.</span></p><div data-sanitized-class="captioned-image-container"><figure><a href="https://substackcdn.com/image/fetch/%24s_!m04t!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff972ea0f-fc60-48e8-bce3-42c3eb149c1f_2048x963.png" data-component-name="Image2ToDOM" data-sanitized-class="image-link image2 is-viewable-img"><div data-sanitized-class="image2-inset"><picture><source type="image/webp"><img src="https://substackcdn.com/image/fetch/%24s_!m04t!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff972ea0f-fc60-48e8-bce3-42c3eb149c1f_2048x963.png" width="1456" height="685" data-attrs='{"src":"https://substack-post-media.s3.amazonaws.com/public/images/f972ea0f-fc60-48e8-bce3-42c3eb149c1f_2048x963.png","srcNoWatermark":null,"fullscreen":null,"imageSize":null,"height":685,"width":1456,"resizeWidth":null,"bytes":null,"alt":null,"title":null,"type":null,"href":null,"belowTheFold":true,"topImage":false,"internalRedirect":null,"isProcessing":false,"align":null,"offset":false}' alt="" data-sanitized-class="sizing-normal"></picture><div data-sanitized-class="image-link-expand"><div data-sanitized-class="pencraft pc-display-flex pc-gap-8 pc-reset"><button data-sanitized-class="pencraft pc-reset pencraft icon-container restack-image"></button><button data-sanitized-class="pencraft pc-reset pencraft icon-container view-image"></button></div></div></div></a><figcaption data-sanitized-class="image-caption">حيازات صناديق التقاعد من السندات الحكومية الأمريكية وسندات الشركات</figcaption></figure></div><div data-sanitized-class="captioned-image-container"><figure><a href="https://substackcdn.com/image/fetch/%24s_!YSab!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb2d10e2a-e676-4aab-8714-4f034e381adb_2048x980.png" data-component-name="Image2ToDOM" data-sanitized-class="image-link image2 is-viewable-img"><div data-sanitized-class="image2-inset"><picture><source type="image/webp"><img src="https://substackcdn.com/image/fetch/%24s_!YSab!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb2d10e2a-e676-4aab-8714-4f034e381adb_2048x980.png" width="1456" height="697" data-attrs='{"src":"https://substack-post-media.s3.amazonaws.com/public/images/b2d10e2a-e676-4aab-8714-4f034e381adb_2048x980.png","srcNoWatermark":null,"fullscreen":null,"imageSize":null,"height":697,"width":1456,"resizeWidth":null,"bytes":null,"alt":null,"title":null,"type":null,"href":null,"belowTheFold":true,"topImage":false,"internalRedirect":null,"isProcessing":false,"align":null,"offset":false}' alt="" data-sanitized-class="sizing-normal"></picture><div data-sanitized-class="image-link-expand"><div data-sanitized-class="pencraft pc-display-flex pc-gap-8 pc-reset"><button data-sanitized-class="pencraft pc-reset pencraft icon-container restack-image"></button><button data-sanitized-class="pencraft pc-reset pencraft icon-container view-image"></button></div></div></div></a><figcaption data-sanitized-class="image-caption">​​العائد على السندات الألمانية والسندات الأمريكية والفرق بين عوائد أذون الخزانة الألمانية والأمريكية</figcaption></figure></div><p><span>ونرى في أموال أن ما يُسعِّره المستثمرون هو أوضاع المالية العامة الأمريكية نفسها. فهم لا يخشون تعثُّرًا في سداد الدين، وإنما يخشون تآكل القيمة الحقيقية لما يستردونه مع استمرار العجز المالي دون مسارٍ واضح لضبطه.</span></p><p><span>أوضح دليلٍ على ذلك أن السندات الأمريكية لم تعد تؤدي دورها الدفاعي، إذ كانت أسعارها ترتفع كلما اضطربت الأسواق حتى ٢٠٢٠، فيُعوض ارتفاع السندات انخفاض الأسهم، لكن هذه العلاقة اختفت تمامًا بعد ٢٠٢٠، فأصبح كل اضطراب للأسواق يؤدي إلى انخفاض الأسهم والسندات معًا. ومازالت توقعات التضخم مستقرة رغم ذلك، وهو ما نتابعه عن قرب، فبقاء التضخم فوق هدف ٢٪ خمس سنوات متصلة يجعل استقرار هذه التوقعات أقل ضمانًا كلما طال الأمد.</span></p><div data-sanitized-class="captioned-image-container"><figure><a href="https://substackcdn.com/image/fetch/%24s_!a1x4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F778adc92-90dd-433e-90de-149e32deff39_2048x823.png" data-component-name="Image2ToDOM" data-sanitized-class="image-link image2 is-viewable-img"><div data-sanitized-class="image2-inset"><picture><source type="image/webp"><img src="https://substackcdn.com/image/fetch/%24s_!a1x4!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F778adc92-90dd-433e-90de-149e32deff39_2048x823.png" width="1456" height="585" data-attrs='{"src":"https://substack-post-media.s3.amazonaws.com/public/images/778adc92-90dd-433e-90de-149e32deff39_2048x823.png","srcNoWatermark":null,"fullscreen":null,"imageSize":null,"height":585,"width":1456,"resizeWidth":null,"bytes":null,"alt":null,"title":null,"type":null,"href":null,"belowTheFold":true,"topImage":false,"internalRedirect":null,"isProcessing":false,"align":null,"offset":false}' alt="" data-sanitized-class="sizing-normal"></picture><div data-sanitized-class="image-link-expand"><div data-sanitized-class="pencraft pc-display-flex pc-gap-8 pc-reset"><button data-sanitized-class="pencraft pc-reset pencraft icon-container restack-image"></button><button data-sanitized-class="pencraft pc-reset pencraft icon-container view-image"></button></div></div></div></a><figcaption data-sanitized-class="image-caption">تغير العلاقة بين مؤشر التذبذب VIX والعائد على سندات الـ١٠ سنوات الأمريكية في الفترة من عام ٢٠٠٠ إلى عام ٢٠٢٠، ومن ٢٠٢١ حتى الآن</figcaption></figure></div><p><span>وخلاصة ما سبق أن عوائد السندات طويلة الأجل لا ترتفع لأن المستثمرين يتوقعون فائدةً أعلى أو تضخمًا أعلى، ولا لأن الشركات تزاحم الخزانة على التمويل، ولا لأن مخاطر تقلُّب الفائدة ازدادت، بل لأنهم يطلبون تعويضًا عن احتمال أن تتآكل قيمة ديونهم بفعل سياساتٍ تُبقي العوائد دون التضخم. واللافت أنهم لم يرفعوا توقعاتهم للتضخم رغم إدراكهم أن الفيدرالي صار أميل إلى التيسير تحت ضغط احتياجات التمويل الحكومي. فإذا استمر هذا الوضع، فإن ما سيطلبه المستثمرون لاحقًا هو تعويضٌ عن ضريبة التضخم نفسها، وهو ما يرفع العوائد طويلة الأجل من جديد. وعلى هذه القراءة نبني نظرتنا بعيدة الأجل، وهي أن السندات لن تكون استثمارًا جيدًا خلال العقد المقبل، وأن الذهب يبقى في دورة صعودٍ طويلة الأجل.</span></p><div data-attrs='{"url":"https://newsletter.amwal.ai/p/099?utm_source=substack&amp;utm_medium=email&amp;utm_content=share&amp;action=share","text":"Share"}' data-component-name="CaptionedButtonToDOM" data-sanitized-class="captioned-button-wrap"><div data-sanitized-class="preamble"><p data-sanitized-class="cta-caption">لديك صديق مهتم بالاستثمار؟ شارك نشرتنا معه</p></div><p data-attrs='{"url":"https://newsletter.amwal.ai/p/099?utm_source=substack&amp;utm_medium=email&amp;utm_content=share&amp;action=share","text":"Share"}' data-component-name="ButtonCreateButton" data-sanitized-class="button-wrapper"><a href="https://newsletter.amwal.ai/p/099?utm_source=substack&amp;utm_medium=email&amp;utm_content=share&amp;action=share" data-sanitized-class="button primary"><span>Share</span></a></p></div><h2><strong><span>تقدير أسعار أسهم أبرز الشركات</span></strong></h2><p><span>تحسَّنت قراءتنا الفنية قصيرة الأجل للأسهم الأمريكية خلال الأسبوع، دون أن يتغيَّر أيٌّ من تقييماتنا للشركات الكبرى، إذ نبني هذه التقييمات على تقديراتنا للأرباح لا على حركة الأسعار قصيرة الأجل.</span></p><p><span>أعلنت Nvidia نتائجها مساء الأربعاء، فبلغت إيراداتها ٩٦ مليار دولار بنموٍّ قدره ١٠٦٪ سنويًا، بينما نمت إيرادات مراكز البيانات ١١٧٪، وجاءت ربحية السهم ٢٫٢٢ دولار مقابل ٢٫٠٩ دولار متوقعة. تتوقع الشركة نموًا يقارب ٧٠٪ في إيرادات ٢٠٢٧، مع خفض هامش ربحها الإجمالي المتوقع من ٧٥٪ إلى ٧٢٪. ارتفع السهم ٨٫٧٪ يوم الخميس مضيفًا ٤٤٠ مليار دولار إلى قيمته السوقية في جلسةٍ واحدة، وهو ثاني أكبر مكسبٍ يومي في تاريخ السوق الأمريكية، ثم تراجع ٤٫٥٪ يوم الجمعة. ومازالت نظرتنا إلى سهم Nvidia إيجابية، وإن خفَّضنا تقديرنا لأرباحه في ٢٠٢٧ بعد التوجه الجديد، فصارت تزيد على متوسط تقديرات السوق بنحو ٢١٪ بدلًا من ٣٠٪.</span></p><div data-sanitized-class="captioned-image-container"><figure><a href="https://substackcdn.com/image/fetch/%24s_!xQwK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcbf3bbdc-c425-4926-8bd9-1fcd16727cb9_1200x630.jpeg" data-component-name="Image2ToDOM" data-sanitized-class="image-link image2 is-viewable-img"><div data-sanitized-class="image2-inset"><picture><source type="image/webp"><img src="https://substackcdn.com/image/fetch/%24s_!xQwK!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcbf3bbdc-c425-4926-8bd9-1fcd16727cb9_1200x630.jpeg" width="1200" height="630" data-attrs='{"src":"https://substack-post-media.s3.amazonaws.com/public/images/cbf3bbdc-c425-4926-8bd9-1fcd16727cb9_1200x630.jpeg","srcNoWatermark":null,"fullscreen":null,"imageSize":null,"height":630,"width":1200,"resizeWidth":null,"bytes":135858,"alt":null,"title":null,"type":"image/jpeg","href":null,"belowTheFold":true,"topImage":false,"internalRedirect":"https://newsletter.amwal.ai/i/213418325?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcbf3bbdc-c425-4926-8bd9-1fcd16727cb9_1200x630.jpeg","isProcessing":false,"align":null,"offset":false}' alt="" data-sanitized-class="sizing-normal"></picture><div data-sanitized-class="image-link-expand"><div data-sanitized-class="pencraft pc-display-flex pc-gap-8 pc-reset"><button data-sanitized-class="pencraft pc-reset pencraft icon-container restack-image"></button><button data-sanitized-class="pencraft pc-reset pencraft icon-container view-image"></button></div></div></div></a></figure></div><div data-sanitized-class="captioned-image-container"><figure><a href="https://www.amwal.ai/" data-component-name="Image2ToDOM" data-sanitized-class="image-link image2"><div data-sanitized-class="image2-inset"><picture><source type="image/webp"><img src="https://substackcdn.com/image/fetch/%24s_!rZ8Y!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb59c7805-96f5-4e5d-85fb-9f0c5140983d_1100x220.jpeg" width="1100" height="220" data-attrs='{"src":"https://substack-post-media.s3.amazonaws.com/public/images/b59c7805-96f5-4e5d-85fb-9f0c5140983d_1100x220.jpeg","srcNoWatermark":null,"fullscreen":null,"imageSize":null,"height":220,"width":1100,"resizeWidth":null,"bytes":null,"alt":null,"title":null,"type":null,"href":"https://www.amwal.ai/","belowTheFold":true,"topImage":false,"internalRedirect":null,"isProcessing":false,"align":null,"offset":false}' alt="" data-sanitized-class="sizing-normal"></picture><div></div></div></a></figure></div><h2><strong><span>تراجع الذهب فرصة للاستثمار طويل المدى</span></strong></h2><p><span>تراجع الذهب ٣٪ خلال الأسبوع إلى ٤,٤٥٥ دولارًا للأونصة، بعد أن سجَّل قمةً دورية جديدة عند ٤,٦٩٧ دولارًا يوم الثلاثاء. وجاء معظم التراجع في جلسة الجمعة وحدها عقب كلمة چاكسون هول، مع ارتفاع عوائد السندات قصيرة الأجل وارتفاع الدولار.</span></p><p><span>نرى في أموال أن مستويات ٤,٣٥٠ إلى ٤,٤٥٠ دولارًا للأونصة مناسبة للعودة إلى الاستثمار في الذهب بعد تحوُّل إشارة الزخم لدينا من سلبية إلى محايدة. وتراجع عائد الثلاثين عامًا ٥ نقاط أساس خلال الأسبوع إلى ٥٫٢٢٪، وهو التراجع الذي اشترطناه للعودة إلى الاستثمار في الذهب، ويحتاج السعر استمرار التراجع في عوائد السندات خلال الأشهر القادمة كي يواصل الارتفاع.</span></p><p><span>نرى في أموال أن التصحيح الحالي سينتهي قرب ٤,٣٥٠-٤,٤٠٠ دولار مطلع الأسبوع المقبل، تليه موجة صعودٍ ثانية نحو ٥,٠٠٠ دولار بحلول أكتوبر.</span></p><p><strong><span>💡 توقعات خبراء أموال: نبدأ الآن في العودة تدريجيًا إلى الاستثمار في الذهب، ويبقى هدفنا عند ٦,٥٠٠ دولار خلال النصف الأول من ٢٠٢٧ بشرط استمرار تراجع عوائد السندات طويلة الأجل.</span></strong></p><div><hr></div><h2><strong><span>بتكوين في اختبار حقيقي عند متوسط الخمسين أسبوع</span></strong></h2><p><span>تجاوز بتكوين مستوى ٨١,٠٠٠ دولار في منتصف الأسبوع قبل أن يتراجع مرة أخرى إلى ٧٨,١٠٠ دولار بنهاية جلسة الجمعة.</span></p><p><span>وصمد الشرطان اللذان يحددان حالة السوق، فقد بقي السعر فوق المتوسط الحقيقي للسوق (True Market Mean)، وهو متوسط تكلفة السوق ككل، الذي ارتفع بدوره إلى ٧٦,٣٠٠ دولار، وفوق متوسط تكلفة المستثمرين قصيري الأجل (STH Cost Basis) الذي ارتفع إلى ٧٠,٠٠٠ دولار، وقد أضفنا مركزنا الجديد في بتكوين كما أعلنَّا في النشرة الماضية.</span></p><p><span>والاختبار المقبل هو متوسط الخمسين أسبوعًا عند ٨٢,٠٠٠ دولار، وهو المستوى نفسه الذي توقَّف عنده الصعود في منتصف الأسبوع، والإغلاق الأسبوعي فوقه يفتح الطريق نحو ٨٦,٠٠٠ دولار. ويبقى التراجع دون المتوسط الحقيقي للسوق هو ما يُنهي هذه القراءة الإيجابية.</span></p><p><span>وكان هناك تدفقات إيجابية لصناديق ETFs بنحو ٩٠٠ مليون دولار في أسبوعٍ إيجابي ثانٍ، وهو نصف تدفق الأسبوع السابق تقريبًا، ومازال متوسط تكلفة مستثمريها عند ٨٤,٢٠٠ دولار أي أن معظمهم في خسارةٍ تقارب ٧٪ بعد أن كانت تقارب ١٠٪ قبل أسبوع.</span></p><p><strong><span>💡 توقعات خبراء أموال: نحافظ على نظرتنا الإيجابية لبتكوين طالما ظل السعر فوق المتوسط الحقيقي للسوق، الذي ارتفع هذا الأسبوع إلى ٧٦,٣٠٠ دولار.</span></strong></p><div><hr></div><h2><strong>ما يجب مراقبته خلال الأسبوع المقبل</strong></h2><ul><li><p><span>الإثنين ٣١ أغسطس: مؤشر مديري المشتريات الصناعي الرسمي في الصين لشهر أغسطس (المتوقع ٤٩٫٥ نقطة).</span></p></li><li><p><span>الثلاثاء ١ سبتمبر: مؤشر ISM الصناعي الأمريكي، وبيانات فرص العمل المتاحة، والقراءة الأولية للتضخم في منطقة اليورو.</span></p></li><li><p><span>الأربعاء ٢ سبتمبر: تقرير الفيدرالي عن أوضاع الاقتصاد.</span></p></li><li><p><span>الخميس ٣ سبتمبر: كلمة كريستوفر وولر، عضو مجلس الفيدرالي، ومؤشر ISM الخدمي.</span></p></li><li><p><span>الجمعة ٤ سبتمبر: تقرير الوظائف الأمريكية لشهر أغسطس (المتوقع ٥٥,٠٠٠ وظيفة).</span></p><p></p><p><strong><span>ترقَّبوا عددنا القادم لمواكبة أبرز المستجدات وتحليل انعكاساتها على مختلف الأصول الاستثمارية.</span></strong></p></li></ul><p data-attrs='{"url":"https://www.amwal.ai/","text":"للمزيد من المعلومات عن أموال، زُر موقعنا","action":null,"class":null}' data-component-name="ButtonCreateButton" data-sanitized-class="button-wrapper"><a href="https://www.amwal.ai/" data-sanitized-class="button primary"><span>للمزيد من المعلومات عن أموال، زُر موقعنا</span></a></p>]]></description>
 			<pubDate>Sun, 30 Aug 2026 18:59:28 +0300</pubDate>
 			<guid isPermaLink="false">1788107537737759</guid>
 		</item>
@@ -2712,178 +2884,6 @@
             </table>]]></description>
 			<pubDate>Sat, 29 Aug 2026 23:32:12 +0300</pubDate>
 			<guid isPermaLink="false">1788035538595117</guid>
-		</item>
-		<item>
-			<title>أسعار العملات في مصر</title>
-			<link>https://realegp.com/</link>
-						<description><![CDATA[<table data-sanitized-class="table currencies-table">
-              <thead>
-                <tr data-sanitized-class="thick-border">
-                  <th data-sanitized-class="text-end">العملة</th>
-                  <th>سعر البنك</th>
-                  <th>
-                    <div>سعر السوق</div>
-                    <div data-sanitized-class="range">من - إلى</div>
-                  </th>
-                </tr>
-              </thead>
-              <tbody>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/usd">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-us fib"></i>
-                        </div>
-                        <div>دولار أمريكي</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">50.17</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">50.66</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">50.31 - 50.91</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/eur">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-eu fib"></i>
-                        </div>
-                        <div>يورو</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">58.13</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">58.69</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">58.28 - 58.98</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/sar">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-sa fib"></i>
-                        </div>
-                        <div>ريال سعودي</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">13.27</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">13.4</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">13.31 - 13.47</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/kwd">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-kw fib"></i>
-                        </div>
-                        <div>دينار كويتي</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">162.8</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">164.48</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">163.3 - 165.3</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/aed">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-ae fib"></i>
-                        </div>
-                        <div>درهم اماراتي</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">13.56</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">13.69</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">13.59 - 13.76</div>
-                  </td>
-                </tr>
-                
-  
-              </tbody>
-            </table>]]></description>
-			<pubDate>Sat, 29 Aug 2026 20:32:11 +0300</pubDate>
-			<guid isPermaLink="false">1788024744245668</guid>
 		</item>
 
 	</channel>
