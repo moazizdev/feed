@@ -3,10 +3,313 @@
 		<title>اقتصاد</title>
 		<link>http://192.168.1.50:8081/api/query.php?user=admin&amp;t=4IzCA6HFSoouCSR9nVqNkV&amp;f=html</link>
 		<description>RSS feed of اقتصاد</description>
-		<pubDate>Mon, 07 Sep 2026 05:30:03 +0300</pubDate>
-		<lastBuildDate>Mon, 07 Sep 2026 02:30:03 GMT</lastBuildDate>
+		<pubDate>Mon, 07 Sep 2026 05:45:03 +0300</pubDate>
+		<lastBuildDate>Mon, 07 Sep 2026 02:45:03 GMT</lastBuildDate>
 		<atom:link href="http://192.168.1.50:8081/api/query.php?user=admin&amp;t=4IzCA6HFSoouCSR9nVqNkV&amp;f=rss" rel="self" type="application/rss+xml" />
 				<item>
+			<title>أسعار العملات في مصر</title>
+			<link>https://realegp.com/</link>
+						<description><![CDATA[<table data-sanitized-class="table currencies-table">
+              <thead>
+                <tr data-sanitized-class="thick-border">
+                  <th data-sanitized-class="text-end">العملة</th>
+                  <th>سعر البنك</th>
+                  <th>
+                    <div>سعر السوق</div>
+                    <div data-sanitized-class="range">من - إلى</div>
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/usd">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-us fib"></i>
+                        </div>
+                        <div>دولار أمريكي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">50.82</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">51.21</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">50.85 - 51.47</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/eur">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-eu fib"></i>
+                        </div>
+                        <div>يورو</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">59.03</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">59.48</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">59.06 - 59.78</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/sar">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-sa fib"></i>
+                        </div>
+                        <div>ريال سعودي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">13.44</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">13.55</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">13.46 - 13.62</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/kwd">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-kw fib"></i>
+                        </div>
+                        <div>دينار كويتي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">165.0</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">166.27</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">165.1 - 167.1</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/aed">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-ae fib"></i>
+                        </div>
+                        <div>درهم اماراتي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">13.74</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">13.84</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">13.74 - 13.91</div>
+                  </td>
+                </tr>
+                
+  
+              </tbody>
+            </table>]]></description>
+			<pubDate>Mon, 07 Sep 2026 05:32:11 +0300</pubDate>
+			<guid isPermaLink="false">1788748331825045</guid>
+		</item>
+		<item>
+			<title>أسعار الذهب في مصر</title>
+			<link>https://realegp.com/</link>
+						<description><![CDATA[<table data-sanitized-class="table currencies-table">
+              <thead>
+                <tr data-sanitized-class="thick-border">
+                  <th data-sanitized-class="text-end">الذهب</th>
+                  <th>
+                    <div>متوسط السعر</div>
+                    <div data-sanitized-class="range">من - إلى</div>
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/18k">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <img src="https://realegp.com/static/img/gold.png">
+                        
+                        <div>ذهب عيار 18</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">5413</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">5400 - 5426</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/21k">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <img src="https://realegp.com/static/img/gold.png">
+                        
+                        <div>ذهب عيار 21</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">6315</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">6300 - 6330</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/24k">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <img src="https://realegp.com/static/img/gold.png">
+                        
+                        <div>ذهب عيار 24</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">7217</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">7200 - 7234</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/pound">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <i data-sanitized-class="bi bi-currency-pound"></i>
+                        
+                        <div>جنيه الذهب</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">50520</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">50400 - 50640</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/usdsagha">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <i data-sanitized-class="bi bi-coin"></i>
+                        
+                        <div>دولار الصاغة</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">51.02</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">50.9 - 51.14</div>
+                  </td>
+                </tr>
+                
+  
+              </tbody>
+            </table>]]></description>
+			<pubDate>Mon, 07 Sep 2026 05:32:11 +0300</pubDate>
+			<guid isPermaLink="false">1788748331825044</guid>
+		</item>
+		<item>
 			<title>أسعار العملات في مصر</title>
 			<link>https://realegp.com/</link>
 						<description><![CDATA[<table data-sanitized-class="table currencies-table">
@@ -2383,284 +2686,6 @@
 		</div><!-- FULLCONTENT end //-->]]></description>
 			<pubDate>Sun, 06 Sep 2026 13:02:19 +0300</pubDate>
 			<guid isPermaLink="false">1788688944717357</guid>
-		</item>
-		<item>
-			<title>محاولة جديدة مع مشكلة قديمة.. هل تكفي حلول "هاشم" لتوفير الأراضي الصناعية؟</title>
-			<link>https://almanassa.com/stories/33269</link>
-						<dc:creator>هاجر عطية</dc:creator>
-			<media:thumbnail url="https://almanassa.com/sites/default/files/styles/card_lead/public/photobank/2026/fdd16710-f8ed-426b-8f8c-14d42462992e.png.webp?itok=KcpOIN0y" />
-			<media:content url="https://almanassa.com/sites/default/files/styles/card_lead/public/photobank/2026/fdd16710-f8ed-426b-8f8c-14d42462992e.png.webp?itok=KcpOIN0y" medium="image"></media:content>
-			<description><![CDATA[<!-- FULLCONTENT start //--><div data-sanitized-class="columns small-12 table-scroll">
-							<p>تَقِفُ أزمة عدم توفر الأراضي المخصصة للصناعة عائقًا أساسيًّا أمام المستثمرين، وهو الملف الذي تكررتْ <a href="https://www.youm7.com/story/2024/8/25/%D9%83%D8%A7%D9%85%D9%84-%D8%A7%D9%84%D9%88%D8%B2%D9%8A%D8%B1-%D9%84%D9%86-%D9%8A%D8%AA%D9%85-%D8%B1%D9%81%D8%B6-%D8%B7%D9%84%D8%A8-%D8%A3%D9%8A-%D9%85%D8%B3%D8%AA%D8%AB%D9%85%D8%B1-%D8%AC%D8%A7%D8%AF-%D9%81%D9%89/6685346">وعود</a> الإصلاح بشأنه خلال السنوات السابقة، دون تحقيق نجاحٍ مرضٍ، لذا يضعه وزير الصناعة خالد هاشم بمقدمة أولوياته في سبيل إطلاق النمو في القطاع الذي عانى من تباطؤ قوي خلال الأشهر الأخيرة.</p>
-
-<p>وأعلنت وزارة الصناعة، في عدة بيانات، خلال الأيام الماضية، عن<a href="https://www.facebook.com/story.php?story_fbid=pfbid0Z6XnkQ14oTrgDHWiXdg31A55eGpo14NFSGPQ4CCAwK1WqM3kgVkRgSzBPLvbf8cml&amp;id=100064812882317&amp;sfnsn=scwspwa&amp;mibextid=RUbZ1f&amp;_rdr"> آليات </a>جديدة لتيسير توفير الأراضي للمستثمرين الصناعيين، من بينها إتاحة الإيجار التمليكي أمام لقاعدة أوسع من المصنعين. لكنَّ ممثلي جمعيات استثمارية قالوا لـ <strong>المنصة</strong> إن تمليك الأرض ليس العقبة الأساسية، إنما ندرة توافرها هو ما يعد مشكلة بدون حل واضح.</p>
-
-<h2 dir="rtl"><strong>ما الذي تقدمه القرارات الجديدة؟</strong></h2>
-
-<p dir="rtl">يطرح وزير الصناعة <a href="https://www.facebook.com/story.php?story_fbid=1491436283027641&amp;id=100064838494517&amp;rdid=F4s31AfLj73os4xW#">الإيجار المنتهى بالتمليك</a> حلًا رئيسيًّا لمواجهة أزمة عدم توفر الأراضي وارتفاع أسعارها، ما ساعد على انتشار حالات <a href="https://www.alarabiya.net/aswaq/special-stories/2026/06/30/%D9%85%D8%B5%D8%B1-%D8%AA%D8%AD%D8%A7%D8%B5%D8%B1-%D8%AA%D8%B3%D9%82%D9%8A%D8%B9-%D8%A7%D9%84%D8%A7%D8%B1%D8%A7%D8%B6%D9%8A-%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D9%8A%D8%A9-%D9%87%D9%84-%D8%AA%D9%86%D8%AC%D8%AD-%D9%81%D9%8A-%D8%AA%D8%AD%D8%B1%D9%8A%D8%B1-%D8%A7%D9%84%D8%A7%D8%B5%D9%88%D9%84-%D8%A7%D9%84%D9%85%D8%B9%D8%B7%D9%84%D8%A9-">التسقيع</a>، وتوسط <a href="https://www.facebook.com/AsharqbEGY/posts/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A-%D8%AE%D8%A7%D9%84%D8%AF-%D9%87%D8%A7%D8%B4%D9%85%D9%85%D8%B5%D8%B1-%D8%AA%D8%B9%D8%A7%D9%86%D9%8A-%D9%85%D9%86-%D8%A8%D8%B2%D9%86%D8%B3-%D8%B3%D9%85%D8%B3%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D8%B1%D8%A7%D8%B6%D9%8A-%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D9%81%D8%AA%D8%B1%D8%A9-%D8%A7%D9%84/994085330047050/">سماسرة للبيع</a> ما يضيف أعباءً جديدةً لسعر الأرض.</p>
-
-<p dir="rtl">يتيح نظام الإيجار التمليكي للمستثمر استئجار الأراضي الصناعية بعقود ممتدة تبدأ من 7 سنوات وتصل إلى 21 عامًا تنتهي بالتملك، وذلك في مقابل إيجار  <a href="https://www.elwatannews.com/news/details/8337341">سنوي</a> بقيمة 5% من سعر المتر المربع، وهو ما يراه أسامة حفيلة، رئيس مجلس إدارة جمعية مستثمري دمياط الجديدة، في صالح المستثمر، إذ يساعده في توفير قدر كبير من رأس المال، الذي تستنزفه تكاليف شراء الأرض، وهذا ما يوجه للإنفاق التشغيلي ويساعد على تسريع وتيرة النمو الصناعي.</p>
-
-<p dir="rtl">يوضح حفيلة لـ <strong>المنصة</strong> أن تكلفة شراء الأرض وتطويرها تستحوذ في كثير من الحالات على ما يتراوح بين 60% و70% من إجمالي الاستثمارات الأولية للمشروع الصناعي، بالتالي سيوفر النظام الجديد فرصة للتوسع أمام المستثمرين خصوصًا الشركات الصغيرة والمتوسطة.</p>
-
-<p dir="rtl">يمثل طرح الإيجار التمليكي محاولةً للخروج من دائرة التباطؤ المسيطرة على الصناعة في الوقت الراهن، إذ سجل معدل نمو الصناعات غير البترولية تراجعًا للمرة الثالثة على التوالي في الفترة من يناير/كانون الثاني إلى مارس/آذار 2026، في أبطأ وتيرة نمو خلال 24 شهرًا.</p>
-
-<div data-sanitized-class="embed-media embed-media--rich-flourish"><div><iframe src="https://flo.uri.sh/visualisation/29927884/embed" allowfullscreen="allowfullscreen" title="ربع سنوي" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" sandbox="allow-scripts allow-same-origin"></iframe></div></div><aside dir="rtl" data-sanitized-class="caption">رسم بياني من تصميم المنصة يستعرض معدل نمو الصناعات غير البترولية في مصر بين عامي 2024 و2026</aside><h2 dir="rtl">لكن أين الأراضي التي نستأجرها؟</h2>
-
-<p dir="rtl">وبينما يتفق علاء السقطي، رئيس اتحاد مستثمري المشروعات الصغيرة والمتوسطة، مع الرأي القائل بأهمية الإيجار التمليكي، فإنه يحذر من أن إتاحة الإيجار سيكون أثرها محدودًا مع استمرار مشكلة ندرة الأراضي.</p>
-
-<blockquote>
-<p dir="rtl">يشكو مستثمرون من تأخر أعمال ترفيق الأراضي المطروحة في الطروحات الأخيرة</p>
-</blockquote>
-
-<p dir="rtl">يؤكد السقطي لـ <strong>المنصة</strong> أن المشكلة ليست في آلية التخصيص بقدر ما هي في نقص الأراضي الجاهزة للطرح، معتبرًا حزمة القرارات التي أعلنتها وزارة الصناعة خطوة في الاتجاه الصحيح ستساعد على حل أزمة تمليك الأراضي الصناعية لغير الجادين، لكنها لن تعالج المشكلة الأساسية، وهى نقص المساحات المخصصة.</p>
-
-<p dir="rtl">كان وزير الصناعة السابق كامل الوزير روّج بقوةٍ لتصديه لمشكلة ندرة الأراضي الصناعية من خلال تنظيم طروحات دورية، وأدلى بتصريحات صحفية خلال توليه منصبه أكد فيها أنه نفذ <a href="https://gate.ahram.org.eg/News/5472213.aspx">6 طروحات للأراضي الصناعية</a> في عامي 2024 و 2025 ساهمت في توفير أكثر من 10 آلاف قطعة أرض للمستثمرين.</p>
-
-<p dir="rtl">كما سعى للحد من أعباء تكاليف تملك الأراضي الصناعية عبر <a href="https://www.facebook.com/MinistryTransportation/posts/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D8%A9-%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D8%AA%D9%82%D8%AF%D9%85-%D9%88%D8%A7%D9%84%D8%AD%D8%AC%D8%B2-%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D9%8B%D8%A7-%D8%B9%D8%A8%D8%B1-%D9%85%D9%86%D8%B5%D8%A9-%D9%85%D8%B5%D8%B1-%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D9%8A%D8%A9-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D9%84%D8%B9%D8%AF%D8%AF-18/1024430399854016/">طرح</a> قطع بنظام حق الانتفاع، بحيث يسدد المستثمر 5% من سعر متر التمليك. مع ذلك استمرت شكاوى المستثمرين من عدم توفر الأراضي، لأن الطروحات الأخيرة على تعددها تبتعد في كثير من الأحيان عن مراكز التصنيع الكبرى التي يتطلعون إليها.</p>
-
-<p dir="rtl">يوضح عضو مجلس إدارة جمعية مستثمري العاشر من رمضان، محمود سلطان، لـ <strong>المنصة </strong>أن<strong> </strong>بعض المصانع القائمة في مدينة العاشر من رمضان تقدمت بطلب للحصول على قطعٍ للتوسع في مبانيها، وجاء رد الوزارة عليهم بأنها ترغب في أن تتوسع المصانع بمحافظات أخرى بالأخص في الصعيد.</p>
-
-<p dir="rtl">كذلك يشكو مستثمرون من تأخر أعمال ترفيق الأراضي المطروحة في الطروحات الأخيرة؛ "المستثمر لا يستطيع ضخ أمواله في مشروع صناعي ثم الانتظار لفترات طويلة حتى يتم الانتهاء من توصيل المرافق"، يقول سلطان.</p>
-
-<h2>تحت رحمة السماسرة</h2>
-
-<p dir="rtl">إذا حاول المستثمرون البحث عن أرض خارج طروحات وزارة الصناعة، فإنهم هذا يضعهم تحت رحمة السماسرة الذين يبيعون بأعلى سعر ممكن؛ يؤكد السقطي أن سعر متر الأرض الصناعية وصل في بعض المناطق المرفقة بالقاهرة الكبرى إلى ما بين 8 و10 آلاف جنيه، وفي الصعيد والمحافظات البعيدة عن العاصمة يزيد عن 4 آلاف جنيه، وفق علي حمزة، رئيس جمعية مستثمري أسيوط.</p>
-
-<p dir="rtl">لمواجهة ظواهر السمسرة والمضاربة على الأراضي، كثفت وزارة الصناعة حملات <a href="https://www.youm7.com/story/2026/6/25/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D8%A9-%D8%AD%D9%85%D9%84%D8%A9-%D9%85%D9%88%D8%B3%D8%B9%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D8%A3%D8%B3%D8%A8%D9%88%D8%B9-%D8%A7%D9%84%D9%85%D9%82%D8%A8%D9%84-%D9%84%D8%B3%D8%AD%D8%A8-%D8%A7%D9%84%D8%A3%D8%B1%D8%A7%D8%B6%D9%8A-%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D9%8A%D8%A9/7461338">سحب</a> الأراضي من المستثمرين غير الملتزمين بالجداول الزمنية القانونية لتنفيذ المشروعات.</p>
-
-<p dir="rtl">وملف "الأراضي غير المستغلة" قديم، تحدث عنه وزراء سابقون مثل الوزيرة نيفين جامع التي <a href="https://www.youm7.com/story/2021/3/28/%D9%88%D8%B2%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D8%A9-%D8%AD%D8%B5%D8%B1-890-%D9%82%D8%B7%D8%B9%D8%A9-%D8%A3%D8%B1%D8%B6-%D8%B5%D9%86%D8%A7%D8%B9%D9%8A%D8%A9-%D8%BA%D9%8A%D8%B1-%D9%85%D8%B3%D8%AA%D8%BA%D9%84%D8%A9-%D8%A8%D9%8012/5260183">قدرت</a> عددها في 2021 بـ890 قطعة في 12 محافظة. لكن الحكومة لم تنشر بيانات واضحة حول نتائج الحملات السابقة في الحد من ندرة الأراضي. بل وتكشف تجربة الأشهر الأولى لوزير الصناعة الحالي مدى تعقد الأزمة، فبعد أن أصدر <a href="https://sis.gov.eg/ar/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%D9%8A/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D8%A9-%D9%8A%D8%B5%D8%AF%D8%B1-%D9%82%D8%B1%D8%A7%D8%B1-%D8%A7-%D8%A8%D9%85%D8%AF-%D8%AD%D8%B2%D9%85%D8%A9-%D8%AA%D9%8A%D8%B3%D9%8A%D8%B1%D8%A7%D8%AA-%D9%84%D8%AF%D8%B9%D9%85-%D8%A7%D9%84%D9%85%D8%B4%D8%B1%D9%88%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%AA%D8%B9%D8%AB%D8%B1%D8%A9/">قرارًا</a> في أبريل/نيسان الماضي للحد من المضاربات على الأراضي، يتعلق بضرورة مرور ثلاث سنوات قبل التصرف في الأرض، اضطر <a href="https://almalnews.com/2126791/%D9%87%D8%A7%D8%B4%D9%85-%D8%AA%D8%B9%D9%84%D9%8A%D9%82-%D9%82%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%803-%D8%B3%D9%86%D9%88%D8%A7%D8%AA-%D9%84%D9%84%D8%AA%D8%B5%D8%B1%D9%81-%D9%81%D9%8A/">لتعليقه</a> الشهر الماضي بعد أن وجد أنه زاد من حدة هذه المضاربة، على حد قوله.</p>
-
-<p dir="rtl">"الحصول على الأراضي الصناعية في محافظات الصعيد كان شبه مجاني، بهدف تشجيع الاستثمار في المناطق التي تفتقر إلى البنية التحتية، إلا أن ذلك شجع بعض المستثمرين على الحصول على الأراضي دون امتلاك خطط تشغيل حقيقية، ما أدى إلى توقف عدد من المشروعات بعد فترة قصيرة من إنشائها"، يشرح رئيس جمعية مستثمري أسيوط.</p>
-
-<p dir="rtl">بينما يقدر رئيس جمعية مستثمري دمياط أن نحو 200 قطعة أرض في المنطقة الصناعية بدمياط الجديدة من أصل 850 قطعة لا تزال تحت الإنشاء أو متوقفة أو متعثرة.</p>
-
-<blockquote>
-<p dir="rtl">إنعاش القطاع الصناعي لا يتوقف على جهود وزارة الصناعة فقط إنما يتطلب أيضًا توفير كافة التيسيرات الأخرى المطلوبة</p>
-</blockquote>
-
-<p dir="rtl">من بين الحلول الأخرى، التي تحدث عنها هاشم، إمكانية <a href="https://www.facebook.com/mti.egypt/photos/%D8%A7%D9%84%D8%AA%D9%88%D8%B3%D8%B9-%D8%A7%D9%84%D8%B1%D8%A3%D8%B3%D9%8A-%D9%84%D9%84%D9%85%D8%B5%D8%A7%D9%86%D8%B9-%D8%A2%D9%84%D9%8A%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%AA%D8%AA%D9%8A%D8%AD-%D8%A7%D8%B3%D8%AA%D8%BA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B3%D9%85%D9%88%D8%AD-%D8%A8%D9%87%D8%A7-%D8%A8%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B7%D9%82-%D8%A7%D9%84/1492539052917364/">توسّع</a> المصانع رأسيًّا، بمعنى بناء أدوار إضافية للمباني الصناعية، وهو ما يرى مستثمرون أنه قد يساهم في توفير المساحات لبعض الصناعات، لكنه لا يناسب كافة المجالات.</p>
-
-<p dir="rtl">حسب حفيلة، قد يعد التوسع الرأسي خيارًا مناسبًا للأنشطة التي تسمح طبيعتها بذلك، بالأخص الصناعات الخفيفة مثل البلاستيك والملابس والأحذية، بينما يصعب تطبيقه في صناعات مثل مواد البناء وبعض الأنشطة الهندسية.</p>
-
-
-<div data-embed-button="almanassa_story_browser" data-entity-embed-display="view_mode:node.read_also" data-entity-type="node" data-entity-uuid="04886c80-e64e-4148-a2f2-6964a0c9198c" data-langcode="ar" data-entity-embed-display-settings="[]" data-sanitized-class="embedded-entity">
-	<article data-history-node-id="33079" role="article" data-sanitized-id="node-33079" data-sanitized-class="view-mode--read-also type-story"><div data-sanitized-class="row">
-		<a href="https://almanassa.com/stories/33079" data-ph-capture-attribute-link-type="story" data-ph-capture-attribute-link-id="33079" data-ph-capture-attribute-link-title='"الإصلاح" أكلته الديون.. زيادات تذاكر السكة الحديد بدون مكابح' data-ph-capture-attribute-link-section="اقتصاد وعمران" data-ph-capture-attribute-link-view-mode="read_also" data-sanitized-class="columns small-12 medium-6">
-			<hr data-sanitized-class="embed-divider"><div data-sanitized-class="h3">اقرأ أيضا</div>
-			
-			<div data-sanitized-class="h2">
-				<span>"الإصلاح" أكلته الديون.. زيادات تذاكر السكة الحديد بدون مكابح</span>
-
-			</div>
-			
-			<hr data-sanitized-class="embed-divider"></a>
-	</div>
-</article></div>
-<p dir="rtl">ينبه مستثمرون إلى أن إنعاش القطاع الصناعي لا يتوقف على جهود وزارة الصناعة فقط، إنما يتطلب توفير كافة التيسيرات الأخرى المطلوبة من الجهات الحكومية الأخرى.</p>
-
-<p dir="rtl">"القطاع يواجهة مشكلات نقص التمويل وصعوبة توفير الخامات المستوردة من الخارج، ويحتاج لبرامج تمويل أكثر مرونة وبفائدة أقل"؛ يقول السقطي.</p>
-
-<p dir="rtl">ستكشف الأيام المقبلة مدى قدرة الوزير الحالي على حل مشكلات تعاقب عليها سابقوه دون الوصول لحلول جذرية في ملفات مرت عليها عقود وتعاقب عليها العديد من الوزراء السابقين، دون تحقيق النتائج المأمولة.</p>
-						<div data-sanitized-id="topic-file-stories">
-			<div data-sanitized-class="views-element-container">		<div data-almanassa-posthog-link-source="Story Topic File Stories List" data-almanassa-posthog-link-source-type="topic_files" data-almanassa-posthog-link-source-id="embed_story_topic_file" data-sanitized-class="js-view-dom-id-c7c441eb5661b2d3673683d8289532d667124d689c63dea7fde61655ec8e74c9">
-		
-		
-		
-
-		
-		
-		
-		
-
-		
-		
-		
-
-		
-		
-
-		
-		
-	</div>
-</div>
-
-			</div>
-		</div><!-- FULLCONTENT end //-->]]></description>
-			<pubDate>Sun, 06 Sep 2026 13:02:19 +0300</pubDate>
-			<guid isPermaLink="false">1788688944717356</guid>
-		</item>
-		<item>
-			<title>أسعار العملات في مصر</title>
-			<link>https://realegp.com/</link>
-						<description><![CDATA[<table data-sanitized-class="table currencies-table">
-              <thead>
-                <tr data-sanitized-class="thick-border">
-                  <th data-sanitized-class="text-end">العملة</th>
-                  <th>سعر البنك</th>
-                  <th>
-                    <div>سعر السوق</div>
-                    <div data-sanitized-class="range">من - إلى</div>
-                  </th>
-                </tr>
-              </thead>
-              <tbody>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/usd">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-us fib"></i>
-                        </div>
-                        <div>دولار أمريكي</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">50.85</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">51.15</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">50.79 - 51.41</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/eur">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-eu fib"></i>
-                        </div>
-                        <div>يورو</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">59.09</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">59.43</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">59.01 - 59.73</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/sar">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-sa fib"></i>
-                        </div>
-                        <div>ريال سعودي</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">13.45</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">13.53</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">13.44 - 13.6</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/kwd">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-kw fib"></i>
-                        </div>
-                        <div>دينار كويتي</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">165.1</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">166.07</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">164.9 - 166.9</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/aed">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-ae fib"></i>
-                        </div>
-                        <div>درهم اماراتي</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">13.74</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">13.82</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">13.72 - 13.89</div>
-                  </td>
-                </tr>
-                
-  
-              </tbody>
-            </table>]]></description>
-			<pubDate>Sun, 06 Sep 2026 13:02:12 +0300</pubDate>
-			<guid isPermaLink="false">1788688944717355</guid>
 		</item>
 
 	</channel>
