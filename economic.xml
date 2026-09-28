@@ -3,10 +3,313 @@
 		<title>اقتصاد</title>
 		<link>http://192.168.1.50:8081/api/query.php?user=admin&amp;t=4IzCA6HFSoouCSR9nVqNkV&amp;f=html</link>
 		<description>RSS feed of اقتصاد</description>
-		<pubDate>Mon, 28 Sep 2026 10:00:03 +0300</pubDate>
-		<lastBuildDate>Mon, 28 Sep 2026 07:00:03 GMT</lastBuildDate>
+		<pubDate>Mon, 28 Sep 2026 10:15:04 +0300</pubDate>
+		<lastBuildDate>Mon, 28 Sep 2026 07:15:04 GMT</lastBuildDate>
 		<atom:link href="http://192.168.1.50:8081/api/query.php?user=admin&amp;t=4IzCA6HFSoouCSR9nVqNkV&amp;f=rss" rel="self" type="application/rss+xml" />
 				<item>
+			<title>أسعار العملات في مصر</title>
+			<link>https://realegp.com/</link>
+						<description><![CDATA[<table data-sanitized-class="table currencies-table">
+              <thead>
+                <tr data-sanitized-class="thick-border">
+                  <th data-sanitized-class="text-end">العملة</th>
+                  <th>سعر البنك</th>
+                  <th>
+                    <div>سعر السوق</div>
+                    <div data-sanitized-class="range">من - إلى</div>
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/usd">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-us fib"></i>
+                        </div>
+                        <div>دولار أمريكي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">51.66</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">52.67</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">52.3 - 52.93</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/eur">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-eu fib"></i>
+                        </div>
+                        <div>يورو</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">58.77</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">59.93</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">59.51 - 60.23</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/sar">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-sa fib"></i>
+                        </div>
+                        <div>ريال سعودي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">13.67</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">13.93</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">13.83 - 14.0</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/kwd">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-kw fib"></i>
+                        </div>
+                        <div>دينار كويتي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">167.7</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">171.01</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">169.8 - 171.8</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/aed">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-ae fib"></i>
+                        </div>
+                        <div>درهم اماراتي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">13.96</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">14.24</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">14.14 - 14.31</div>
+                  </td>
+                </tr>
+                
+  
+              </tbody>
+            </table>]]></description>
+			<pubDate>Mon, 28 Sep 2026 10:02:07 +0300</pubDate>
+			<guid isPermaLink="false">1790578934536151</guid>
+		</item>
+		<item>
+			<title>أسعار الذهب في مصر</title>
+			<link>https://realegp.com/</link>
+						<description><![CDATA[<table data-sanitized-class="table currencies-table">
+              <thead>
+                <tr data-sanitized-class="thick-border">
+                  <th data-sanitized-class="text-end">الذهب</th>
+                  <th>
+                    <div>متوسط السعر</div>
+                    <div data-sanitized-class="range">من - إلى</div>
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/18k">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <img src="https://realegp.com/static/img/gold.png">
+                        
+                        <div>ذهب عيار 18</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">5331</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">5323 - 5340</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/21k">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <img src="https://realegp.com/static/img/gold.png">
+                        
+                        <div>ذهب عيار 21</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">6220</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">6210 - 6230</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/24k">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <img src="https://realegp.com/static/img/gold.png">
+                        
+                        <div>ذهب عيار 24</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">7108</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">7097 - 7120</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/pound">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <i data-sanitized-class="bi bi-currency-pound"></i>
+                        
+                        <div>جنيه الذهب</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">49760</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">49680 - 49840</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/usdsagha">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <i data-sanitized-class="bi bi-coin"></i>
+                        
+                        <div>دولار الصاغة</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">52.98</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">52.9 - 53.07</div>
+                  </td>
+                </tr>
+                
+  
+              </tbody>
+            </table>]]></description>
+			<pubDate>Mon, 28 Sep 2026 10:02:07 +0300</pubDate>
+			<guid isPermaLink="false">1790578934536150</guid>
+		</item>
+		<item>
 			<title>أسعار العملات في مصر</title>
 			<link>https://realegp.com/</link>
 						<description><![CDATA[<table data-sanitized-class="table currencies-table">
@@ -2375,256 +2678,6 @@
 				</div>]]></description>
 			<pubDate>Sun, 27 Sep 2026 16:02:20 +0300</pubDate>
 			<guid isPermaLink="false">1790514143553228</guid>
-		</item>
-		<item>
-			<title>أسعار العملات في مصر</title>
-			<link>https://realegp.com/</link>
-						<description><![CDATA[<table data-sanitized-class="table currencies-table">
-              <thead>
-                <tr data-sanitized-class="thick-border">
-                  <th data-sanitized-class="text-end">العملة</th>
-                  <th>سعر البنك</th>
-                  <th>
-                    <div>سعر السوق</div>
-                    <div data-sanitized-class="range">من - إلى</div>
-                  </th>
-                </tr>
-              </thead>
-              <tbody>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/usd">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-us fib"></i>
-                        </div>
-                        <div>دولار أمريكي</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">51.63</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">52.31</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">51.94 - 52.57</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/eur">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-eu fib"></i>
-                        </div>
-                        <div>يورو</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">58.81</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">59.59</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">59.17 - 59.89</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/sar">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-sa fib"></i>
-                        </div>
-                        <div>ريال سعودي</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">13.66</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">13.84</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">13.74 - 13.91</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/kwd">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-kw fib"></i>
-                        </div>
-                        <div>دينار كويتي</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">167.6</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">169.84</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">168.6 - 170.6</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/aed">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-ae fib"></i>
-                        </div>
-                        <div>درهم اماراتي</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">13.95</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">14.14</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">14.04 - 14.21</div>
-                  </td>
-                </tr>
-                
-  
-              </tbody>
-            </table>]]></description>
-			<pubDate>Sun, 27 Sep 2026 16:02:13 +0300</pubDate>
-			<guid isPermaLink="false">1790514143553227</guid>
-		</item>
-		<item>
-			<title>مراكز البيانات العملاقة في مصر.. توطين أم استنزاف؟</title>
-			<link>https://almanassa.com/stories/34054</link>
-						<media:thumbnail url="https://almanassa.com/sites/default/files/styles/lead_image_square/public/photobank/2026/b4e7eaf5-6c33-4f34-8e66-2401cb5a38f2.png.webp?h=125a58ae&amp;itok=huPdut6d" />
-			<media:content url="https://almanassa.com/sites/default/files/styles/lead_image_square/public/photobank/2026/b4e7eaf5-6c33-4f34-8e66-2401cb5a38f2.png.webp?h=125a58ae&amp;itok=huPdut6d" medium="image"></media:content>
-			<description><![CDATA[<!-- FULLCONTENT start //--><div data-sanitized-class="columns small-12 table-scroll">
-			<p dir="rtl">زادت التوقعات بتقارب اقتصادي أعمق بين مصر والصين، عقب الزيارة التي أجراها الرئيس الصيني إلى مصر مؤخرًا في مستهل سبتمبر الحالي. لم تكن التوقعات مبنية على أوهام إذ سبق لهواوي الصينية أن <a href="https://moderndiplomacy.eu/2026/08/28/us-warns-over-huaweis-ai-data-center-offer-to-egypt-for-military-and-surveillance-uses/">طرحت</a> -قبل الزيارة بفترة قصيرة- فكرة بناء مركز ضخم للبيانات في مصر.</p><p dir="rtl">وبالفعل <a href="https://asharqbusiness.com/technology/146840/%D8%B4%D8%B1%D8%A7%D9%83%D8%A9-%D9%84%D8%A5%D9%86%D8%B4%D8%A7%D8%A1-%D8%A3%D9%88%D9%84-%D9%85%D8%B1%D9%83%D8%B2-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D9%84%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AF%D9%8A-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1/">أُعلِن</a> عن المشروع بعد مغادرة الرئيس الصيني للبلاد بأيامٍ قليلة، لكن المفاجأة أن الشركة الداعمة لتقنيات المشروع لم تكن صينية، وإنما كانت إنفيديا الأمريكية.</p><p dir="rtl">تعكس هذه التحولات في <a href="https://carnegieendowment.org/middle-east/diwan/2026/09/on-ai-cairo-plays-china-and-the-united-states-off-each-other">رأي</a> مراقبين واحدًا من أوجه التنافس بين الصين والولايات المتحدة في هذه الصناعة، لكن السؤال الأكثر أهمية في تقديري هل من مصلحة مصر أن تكون جزءًا من هذا السباق؟ </p><p dir="rtl">تشير تجارب سابقة لدول مشابهة لمصر، من حيث الحجم الاقتصادي، إلى أن العائد من هذه المشروعات ليس كما هو متصور، والأهم أن حجم استنزاف الموارد سيكون كبيرًا. </p><h2>لماذا يحاولون بناء مركز للبيانات في مصر؟</h2><p dir="rtl"><span>يخبرنا قاموس كامبريدج الإلكتروني أن</span><a href="https://dictionary.cambridge.org/dictionary/english/data-centre"><span> مراكز البيانات </span></a><span>هي مبانٍ تحوي العديد من الحواسيب الخارقة، ونظم المعلومات اللازمة لإدارتها، بما يتيح التعامل مع كميات هائلة من البيانات دون توقف أو انقطاع. </span></p><p dir="rtl"><span>وعلى الرغم من تزايد الحديث مؤخرًا حول مراكز البيانات مع تصدر </span><a href="https://www.kenresearch.com/industry-reports/us-artificial-intelligence-ai-market"><span>قطاع الذكاء الاصطناعي</span></a><span> للنمو والتمويل في الولايات المتحدة، وكذلك في </span><a href="https://www.bbc.com/news/articles/cm5ydz4kl65ro"><span>الصين، </span></a><span>فإن مراكز البيانات في واقع الحال ظاهرة قديمة، وتسبق بعقود قطاع الذكاء الاصطناعي بصيغته الحالية، بل تسبق ظهور الإنترنت نفسه.</span></p><blockquote><p dir="rtl"><span>لم تؤد استضافة تشيلي لمراكز البيانات إلى نقل للتكنولوجيا أو زيادة مبيعات الشركات المحلية من الأجهزة</span></p></blockquote><p dir="rtl">تستدعي الاستثمارات الضخمة الموجهة لهذه الصناعة سؤالًا حول السبب وراء بحث الشركات الكبرى عن فرصة لبناء هذا النمط من المشروعات في مصر، وهو بلد لا يزال دوره في أنشطة الذكاء الاصطناعي يرتكز بالأساس على محاولة الاستعانة بهذه التكنولوجيا وليس خلقها أو تطويرها وبيعها للجمهور.</p><p dir="rtl">تمثل الإجابة عن هذا السؤال أحد دواعي القلق، فالشركات العالمية تبحث عن بلد نامٍ مثل مصر لاستضافة هذه المراكز ليس فقط بسبب موقعها الجغرافي المتميز والبنية الأساسية فيها، كما <a href="https://www.alarabiya.net/technology/in-focus/2026/09/22/%D9%85%D8%B3%D8%A6%D9%88%D9%84-%D9%81%D9%8A-%D8%A7%D9%86%D9%81%D9%8A%D8%AF%D9%8A%D8%A7-%D9%85%D8%B5%D8%B1-%D8%AA%D9%85%D8%AA%D9%84%D9%83-%D8%A7%D9%84%D9%83%D9%81%D8%A7%D8%A1%D8%A7%D8%AA-%D9%84%D8%AA%D8%B5%D8%A8%D8%AD-%D9%82%D9%88%D8%A9-%D9%85%D8%A4%D8%AB%D8%B1%D8%A9-%D9%81%D9%8A-%D8%A7%D8%A8%D8%AA%D9%83%D8%A7%D8%B1-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A">قال</a> <span>نائب رئيس قطاع المؤسسات لمنطقة الشرق الأوسط مارك دومينيك بشركة إنفيديا، ولكن أيضًا للاعتماد على مواردها من الطاقة والمياه.</span></p><p dir="rtl"><span>تعتمد مراكز البيانات على بنية أساسية صلبة من محطات وشبكات كهرباء ومياه نظيفة لازمة لتبريد ملايين المعالجات الدقيقة والأجهزة المساعدة لتتمكن الحواسيب الخارقة من معالجة بيانات ضخمة بسرعة هائلة.</span></p><p dir="rtl"><span>هذه المراكز كثيفة الاستهلاك </span><a href="https://ourworldindata.org/how-much-energy-do-data-centers-and-artificial-intelligence-use"><span>للطاقة الكهربائية</span></a><span> وللمياه النظيفة على حدٍّ سواء، ما </span><a href="https://www.emerald.com/books/edited-volume/16983/chapter/93977270/Environmental-Challenges-in-the-Platform-Society"><span>جعلها</span></a><span> أحد الأنشطة الاقتصادية التي تواجه حركات شعبية معارضة بسبب آثارها البيئية الضارة، ورفعها </span><a href="https://www.afp.com/en/us-house-backs-data-center-power-cost-bill-amid-midterm-backlash"><span>لتكلفة الطاقة </span></a><span>المخصصة للاستهلاك المنزلي، وهو موضوع جدلي داخل الولايات المتحدة نفسها، وهي على أعتاب انتخابات التجديد النصفي للكونجرس في نوفمبر/تشرين الثاني المقبل.</span></p><h2>الدرس من تجربة تشيلي </h2><p dir="rtl">ربما الدرس الأهم لمصر في هذا المجال هو تجربة تشيلي التي <a href="https://www.trade.gov/market-intelligence/chile-information-technology-data-centers">تعد</a> أحد أبرز  المستضيفين لهذا النوع من المراكز عالميًا، وفي الوقت نفسه تشهد عاصمتها سانتياجو دي تشيلي، <span>تصاعدًا للنزاعات بشأن </span><a href="https://www.tandfonline.com/doi/full/10.1080/10630732.2025.2546784"><span>ندرة المياه العذبة</span></a><span> بسبب التوسع في هذه الاستثمارات.</span></p><p dir="rtl">لذا علينا أن ننظر إلى هذه التجربة ونتساءل: هل تفوق مكاسب استضافة صناعة مراكز البيانات في مصر الخسائر المتوقعة؟ يمكننا أن نتجاهل هذا السؤال إذا كنا نتمتع بالقدرة على جذب استثمارات أجنبية في مجال البنية الأساسية ونتمتع بوفرة في الطاقة والمياه، لكن بما أننا نعاني بشدة في كلا المجالين فإن تجاهل الأمر قد يكون له ثمن أكبر.</p><p dir="rtl">على صعيد آخر، إذا كانت مراكز البيانات ستدمج مصر ضمن مراحل إنتاج التكنولوجيا على مستوى العالم، فما هو دورنا في هذه السلسلة؟ وهل سنضطلع بدورٍ كبير يساعد على دفع النمو الاقتصادي الوطني أم سنجني قيمة مضافة محدودة جدًا؟</p><figure role="group" data-sanitized-class="align-right">
-
-<div data-embed-button="almanassa_media_browser" data-entity-embed-display="view_mode:media.embed" data-entity-type="media" data-entity-uuid="81fc807a-ec79-409f-bd2c-728c6fe5e628" data-langcode="ar" data-entity-embed-display-settings="[]" data-sanitized-class="embedded-entity">
-	    <picture>
-                  <source media="all and (min-width: 1440px)" type="image/webp" width="1300" height="752">
-              <source media="all and (min-width: 641px)" type="image/webp" width="650" height="376">
-              <source type="image/webp" width="325" height="188">
-                  <img width="650" height="376" src="https://almanassa.com/sites/default/files/styles/max_650x650/public/photobank/2026/81fc807a-ec79-409f-bd2c-728c6fe5e628.jpg.webp?itok=jlJPNu1q" alt>
-
-  </picture>
-
-
-
-<aside data-sanitized-class="media--management-links">
-  <ul>
-          </ul>
-</aside>
-
-<aside data-sanitized-class="caption credits">fرخصة المشاع الإبداعي، ويكيميديا</aside>
-
-	</div>
-
-<figcaption>مقر جوجل الرئيسي، شعار جوجل</figcaption>
-</figure>
-<p dir="rtl">في هذا المجال أيضًا <span>لا تبدو التجربة التشيلية مبشرة كثيرًا، فبالرغم من استضافتها منشآت لتخزين ومعالجة البيانات لبعض كبرى الشركات العالمية - غالبيتها أمريكية- وعلى رأسها </span><a href="https://www.reuters.com/technology/google-takes-chile-data-center-plans-back-square-one-environmental-concerns-2024-09-17/"><span>جوجل </span></a><span>و</span><a href="https://www.bnamericas.com/en/news/microsoft-activates-first-data-center-region-in-chile"><span>مايكروسوفت</span></a><span> و</span><a href="https://aws.amazon.com/blogs/aws/coming-soon-aws-south-america-chile-region/"><span>أمازون</span></a><span>، فإن الشركات الوطنية انحصر </span><a href="https://www.trade.gov/country-commercial-guides/chile-digital-economy"><span>دورها </span></a><span>في تقديم خدمات تجني من ورائها قيمة مضافة منخفضة نسبيًا.</span></p><p dir="rtl">تركزت أنشطة الشركات الوطنية في تشيلي على أعمال <span>الإنشاء وصيانة الشبكات الكهربائية والاتصالات وأنظمة التبريد، وهو أمر حقق لها دخلًا لا شك، وسمح لمهندسيها وفنييها باكتساب مهارات وخبرات جديدة، لكنه لم يفتح المجال أمام توطين التكنولوجيا أو زيادة مبيعات الشركات المحلية من<strong> </strong>الأجهزة والمكونات عالية التكنولوجيا.<strong>  </strong></span></p><p dir="rtl"><span>وتتضح ضآلة استفادة تشيلي من التجربة من خلال تتبع تطور </span><a href="https://data.worldbank.org/indicator/TX.VAL.ICTG.ZS.UN"><span>نصيب</span></a><span> البلاد من المنتجات التكنولوجية كنسبة من إجمالي الصادرات السلعية منذ سنة 2000، إذ ظل دون النصف في المائة، أي أقل من نظيره في مصر البالغ 2.3%، علمًا بأن النسبة المصرية هي الأخرى متواضعة إذا ما قورنت بإسرائيل 17.7% أو بكوريا الجنوبية 28%.</span></p><p dir="rtl"><span>ولا تبدو القصة أكثر نجاحًا إذا نظرنا إلى الخدمات التكنولوجية كنسبة من إجمالي صادراتها، إذ </span><a href="https://data.worldbank.org/indicator/BX.GSR.CCIS.ZS?locations=CL-EG"><span>سجل</span></a><span> متوسط تلك الصادرات في الفترة بين 2015 إلى 2024، وهي الفترة التي شهدت ارتفاعًا ملموسًا في استضافة مراكز البيانات، تحسنًا طفيفًا في نصيب صادرات خدمات تكنولوجيا المعلومات من 3.7% بين عامي 2000 و2014 إلى 5.4% في العقد الماضي، وتجدر الإشارة إلى أن متوسط نصيب صادرات خدمات تكنولوجيا المعلومات في الحالة المصرية هو 5% للعقد الماضي (2015-2024) من دون استضافة أي مراكز لشركات عملاقة.</span></p><blockquote><p dir="rtl"><span> دور تشيلي الأساسي هو توفير الموارد الطبيعية، والتي للمفارقة ليست موجودة بفائض أصلًا</span></p></blockquote><p dir="rtl"><span>يبدو لنا من الأرقام السابقة أن استضافة مراكز البيانات لكبريات الشركات لم تنعكس على تغيير وضع الاقتصاد التشيلي في التقسيم الدولي للعمل، إذ ظلت المكونات ذات القيمة المضافة المرتفعة في سلاسل الإمداد مرهونة بالشركات الأمريكية الكبرى، بينما انحسر دور الشركات التشيلية في أداء خدمات البناء والصيانة لا أكثر.</span></p><p dir="rtl"><span>وإذا أضفنا إلى هذا أن حضور الشركات في تشيلي كان مرهونًا بتسهيل إجراءات الحصول على مساحات كبيرة من الأراضي، والنفاذ إلى الطاقة والمياه (وهو بلد </span><a href="https://hess.copernicus.org/articles/29/5185/2025/"><span>فقير مائيًا</span></a><span> هو الآخر) يتضح لنا أن دور تشيلي الأساسي هو توفير الموارد الطبيعية، التي للمفارقة ليست موجودة بفائض أصلًا.</span></p>
-<div data-entity-type="node" data-entity-uuid="f977bebf-5787-4d69-b3c5-3f8ed3aa7359" data-embed-button="almanassa_story_browser" data-entity-embed-display="view_mode:node.read_also" data-langcode="ar" data-entity-embed-display-settings="[]" data-sanitized-class="embedded-entity">
-	<article data-sanitized-id="node-23433" data-sanitized-class="view-mode--read-also type-story">
-	<div data-sanitized-class="row">
-		<a href="https://almanassa.com/stories/23433" data-ph-capture-attribute-link-type="story" data-ph-capture-attribute-link-id="23433" data-ph-capture-attribute-link-title="هل المقاطعة وحدها تكفي؟ عن معركة بناء السيادة التكنولوجية في مصر" data-ph-capture-attribute-link-section="علوم وتكنولوجيا" data-ph-capture-attribute-link-view-mode="read_also" data-sanitized-class="columns small-12 medium-6">
-			<hr data-sanitized-class="embed-divider">
-			<div data-sanitized-class="h3">اقرأ أيضا</div>
-			
-			<div data-sanitized-class="h2">
-				<span>هل المقاطعة وحدها تكفي؟ عن معركة بناء السيادة التكنولوجية في مصر</span>
-
-			</div>
-			
-			<hr data-sanitized-class="embed-divider">
-		</a>
-	</div>
-</article>
-
-	</div>
-<p dir="rtl"><span>وبما أن مراكز البيانات كثيفة التكنولوجيا وكثيفة رأس المال وكثيفة الطاقة فلا مجال للحديث حقًا عن خلق فرص عمل. ومن هنا كان لنا أن نفهم لماذا نشأت حركات احتجاج كبيرة في تشيلي للحيلولة دون توسيع مراكز البيانات هناك، بالتزامن مع حركات شبيهة في الولايات المتحدة وغيرها، وربما كان هذا السبب في بحث الشركات الأمريكية عن مواقع جديدة لاستنزاف الموارد الطبيعية، وهذه المرة يبدو أن العين على مصر. </span></p>
-			<div data-sanitized-id="topic-file-stories">
-			<div data-sanitized-class="views-element-container">		<div data-almanassa-posthog-link-source="Story Topic File Stories List" data-almanassa-posthog-link-source-type="topic_files" data-almanassa-posthog-link-source-id="embed_story_topic_file" data-sanitized-class="js-view-dom-id-3785c0e1b6c3d0eda54b6df6f80442d08dbc79a6a0e1e965708b18fe2af1bdab">
-		
-		
-		
-
-		
-		
-		
-		
-
-		
-		
-		
-
-		
-		
-
-		
-		
-	</div>
-</div>
-
-			</div>
-		</div><!-- FULLCONTENT end //-->]]></description>
-			<pubDate>Sun, 27 Sep 2026 16:02:05 +0300</pubDate>
-			<guid isPermaLink="false">1790514143553226</guid>
 		</item>
 
 	</channel>
