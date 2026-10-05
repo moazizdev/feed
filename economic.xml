@@ -3,10 +3,451 @@
 		<title>اقتصاد</title>
 		<link>http://192.168.1.50:8081/api/query.php?user=admin&amp;t=4IzCA6HFSoouCSR9nVqNkV&amp;f=html</link>
 		<description>RSS feed of اقتصاد</description>
-		<pubDate>Mon, 05 Oct 2026 17:30:04 +0300</pubDate>
-		<lastBuildDate>Mon, 05 Oct 2026 14:30:04 GMT</lastBuildDate>
+		<pubDate>Mon, 05 Oct 2026 17:45:02 +0300</pubDate>
+		<lastBuildDate>Mon, 05 Oct 2026 14:45:02 GMT</lastBuildDate>
 		<atom:link href="http://192.168.1.50:8081/api/query.php?user=admin&amp;t=4IzCA6HFSoouCSR9nVqNkV&amp;f=rss" rel="self" type="application/rss+xml" />
 				<item>
+			<title>أسعار العملات في مصر</title>
+			<link>https://realegp.com/</link>
+						<description><![CDATA[<table data-sanitized-class="table currencies-table">
+              <thead>
+                <tr data-sanitized-class="thick-border">
+                  <th data-sanitized-class="text-end">العملة</th>
+                  <th>سعر البنك</th>
+                  <th>
+                    <div>سعر السوق</div>
+                    <div data-sanitized-class="range">من - إلى</div>
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/usd">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-us fib"></i>
+                        </div>
+                        <div>دولار أمريكي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">52.34</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">52.77</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">52.4 - 53.03</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/eur">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-eu fib"></i>
+                        </div>
+                        <div>يورو</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">58.63</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">59.11</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">58.7 - 59.41</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/sar">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-sa fib"></i>
+                        </div>
+                        <div>ريال سعودي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">13.85</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">13.96</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">13.86 - 14.03</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/kwd">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-kw fib"></i>
+                        </div>
+                        <div>دينار كويتي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">169.9</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">171.33</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">170.1 - 172.1</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/aed">
+                      <div data-sanitized-class="justify-content-start">
+                        <div data-sanitized-class="flag-img">
+                          <i data-sanitized-class="fi fi-ae fib"></i>
+                        </div>
+                        <div>درهم اماراتي</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td>
+                    <div>
+                      <span data-sanitized-class="fixed-num">14.15</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">14.26</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">14.16 - 14.33</div>
+                  </td>
+                </tr>
+                
+  
+              </tbody>
+            </table>]]></description>
+			<pubDate>Mon, 05 Oct 2026 17:32:11 +0300</pubDate>
+			<guid isPermaLink="false">1791210741030715</guid>
+		</item>
+		<item>
+			<title>أسعار الذهب في مصر</title>
+			<link>https://realegp.com/</link>
+						<description><![CDATA[<table data-sanitized-class="table currencies-table">
+              <thead>
+                <tr data-sanitized-class="thick-border">
+                  <th data-sanitized-class="text-end">الذهب</th>
+                  <th>
+                    <div>متوسط السعر</div>
+                    <div data-sanitized-class="range">من - إلى</div>
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/18k">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <img src="https://realegp.com/static/img/gold.png">
+                        
+                        <div>ذهب عيار 18</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">5245</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">5237 - 5254</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/21k">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <img src="https://realegp.com/static/img/gold.png">
+                        
+                        <div>ذهب عيار 21</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">6120</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">6110 - 6130</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/24k">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <img src="https://realegp.com/static/img/gold.png">
+                        
+                        <div>ذهب عيار 24</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">6994</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">6983 - 7006</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/pound">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <i data-sanitized-class="bi bi-currency-pound"></i>
+                        
+                        <div>جنيه الذهب</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">48960</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">48880 - 49040</div>
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td data-sanitized-class="text-end">
+                    <a href="https://realegp.com/gold/usdsagha">
+                      <div data-sanitized-class="justify-content-start">
+                        
+                        <i data-sanitized-class="bi bi-coin"></i>
+                        
+                        <div>دولار الصاغة</div>
+                      </div>
+                    </a>
+                  </td>
+                  <td data-sanitized-class="market-cell">
+                    <div>
+                      <span data-sanitized-class="fixed-num">52.39</span>
+                      
+                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
+                      
+                    </div>
+                    <div data-sanitized-class="range">52.3 - 52.48</div>
+                  </td>
+                </tr>
+                
+  
+              </tbody>
+            </table>]]></description>
+			<pubDate>Mon, 05 Oct 2026 17:32:11 +0300</pubDate>
+			<guid isPermaLink="false">1791210741030714</guid>
+		</item>
+		<item>
+			<title>الخلاصة| هل بوسع "صندوق" إنقاذ المصانع المتعثرة؟</title>
+			<link>https://almanassa.com/stories/34248</link>
+						<media:thumbnail url="https://almanassa.com/sites/default/files/styles/lead_image_square/public/photobank/medics.png.webp?h=852814c7&amp;itok=3QqsSXln" />
+			<media:content url="https://almanassa.com/sites/default/files/styles/lead_image_square/public/photobank/medics.png.webp?h=852814c7&amp;itok=3QqsSXln" medium="image"></media:content>
+			<description><![CDATA[<!-- FULLCONTENT start //--><div data-sanitized-class="columns small-12 table-scroll">
+			<p dir="rtl">برأس مال مليار جنيه، <a href="https://facebook.com/100064812882317/posts/1706350134868733/?rdid=no9LxSCZSEKrwrvF&amp;share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1H4iFphYg1%2F#">أعلنت</a> الحكومة نهايةَ الأسبوع الماضي عن إطلاق صندوق لمساندة المصانع المتعثرة، ودعت للمساهمة فيه، كذلك <a href="https://facebook.com/100085552119559/posts/1072365625625165/?rdid=nGOgoZUwcSVPo89Y&amp;share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F18RbC2XNrx%2F#">شجعت</a> أصحاب المصانع للتقدم لطلب المساندة عبر بوابة رقمية تابعة للوزارة.</p><p dir="rtl">تنطوي فكرة الصندوق، الذي <a href="https://www.instagram.com/p/DZraKBljsKC/">طرح</a> وزير الصناعة خالد هاشم فكرته قبل أقل من ثلاثة شهور، على تحديات عدة، أولها أنه ليس فقط أول صندوق استثماري يتجه للصناعة، بينما كانت الصناديق <a href="https://fra.gov.eg/wp-content/uploads/2026/09/%D8%A7%D9%84%D8%B1%D8%A8%D8%B9-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A-2026-1.pdf">تركز</a> من قبل على الأسهم والسندات والمعادن، لكنه يستهدف مصانع مأزومة ويسعى لتحقيق الربح من خلالها.</p><p dir="rtl">فما الأولويات الاستثمارية للصندوق خلال الفترة المقبلة؟ وكيف يضمن للمساهمين عائدًا على أموالهم من خلال الاستثمار في شركات تمر بمصاعب وصلت بها لحالة من التعثر؟</p><h2>لماذا نحتاج الصندوق؟</h2><p dir="rtl">أول سؤال يتبادر للذهن عند قراءة <a href="https://www.cbe.org.eg/ar/news-publications/news/2026/10/01/16/13/distressed-factories-restructuring-fund">البيان</a> المشترك بين البنك المركزي ووزير الصناعة حول إطلاق صندوق المصانع المتعثرة هو لماذا نحتاج لمبادرة جديدة بينما <a href="https://www.alarabiya.net/aswaq/economy/2024/12/29/%D9%85%D8%B5%D8%B1-%D8%AA%D8%B7%D9%84%D9%82-%D9%85%D8%A8%D8%A7%D8%AF%D8%B1%D8%A9-%D8%A8%D9%8030-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AC%D9%86%D9%8A%D9%87-%D9%84%D8%AF%D8%B9%D9%85-%D8%A7%D9%84%D9%82%D8%B7%D8%A7%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D9%8A%D8%A9-%D8%B0%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%88%D9%8A%D8%A9">أطلقت</a> الحكومة بالفعل مبادرةً لتيسير التمويل الصناعي قبل عامين ولا تزال <a href="https://www.facebook.com/EgyptAutomotiveAr/posts/%D9%85%D8%A8%D8%A7%D8%AF%D8%B1%D8%A9-%D8%AF%D8%B9%D9%85-%D8%A7%D9%84%D9%82%D8%B7%D8%A7%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D9%8A%D8%A9-%D8%AA%D8%AF%D8%AE%D9%84-%D8%A7%D9%84%D9%85%D8%B1%D8%AD%D9%84%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9-%D8%A8%D8%AA%D9%85%D9%88%D9%8A%D9%84-%D9%8A%D8%B5%D9%84-%D9%84%D9%80-150-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%AC%D9%86%D9%8A%D9%87%D9%88%D8%A7/920985467360183/">سارية</a>؟ </p><figure role="group" data-sanitized-class="align-left">
+
+<div data-embed-button="almanassa_media_browser" data-entity-embed-display="view_mode:media.embed" data-entity-type="media" data-entity-uuid="8f81cee5-41a5-46d6-a62c-412a8b1e069d" data-langcode="ar" data-entity-embed-display-settings="[]" data-sanitized-class="embedded-entity">
+	    <picture>
+                  <source media="all and (min-width: 1440px)" type="image/webp" width="617" height="516">
+              <source media="all and (min-width: 641px)" type="image/webp" width="617" height="516">
+              <source type="image/webp" width="325" height="272">
+                  <img width="617" height="516" src="https://almanassa.com/sites/default/files/styles/max_650x650/public/photobank/2026/8f81cee5-41a5-46d6-a62c-412a8b1e069d.jpg.webp?itok=iWAxZEcI" alt>
+
+  </picture>
+
+
+
+<aside data-sanitized-class="media--management-links">
+  <ul>
+          </ul>
+</aside>
+
+<aside data-sanitized-class="caption credits">موقع محافظة بورسعيد</aside>
+
+	</div>
+
+<figcaption>مصنع أكاي للملابس الجاهزة ببورسعيد</figcaption>
+</figure>
+<p dir="rtl">حسب <span>محمود خليفة، المدير التنفيذي للاستثمار بشركة سي آي كابيتال القابضة، وهي المسؤولة عن إدارة الصندوق الجديد، فإن كلتا المبادرتين تعملان بشكل متكامل، وليست إحداهما بديلةً عن الأخرى.</span></p><p dir="rtl"><span>يشرح خليفة لـ <strong>المنصة</strong> أنه بينما كانت المبادرةُ السابقةُ تستهدف توفيرَ تمويل بعائد منخفض للمصنعين، فإن الصندوق يتطلع للدخول شريكًا في الشركة عبر زيادة رأس المال.</span></p><p dir="rtl"><span>"مثلًا، إذا جرى تقييم مصنع بـ250 مليون جنيه، وكان يحتاج إلى ضخ 80 مليون جنيه، يمكن ضخ المبلغ من خلال زيادة رأس المال مقابل الحصول على حصة في الشركة، وفقًا للتقييم النهائي"؛ يقول المدير التنفيذي بـ"سي آي كابيتال".</span></p><p dir="rtl"><span>ويراهن على أن يكون للصندوق أثر إيجابي على المدى الطويل، إذ يوفر خيارًا أفضل من حصول المصانع المتعثرة على قروض؛ "في حالة الحصول على قرض يظل المصنع مديونًا للبنك، بينما في نموذج الاستثمار المباشر يصبح الصندوق شريكًا في الشركة، ما يفرض مستوى أكبر من الحوكمة والانضباط داخل الشركة، وكذلك الإنفاق ومتابعة الأداء".</span></p><p dir="rtl"><span>ويعاني القطاع الصناعي من ارتفاع أسعار فوائد القروض بسبب </span><a href="https://www.cbe.org.eg/en/monetary-policy/mpc-meetings-schedule"><span>موجة</span></a><span> التشديد النقدي التي بدأت في 2024، وبالرغم من اتجاه المركزي </span><a href="https://almanassa.com/news/23522" data-entity-type="node" data-entity-uuid="dceb1fd1-29b6-456f-bbf0-0f0bfb15796b" data-entity-substitution="canonical"><span>لخفض</span></a><span> الفائدة تدريجيًا منذ أبريل/نيسان 2025، فقد اضطر لتثبيت السعر خلال أغلب اجتماعاته هذا العام بسبب الضغوط التضخمية الناتجة عن الحرب الأمريكية على إيران.</span></p><p dir="rtl">ويتوقع خليفة أن يشجع نجاح <span>النموذج البنوك وشركات الاستثمار المباشر والمستثمرين الماليين على ضخ أموال في المصانع المتعثرة القابلة لإعادة الهيكلة، بما يوسع قاعدة التمويل المتاحة لهذا النوع من الشركات.</span></p><p dir="rtl">ورغم أن إسهام الصندوق في تمويل القطاع الصناعي سيظل محدودًا بالمقارنة بمبادرة البنوك، إذ ترصد الأخيرة تمويلات بـ30 مليار جنيه، فإن <span>المدير التنفيذي لـ"سي آي كابيتال" لا</span> يرى في ذلك تقليلًا من شأن الصندوق، ويفرق بينهما في أن "مبادرة البنوك تتطلب نفقات أضخم لأنها تهدف لتمويل خطوط إنتاج جديدة، بينما يستهدف الصندوق توجيه رؤوس أموال لمساندة مصانع قائمة بالفعل".</p><h2><span>لماذا لا يشارك المواطنون؟</span></h2><p><span>بينما يفتح صندوق المصانع المتعثرة الباب للمؤسسات المالية والشركات للمشاركة في رأسماله، فإنه وعلى عكس السائد في صناديق الاستثمار الأخرى لم يفتح الباب للمواطنين للاكتتاب فيه.</span></p><p dir="rtl"><span>يوضح خليفة في هذا الشأن أن الاستثمار المباشر بطبيعته لا يناسب المستثمرين الأفراد، بسبب طول فترة الاستثمار وصعوبة التخارج السريع؛ </span>"<span>الاستثمار المباشر عادةً ما يحتاج إلى فترة زمنية طويلة قد تصل إلى خمس أو سبع سنوات في بعض الحالات، وهو ما يجعله أكثر ملاءمة للمؤسسات مثل البنوك وشركات التأمين والمؤسسات المالية".</span></p><p><a href="https://www.cnbcarabia.com/157733/2026/04/10/%D9%85%D8%B5%D8%B1-%D8%AA%D8%AC%D9%87%D8%B2-%D9%84%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D8%B5%D9%86%D8%AF%D9%88%D9%82-%D8%B5%D9%86%D8%A7%D8%B9%D9%8A-%D8%AC%D8%AF%D9%8A%D8%AF-%D8%A8%D9%82%D9%8A%D9%85%D8%A9-2.5-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AC%D9%86%D9%8A%D9%87">وتتوزع</a> المساهمات الحالية في الصندوق بواقع نحو 33% لهيئة التنمية الصناعية، ونحو 65% لخمسة بنوك هي مصر والأهلي المصري والعربي الأفريقي الدولي والزراعي المصري وتنمية الصادرات، إلى جانب حصة بنحو 2% لـ سي آي كابيتال.</p><h2>كيف تدار المخاطر؟</h2><p dir="rtl">يلعب الصندوق دور الوسيط بين جهتين على قدر من التناقض، فهو يستهدف من ناحية ضخ أموال في شركات تواجه تحديات تعوقها عن العمل، ومن جهة أخرى مُلزم بصرف عائد جذاب للمؤسسات التي شاركت في تمويل رأس مال الصندوق، فكيف يحقق هذه المعادلة الصعبة؟</p><p dir="rtl">يوضح خليفة أن الصندوق سيركز على طبيعة المصانع التي تضمن تحقيق أرباح للوفاء بالتزاماته للمكتتبين في رأس ماله، <span>من بينها الشركات التي تعاني من التعثر بسبب صدمات مثل جائحة كورونا أو التوترات الإقليمية، لكنها تمتلك مقومات أساسية تسمح لها بالعودة إلى الإنتاج بمجرد توفير السيولة.</span></p><figure role="group" data-sanitized-class="align-right">
+
+<div data-embed-button="almanassa_media_browser" data-entity-embed-display="view_mode:media.embed" data-entity-type="media" data-entity-uuid="0310dbca-e1f3-42ea-9013-f49dca71669b" data-langcode="ar" data-entity-embed-display-settings="[]" data-sanitized-class="embedded-entity">
+	    <picture>
+                  <source media="all and (min-width: 1440px)" type="image/webp" width="954" height="567">
+              <source media="all and (min-width: 641px)" type="image/webp" width="650" height="386">
+              <source type="image/webp" width="325" height="193">
+                  <img width="650" height="386" src="https://almanassa.com/sites/default/files/styles/max_650x650/public/photobank/fac.png.webp?itok=uMs2W7tY" alt>
+
+  </picture>
+
+
+
+<aside data-sanitized-class="media--management-links">
+  <ul>
+          </ul>
+</aside>
+
+<aside data-sanitized-class="caption credits">أحد العمال لـ المنصة</aside>
+
+	</div>
+
+<figcaption>مصنع فيرتيكال جينير، أرشيفية</figcaption>
+</figure>
+<p dir="rtl">يستهدف الصندوق أيضًا المصانع التي تعثرت بسبب استخدام <span>تمويلات قصيرة الأجل لتمويل استثمارات طويلة الأجل، مثل إنشاء مبانٍ أو شراء خطوط إنتاج تحتاج إلى سنوات لاسترداد تكلفتها، ما أدى إلى ضغوط على التدفقات النقدية وتعثر الشركة في سداد التزاماتها.</span></p><p dir="rtl"><span>ويشير خليفة لنوع ثالث من المتعثرين يرى فيه قدرة على الربح، وهو الشركات العائلية التي انتقلت إلى الجيل الثاني أو الثالث الذي لا يملك الخبرة الكافية لإدارة النشاط، وكذلك الشركات التي تعاني من خلافات بين الشركاء تعوق اتخاذ القرارات واستمرار العمل.</span></p><blockquote><p dir="rtl"><span>بعد استعادة المصنع لقدرته يمكن للصندوق التخارج بإعادة بيع حصته إلى المالك </span></p></blockquote><p dir="rtl">لتجنب المخاطر، سيضع <span>الصندوق حدودًا لتنويع استثماراته، بحيث لا يستثمر أكثر من </span>10% من حجم الصندوق في مصنع واحد؛<span> أي ما يصل إلى 100 مليون جنيه في المصنع الواحد، كما لا يجوز أن تتجاوز استثماراته في قطاع واحد </span>25% من إجمالي حجم الصندوق، وفقًا لخليفة.</p><p dir="rtl">كما أن الصندوق لن يرتبط بهذه الأنشطة بشكل أبدي، كما يشرح خليفة، فبمجرد إعادة هيكلة الشركة سيتخارج منها الصندوق للبحث عن استثمار جديد؛<span> "يمكن أن تمتد فترة استثمار الصندوق لنحو </span>سنتين إلى ثلاث سنوات<span>، وبعد استعادة المصنع قدرته على العمل، يمكن للصندوق التخارج من استثماره من خلال إعادة بيع حصته إلى مالك المصنع، أو طرحها في البورصة، أو بيعها إلى مستثمر مالي أو استراتيجي آخر". </span></p><h2>مع من سيعمل الصندوق؟</h2><p><span>حسب تقديرات سابقة لوزارة الصناعة، </span><a href="https://www.facebook.com/CNBCArabia/posts/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D8%A9-%D9%88%D8%A7%D9%84%D9%86%D9%82%D9%84-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D9%82%D9%85%D9%86%D8%A7-%D8%A8%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9-%D8%AA%D8%B4%D8%BA%D9%8A%D9%84-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-1420-%D9%85%D8%B5%D9%86%D8%B9-%D9%85%D8%AA%D8%B9%D8%AB%D8%B1-%D8%AD%D8%AA%D9%89-%D9%86%D9%87%D8%A7%D9%8A%D8%A9-20/1320267743473113/"><span>بلغ</span></a><span> عدد المصانع المتعثرة في مصر حاليًا نحو 6 آلاف مصنع بنهاية 2025. و</span>يكشف <span>المدير التنفيذي للاستثمار بـ"سي آي كابيتال" أن </span>الصندوقَ سيركز في هذه المرحلة على قطاعات الأغذية، والأدوية، والكيماويات، والملابس الجاهزة، ومواد البناء<span>.</span></p><p dir="rtl">ويشير إلى <span>أن الصندوق لا يضع تفضيلًا جغرافيًا لمحافظة أو منطقة صناعية بعينها، إنما يعتمد على الفرص الاستثمارية التي تستوفي معايير الاختيار، لافتًا إلى </span>أن نحو 25% من المصانع المتعثرة المسجلة على المنصة الرقمية لوزارة الصناعة في الوقت الحالي يتركز في القاهرة، بينما يبلغ نصيب الإسكندرية نحو 14.5%، وبني سويف 9%، وبورسعيد 6.5%، <span>وتتوزع النسبة المتبقية على محافظات الإسماعيلية، الأقصر، محافظات البحر الأحمر، البحيرة، السويس، الشرقية، الغربية، المنوفية، المنيا، أسوان وأسيوط.</span></p><h2>هل يبالغ الصندوق في طموحاته؟</h2><p>يتوقع رئيس مجلس إدارة الجمعية المصرية للأوراق المالية "إيكما"، محمد ماهر، أن يقتصر نشاط صندوق إعادة هيكلة المصانع المتعثرة برأس ماله الحالي على نحو من 10 إلى 15 شركة.</p><p>ويؤكد لـ <strong>المنصة</strong> على أن إمكانات الصندوق المحدودة ستجعله بمثابة تجربة استرشادية، لكنها لن تكون كافيةً لعلاج مشكلات التعثر الصناعي التي تمتد لآلاف المصانع، لافتًا إلى أن اختيار القطاعات والشركات المناسبة لا يمثل التحدي الوحيد، إذ يحتاج الصندوق أيضًا إلى التعاون مع أطراف متخصصة في الصناعات التي يستثمر بها، لتقديم الخبرة والمشورة اللازمة للمساهمين أثناء الشراكة وتحولها من الخسارة إلى الربحية.</p>
+<div data-entity-type="node" data-entity-uuid="407e568f-fce3-422e-9bab-07caf19293b3" data-embed-button="almanassa_story_browser" data-entity-embed-display="view_mode:node.read_also" data-langcode="ar" data-entity-embed-display-settings="[]" data-sanitized-class="embedded-entity">
+	<article data-sanitized-id="node-10019" data-sanitized-class="view-mode--read-also type-story">
+	<div data-sanitized-class="row">
+		<a href="https://almanassa.com/stories/10019" data-ph-capture-attribute-link-type="story" data-ph-capture-attribute-link-id="10019" data-ph-capture-attribute-link-title='كيف تغيرت انحيازات "التمويل الصناعي" بعد المبادرة الحكومية الأخيرة؟' data-ph-capture-attribute-link-section="اقتصاد وعمران" data-ph-capture-attribute-link-view-mode="read_also" data-sanitized-class="columns small-12 medium-6">
+			<hr data-sanitized-class="embed-divider">
+			<div data-sanitized-class="h3">اقرأ أيضا</div>
+			
+			<div data-sanitized-class="h2">
+				<span>كيف تغيرت انحيازات "التمويل الصناعي" بعد المبادرة الحكومية الأخيرة؟</span>
+
+			</div>
+			
+			<hr data-sanitized-class="embed-divider">
+		</a>
+	</div>
+</article>
+
+	</div>
+<p>ستكشف التجارب الأولى مدى قدرة الصندوق الجديد على علاج مشكلات القطاع الصناعي، وتقديم نموذج جديد للاستثمار في القطاع الإنتاجي، بعد سنوات من تركيز الصناديق على الاستثمار في أدوات الدين والأسهم. </p>
+			<div data-sanitized-id="topic-file-stories">
+			<div data-sanitized-class="views-element-container">		<div data-almanassa-posthog-link-source="Story Topic File Stories List" data-almanassa-posthog-link-source-type="topic_files" data-almanassa-posthog-link-source-id="embed_story_topic_file" data-sanitized-class="js-view-dom-id-753eb7790eda22722a8d9abdb28b609d9dd6e742b7fbf75a01257c167df2a3cf">
+		
+		
+		
+
+		
+		
+		
+		
+
+		
+		
+		
+
+		
+		
+
+		
+		
+	</div>
+</div>
+
+			</div>
+		</div><!-- FULLCONTENT end //-->]]></description>
+			<pubDate>Mon, 05 Oct 2026 17:32:09 +0300</pubDate>
+			<guid isPermaLink="false">1791210741030713</guid>
+		</item>
+		<item>
+			<title>الخلاصة| نظام الدفع الإفريقي.. خطوة للتحرر من الدولار؟</title>
+			<link>https://almanassa.com/stories/33919</link>
+						<dc:creator>مصطفى محمد</dc:creator>
+			<media:thumbnail url="https://almanassa.com/sites/default/files/styles/card_lead/public/photobank/2026/669b1808-2b80-4d1e-9d6f-9a8e01211b21.png.webp?h=bbb2c827&amp;itok=vg5-sDoM" />
+			<media:content url="https://almanassa.com/sites/default/files/styles/card_lead/public/photobank/2026/669b1808-2b80-4d1e-9d6f-9a8e01211b21.png.webp?h=bbb2c827&amp;itok=vg5-sDoM" medium="image"></media:content>
+			<description><![CDATA[<!-- FULLCONTENT start //--><div data-sanitized-class="columns small-12 table-scroll">
+			<p><a href="https://business.ahram.org.eg/UI/Front/Inner.aspx?NewsContentID=126803">تقدمت</a> 6 بنوك مصرية بطلب الانضمام إلى نظام الدفع والتسوية الإفريقي PAPSS، وهناك اتجاه أيضًا لربط إنستاباي به ما يتيح للأفراد التعامل من خلاله.</p><p>يمكن تلخيص نظام الدفع الإفريقي في أنه شبكةٌ من العلاقات المصرفية تتيح لبلدين إفريقيين التعامل سويًّا بعملتيهما  المحليتين، وهو ما يجدد الجدل حول إمكانية تحرر الاقتصادات الإفريقية من هيمنة العملة الأمريكية على معاملاتها المختلفة.</p><h2><strong>ما مميزات نظام الدفع الإفريقي؟</strong></h2><p><a href="https://papss.com/media/in-the-media/the-pan-african-payments-and-settlement-system-papss/">أطلق</a> الاتحاد الإفريقي وبنك التصدير والاستيراد الإفريقي (أفريكسيم بنك) نظام المدفوعات والتسوية الإفريقي من غانا عام 2022، بهدف إتاحة تسوية المعاملات بين بلدان القارة بالاعتماد على عملاتها المحلية بعيدًا عن وساطة الدولار أو عملات الاقتصادات الكبرى، وبعد عامين <a href="https://www.cbe.org.eg/ar/news-publications/news/2024/12/03/09/38/centeral-bank-of-egypt-joins-the-pan-african-payment-and-settlement-system-papss">انضم</a> له البنك المركزي المصري.</p><p>خلال <a href="https://www.facebook.com/AsharqbEGY/posts/%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AA%D9%86%D9%81%D9%8A%D8%B0%D9%8A-%D9%84%D9%85%D9%86%D8%B5%D8%A9-%D8%A7%D9%84%D8%AF%D9%81%D8%B9-%D9%88%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A-%D8%A7%D9%84%D8%AA%D8%A7%D8%A8%D8%B9%D8%A9-%D9%84%D9%84%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A-%D9%84%D9%84%D8%AA%D8%B5%D8%AF%D9%8A%D8%B1-%D9%88%D8%A7%D9%84/1066617136127202/">زيارته</a> لمصر في سبتمبر/أيلول الماضي، قال مايك أوجابلو رئيس منظومة الدفع الإفريقية إنها أصبحت تضم 30 دولة إفريقية من <a href="https://aacb.org/en/member-central-banks">إجمالي</a> 41 بنكًا مركزيًّا، ما يشير إلى التوسع السريع في هذه المنظومة عبر القارة.</p><p>ويشرح الخبير الاقتصادي، محمد أنيس لـ <strong>المنصة </strong>أن الأموال لا تنتقل مباشرةً  في التجارة العابرة للحدود من بنك البلد المستورد إلى بنك البلد المصدر، لكن المعاملات تتم عبر بنوك وسيطة من خارج القارة، ومن خلال عملات وسيطة أيضًا مثل الدولار.</p><p>يشير أنيس إلى الميزة الأساسية لنظام الدفع الإفريقي وهو أنه يتيح لبلدين في القارة التبادل التجاري بدون الاعتماد على وسطاء أو العملات الكبرى.</p><p>ويلفت خالد أبو المكارم، رئيس المجلس التصديري للصناعات الكيماوية والأسمدة، إلى أن مثل هذه الحلقات الوسيطة تضيف إلى تكلفة الاستيراد وقتًا وتكاليف، وهو ما يحد من فرص نمو التجارة الإفريقية.</p><p>ويؤكد لـ<strong> المنصة </strong>أن نظام الدفع الجديد سيساعد البلدان الإفريقية في تجنب أكبر تحديات التجارة المتمثلة في تدبير العملة الصعبة.</p><h2>بماذا تخبرنا الأرقام؟ </h2><p>ضمن تصريحاته في مصر، قال أوجبالو إن نظام الدفع الإفريقي خفض تكلفة التحويلات داخل القارة بما يصل إلى 95%، إضافةً إلى اختصار زمن تنفيذ المعاملات من عدة أيام في السابق إلى 120 ثانية حدًا أقصى، بمتوسط 7 ثوانٍ فقط للعملية.</p><p>بالنسبة للشركات، لا تتوقف قيمة هذه الأرقام عند رسوم التحويل وحدها، إنما في اختصار المدد الزمنية، فكل يوم إضافي يرفع تكلفة الصفقة، كما يؤدي تعدد حلقات التحويل لزيادة التكلفة النهائية للمعاملة.</p><p>هذه النقطة أكثر أهميةً بالنسبة للشركات الصغيرة والمتوسطة، إذ إن خفض تكلفة ومدة التسوية يمكن أن يجعلا بعض الصفقات الصغيرة أكثر جدوى اقتصاديًّا، بحيث لا تمثل تكاليف التحويل نسبةً مرتفعةً من قيمة المعاملة، بتقدير خالد أبو المكارم.</p><p>بدوره يلفت مينا رفيق، المحلل الأول بشركة برايم للاستثمارات المالية، إلى أن تسوية المعاملات بالعملات المحلية تقلل كذلك من احتياج الدول الإفريقية لمراكمة احتياطيات ضخمة من النقد الأجنبي، الذي قد ترتفع تكلفة جمعه في أوقات ارتفاع الفائدة الأمريكية.</p><p>وتتمتع مصر حاليًا باحتياطيات غير مسبوقة من النقد الأجنبي، لكنها اضطرت للدخول في صفقات واسعة لبيع الأراضي والحصول على تمويلات دولية من أجل تأمينه، بهدف تعزيز الثقة في العملة المحلية.</p><figure data-sanitized-class="media"><div data-sanitized-class="embed-media embed-media--rich-flourish"><div><iframe src="https://flo.uri.sh/visualisation/30378042/embed" allowfullscreen="allowfullscreen" title="الاحتياطي الم" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" sandbox="allow-scripts allow-same-origin"></iframe></div></div></figure><p data-sanitized-class="caption">رسم بياني يوضح حجم احتياطي النقد الأجنبي منذ عام 2004 وحتى 2026، تصميم المنصة</p><h2><strong>هل يمكننا فعلًا التحرر من الدولار؟</strong></h2><p>يتزامن طرح نظام الدفع الإفريقي مع دعوات عدة للتحرر من سيطرة الدولار على المعاملات الدولية، أبرزها <a href="https://mecouncil.org/ar/blog_posts/%D9%87%D9%84-%D8%A8%D8%A5%D9%85%D9%83%D8%A7%D9%86-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9-%D8%A7%D9%84%D8%A8%D8%B1%D9%8A%D9%83%D8%B3-%D8%A7%D9%84%D8%AA%D8%AE%D9%84%D9%91%D9%8A-%D9%81%D8%B9%D9%84%D8%A7/">خرجت</a> من مجموعة البريكس.</p><p>وتعكس <a href="https://data.imf.org/en/news/imf%20data%20brief%20july%201">بيانات</a> تكوين العملات في احتياطيات النقد الأجنبي لكافة دول العالم تراجع نصيب الدولار من 70% بداية الألفية إلى نحو 57% في الوقت الراهن، ما يؤكد رغبة العديد من الدول في تخفيف الاعتماد على العملة الأمريكية.</p><p>لكن أبو المكارم يرى أن من المبالغة تصور أن استخدام الدولار عملة وساطة دولية سينتهي تمامًا؛ "الدولار سيظل مهمًا في بعض المعاملات، بينما يمكن أن تتوسع التسويات بالعملات المحلية تدريجيًا وفقًا لظروف كل سوق".</p><figure data-sanitized-class="media"><div data-sanitized-class="embed-media embed-media--rich-flourish"><div><iframe src="https://flo.uri.sh/visualisation/30377988/embed" allowfullscreen="allowfullscreen" title="Untitled Visualization" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" sandbox="allow-scripts allow-same-origin"></iframe></div></div></figure><p data-sanitized-class="caption">رسم بياني يوضح حصص عملات الاقتصادات الكبرى من احتياطيات النقد الأجنبي، تصميم المنصة</p><p>يشير رئيس المجلس التصديري للصناعات الكيماوية والأسمدة إلى واحدة من أكبر عقبات التوسع في نظام الدفع الإفريقي، وهي محدوديةُ العلاقات التجارية بين دول القارة، فـ"تسهيل حركة الأموال لا يعني تلقائيًّا زيادة التجارة، فالمُصدر المصري الذي يريد دخول سوق أفريقية جديدة يواجه تحديات تتعلق بالتمويل والتسويق والنقل واللوجستيات، والثقة في العملاء، بجانب معرفة اللوائح والقواعد المنظمة لكل سوق".</p><p>ويقتصر <a href="https://almalnews.com/2128164/%D8%A3%D9%81%D8%B1%D9%8A%D9%83%D8%B3%D9%8A%D9%85-%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%A7%D9%84%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A9-%D8%AA%D8%B3%D8%AA%D8%AD%D9%88%D8%B0-%D8%B9%D9%84%D9%89-15/">نصيب</a> التجارة بين مصر والدول الإفريقية على نحو 6.3% من إجمالي معاملاتها التجارية؛ بالتالي تقلل محدودية حجم التجارة من أثر النظام على الاحتياطي الأجنبي، رغم أهميته في تقليل الاعتماد على الدولار، كما يؤكد رفيق.</p><p>بينما يتوقع أنيس أن تظل معاملات الأفراد داخل إفريقيا محدودة أيضًا، ما يقلل من أثر ربط نظام الدفع الإفريقي بإنستاباي.</p><p>وحسب <a href="https://www.capmas.gov.eg/mediaLanding/news/3472">بيانات</a> جهاز الإحصاء، بلغت قيمة تحويلات المصريين العاملين بدول الاتحاد الإفريقي 191 مليون دولار خلال العام المالي 2024/2025، بينما سجلت قيمة تحويلات العاملين من دول الاتحاد الإفريقي بمصر 26.2 مليون دولار خلال الفترة نفسها.</p><h2>ما الذي يجعلنا نتفاءل؟ </h2><p>رغم محدودية المعاملات التجارية بين مصر ودول القارة، فإن بيانات التجارة لآخر 10 سنوات تشير إلى نمو قوي في الصادرات المصرية منذ 2020، ما قد يمهد لنمو المعاملات المالية بين الطرفين.</p><p>ويفيد أحمد زكي، أمين عام شعبة المصدرين بالاتحاد العام للغرف التجارية ورئيس لجنة الشؤون الإفريقية بالشعبة،<strong> </strong>بأن<strong> </strong>الاضطرابات التي شهدها الاقتصاد العالمي خلال السنوات الأخيرة أوجدت فرصًا إضافيةً أمام الصادرات المصرية، بعدما أدت جائحة كورونا إلى اضطراب سلاسل الإمداد في الصين وشرق آسيا، ثم جاءت الحرب الروسية الأوكرانية لتزيد من الصعوبات.</p><p>ويخبر زكي <strong>المنصة</strong> بأن استمرار نمو الصادرات المصرية إلى إفريقيا يتطلب استغلال هذه الفرص بصورة أكثر كفاءة، ما يزيد من أهمية نظام الدفع الإفريقي في الوقت الراهن.</p><figure data-sanitized-class="media"><div data-sanitized-class="embed-media embed-media--rich-flourish"><div><iframe src="https://flo.uri.sh/visualisation/30317417/embed" allowfullscreen="allowfullscreen" title="الصادرات والواردات" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" sandbox="allow-scripts allow-same-origin"></iframe></div></div></figure><p data-sanitized-class="caption">رسم بياني يوضح حجم التجارة بين مصر والدول الإفريقية في الفترة من 2015-2025، تصميم المنصة</p><p>ستكشف السنوات المقبلة مدى جدوى نظام الدفع الإفريقي الجديد في تعزيز العلاقات الاقتصادية بين بلدان القارة، وتقليل الاعتماد على عملات الاقتصادات الكبرى.</p>
+			<div data-sanitized-id="topic-file-stories">
+			<div data-sanitized-class="views-element-container">		<div data-almanassa-posthog-link-source="Story Topic File Stories List" data-almanassa-posthog-link-source-type="topic_files" data-almanassa-posthog-link-source-id="embed_story_topic_file" data-sanitized-class="js-view-dom-id-c1304a90b1bc55cd0ad5edf2b3ae0e37b68b67414a9c13b0f730fc844763e705">
+		
+		
+		
+
+		
+		
+		
+		
+
+		
+		
+		
+
+		
+		
+
+		
+		
+	</div>
+</div>
+
+			</div>
+		</div><!-- FULLCONTENT end //-->]]></description>
+			<pubDate>Mon, 05 Oct 2026 17:32:09 +0300</pubDate>
+			<guid isPermaLink="false">1791210741030712</guid>
+		</item>
+		<item>
 			<title>الرقابة المالية تعزز شفافية وثائق التأمين المرتبطة بالاستثمار في الذهب لحماية حقوق المتعاملين</title>
 			<link>https://market.isagha.com/articles/2513</link>
 						<media:thumbnail url="https://cdn.isagha.net/public/files/y1SyQCvgbLBvR5dWIlWizY8KoMVtbaaeltYQZrIj.jpg" />
@@ -2193,612 +2634,6 @@
             </table>]]></description>
 			<pubDate>Mon, 05 Oct 2026 05:32:05 +0300</pubDate>
 			<guid isPermaLink="false">1791167525060676</guid>
-		</item>
-		<item>
-			<title>أسعار الذهب في مصر</title>
-			<link>https://realegp.com/</link>
-						<description><![CDATA[<table data-sanitized-class="table currencies-table">
-              <thead>
-                <tr data-sanitized-class="thick-border">
-                  <th data-sanitized-class="text-end">الذهب</th>
-                  <th>
-                    <div>متوسط السعر</div>
-                    <div data-sanitized-class="range">من - إلى</div>
-                  </th>
-                </tr>
-              </thead>
-              <tbody>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/gold/18k">
-                      <div data-sanitized-class="justify-content-start">
-                        
-                        <img src="https://realegp.com/static/img/gold.png">
-                        
-                        <div>ذهب عيار 18</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">5245</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">5237 - 5254</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/gold/21k">
-                      <div data-sanitized-class="justify-content-start">
-                        
-                        <img src="https://realegp.com/static/img/gold.png">
-                        
-                        <div>ذهب عيار 21</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">6120</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">6110 - 6130</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/gold/24k">
-                      <div data-sanitized-class="justify-content-start">
-                        
-                        <img src="https://realegp.com/static/img/gold.png">
-                        
-                        <div>ذهب عيار 24</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">6994</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">6983 - 7006</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/gold/pound">
-                      <div data-sanitized-class="justify-content-start">
-                        
-                        <i data-sanitized-class="bi bi-currency-pound"></i>
-                        
-                        <div>جنيه الذهب</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">48960</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">48880 - 49040</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/gold/usdsagha">
-                      <div data-sanitized-class="justify-content-start">
-                        
-                        <i data-sanitized-class="bi bi-coin"></i>
-                        
-                        <div>دولار الصاغة</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">52.35</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">52.26 - 52.44</div>
-                  </td>
-                </tr>
-                
-  
-              </tbody>
-            </table>]]></description>
-			<pubDate>Mon, 05 Oct 2026 05:32:05 +0300</pubDate>
-			<guid isPermaLink="false">1791167525060675</guid>
-		</item>
-		<item>
-			<title>أسعار العملات في مصر</title>
-			<link>https://realegp.com/</link>
-						<description><![CDATA[<table data-sanitized-class="table currencies-table">
-              <thead>
-                <tr data-sanitized-class="thick-border">
-                  <th data-sanitized-class="text-end">العملة</th>
-                  <th>سعر البنك</th>
-                  <th>
-                    <div>سعر السوق</div>
-                    <div data-sanitized-class="range">من - إلى</div>
-                  </th>
-                </tr>
-              </thead>
-              <tbody>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/usd">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-us fib"></i>
-                        </div>
-                        <div>دولار أمريكي</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">52.24</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">52.78</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">52.41 - 53.04</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/eur">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-eu fib"></i>
-                        </div>
-                        <div>يورو</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">58.75</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">59.36</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">58.94 - 59.66</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/sar">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-sa fib"></i>
-                        </div>
-                        <div>ريال سعودي</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">13.82</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">13.96</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">13.86 - 14.03</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/kwd">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-kw fib"></i>
-                        </div>
-                        <div>دينار كويتي</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">169.6</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">171.36</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">170.1 - 172.2</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/aed">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-ae fib"></i>
-                        </div>
-                        <div>درهم اماراتي</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">14.12</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">14.26</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">14.16 - 14.33</div>
-                  </td>
-                </tr>
-                
-  
-              </tbody>
-            </table>]]></description>
-			<pubDate>Mon, 05 Oct 2026 04:02:04 +0300</pubDate>
-			<guid isPermaLink="false">1791162124486352</guid>
-		</item>
-		<item>
-			<title>أسعار الذهب في مصر</title>
-			<link>https://realegp.com/</link>
-						<description><![CDATA[<table data-sanitized-class="table currencies-table">
-              <thead>
-                <tr data-sanitized-class="thick-border">
-                  <th data-sanitized-class="text-end">الذهب</th>
-                  <th>
-                    <div>متوسط السعر</div>
-                    <div data-sanitized-class="range">من - إلى</div>
-                  </th>
-                </tr>
-              </thead>
-              <tbody>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/gold/18k">
-                      <div data-sanitized-class="justify-content-start">
-                        
-                        <img src="https://realegp.com/static/img/gold.png">
-                        
-                        <div>ذهب عيار 18</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">5245</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">5237 - 5254</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/gold/21k">
-                      <div data-sanitized-class="justify-content-start">
-                        
-                        <img src="https://realegp.com/static/img/gold.png">
-                        
-                        <div>ذهب عيار 21</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">6120</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">6110 - 6130</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/gold/24k">
-                      <div data-sanitized-class="justify-content-start">
-                        
-                        <img src="https://realegp.com/static/img/gold.png">
-                        
-                        <div>ذهب عيار 24</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">6994</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">6983 - 7006</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/gold/pound">
-                      <div data-sanitized-class="justify-content-start">
-                        
-                        <i data-sanitized-class="bi bi-currency-pound"></i>
-                        
-                        <div>جنيه الذهب</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">48960</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">48880 - 49040</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/gold/usdsagha">
-                      <div data-sanitized-class="justify-content-start">
-                        
-                        <i data-sanitized-class="bi bi-coin"></i>
-                        
-                        <div>دولار الصاغة</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">52.37</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">52.29 - 52.46</div>
-                  </td>
-                </tr>
-                
-  
-              </tbody>
-            </table>]]></description>
-			<pubDate>Mon, 05 Oct 2026 04:02:04 +0300</pubDate>
-			<guid isPermaLink="false">1791162124486351</guid>
-		</item>
-		<item>
-			<title>أسعار العملات في مصر</title>
-			<link>https://realegp.com/</link>
-						<description><![CDATA[<table data-sanitized-class="table currencies-table">
-              <thead>
-                <tr data-sanitized-class="thick-border">
-                  <th data-sanitized-class="text-end">العملة</th>
-                  <th>سعر البنك</th>
-                  <th>
-                    <div>سعر السوق</div>
-                    <div data-sanitized-class="range">من - إلى</div>
-                  </th>
-                </tr>
-              </thead>
-              <tbody>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/usd">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-us fib"></i>
-                        </div>
-                        <div>دولار أمريكي</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">52.24</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">52.79</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">52.42 - 53.05</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/eur">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-eu fib"></i>
-                        </div>
-                        <div>يورو</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">58.82</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">59.44</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">59.02 - 59.74</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/sar">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-sa fib"></i>
-                        </div>
-                        <div>ريال سعودي</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">13.82</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">13.97</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">13.87 - 14.04</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/kwd">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-kw fib"></i>
-                        </div>
-                        <div>دينار كويتي</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">169.6</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">171.4</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">170.2 - 172.2</div>
-                  </td>
-                </tr>
-                
-                <tr>
-                  <td data-sanitized-class="text-end">
-                    <a href="https://realegp.com/aed">
-                      <div data-sanitized-class="justify-content-start">
-                        <div data-sanitized-class="flag-img">
-                          <i data-sanitized-class="fi fi-ae fib"></i>
-                        </div>
-                        <div>درهم اماراتي</div>
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <div>
-                      <span data-sanitized-class="fixed-num">14.12</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-down-fill"></i>
-                      
-                    </div>
-                  </td>
-                  <td data-sanitized-class="market-cell">
-                    <div>
-                      <span data-sanitized-class="fixed-num">14.27</span>
-                      
-                      <i data-sanitized-class="bi bi-caret-up-fill"></i>
-                      
-                    </div>
-                    <div data-sanitized-class="range">14.17 - 14.34</div>
-                  </td>
-                </tr>
-                
-  
-              </tbody>
-            </table>]]></description>
-			<pubDate>Mon, 05 Oct 2026 02:32:04 +0300</pubDate>
-			<guid isPermaLink="false">1791156729919752</guid>
 		</item>
 
 	</channel>
